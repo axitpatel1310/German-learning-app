@@ -1,0 +1,173 @@
+# Core high-frequency words: articles, pronouns, prepositions, conjunctions, numbers,
+# and the most common verb forms.
+# Format: word | lemma | part of speech | English | German example | English example
+
+# --- articles ---
+der | der | article | the (masc. nom.); of the / to the (fem. gen./dat.) | Der Hund schläft. | The dog is sleeping.
+die | die | article | the (fem. / plural) | Die Katze ist schwarz. | The cat is black.
+das | das | article / pronoun | the (neuter); that; which | Das Haus ist groß. | The house is big.
+den | der | article | the (masc. accusative; dative plural) | Ich sehe den Mann. | I see the man.
+dem | der | article | the (masc./neuter dative) | Ich gebe dem Kind ein Buch. | I give the child a book.
+des | der | article | of the (masc./neuter genitive) | Das ist das Auto des Lehrers. | That is the teacher's car.
+ein | ein | article | a, an (masc./neuter); also separable prefix (einkaufen, einladen) | Ich habe ein Fahrrad. | I have a bicycle.
+eine | ein | article | a, an (feminine) | Sie hat eine Schwester. | She has a sister.
+einen | ein | article | a, an (masc. accusative) | Ich kaufe einen Tisch. | I'm buying a table.
+einem | ein | article | a, an (masc./neuter dative) | Er wohnt in einem Haus. | He lives in a house.
+einer | ein | article | a, an (fem. dative/genitive); one | Sie arbeitet in einer Schule. | She works in a school.
+eines | ein | article | of a (masc./neuter genitive) | Das ist die Idee eines Freundes. | That is a friend's idea.
+
+# --- pronouns ---
+ich | ich | pronoun | I | Ich komme aus Indien. | I come from India.
+du | du | pronoun | you (informal) | Du bist mein Freund. | You are my friend.
+er | er | pronoun | he; it (masc. noun) | Er spielt Fußball. | He plays football.
+sie | sie | pronoun | she; they; Sie = you (formal) | Sie liest ein Buch. | She is reading a book.
+es | es | pronoun | it | Es regnet heute. | It is raining today.
+wir | wir | pronoun | we | Wir lernen Deutsch. | We are learning German.
+ihr | ihr | pronoun / possessive | her; their; you (plural); to her | Ihr Auto ist neu. | Her car is new.
+ihre | ihr | possessive | her; their; Ihre = your (formal) | Ihre Kinder sind laut. | Their children are loud.
+ihren | ihr | possessive | her; their (masc. acc. / dat. plural) | Sie sucht ihren Schlüssel. | She is looking for her key.
+ihrer | ihr | possessive | her; their (fem. dat./gen.; gen. plural) | Er wohnt bei ihrer Familie. | He lives with her family.
+ihm | er | pronoun | (to) him / it (dative) | Ich helfe ihm. | I help him.
+ihn | er | pronoun | him / it (accusative) | Ich kenne ihn. | I know him.
+uns | wir | pronoun | us; (to) us; ourselves | Er besucht uns morgen. | He is visiting us tomorrow.
+sich | sich | reflexive pronoun | himself, herself, itself, themselves, yourself (formal) | Er wäscht sich. | He washes himself.
+man | man | pronoun | one, you, people (in general) | Hier darf man nicht rauchen. | You are not allowed to smoke here.
+mein | mein | possessive | my | Mein Vater ist Arzt. | My father is a doctor.
+meiner | mein | possessive | my (fem. dative/genitive) | Ich wohne bei meiner Tante. | I live with my aunt.
+deinen | dein | possessive | your (informal, masc. accusative) | Hast du deinen Pass? | Do you have your passport?
+sein | sein | verb / possessive | to be; his, its | Ich möchte Lehrer sein. Sein Hund ist alt. | I want to be a teacher. His dog is old.
+seine | sein | possessive | his, its (fem. / plural) | Seine Mutter kocht gut. | His mother cooks well.
+seinen | sein | possessive | his, its (masc. accusative) | Er ruft seinen Bruder an. | He calls his brother.
+seiner | sein | possessive | his, its (fem. dative/genitive) | Er spricht mit seiner Frau. | He talks with his wife.
+unser | unser | possessive | our | Unser Garten ist klein. | Our garden is small.
+unseren | unser | possessive | our (masc. accusative; dative plural) | Wir besuchen unseren Opa. | We are visiting our grandpa.
+unserer | unser | possessive | our; of our (fem. dat./gen.; gen. plural) | Die Hälfte unserer Zeit. | Half of our time.
+diese | dieser | demonstrative | this, these | Diese Jacke ist schön. | This jacket is nice.
+dieses | dieser | demonstrative | this (neuter) | Dieses Buch ist spannend. | This book is exciting.
+wer | wer | pronoun | who; whoever (anyone who) | Wer früh kommt, bekommt einen Platz. | Whoever comes early gets a seat.
+was | was | pronoun | what | Was machst du? | What are you doing?
+nichts | nichts | pronoun | nothing | Ich habe nichts gesehen. | I saw nothing.
+etwas | etwas | pronoun / adverb | something; somewhat, a little | Möchtest du etwas trinken? | Would you like something to drink?
+jede | jeder | determiner | every, each (fem.) | Jede Woche gehe ich schwimmen. | Every week I go swimming.
+jedem | jeder | determiner | (to) every, each, everyone (dative) | Ich sage es jedem. | I tell it to everyone.
+jeden | jeder | determiner | every, each (masc. accusative) | Jeden Tag lerne ich Wörter. | Every day I learn words.
+selbst | selbst | pronoun / adverb | (my/him/her)self; even | Ich habe den Kuchen selbst gebacken. | I baked the cake myself.
+
+# --- prepositions ---
+an | an | preposition / prefix | at, on, to; separable prefix (anrufen) | Das Bild hängt an der Wand. | The picture hangs on the wall.
+am | an dem | preposition | at the, on the (an + dem) | Am Montag habe ich frei. | On Monday I'm off.
+auf | auf | preposition / prefix | on, onto; for (warten auf); open (auf sein); separable prefix (aufstehen, aufmachen) | Das Buch liegt auf dem Tisch. | The book is on the table.
+aus | aus | preposition / prefix | from, out of; separable prefix (aussehen) | Ich komme aus Spanien. | I come from Spain.
+bei | bei | preposition | at, with, near; at the place of | Ich wohne bei meinen Eltern. | I live with my parents.
+durch | durch | preposition | through; by means of | Wir gehen durch den Park. | We walk through the park.
+für | für | preposition | for | Das Geschenk ist für dich. | The present is for you.
+in | in | preposition | in, into | Ich wohne in Hamburg. | I live in Hamburg.
+im | in dem | preposition | in the (in + dem) | Im Sommer ist es warm. | In summer it is warm.
+ins | in das | preposition | into the, to the (in + das) | Wir gehen ins Kino. | We are going to the cinema.
+mit | mit | preposition | with; by (transport) | Ich fahre mit dem Zug. | I travel by train.
+nach | nach | preposition / prefix | after; to (cities/countries); nach Hause = home | Nach dem Essen gehe ich nach Hause. | After the meal I go home.
+seit | seit | preposition | since, for (time) | Ich lerne seit zwei Jahren Deutsch. | I have been learning German for two years.
+über | über | preposition | about; over, above; via | Wir sprechen über das Wetter. | We are talking about the weather.
+um | um | preposition | at (time); around; um ... zu = in order to | Der Film beginnt um acht Uhr. | The film starts at eight o'clock.
+von | von | preposition | from; of; by | Das Geschenk ist von meiner Oma. | The present is from my grandma.
+vom | von dem | preposition | from the, of the (von + dem) | Ich komme gerade vom Arzt. | I'm just coming from the doctor.
+vor | vor | preposition | in front of; before; ago | Ich warte vor dem Kino. | I'm waiting in front of the cinema.
+zu | zu | preposition / particle | to; too; at (zu Hause); zu + infinitive | Ich gehe zu meiner Freundin. | I'm going to my friend's.
+zum | zu dem | preposition | to the (zu + dem) | Ich gehe zum Bahnhof. | I'm going to the station.
+zur | zu der | preposition | to the (zu + der) | Sie fährt zur Schule. | She goes to school.
+zwischen | zwischen | preposition | between | Das Café liegt zwischen der Bank und der Post. | The café is between the bank and the post office.
+statt | statt | preposition / conjunction | instead of | Statt Kaffee trinke ich Tee. | Instead of coffee I drink tea.
+während | während | preposition / conjunction | during; while, whereas | Während des Essens telefoniert er nicht. | He doesn't make phone calls during the meal.
+ab | ab | adverb / prefix | from (time); separable prefix (abschalten, abwägen, abwarten) | Ab Montag arbeite ich wieder. | From Monday I'm working again.
+
+# --- conjunctions ---
+und | und | conjunction | and | Ich trinke Tee und esse Kuchen. | I drink tea and eat cake.
+aber | aber | conjunction | but | Das Auto ist alt, aber schnell. | The car is old but fast.
+oder | oder | conjunction | or | Möchtest du Tee oder Kaffee? | Would you like tea or coffee?
+denn | denn | conjunction | because, for (main-clause word order) | Ich bleibe zu Hause, denn ich bin krank. | I'm staying home because I'm ill.
+dass | dass | conjunction | that | Ich glaube, dass er recht hat. | I think that he is right.
+weil | weil | conjunction | because (verb goes to the end) | Ich komme nicht, weil ich arbeiten muss. | I'm not coming because I have to work.
+wenn | wenn | conjunction | if; when, whenever | Wenn es regnet, bleiben wir zu Hause. | If it rains, we stay at home.
+als | als | conjunction | when (past, single event); as; than | Als ich Kind war, wohnte ich in Köln. | When I was a child, I lived in Cologne.
+ob | ob | conjunction | whether, if | Ich weiß nicht, ob er kommt. | I don't know whether he is coming.
+obwohl | obwohl | conjunction | although | Obwohl es kalt ist, gehen wir schwimmen. | Although it is cold, we go swimming.
+sondern | sondern | conjunction | but rather (after a negative) | Er ist nicht dumm, sondern faul. | He isn't stupid but rather lazy.
+sodass | sodass | conjunction | so that (result) | Es regnete, sodass wir zu Hause blieben. | It rained, so that we stayed at home.
+indem | indem | conjunction | by (doing) | Man lernt, indem man übt. | You learn by practising.
+wie | wie | adverb / conjunction | how; like, as | Wie heißt du? | What's your name? (lit. How are you called?)
+wo | wo | adverb | where | Wo wohnst du? | Where do you live?
+doch | doch | adverb / conjunction | but, however; yes (contradicting) | Ich wollte kommen, doch ich war krank. | I wanted to come, but I was ill.
+jedoch | jedoch | adverb | however | Das Hotel war teuer, jedoch sehr schön. | The hotel was expensive, but very nice.
+zwar | zwar | adverb | admittedly; zwar ... aber = it's true ... but | Das Auto ist zwar alt, aber es fährt gut. | The car is admittedly old, but it runs well.
+
+# --- adverbs / particles ---
+nicht | nicht | adverb | not | Ich verstehe das nicht. | I don't understand that.
+auch | auch | adverb | also, too | Ich komme auch mit. | I'm coming along too.
+sehr | sehr | adverb | very | Das Essen ist sehr gut. | The food is very good.
+noch | noch | adverb | still; yet; even (+ comparative) | Ich bin noch müde. | I'm still tired.
+nur | nur | adverb | only, just | Ich habe nur fünf Euro. | I only have five euros.
+schon | schon | adverb | already | Bist du schon fertig? | Are you already finished?
+mehr | mehr | adverb / determiner | more | Ich möchte mehr Zeit haben. | I would like to have more time.
+viel | viel | adverb / determiner | much, a lot | Er arbeitet viel. | He works a lot.
+viele | viel | determiner | many | Viele Leute fahren Fahrrad. | Many people ride bicycles.
+vieler | viel | determiner | of many (genitive plural) | Das ist die Meinung vieler Experten. | That is the opinion of many experts.
+so | so | adverb | so, like this, thus; so der Tenor = according to | Das ist so schön! | That is so beautiful!
+da | da | adverb | there; then; since (because) | Da ist der Bahnhof. | There is the station.
+dort | dort | adverb | there | Dort steht mein Auto. | My car is over there.
+dann | dann | adverb | then, after that | Zuerst esse ich, dann gehe ich. | First I eat, then I go.
+danach | danach | adverb | afterwards, after that | Danach haben wir einen Film gesehen. | Afterwards we watched a film.
+dabei | dabei | adverb | in doing so; at the same time; with it | Dabei hat er viel gelernt. | In doing so he learned a lot.
+dadurch | dadurch | adverb | as a result, thereby, because of that | Er hat viel geübt und dadurch gewonnen. | He practised a lot and won as a result.
+daher | daher | adverb | therefore, hence | Es regnet, daher bleiben wir drinnen. | It's raining, therefore we stay inside.
+deshalb | deshalb | adverb | therefore, that's why | Ich war krank, deshalb bin ich zu Hause geblieben. | I was ill, that's why I stayed at home.
+daran | daran | adverb | of it, about it, on it; daran zugrunde gehen = be destroyed by it | Ich denke oft daran. | I often think about it.
+darauf | darauf | adverb | on it; to it; darauf hinweisen = point out | Ich freue mich darauf. | I'm looking forward to it.
+davon | davon | adverb | of it, from it; davon ausgehen = assume | Ich gehe davon aus, dass er kommt. | I assume that he is coming.
+etwa | etwa | adverb | for example; approximately | Viele Städte, etwa Berlin, sind teuer. | Many cities, for example Berlin, are expensive.
+gar | gar | adverb | at all; gar nicht = not at all | Das ist gar nicht schwer. | That is not hard at all.
+gern | gern | adverb | gladly; (to like doing something) | Ich lese gern. | I like reading.
+ja | ja | particle | yes; indeed, even (for emphasis) | Ja, das stimmt. | Yes, that's right.
+je | je | adverb | ever | Hast du je so etwas gesehen? | Have you ever seen anything like that?
+jetzt | jetzt | adverb | now | Ich habe jetzt keine Zeit. | I don't have time now.
+oft | oft | adverb | often | Wir gehen oft ins Kino. | We often go to the cinema.
+sogar | sogar | adverb | even | Er spricht sogar Japanisch. | He even speaks Japanese.
+wieder | wieder | adverb | again | Komm bald wieder! | Come back again soon!
+erst | erst | adverb | only (not until); first; gar nicht erst = not even in the first place | Er kommt erst um neun. | He's not coming until nine.
+nun | nun | adverb | now; nun einmal = simply, just (that's how it is) | Was machen wir nun? | What do we do now?
+immer | immer | adverb | always | Er ist immer pünktlich. | He is always on time.
+
+# --- sein / haben / werden / modal verbs ---
+bin | sein | verb | (I) am | Ich bin müde. | I am tired.
+ist | sein | verb | is | Das Wetter ist schön. | The weather is nice.
+sind | sein | verb | (we/they/you formal) are | Wir sind zu Hause. | We are at home.
+war | sein | verb | was | Der Film war gut. | The film was good.
+wäre | sein | verb (subjunctive) | would be | Das wäre toll! | That would be great!
+habe | haben | verb | (I) have | Ich habe einen Hund. | I have a dog.
+hast | haben | verb | (you, informal) have | Hast du Hunger? | Are you hungry? (lit. Do you have hunger?)
+hat | haben | verb | has | Sie hat zwei Kinder. | She has two children.
+haben | haben | verb | to have; (we/they) have; auxiliary for perfect tense | Wir haben ein Auto. | We have a car.
+hatte | haben | verb | had | Ich hatte keine Zeit. | I had no time.
+hätte | haben | verb (subjunctive) | would have | Ich hätte gern einen Kaffee. | I would like a coffee.
+hätten | haben | verb (subjunctive) | (we/they) would have | Sie hätten früher kommen sollen. | They should have come earlier.
+werden | werden | verb | to become; will (future); passive auxiliary | Es wird kalt. | It's getting cold.
+wird | werden | verb | becomes; will; is (passive) | Das Wetter wird besser. | The weather is getting better.
+wurde | werden | verb | became; was (passive) | Das Haus wurde 1900 gebaut. | The house was built in 1900.
+kann | können | verb (modal) | can, is able to | Ich kann gut schwimmen. | I can swim well.
+können | können | verb (modal) | can, to be able to | Wir können morgen kommen. | We can come tomorrow.
+konnte | können | verb (modal) | could, was able to | Er konnte nicht schlafen. | He couldn't sleep.
+konnten | können | verb (modal) | (we/they) could | Wir konnten das Meer sehen. | We could see the sea.
+musste | müssen | verb (modal) | had to | Ich musste lange warten. | I had to wait a long time.
+müssen | müssen | verb (modal) | must, to have to | Wir müssen jetzt gehen. | We have to go now.
+müsse | müssen | verb (subjunctive I) | must (reported speech) | Er sagt, er müsse arbeiten. | He says he has to work.
+sollte | sollen | verb (modal) | should, ought to | Du solltest mehr schlafen. | You should sleep more.
+wollen | wollen | verb (modal) | to want; (we/they) want | Wir wollen nach Italien fahren. | We want to go to Italy.
+wollte | wollen | verb (modal) | wanted | Ich wollte dich anrufen. | I wanted to call you.
+möchte | mögen | verb (modal) | would like | Ich möchte ein Wasser, bitte. | I would like a water, please.
+
+# --- numbers ---
+zwei | zwei | number | two | Ich habe zwei Katzen. | I have two cats.
+drei | drei | number | three | Das kostet drei Euro. | That costs three euros.
+sechs | sechs | number | six | Der Zug fährt um sechs Uhr. | The train leaves at six o'clock.
+zehn | zehn | number | ten | Ich zähle bis zehn. | I count to ten.
+zwölf | zwölf | number | twelve | Mein Sohn ist zwölf Jahre alt. | My son is twelve years old.
+zwanzig | zwanzig | number | twenty | Sie ist zwanzig. | She is twenty.

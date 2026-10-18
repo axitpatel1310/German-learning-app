@@ -1,0 +1,172 @@
+# B1 vocabulary
+# Format: word | lemma | part of speech | English | German example | English example
+
+# b1-001 Ein neuer Job
+jahren | das Jahr | noun (n, dative pl.) | years (after a preposition: nach/seit/vor ... Jahren) | Vor zwei Jahren bin ich umgezogen. | I moved two years ago.
+gleichen | gleich | adjective | same | Wir wohnen in der gleichen Straße. | We live on the same street.
+firma | die Firma | noun (f) | company, firm | Sie arbeitet bei einer großen Firma. | She works for a big company.
+jonas | Jonas | proper noun | Jonas (male first name) | Jonas studiert Informatik. | Jonas studies computer science.
+gefühl | das Gefühl | noun (n) | feeling | Ich habe ein gutes Gefühl. | I have a good feeling.
+weiterentwickeln | (sich) weiterentwickeln | verb (separable, reflexive) | to develop further, grow (professionally/personally) | Ich möchte mich beruflich weiterentwickeln. | I'd like to develop professionally.
+bewarb | (sich) bewerben | verb (past) | applied (for a job) | Sie bewarb sich bei der Bank. | She applied to the bank.
+start-up | das Start-up | noun (n) | start-up (young company) | Er arbeitet für ein Start-up in Berlin. | He works for a start-up in Berlin.
+münchen | München | proper noun | Munich | München liegt in Bayern. | Munich is in Bavaria.
+umweltfreundliche | umweltfreundlich | adjective | environmentally friendly, eco-friendly | Wir kaufen umweltfreundliche Produkte. | We buy eco-friendly products.
+verpackungen | die Verpackung | noun (f, pl.) | packaging | Zu viele Verpackungen sind aus Plastik. | Too much packaging is made of plastic.
+herstellt | herstellen | verb (separable) | produces, manufactures | Die Firma stellt Möbel her. | The company makes furniture.
+vorstellungsgespräch | das Vorstellungsgespräch | noun (n) | job interview | Morgen habe ich ein Vorstellungsgespräch. | Tomorrow I have a job interview.
+aufregend | aufregend | adjective | exciting; nerve-racking | Die Reise war sehr aufregend. | The trip was very exciting.
+chefin | die Chefin | noun (f) | (female) boss | Die Chefin ist heute nicht da. | The boss isn't here today.
+stellte | stellen | verb (past) | put, placed; eine Frage stellen = to ask a question; stellte sich heraus = turned out | Er stellte eine gute Frage. | He asked a good question.
+fragen | die Frage / fragen | noun (f, pl.) / verb | questions; to ask | Hast du noch Fragen? | Do you have any more questions?
+erfahrungen | die Erfahrung | noun (f, pl.) | experiences; work experience | Sie hat viele Erfahrungen im Ausland gesammelt. | She has gained a lot of experience abroad.
+wissen | wissen | verb | to know (a fact) | Ich möchte wissen, wie spät es ist. | I'd like to know what time it is.
+stress | der Stress | noun (m) | stress | Im Moment habe ich viel Stress. | I'm very stressed at the moment.
+umgeht | umgehen (mit) | verb (separable) | deals with, handles | Wie gehst du mit Kritik um? | How do you deal with criticism?
+antwortete | antworten | verb (past) | answered | Er antwortete sofort. | He answered immediately.
+ehrlich | ehrlich | adjective / adverb | honest; honestly | Sei bitte ehrlich zu mir. | Please be honest with me.
+manchmal | manchmal | adverb | sometimes | Manchmal esse ich Fleisch. | Sometimes I eat meat.
+arbeitet | arbeiten | verb | works | Sie arbeitet als Ärztin. | She works as a doctor.
+inzwischen | inzwischen | adverb | meanwhile; by now | Inzwischen spricht er gut Deutsch. | By now he speaks German well.
+pausen | die Pause | noun (f, pl.) | breaks | Man sollte regelmäßig Pausen machen. | You should take regular breaks.
+machen | machen | verb | to make, do; Pausen machen = to take breaks | Was machen wir heute? | What are we doing today?
+woche | die Woche | noun (f) | week | Nächste Woche habe ich Urlaub. | Next week I'm on holiday.
+später | später | adjective / adverb | later | Bis später! | See you later!
+bekam | bekommen | verb (past) | got, received | Sie bekam einen Brief. | She received a letter.
+e-mail | die E-Mail | noun (f) | email | Ich schreibe dir eine E-Mail. | I'll write you an email.
+stelle | die Stelle | noun (f) | job, position; place, spot | Er sucht eine neue Stelle. | He is looking for a new job.
+bekommen | bekommen | verb | to get, receive; got (participle) | Ich habe ein Geschenk bekommen. | I got a present.
+freute | (sich) freuen | verb (past) | was happy, was pleased (sich freuen) | Sie freute sich über die Blumen. | She was pleased about the flowers.
+bisschen | bisschen | determiner | ein bisschen = a little, a bit | Ich spreche ein bisschen Deutsch. | I speak a little German.
+nervös | nervös | adjective | nervous | Vor der Prüfung bin ich nervös. | I'm nervous before the exam.
+umziehen | umziehen | verb (separable) | to move (house) | Wir wollen nach Hamburg umziehen. | We want to move to Hamburg.
+neue | neu | adjective | new | Ich brauche neue Schuhe. | I need new shoes.
+kollegen | der Kollege | noun (m, pl.) | colleagues; colleague (acc./dat.) | Meine Kollegen sind sehr nett. | My colleagues are very nice.
+kennenlernen | kennenlernen | verb (separable) | to get to know, meet (for the first time) | Ich möchte deine Eltern kennenlernen. | I'd like to meet your parents.
+andere | anderer | adjective / pronoun | other, different; others | Ich habe eine andere Meinung. | I have a different opinion.
+arbeitsweise | die Arbeitsweise | noun (f) | way of working, working method | Jeder hat seine eigene Arbeitsweise. | Everyone has their own way of working.
+gewöhnen | (sich) gewöhnen (an) | verb | to get used to | Ich muss mich an das Wetter gewöhnen. | I have to get used to the weather.
+überzeugt | überzeugt | adjective / participle | convinced | Ich bin überzeugt, dass es klappt. | I'm convinced that it will work.
+richtige | richtig | adjective | right, correct | Das ist die richtige Antwort. | That is the right answer.
+entscheidung | die Entscheidung | noun (f) | decision | Das war eine schwere Entscheidung. | That was a difficult decision.
+
+# b1-002 Das Ehrenamt
+engagiert | (sich) engagieren | verb | is involved, volunteers, is committed | Sie engagiert sich für den Umweltschutz. | She is committed to environmental protection.
+maria | Maria | proper noun | Maria (female first name) | Maria kommt aus Italien. | Maria comes from Italy.
+ehrenamtlich | ehrenamtlich | adjective / adverb | voluntary, unpaid; as a volunteer | Er arbeitet ehrenamtlich im Tierheim. | He volunteers at the animal shelter.
+verein | der Verein | noun (m) | club, association, society | Ich bin Mitglied in einem Sportverein. | I'm a member of a sports club.
+älteren | älter | adjective (comparative) | older; elderly | Der Bus ist für ältere Menschen kostenlos. | The bus is free for elderly people.
+menschen | der Mensch | noun (m, pl.) | people, human beings | In der Stadt leben viele Menschen. | Many people live in the city.
+hilft | helfen | verb | helps | Er hilft seiner Oma im Garten. | He helps his grandma in the garden.
+mittwoch | der Mittwoch | noun (m) | Wednesday | Am Mittwoch habe ich Deutschkurs. | On Wednesday I have German class.
+besucht | besuchen | verb | visits; visited (participle) | Sie besucht ihre Freundin. | She is visiting her friend.
+herrn | der Herr | noun (m, acc./dat.) | Mr; gentleman (accusative/dative form) | Ich spreche mit Herrn Weber. | I'm speaking with Mr Weber.
+becker | Becker | proper noun | Becker (German surname) | Herr Becker ist Rentner. | Mr Becker is retired.
+achtzigjährigen | achtzigjährig | adjective | eighty-year-old | Ihr achtzigjähriger Opa fährt noch Auto. | Her eighty-year-old grandpa still drives.
+mann | der Mann | noun (m) | man; husband | Der Mann trägt einen Hut. | The man is wearing a hat.
+allein | allein | adjective / adverb | alone | Sie wohnt allein. | She lives alone.
+lebt | leben | verb | lives | Mein Opa lebt auf dem Land. | My grandpa lives in the countryside.
+anfangs | anfangs | adverb | at first, initially | Anfangs war alles neu für mich. | At first everything was new to me.
+situation | die Situation | noun (f) | situation | Die Situation ist kompliziert. | The situation is complicated.
+schwierig | schwierig | adjective | difficult | Die Grammatik ist schwierig. | The grammar is difficult.
+herr | der Herr | noun (m) | Mr; gentleman | Herr Klein ist unser Nachbar. | Mr Klein is our neighbour.
+kaum | kaum | adverb | hardly, barely | Ich habe kaum geschlafen. | I hardly slept.
+sprach | sprechen | verb (past) | spoke | Er sprach sehr leise. | He spoke very quietly.
+misstrauisch | misstrauisch | adjective | suspicious, distrustful | Der Hund ist misstrauisch gegenüber Fremden. | The dog is suspicious of strangers.
+zeit | die Zeit | noun (f) | time; mit der Zeit = over time | Ich habe keine Zeit. | I don't have time.
+geöffnet | (sich) öffnen | verb (participle) | opened; opened up | Das Geschäft ist bis acht geöffnet. | The shop is open until eight.
+erzählt | erzählen | verb | tells (a story) | Opa erzählt gern Witze. | Grandpa likes telling jokes.
+geschichten | die Geschichte | noun (f, pl.) | stories | Kinder lieben Geschichten. | Children love stories.
+jugend | die Jugend | noun (f) | youth | In meiner Jugend habe ich viel Sport gemacht. | In my youth I did a lot of sport.
+beispiel | das Beispiel | noun (n) | example; zum Beispiel = for example | Kannst du ein Beispiel geben? | Can you give an example?
+krieg | der Krieg | noun (m) | war | Nach dem Krieg wurde die Stadt wieder aufgebaut. | After the war the city was rebuilt.
+lehrling | der Lehrling | noun (m) | apprentice, trainee | Der Lehrling lernt das Handwerk. | The apprentice is learning the trade.
+bäckerei | die Bäckerei | noun (f) | bakery | Ich kaufe Brötchen in der Bäckerei. | I buy rolls at the bakery.
+gearbeitet | arbeiten | verb (participle) | worked | Ich habe heute lange gearbeitet. | I worked long hours today.
+hört | hören | verb | hears, listens; zuhören = to listen | Sie hört gern Musik. | She likes listening to music.
+aufmerksam | aufmerksam | adjective / adverb | attentive; attentively | Die Schüler hören aufmerksam zu. | The pupils are listening attentively.
+stellt | stellen | verb | puts; Fragen stellen = to ask questions; stellt fest = notices | Er stellt die Flasche auf den Tisch. | He puts the bottle on the table.
+gehen | gehen | verb | to go, walk; (we/they) go | Wir gehen heute ins Theater. | We're going to the theatre today.
+beiden | beide | pronoun | the two (of them), both | Die beiden sind gute Freunde. | The two of them are good friends.
+park | der Park | noun (m) | park | Wir spielen im Park Fußball. | We play football in the park.
+spielen | spielen | verb | to play | Die Kinder spielen draußen. | The children are playing outside.
+schach | das Schach | noun (n) | chess | Kannst du Schach spielen? | Can you play chess?
+ehrenamt | das Ehrenamt | noun (n) | voluntary work, volunteering; honorary post | Viele Deutsche haben ein Ehrenamt. | Many Germans do voluntary work.
+allem | alles | pronoun | vor allem = above all, especially | Ich mag Obst, vor allem Erdbeeren. | I like fruit, especially strawberries.
+geduld | die Geduld | noun (f) | patience | Man braucht viel Geduld mit Kindern. | You need a lot of patience with children.
+empfiehlt | empfehlen | verb | recommends | Der Arzt empfiehlt mehr Bewegung. | The doctor recommends more exercise.
+einzusetzen | (sich) einsetzen (für) | verb (zu-infinitive) | to stand up for, campaign for, support | Es ist wichtig, sich für Frieden einzusetzen. | It's important to stand up for peace.
+bekommt | bekommen | verb | gets, receives | Er bekommt viele Briefe. | He gets a lot of letters.
+zurück | zurück | adverb | back | Ich bin gleich zurück. | I'll be right back.
+gibt | geben / abgeben | verb | gives; es gibt = there is/are; gibt … ab = hands in, checks in (luggage) | Sie gibt mir das Buch. | She gives me the book.
+
+# b1-003 Handys in der Schule?
+gymnasium | das Gymnasium | noun (n) | grammar school, academic secondary school | Meine Tochter geht aufs Gymnasium. | My daughter goes to grammar school.
+freiburg | Freiburg | proper noun | Freiburg (city in the Black Forest region) | Freiburg ist eine sonnige Stadt. | Freiburg is a sunny city.
+handys | das Handy | noun (n, pl.) | mobile phones | Im Kino müssen die Handys aus sein. | Phones must be off in the cinema.
+verbieten | verbieten | verb | to ban, forbid | Die Stadt will Autos im Zentrum verbieten. | The city wants to ban cars in the centre.
+internetforum | das Internetforum | noun (n) | internet forum | In einem Internetforum stellt sie eine Frage. | She asks a question in an internet forum.
+diskutieren | diskutieren | verb | to discuss, debate | Wir diskutieren über Politik. | We're discussing politics.
+verbot | das Verbot | noun (n) | ban, prohibition | Das Rauchverbot gilt überall. | The smoking ban applies everywhere.
+übertrieben | übertrieben | adjective | exaggerated, over the top | Ich finde die Reaktion übertrieben. | I think the reaction is over the top.
+benutzen | benutzen | verb | to use | Darf ich dein Telefon benutzen? | May I use your phone?
+wörterbücher | das Wörterbuch | noun (n, pl.) | dictionaries | Im Test sind Wörterbücher erlaubt. | Dictionaries are allowed in the test.
+nachrichten | die Nachricht | noun (f, pl.) | messages; the news | Ich habe deine Nachrichten gelesen. | I've read your messages.
+wenigstens | wenigstens | adverb | at least | Ruf wenigstens an, wenn du später kommst! | At least call if you're coming later!
+meint | meinen | verb | thinks, is of the opinion; means | Er meint, das ist eine gute Idee. | He thinks it's a good idea.
+regeln | die Regel / regeln | noun (f, pl.) / verb | rules; to regulate, sort out | Jedes Spiel hat Regeln. | Every game has rules.
+konzentrieren | konzentrieren | verb (reflexive) | sich konzentrieren = to concentrate | Bei Lärm kann ich mich nicht konzentrieren. | I can't concentrate when it's noisy.
+reden | reden | verb | to talk, speak | Wir müssen reden. | We need to talk.
+miteinander | miteinander | adverb | with each other, together | Die Nachbarn reden kaum miteinander. | The neighbours hardly talk to each other.
+entscheidet | entscheiden | verb | decides; sich entscheiden für = to decide on, opt for | Sie entscheidet sich für das rote Kleid. | She decides on the red dress.
+kompromiss | der Kompromiss | noun (m) | compromise | Wir müssen einen Kompromiss finden. | We have to find a compromise.
+erlaubt | erlauben / erlaubt | verb / adjective | allows; allowed, permitted | Rauchen ist hier nicht erlaubt. | Smoking is not allowed here.
+
+# --- Day 3 additions (b1-004, b1-005) ---
+kolumbien | Kolumbien | proper noun | Colombia | Der Kaffee kommt aus Kolumbien. | The coffee comes from Colombia.
+bestimmte | bestimmt | adjective | certain, particular, specific | Ich suche ein bestimmtes Buch. | I'm looking for a particular book.
+vorstellungen | die Vorstellung | noun (f, pl.) | ideas, expectations; performances | Ich hatte ganz andere Vorstellungen vom Studium. | I had completely different ideas about university.
+reisen | reisen | verb | to travel | Ich reise gern mit dem Zug. | I like travelling by train.
+wirklichkeit | die Wirklichkeit | noun (f) | reality | In Wirklichkeit war alles ganz anders. | In reality everything was quite different.
+komplizierter | kompliziert | adjective (comparative) | more complicated | Das Problem ist komplizierter, als ich dachte. | The problem is more complicated than I thought.
+gastfamilie | die Gastfamilie | noun (f) | host family | Meine Gastfamilie hat zwei Kinder. | My host family has two children.
+feste | fest | adjective | fixed, firm, permanent | Wir haben feste Arbeitszeiten. | We have fixed working hours.
+zeiten | die Zeit | noun (f, pl.) | times | Zu welchen Zeiten ist die Praxis geöffnet? | What times is the practice open?
+fürs | für das | preposition + article | for the | Ich spare fürs Auto. | I'm saving for the car.
+heimweh | das Heimweh | noun (n) | homesickness | Im ersten Monat hatte ich starkes Heimweh. | In the first month I was very homesick.
+gefeiert | feiern | verb (past participle) | celebrated | Wir haben bis Mitternacht gefeiert. | We celebrated until midnight.
+sicherheit | die Sicherheit | noun (f) | security, safety | Kinder brauchen Liebe und Sicherheit. | Children need love and security.
+frieda | Frieda | proper noun | Frieda (female first name) | Frieda ist fünf Jahre alt. | Frieda is five years old.
+gewachsen | wachsen | verb (past participle) | grown; jdm. ans Herz gewachsen = to have grown fond of sb. | Der Hund ist mir ans Herz gewachsen. | I've grown very fond of the dog.
+sprachkurs | der Sprachkurs | noun (m) | language course | Ich besuche einen Sprachkurs an der Volkshochschule. | I'm attending a language course at the adult education centre.
+korrigieren | korrigieren | verb | to correct | Kannst du meinen Text korrigieren? | Can you correct my text?
+erklärungen | die Erklärung | noun (f, pl.) | explanations | Danke für die guten Erklärungen. | Thanks for the good explanations.
+fall | der Fall | noun (m) | case; auf jeden Fall = definitely, in any case | Auf jeden Fall komme ich zu deiner Party. | I'll definitely come to your party.
+selbstständiger | selbstständig | adjective (comparative) | more independent | Im Ausland bin ich selbstständiger geworden. | Abroad I became more independent.
+problemen | das Problem | noun (n, dat. pl.) | problems | Bei Problemen rufen Sie mich an. | If there are problems, call me.
+umzugehen | umgehen | verb (zu-infinitive) | umgehen mit = to deal with, handle | Er weiß, wie man mit Stress umgeht. Es ist schwer, damit umzugehen. | He knows how to deal with stress. It's hard to deal with.
+au-pair-jahr | das Au-pair-Jahr | noun (n) | au pair year | Nach dem Abitur macht sie ein Au-pair-Jahr in Frankreich. | After her A levels she's doing an au pair year in France.
+informieren | informieren | verb | to inform; sich informieren = to find out | Informieren Sie sich vorher über die Kosten. | Find out about the costs beforehand.
+erwartungen | die Erwartung | noun (f, pl.) | expectations | Der Film hat meine Erwartungen übertroffen. | The film exceeded my expectations.
+erspart | ersparen | verb (past participle) | spared, saved (sb. sth.) | Das hätte uns viel Ärger erspart. | That would have saved us a lot of trouble.
+ahornstraße | die Ahornstraße | proper noun | Ahornstraße (street name, "Maple Street") | Wir wohnen in der Ahornstraße 5. | We live at 5 Ahornstraße.
+parkplätze | der Parkplatz | noun (m, pl.) | parking spaces, car parks | In der Innenstadt gibt es wenige Parkplätze. | There are few parking spaces in the city centre.
+führt | führen | verb | leads | Das führt zu Problemen. Der Weg führt zum See. | That leads to problems. The path leads to the lake.
+konflikten | der Konflikt | noun (m, dat. pl.) | conflicts | Es kommt oft zu Konflikten zwischen Nachbarn. | Conflicts often arise between neighbours.
+einigen | einige | determiner | some, a few (dat.) | Seit einigen Tagen bin ich krank. | I've been ill for a few days.
+lindemann | Lindemann | proper noun | Lindemann (surname) | Herr Lindemann parkt immer vor der Tür. | Mr Lindemann always parks in front of the door.
+haustür | die Haustür | noun (f) | front door | Die Haustür ist abends abgeschlossen. | The front door is locked in the evening.
+offiziell | offiziell | adjective / adverb | official(ly) | Offiziell beginnt der Kurs um neun. | Officially the course starts at nine.
+niemandem | niemand | pronoun (dat.) | (to) nobody | Ich habe es niemandem erzählt. | I didn't tell anyone.
+parkt | parken | verb | parks | Er parkt immer in der zweiten Reihe. | He always double-parks.
+geparkt | parken | verb (past participle) | parked | Wo hast du das Auto geparkt? | Where did you park the car?
+windschutzscheibe | die Windschutzscheibe | noun (f) | windscreen | Ein Zettel klebt an der Windschutzscheibe. | There's a note stuck to the windscreen.
+ärgerte | ärgern | verb (past) | sich ärgerte = got annoyed | Sie ärgerte sich über den Lärm. | She got annoyed about the noise.
+schrieb | schreiben | verb (past) | wrote | Er schrieb ihr einen langen Brief. | He wrote her a long letter.
+gehöre | gehören | verb (subjunctive I) | belongs (reported speech) | Er sagt, das Auto gehöre seinem Bruder. | He says the car belongs to his brother.
+weile | die Weile | noun (f) | while; eine Weile = for a while | Ich warte noch eine Weile. | I'll wait a while longer.
+her | her | adverb | here (towards speaker); hin und her = back and forth | Die Kinder laufen hin und her. Komm her! | The children run back and forth. Come here!
+unfreundlicher | unfreundlich | adjective (comparative) | unfriendlier, ruder | Die Briefe wurden immer unfreundlicher. | The letters got ruder and ruder.
+betroffen | betroffen | adjective | affected; dismayed, moved | Viele Menschen sind von dem Sturm betroffen. Ich war sehr betroffen. | Many people are affected by the storm. I was very upset.
+selbstgemachten | selbstgemacht | adjective | homemade | Sie bringt selbstgemachte Marmelade mit. | She brings homemade jam.
+apfelsaft | der Apfelsaft | noun (m) | apple juice | Ein Glas Apfelsaft, bitte. | A glass of apple juice, please.

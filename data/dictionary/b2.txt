@@ -1,0 +1,250 @@
+# B2 vocabulary
+# Format: word | lemma | part of speech | English | German example | English example
+
+# b2-001 Homeoffice – Fluch oder Segen?
+pandemie | die Pandemie | noun (f) | pandemic | Die Pandemie hat unser Leben verändert. | The pandemic changed our lives.
+arbeiten | arbeiten | verb | to work; (we/they) work | Viele Studenten arbeiten nebenbei. | Many students work on the side.
+zahlreiche | zahlreich | adjective | numerous, many | Es gab zahlreiche Beschwerden. | There were numerous complaints.
+angestellte | der/die Angestellte | noun (adj. noun) | employees, (salaried) staff | Die Firma hat 200 Angestellte. | The company has 200 employees.
+zumindest | zumindest | adverb | at least | Zumindest regnet es nicht. | At least it's not raining.
+teilweise | teilweise | adverb | partly, partially | Die Straße ist teilweise gesperrt. | The road is partly closed.
+befürworter | der Befürworter | noun (m, pl.) | supporters, advocates | Die Befürworter des Plans sind optimistisch. | Supporters of the plan are optimistic.
+betonen | betonen | verb | to emphasise, stress | Experten betonen die Bedeutung von Schlaf. | Experts stress the importance of sleep.
+sparen | sparen | verb | to save (money, time) | Ich spare für ein neues Auto. | I'm saving for a new car.
+früher | früher | adverb / adjective | earlier; in the past, formerly | Früher habe ich in Köln gewohnt. | I used to live in Cologne.
+berufsverkehr | der Berufsverkehr | noun (m) | rush-hour traffic, commuter traffic | Im Berufsverkehr steht man oft im Stau. | In rush-hour traffic you're often stuck in jams.
+verloren | verlieren | verb (participle) | lost | Ich habe meine Brille verloren. | I've lost my glasses.
+alltag | der Alltag | noun (m) | everyday life, daily routine | Sport gehört zu meinem Alltag. | Sport is part of my daily routine.
+flexibler | flexibel | adjective (comparative) | more flexible | Ich möchte flexibler arbeiten. | I'd like to work more flexibly.
+gestalten | gestalten | verb | to shape, organise, design | Wie gestaltest du deine Freizeit? | How do you spend (organise) your free time?
+außerdem | außerdem | adverb | besides, in addition, moreover | Außerdem ist die Wohnung zu teuer. | Besides, the flat is too expensive.
+sinken | sinken | verb | to sink, fall, decrease | Die Preise sinken im Winter. | Prices fall in winter.
+kosten | die Kosten / kosten | noun (pl.) / verb | costs; to cost | Die Kosten sind gestiegen. | The costs have risen.
+unternehmen | das Unternehmen | noun (n) | company, enterprise, business | Das Unternehmen sucht neue Mitarbeiter. | The company is looking for new staff.
+weniger | weniger | determiner / adverb | less, fewer | Ich möchte weniger Zucker essen. | I want to eat less sugar.
+büroflächen | die Bürofläche | noun (f, pl.) | office space | In der Innenstadt sind Büroflächen teuer. | Office space is expensive in the city centre.
+benötigt | benötigen | verb (participle) | needed, required | Für die Reise wird ein Visum benötigt. | A visa is required for the trip.
+kritiker | der Kritiker | noun (m, pl.) | critics | Kritiker halten den Plan für zu teuer. | Critics consider the plan too expensive.
+hingegen | hingegen | adverb | on the other hand, however, whereas | Er mag Kaffee, sie hingegen trinkt nur Tee. | He likes coffee; she, on the other hand, drinks only tea.
+weisen | weisen / hinweisen | verb | (they) point; weisen darauf hin = point out | Experten weisen darauf hin, dass es Risiken gibt. | Experts point out that there are risks.
+hin | hin | adverb / prefix | there, towards; separable prefix (hinweisen, hinfahren) | Wo gehst du hin? | Where are you going?
+grenze | die Grenze | noun (f) | border, boundary, limit | Die Grenze zu Frankreich ist nah. | The border with France is close.
+beruf | der Beruf | noun (m) | profession, job, career | Was sind Sie von Beruf? | What do you do for a living?
+privatleben | das Privatleben | noun (n) | private life, personal life | Er spricht nicht über sein Privatleben. | He doesn't talk about his private life.
+zunehmend | zunehmend | adverb | increasingly | Das Problem wird zunehmend größer. | The problem is getting increasingly bigger.
+verschwimmt | verschwimmen | verb | blurs, becomes blurred | Ohne Brille verschwimmt alles. | Without glasses everything is blurred.
+wohnzimmer | das Wohnzimmer | noun (n) | living room | Wir sitzen im Wohnzimmer. | We're sitting in the living room.
+schaltet | schalten / abschalten | verb | switches; schaltet ab = switches off, unwinds | Am Wochenende schalte ich richtig ab. | At the weekend I really unwind.
+abends | abends | adverb | in the evening(s) | Abends lese ich gern. | In the evenings I like to read.
+richtig | richtig | adjective / adverb | correct; properly, really | Hast du das richtig verstanden? | Did you understand that correctly?
+hinzu | hinzu | adverb | in addition; hinzu kommt, dass ... = on top of that, ... | Hinzu kommt, dass es regnet. | On top of that, it's raining.
+kommt | kommen | verb | comes | Der Bus kommt gleich. | The bus is coming soon.
+spontane | spontan | adjective | spontaneous | Wir machen einen spontanen Ausflug. | We're making a spontaneous trip.
+austausch | der Austausch | noun (m) | exchange | Der Austausch mit anderen Studenten ist wichtig. | Exchange with other students is important.
+fehlt | fehlen | verb | is missing, is lacking; (someone) misses | Mir fehlt die Zeit. | I lack the time.
+kreativität | die Kreativität | noun (f) | creativity | Kunst fördert die Kreativität. | Art encourages creativity.
+teamgeist | der Teamgeist | noun (m) | team spirit | In unserer Abteilung gibt es viel Teamgeist. | There's a lot of team spirit in our department.
+entscheidend | entscheidend | adjective | decisive, crucial | Der erste Eindruck ist entscheidend. | The first impression is crucial.
+firmen | die Firma | noun (f, pl.) | companies, firms | Viele Firmen suchen Fachkräfte. | Many companies are looking for skilled workers.
+setzen | setzen | verb | to set, put; setzen auf = to rely on, bet on | Wir setzen auf erneuerbare Energien. | We're relying on renewable energy.
+hybrides | hybrid | adjective | hybrid | Das Auto hat einen hybriden Motor. | The car has a hybrid engine.
+modell | das Modell | noun (n) | model | Das neue Modell ist teurer. | The new model is more expensive.
+beschäftigten | der/die Beschäftigte | noun (adj. noun, pl.) | employees, workers | Die Beschäftigten bekommen mehr Lohn. | The employees are getting higher wages.
+einige | einige | determiner | some, a few, several | Ich habe einige Fragen. | I have a few questions.
+tage | der Tag | noun (m, pl.) | days | Die Tage werden kürzer. | The days are getting shorter.
+rest | der Rest | noun (m) | rest, remainder | Den Rest esse ich morgen. | I'll eat the rest tomorrow.
+verbringen | verbringen | verb | to spend (time) | Wir verbringen den Urlaub in Italien. | We're spending the holiday in Italy.
+langfristig | langfristig | adjective / adverb | long-term; in the long run | Langfristig wollen wir ein Haus kaufen. | In the long run we want to buy a house.
+durchsetzt | (sich) durchsetzen | verb (separable) | prevails, catches on, becomes established | Ob sich die Idee durchsetzt, ist unklar. | Whether the idea will catch on is unclear.
+bleibt | bleiben | verb | remains, stays | Er bleibt heute zu Hause. | He's staying home today.
+abzuwarten | abwarten | verb (zu-infinitive) | to wait and see; bleibt abzuwarten = remains to be seen | Das Ergebnis bleibt abzuwarten. | The result remains to be seen.
+
+# b2-002 Die Entscheidung
+clara | Clara | proper noun | Clara (female first name) | Clara spielt Klavier. | Clara plays the piano.
+angebot | das Angebot | noun (n) | offer | Das ist ein gutes Angebot. | That's a good offer.
+kanada | Kanada | proper noun | Canada | Kanada ist ein riesiges Land. | Canada is a huge country.
+erhielt | erhalten | verb (past) | received | Er erhielt einen Preis. | He received a prize.
+wusste | wissen | verb (past) | knew | Ich wusste die Antwort nicht. | I didn't know the answer.
+zunächst | zunächst | adverb | at first, initially; first of all | Zunächst müssen wir das Formular ausfüllen. | First of all we have to fill in the form.
+reagieren | reagieren | verb | to react, respond | Wie soll ich darauf reagieren? | How should I react to that?
+einerseits | einerseits | adverb | on the one hand | Einerseits ist die Stadt schön, andererseits teuer. | On the one hand the city is beautiful, on the other expensive.
+chance | die Chance | noun (f) | chance, opportunity | Das ist deine große Chance! | This is your big chance!
+jahrelang | jahrelang | adverb | for years | Er hat jahrelang in Paris gelebt. | He lived in Paris for years.
+hingearbeitet | hinarbeiten (auf) | verb (participle) | worked towards | Sie hat lange auf dieses Ziel hingearbeitet. | She has worked towards this goal for a long time.
+forschungsstelle | die Forschungsstelle | noun (f) | research position; research institute | Sie hat eine Forschungsstelle in Zürich bekommen. | She got a research position in Zurich.
+renommierten | renommiert | adjective | renowned, prestigious | Er studiert an einer renommierten Universität. | He studies at a prestigious university.
+universität | die Universität | noun (f) | university | Die Universität Heidelberg ist sehr alt. | Heidelberg University is very old.
+andererseits | andererseits | adverb | on the other hand | Andererseits gibt es auch Nachteile. | On the other hand there are also disadvantages.
+familie | die Familie | noun (f) | family | Meine Familie wohnt in Indien. | My family lives in India.
+freunde | der Freund | noun (m, pl.) | friends | Am Wochenende treffe ich Freunde. | At the weekend I meet friends.
+vertraute | vertraut | adjective | familiar, trusted | Das ist eine vertraute Melodie. | That's a familiar tune.
+umgebung | die Umgebung | noun (f) | surroundings, environment; area | Die Umgebung von Dresden ist schön. | The area around Dresden is beautiful.
+zurücklassen | zurücklassen | verb (separable) | to leave behind | Wir mussten alles zurücklassen. | We had to leave everything behind.
+tagelang | tagelang | adverb | for days | Es hat tagelang geregnet. | It rained for days.
+wog | wiegen / abwägen | verb (past) | weighed; wog ... ab = weighed up | Sie wog alle Argumente sorgfältig ab. | She carefully weighed up all the arguments.
+vorteile | der Vorteil | noun (m, pl.) | advantages, pros | Das Leben auf dem Land hat viele Vorteile. | Life in the countryside has many advantages.
+nachteile | der Nachteil | noun (m, pl.) | disadvantages, cons | Jede Lösung hat Vor- und Nachteile. | Every solution has pros and cons.
+ermutigte | ermutigen | verb (past) | encouraged | Der Lehrer ermutigte ihn, weiterzumachen. | The teacher encouraged him to carry on.
+gelegenheit | die Gelegenheit | noun (f) | opportunity, occasion | Nutze die Gelegenheit! | Seize the opportunity!
+ergreifen | ergreifen | verb | to seize, grab; take (an opportunity, measures) | Die Regierung muss Maßnahmen ergreifen. | The government must take measures.
+partner | der Partner | noun (m) | partner | Mein Partner kocht sehr gut. | My partner cooks very well.
+eher | eher | adverb | rather, more likely; sooner | Ich bin eher ein ruhiger Mensch. | I'm more of a quiet person.
+zurückhaltend | zurückhaltend | adjective | reserved, restrained, cautious | Die Reaktion war eher zurückhaltend. | The reaction was rather reserved.
+reagierte | reagieren | verb (past) | reacted | Sie reagierte überrascht. | She reacted with surprise.
+schließlich | schließlich | adverb | finally, in the end; after all | Schließlich haben wir den Weg gefunden. | In the end we found the way.
+führten | führen | verb (past) | led; ein Gespräch führen = to have a conversation | Sie führten ein interessantes Gespräch. | They had an interesting conversation.
+langes | lang | adjective | long | Das war ein langes Wochenende. | That was a long weekend.
+offenes | offen | adjective | open, frank | Er hat ein offenes Ohr für Probleme. | He's always ready to listen to problems.
+gespräch | das Gespräch | noun (n) | conversation, talk | Das Gespräch dauerte eine Stunde. | The conversation lasted an hour.
+ängste | die Angst | noun (f, pl.) | fears, anxieties | Kinder haben oft Ängste in der Nacht. | Children often have fears at night.
+hoffnungen | die Hoffnung | noun (f, pl.) | hopes | Wir haben große Hoffnungen für die Zukunft. | We have great hopes for the future.
+teilten | teilen | verb (past) | shared; divided | Sie teilten das Essen. | They shared the food.
+heraus | heraus | adverb / prefix | out; sich herausstellen = to turn out | Es stellte sich heraus, dass er recht hatte. | It turned out that he was right.
+lange | lange | adverb | (for) a long time | Ich habe lange gewartet. | I waited a long time.
+neuanfang | der Neuanfang | noun (m) | fresh start, new beginning | Nach der Trennung wollte sie einen Neuanfang. | After the break-up she wanted a fresh start.
+ausland | das Ausland | noun (n) | abroad, foreign countries; im Ausland = abroad | Er möchte im Ausland studieren. | He wants to study abroad.
+gewünscht | wünschen | verb (participle) | wished, wanted | Ich habe mir ein Fahrrad gewünscht. | I wished for a bicycle.
+wenige | wenig | determiner | few | Nur wenige Leute kamen zur Party. | Only a few people came to the party.
+monate | der Monat | noun (m, pl.) | months | Das Projekt dauert drei Monate. | The project lasts three months.
+saßen | sitzen | verb (past) | sat, were sitting | Wir saßen im Garten. | We were sitting in the garden.
+gemeinsam | gemeinsam | adjective / adverb | together, jointly; common | Wir kochen gemeinsam. | We cook together.
+flugzeug | das Flugzeug | noun (n) | aeroplane, airplane | Das Flugzeug landet um zehn. | The plane lands at ten.
+toronto | Toronto | proper noun | Toronto (city in Canada) | Toronto ist die größte Stadt Kanadas. | Toronto is Canada's largest city.
+
+# b2-003 Kleidung zum Wegwerfen
+neulich | neulich | adverb | recently, the other day | Neulich habe ich deinen Bruder getroffen. | I met your brother the other day.
+kleiderschrank | der Kleiderschrank | noun (m) | wardrobe | Mein Kleiderschrank ist viel zu voll. | My wardrobe is far too full.
+aufräumte | aufräumen | verb (past) | tidied up, cleared out | Als ich den Keller aufräumte, fand ich alte Fotos. | When I was tidying the cellar, I found old photos.
+erschrocken | erschrocken | adjective / adverb | alarmed, startled; in alarm | Sie sah ihn erschrocken an. | She looked at him in alarm.
+getragen | tragen | verb (past participle) | worn; carried | Das Kleid habe ich nur einmal getragen. | I've only worn the dress once.
+hatten | haben | verb (past) | (we/they) had; pluperfect auxiliary | Die Schuhe hatten nur zwanzig Euro gekostet. | The shoes had only cost twenty euros.
+waren | sein | verb (past) | (we/they) were | Wir waren gestern im Kino. | We were at the cinema yesterday.
+wäschen | die Wäsche | noun (f, pl.) | washes (laundry cycles) | Nach drei Wäschen war der Pullover zu klein. | After three washes the jumper was too small.
+form | die Form | noun (f) | shape, form; aus der Form geraten = to lose its shape | Der Kuchen hat die Form eines Herzens. | The cake is in the shape of a heart.
+sah | sehen | verb (past) | saw | Gestern sah ich einen alten Freund. | Yesterday I saw an old friend.
+dokumentation | die Dokumentation | noun (f) | documentary; documentation | Wir haben eine Dokumentation über Wale gesehen. | We watched a documentary about whales.
+modeindustrie | die Modeindustrie | noun (f) | fashion industry | Die Modeindustrie verursacht viel Müll. | The fashion industry produces a lot of waste.
+billige | billig | adjective | cheap (fem. / plural) | Billige Produkte gehen oft schnell kaputt. | Cheap products often break quickly.
+arbeitsbedingungen | die Arbeitsbedingungen | noun (pl.) | working conditions | Die Arbeitsbedingungen in der Fabrik sind schlecht. | The working conditions in the factory are bad.
+hergestellt | herstellen | verb (past participle) | produced, manufactured | Die Möbel werden in Schweden hergestellt. | The furniture is made in Sweden.
+produktion | die Produktion | noun (f) | production | Die Produktion wurde ins Ausland verlagert. | Production was moved abroad.
+verbraucht | verbrauchen | verb | consumes, uses (up) | Das Auto verbraucht wenig Benzin. | The car uses little petrol.
+enorme | enorm | adjective | enormous, huge (fem. / plural) | Das Projekt hat enorme Kosten verursacht. | The project caused enormous costs.
+mengen | die Menge | noun (f, pl.) | amounts, quantities | Wir haben große Mengen Essen gekocht. | We cooked large amounts of food.
+teil | der/das Teil | noun (m/n) | part, share (der Teil); item, piece (das Teil, e.g. of clothing) | Ein großer Teil der Arbeit ist erledigt. | A large part of the work is done.
+landet | landen | verb | lands, ends up | Das Flugzeug landet um zehn. | The plane lands at ten.
+kurzer | kurz | adjective | short (fem. dative / masc. nominative) | Nach kurzer Zeit war er wieder da. | After a short time he was back.
+seitdem | seitdem | adverb / conjunction | since then, ever since | Seitdem fahre ich nur noch Fahrrad. | Since then I only ride my bike.
+bewusster | bewusst (comparative) | adjective / adverb | more consciously, more mindfully | Ich versuche, bewusster zu leben. | I'm trying to live more mindfully.
+einzukaufen | einkaufen | verb (zu-infinitive) | to shop | Ich habe keine Zeit, einzukaufen. | I have no time to go shopping.
+stöbert | stöbern | verb | browses, rummages | Er stöbert gern in alten Buchläden. | He likes browsing in old bookshops.
+secondhandläden | der Secondhandladen | noun (m, pl.) | second-hand shops | In Secondhandläden findet man günstige Kleidung. | You can find cheap clothes in second-hand shops.
+lässt | lassen | verb | lets; has (something done): lässt … reparieren = has … repaired | Sie lässt ihr Auto reparieren. | She has her car repaired.
+kaputte | kaputt | adjective | broken (fem. / plural) | Kaputte Geräte kann man oft reparieren. | Broken appliances can often be repaired.
+organisiert | organisieren | verb | organises | Sie organisiert ein Fest für die Nachbarn. | She is organising a party for the neighbours.
+freundinnen | die Freundin | noun (f, pl.) | (female) friends | Sie fährt mit ihren Freundinnen in den Urlaub. | She's going on holiday with her friends.
+regelmäßig | regelmäßig | adjective / adverb | regular; regularly | Ich mache regelmäßig Sport. | I do sport regularly.
+tauschpartys | die Tauschparty | noun (f, pl.) | swap parties (clothes-swapping events) | Auf Tauschpartys tauscht man Kleidung, statt sie zu kaufen. | At swap parties people swap clothes instead of buying them.
+verzichten | verzichten | verb | verzichten auf = to do without, give up | Ich verzichte auf Zucker. | I'm giving up sugar.
+kauf | der Kauf | noun (m) | purchase | Vor dem Kauf sollte man Preise vergleichen. | Before buying you should compare prices.
+
+# --- Day 3 additions (b2-004, b2-005) ---
+münsterberg | Münsterberg | proper noun | Münsterberg (fictional town name) | Münsterberg hat eine schöne Altstadt. | Münsterberg has a lovely old town.
+leidenschaftlich | leidenschaftlich | adjective / adverb | passionate(ly) | Sie diskutieren leidenschaftlich über Politik. | They argue passionately about politics.
+autofrei | autofrei | adjective | car-free | Am Sonntag ist die Innenstadt autofrei. | On Sundays the city centre is car-free.
+stadtrat | der Stadtrat | noun (m) | town/city council | Der Stadtrat hat den Plan beschlossen. | The town council approved the plan.
+weitgehend | weitgehend | adverb | largely, to a large extent | Die Arbeiten sind weitgehend abgeschlossen. | The work is largely finished.
+stattdessen | stattdessen | adverb | instead | Ich trinke keinen Kaffee, stattdessen nehme ich Tee. | I don't drink coffee; I have tea instead.
+radwege | der Radweg | noun (m, pl.) | cycle paths | Die Stadt baut neue Radwege. | The town is building new cycle paths.
+grünflächen | die Grünfläche | noun (f, pl.) | green spaces | Städte brauchen mehr Grünflächen. | Cities need more green spaces.
+sitzplätze | der Sitzplatz | noun (m, pl.) | seats | Im Bus gibt es keine freien Sitzplätze. | There are no free seats on the bus.
+schaffen | schaffen | verb | to create; to manage | Die Firma will neue Arbeitsplätze schaffen. | The company wants to create new jobs.
+einzelhändler | der Einzelhändler | noun (m, sg./pl.) | retailer(s), shopkeeper(s) | Viele Einzelhändler leiden unter dem Onlinehandel. | Many retailers suffer from online shopping.
+reagierten | reagieren | verb (past) | reacted | Die Kunden reagierten positiv auf das Angebot. | The customers reacted positively to the offer.
+skeptisch | skeptisch | adjective | sceptical | Ich bin da eher skeptisch. | I'm rather sceptical about that.
+parken | parken | verb | to park | Hier darf man nicht parken. | You're not allowed to park here.
+einkaufszentrum | das Einkaufszentrum | noun (n) | shopping centre | Am Samstag ist das Einkaufszentrum sehr voll. | On Saturdays the shopping centre is very crowded.
+befürchtete | befürchten | verb (past) | feared | Er befürchtete, dass er den Zug verpasst. | He feared he would miss the train.
+vorsitzende | der/die Vorsitzende | noun (m/f) | chairperson | Die Vorsitzende eröffnet die Sitzung. | The chairwoman opens the meeting.
+gewerbevereins | der Gewerbeverein | noun (m, genitive) | of the local business association | Der Vorsitzende des Gewerbevereins gab ein Interview. | The chairman of the business association gave an interview.
+anwohner | der Anwohner | noun (m, sg./pl.) | resident(s) (of a street/area) | Die Anwohner beschweren sich über den Lärm. | The residents complain about the noise.
+begrüßten | begrüßen | verb (past) | welcomed, greeted | Die Eltern begrüßten die Entscheidung. | The parents welcomed the decision.
+klagen | klagen | verb | to complain; to sue | Viele klagen über die hohen Preise. | Many people complain about the high prices.
+abgase | das Abgas | noun (n, pl.) | exhaust fumes, emissions | Die Abgase der Autos verschmutzen die Luft. | Car exhaust fumes pollute the air.
+zugeparkte | zugeparkt | adjective | blocked by parked cars | Zugeparkte Gehwege sind gefährlich für Kinder. | Pavements blocked by parked cars are dangerous for children.
+gehwege | der Gehweg | noun (m, pl.) | pavements, sidewalks | Radfahrer dürfen nicht auf Gehwegen fahren. | Cyclists aren't allowed to ride on pavements.
+entschärfen | entschärfen | verb | to defuse, ease (a conflict) | Ein Gespräch kann den Konflikt entschärfen. | A conversation can defuse the conflict.
+beschloss | beschließen | verb (past) | decided, resolved | Die Regierung beschloss neue Gesetze. | The government passed new laws.
+sechsmonatigen | sechsmonatig | adjective | six-month | Sie macht ein sechsmonatiges Praktikum. | She's doing a six-month internship.
+ergebnisse | das Ergebnis | noun (n, pl.) | results | Die Ergebnisse der Studie sind interessant. | The results of the study are interesting.
+überraschten | überraschen | verb (past) | surprised | Die Zahlen überraschten alle. | The figures surprised everyone.
+fußgänger | der Fußgänger | noun (m, sg./pl.) | pedestrian(s) | Die Altstadt ist nur für Fußgänger. | The old town is for pedestrians only.
+stieg | steigen | verb (past) | rose, climbed | Die Temperatur stieg auf dreißig Grad. | The temperature rose to thirty degrees.
+drittel | das Drittel | noun (n) | third | Ein Drittel der Schüler kommt mit dem Bus. | A third of the pupils come by bus.
+meldeten | melden | verb (past) | reported | Die Zeitungen meldeten einen Rekord. | The newspapers reported a record.
+umsatzeinbußen | die Umsatzeinbuße | noun (f, pl.) | losses in sales/revenue | Viele Geschäfte hatten Umsatzeinbußen. | Many shops had losses in sales.
+cafés | das Café | noun (n, pl.) | cafés | In der Altstadt gibt es viele Cafés. | There are lots of cafés in the old town.
+verzeichneten | verzeichnen | verb (past) | recorded, registered | Die Hotels verzeichneten mehr Gäste als im Vorjahr. | The hotels recorded more guests than the previous year.
+verstummt | verstummen | verb (past participle) | fallen silent | Die Musik ist plötzlich verstummt. | The music suddenly stopped.
+kritik | die Kritik | noun (f) | criticism; review | Es gab viel Kritik an dem Plan. | There was a lot of criticism of the plan.
+handwerker | der Handwerker | noun (m, sg./pl.) | tradesman/tradespeople, craftsman | Der Handwerker kommt morgen und repariert die Heizung. | The tradesman is coming tomorrow to repair the heating.
+beklagen | beklagen | verb | to complain about, lament | Viele beklagen den Mangel an Wohnungen. | Many lament the shortage of housing.
+schlechter | schlecht | adjective / adverb (comparative) | worse | Das Wetter wird morgen schlechter. | The weather will get worse tomorrow.
+erreichen | erreichen | verb | to reach; to achieve | Wie kann ich Sie erreichen? | How can I reach you?
+kostenlosen | kostenlos | adjective | free (of charge) | Es gibt einen kostenlosen Bus zum Flughafen. | There's a free bus to the airport.
+shuttlebus | der Shuttlebus | noun (m) | shuttle bus | Der Shuttlebus fährt alle zwanzig Minuten. | The shuttle bus runs every twenty minutes.
+einführen | einführen | verb (separable) | to introduce | Die Schule will eine neue Regel einführen. | The school wants to introduce a new rule.
+ausnahmen | die Ausnahme | noun (f, pl.) | exceptions | Keine Regel ohne Ausnahmen. | No rule without exceptions.
+lieferverkehr | der Lieferverkehr | noun (m) | delivery traffic | Lieferverkehr ist bis elf Uhr erlaubt. | Delivery traffic is allowed until eleven.
+zulassen | zulassen | verb (separable) | to allow, permit | Die Stadt will keine Autos mehr zulassen. | The town no longer wants to allow cars.
+ausreicht | ausreichen | verb | is enough, suffices | Ich hoffe, das Geld reicht aus. Ob das ausreicht? | I hope the money is enough. Will that be enough?
+überzeugen | überzeugen | verb | to convince, persuade | Du hast mich überzeugt. Er will alle überzeugen. | You've convinced me. He wants to convince everyone.
+funktionieren | funktionieren | verb | to work, function | Wie funktioniert diese Maschine? | How does this machine work?
+rund | rund | adjective / adverb | round; around, about (approx.) | Rund hundert Gäste waren da. | Around a hundred guests were there.
+unentgeltlich | unentgeltlich | adjective / adverb | free of charge, unpaid | Sie arbeitet unentgeltlich im Tierheim. | She works unpaid at the animal shelter.
+fußballverein | der Fußballverein | noun (m) | football club | Mein Sohn spielt in einem Fußballverein. | My son plays in a football club.
+freiwilligen | freiwillig | adjective | voluntary; freiwillige Feuerwehr = volunteer fire brigade | Er ist Mitglied der freiwilligen Feuerwehr. | He's a member of the volunteer fire brigade.
+feuerwehr | die Feuerwehr | noun (f) | fire brigade | Ruf sofort die Feuerwehr! | Call the fire brigade at once!
+flüchtlingshilfe | die Flüchtlingshilfe | noun (f) | refugee aid/support | Sie engagiert sich in der Flüchtlingshilfe. | She volunteers in refugee support.
+dörfern | das Dorf | noun (n, dat. pl.) | villages | In kleinen Dörfern gibt es oft keinen Supermarkt. | In small villages there's often no supermarket.
+gäbe | geben | verb (subjunctive II) | there would be (es gäbe) | Ohne Regen gäbe es kein Leben. | Without rain there would be no life.
+freiwillige | der/die Freiwillige | noun (m/f, sg./pl.) | volunteer(s) | Wir suchen Freiwillige für das Fest. | We're looking for volunteers for the festival.
+weder | weder | conjunction | weder … noch = neither … nor | Ich trinke weder Kaffee noch Tee. | I drink neither coffee nor tea.
+brandschutz | der Brandschutz | noun (m) | fire protection | Der Brandschutz im Gebäude wird geprüft. | The fire protection in the building is being checked.
+kulturelles | kulturell | adjective | cultural | Die Stadt hat ein reiches kulturelles Angebot. | The city has a rich cultural offering.
+ehrenamtliche | der/die Ehrenamtliche | noun (m/f, pl.) | volunteers | Ehrenamtliche helfen bei der Tafel. | Volunteers help at the food bank.
+motiven | das Motiv | noun (n, dat. pl.) | motives | Nach seinen Motiven gefragt, schwieg er. | Asked about his motives, he said nothing.
+selten | selten | adverb / adjective | rarely, seldom; rare | Ich gehe selten ins Kino. | I rarely go to the cinema.
+gedanke | der Gedanke | noun (m) | thought, idea | Der Gedanke an die Prüfung macht mich nervös. | The thought of the exam makes me nervous.
+pflicht | die Pflicht | noun (f) | duty, obligation | Es ist deine Pflicht, pünktlich zu sein. | It's your duty to be on time.
+vordergrund | der Vordergrund | noun (m) | foreground; im Vordergrund stehen = to be the main focus | Für uns steht die Sicherheit im Vordergrund. | For us safety is the top priority.
+sinnvolles | sinnvoll | adjective | meaningful, sensible; etwas Sinnvolles = something meaningful | Ich möchte etwas Sinnvolles tun. | I'd like to do something meaningful.
+engagement | das Engagement | noun (n) | commitment, involvement | Vielen Dank für Ihr Engagement! | Thank you for your commitment!
+fähigkeiten | die Fähigkeit | noun (f, pl.) | abilities, skills | Im Job lernt man neue Fähigkeiten. | You learn new skills in a job.
+erworben | erwerben | verb (past participle) | acquired, gained | Er hat viel Erfahrung erworben. | He has gained a lot of experience.
+nützen | nützen | verb | to be of use, benefit | Das wird dir später nützen. | That will be useful to you later.
+organisationstalent | das Organisationstalent | noun (n) | talent for organisation | Für diesen Job braucht man Organisationstalent. | You need organisational skills for this job.
+verhandlungsgeschick | das Verhandlungsgeschick | noun (n) | negotiating skill | Mit Verhandlungsgeschick bekam sie einen besseren Preis. | With her negotiating skill she got a better price.
+dennoch | dennoch | adverb | nevertheless, still | Es regnete, dennoch gingen wir spazieren. | It was raining; nevertheless we went for a walk.
+vereine | der Verein | noun (m, pl.) | clubs, associations | In Deutschland gibt es sehr viele Vereine. | There are very many clubs in Germany.
+nachwuchsprobleme | die Nachwuchsprobleme | noun (pl.) | difficulties recruiting young members | Viele Chöre haben Nachwuchsprobleme. | Many choirs struggle to attract young members.
+frühere | früher | adjective | earlier, former | Frühere Generationen hatten kein Internet. | Earlier generations didn't have the internet.
+generationen | die Generation | noun (f, pl.) | generations | Drei Generationen wohnen in diesem Haus. | Three generations live in this house.
+scheuen | scheuen | verb | to shy away from, avoid | Er scheut keine Mühe. | He spares no effort.
+langfristige | langfristig | adjective | long-term | Wir suchen eine langfristige Lösung. | We're looking for a long-term solution.
+verpflichtungen | die Verpflichtung | noun (f, pl.) | commitments, obligations | Ich habe zu viele Verpflichtungen. | I have too many commitments.
+ausbildung | die Ausbildung | noun (f) | (vocational) training, apprenticeship | Sie macht eine Ausbildung als Krankenpflegerin. | She's training to be a nurse.
+studium | das Studium | noun (n) | (university) studies | Nach dem Studium möchte ich im Ausland arbeiten. | After my studies I'd like to work abroad.
+häufige | häufig | adjective | frequent | Häufige Fehler sollte man üben. | You should practise frequent mistakes.
+umzüge | der Umzug | noun (m, pl.) | moves (house); parades | Häufige Umzüge sind anstrengend. | Frequent moves are tiring.
+binden | binden | verb | to tie; sich binden = to commit (oneself) | Er will sich noch nicht binden. | He doesn't want to commit yet.
+organisationen | die Organisation | noun (f, pl.) | organisations | Viele Organisationen helfen Kindern in Not. | Many organisations help children in need.
+reagiert | reagieren | verb (past participle) | reacted | Wie hat er auf die Nachricht reagiert? | How did he react to the news?
+bieten | bieten | verb | to offer | Wir bieten flexible Arbeitszeiten. | We offer flexible working hours.
+zeitlich | zeitlich | adjective / adverb | in terms of time; zeitlich begrenzt = for a limited time | Das Angebot ist zeitlich begrenzt. | The offer is for a limited time.
+begrenzte | begrenzt | adjective | limited | Die Zahl der Plätze ist begrenzt. | The number of places is limited.
+festival | das Festival | noun (n) | festival | Im Sommer fahren wir zu einem Musikfestival. | In summer we're going to a music festival.
+angebote | das Angebot | noun (n, pl.) | offers, services | Die Stadt hat viele Angebote für Kinder. | The town has lots of activities for children.
+stoßen | stoßen | verb | to push, bump; auf Resonanz stoßen = to meet with a response | Die Idee stößt auf großes Interesse. | The idea is meeting with great interest.
+resonanz | die Resonanz | noun (f) | response, resonance | Die Resonanz auf die Umfrage war groß. | The response to the survey was big.
+langfristiges | langfristig | adjective | long-term | Wir planen ein langfristiges Projekt. | We're planning a long-term project.

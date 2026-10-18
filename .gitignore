@@ -1,0 +1,7 @@
+.venv/
+.deps/
+__pycache__/
+*.pyc
+build/
+.claude
+communication.md

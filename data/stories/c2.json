@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c2-001",
+    "title": "Über das Vergessen",
+    "title_en": "On forgetting",
+    "summary_en": "Forgetting is not a defect but an active, essential process: a brain that stored everything would drown in detail. Only by discarding the unimportant can we recognise patterns — as Borges illustrated in one of his stories.",
+    "paragraphs": [
+      "Dass wir vergessen, gilt gemeinhin als Makel, als bedauerliches Versagen eines unzulänglichen Gedächtnisses. Doch diese Sichtweise greift zu kurz. Neurowissenschaftler gehen mittlerweile davon aus, dass das Vergessen keineswegs ein bloßer Defekt, sondern ein aktiver, ja unverzichtbarer Vorgang ist.",
+      "Ein Gehirn, das jede Einzelheit unterschiedslos speicherte, wäre schlichtweg handlungsunfähig; es versänke in einer Flut belangloser Details und vermöchte kaum noch, das Wesentliche vom Nebensächlichen zu unterscheiden. Insofern ist das Vergessen gewissermaßen die Kehrseite des Abstrahierens. Erst indem wir Unwichtiges tilgen, gelingt es uns, Muster zu erkennen und Erfahrungen zu verallgemeinern.",
+      "Nicht von ungefähr schilderte der argentinische Schriftsteller Jorge Luis Borges in einer seiner Erzählungen einen Mann, der nichts vergessen konnte – und gerade daran zugrunde ging."
+    ]
+  },
+  {
+    "id": "c2-002",
+    "title": "Die Sprache der Bürokratie",
+    "title_en": "The language of bureaucracy",
+    "summary_en": "German 'Amtsdeutsch' is understandable word by word yet hard to decode, thanks to nested sentences, nominalisations and the passive. Critics say it hides responsibility; defenders cite legal precision.",
+    "paragraphs": [
+      "Wer je einen deutschen Behördenbrief erhalten hat, kennt das eigentümliche Gefühl, einen Text zwar Wort für Wort zu verstehen, seinen Sinn jedoch nur mühsam zu erschließen. Das sogenannte Amtsdeutsch zeichnet sich durch verschachtelte Satzgefüge, eine Vorliebe für Substantivierungen und eine geradezu verschwenderische Verwendung des Passivs aus.",
+      "Statt schlicht mitzuteilen, dass man etwas beantragen kann, heißt es etwa, es bestehe die Möglichkeit der Antragstellung. Sprachkritiker monieren seit Jahrzehnten, diese Ausdrucksweise schaffe Distanz und verschleiere Verantwortlichkeiten. Verfechter halten dem entgegen, juristische Präzision lasse sich nun einmal nicht beliebig vereinfachen.",
+      "Mehrere Bundesländer haben inzwischen Leitfäden für bürgernahe Sprache herausgegeben – mit wechselndem Erfolg. Denn eingefahrene Formulierungen erweisen sich als erstaunlich zählebig."
+    ]
+  },
+  {
+    "id": "c2-003",
+    "title": "Lob der Langeweile",
+    "title_en": "In praise of boredom",
+    "summary_en": "An essay arguing that constant digital distraction has made boredom rare, and that idle, unstructured time is where reflection and creativity arise.",
+    "paragraphs": [
+      "Wann haben Sie sich zuletzt gelangweilt? Die Frage mag befremdlich klingen, doch die Antwort dürfte vielen schwerfallen. Kaum entsteht ein Moment des Leerlaufs – an der Bushaltestelle, im Wartezimmer, in der Schlange an der Kasse –, greifen wir reflexhaft zum Smartphone, als gälte es, eine drohende Leere um jeden Preis abzuwenden.",
+      "Dabei war Langeweile lange Zeit keineswegs nur verpönt. Philosophen sahen in ihr einen Zustand, in dem der Mensch auf sich selbst zurückgeworfen wird und gerade dadurch zu sich findet. Psychologische Studien legen nahe, dass ungerichtetes Grübeln jene gedanklichen Verknüpfungen begünstigt, aus denen Einfälle hervorgehen.",
+      "Wer sich der Langeweile nie aussetzt, beraubt sich also womöglich einer stillen Quelle schöpferischer Kraft. Es geht nicht darum, die Technik zu verteufeln, sondern darum, sich die Muße zurückzuerobern, die nicht sofort einem Zweck dienen muss."
+    ]
+  }
+]

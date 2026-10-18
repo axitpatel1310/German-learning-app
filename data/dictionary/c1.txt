@@ -1,0 +1,175 @@
+# C1 vocabulary
+# Format: word | lemma | part of speech | English | German example | English example
+
+# c1-001 Die Macht der Gewohnheit
+gewohnheiten | die Gewohnheit | noun (f, pl.) | habits | Schlechte Gewohnheiten sind schwer abzulegen. | Bad habits are hard to break.
+prägen | prägen | verb | to shape, characterise, leave a mark on | Die Kindheit prägt den Menschen. | Childhood shapes a person.
+weitaus | weitaus | adverb | far, by far (+ comparative) | Das ist weitaus besser. | That's far better.
+stärker | stark | adjective (comparative) | stronger; more strongly | Der Wind wird stärker. | The wind is getting stronger.
+bewusst | bewusst | adjective | aware; conscious; uns ist bewusst = we are aware | Mir ist das Problem bewusst. | I'm aware of the problem.
+schätzungen | die Schätzung | noun (f, pl.) | estimates; Schätzungen zufolge = according to estimates | Nach Schätzungen leben dort 5000 Menschen. | According to estimates 5,000 people live there.
+zufolge | zufolge | preposition (after the noun, + dative) | according to | Dem Bericht zufolge ist die Lage stabil. | According to the report, the situation is stable.
+beruht | beruhen (auf) | verb | is based on, rests on | Der Film beruht auf einer wahren Geschichte. | The film is based on a true story.
+nahezu | nahezu | adverb | almost, nearly | Das Stadion war nahezu leer. | The stadium was almost empty.
+hälfte | die Hälfte | noun (f) | half | Die Hälfte der Schüler war krank. | Half of the pupils were ill.
+täglichen | täglich | adjective | daily, everyday | Die tägliche Arbeit macht mir Spaß. | I enjoy my daily work.
+handlungen | die Handlung | noun (f, pl.) | actions, acts; (also: plot of a story) | Jeder ist für seine Handlungen verantwortlich. | Everyone is responsible for their actions.
+bewussten | bewusst | adjective | conscious, deliberate | Das war eine bewusste Entscheidung. | That was a conscious decision.
+entscheidungen | die Entscheidung | noun (f, pl.) | decisions | Wir müssen wichtige Entscheidungen treffen. | We have to make important decisions.
+automatisierten | automatisiert | adjective | automated, automatic | Die Fabrik nutzt automatisierte Prozesse. | The factory uses automated processes.
+abläufen | der Ablauf | noun (m, dat. pl.) | processes, sequences, routines | Die Abläufe im Büro sind gut organisiert. | The office routines are well organised.
+evolutionärer | evolutionär | adjective | evolutionary | Aus evolutionärer Sicht ist Angst nützlich. | From an evolutionary perspective, fear is useful.
+sicht | die Sicht | noun (f) | view, perspective; aus ... Sicht = from a ... point of view | Aus meiner Sicht ist das falsch. | From my point of view that's wrong.
+durchaus | durchaus | adverb | absolutely, quite, definitely | Das ist durchaus möglich. | That's quite possible.
+sinnvoll | sinnvoll | adjective | sensible, meaningful, worthwhile | Es ist sinnvoll, früh anzufangen. | It's sensible to start early.
+gehirn | das Gehirn | noun (n) | brain | Das Gehirn braucht viel Sauerstoff. | The brain needs a lot of oxygen.
+spart | sparen | verb | saves | Mit dem Fahrrad spart man Geld. | You save money by cycling.
+energie | die Energie | noun (f) | energy | Kinder haben viel Energie. | Children have a lot of energy.
+wiederkehrende | wiederkehrend | adjective | recurring, repetitive | Das ist ein wiederkehrendes Problem. | That's a recurring problem.
+tätigkeiten | die Tätigkeit | noun (f, pl.) | activities, tasks | Zu meinen Tätigkeiten gehört die Planung. | My tasks include planning.
+gewissermaßen | gewissermaßen | adverb | so to speak, to a certain extent | Er ist gewissermaßen der Chef. | He is, so to speak, the boss.
+auslagert | auslagern | verb (separable) | outsources, offloads | Die Firma lagert die Produktion aus. | The company outsources production.
+problematisch | problematisch | adjective | problematic | Die Situation ist problematisch. | The situation is problematic.
+allerdings | allerdings | adverb | however, though; certainly | Das Essen war gut, allerdings teuer. | The food was good, though expensive.
+schädliche | schädlich | adjective | harmful, damaging | Rauchen ist schädlich für die Gesundheit. | Smoking is harmful to your health.
+muster | das Muster | noun (n) | pattern(s) | Das Kleid hat ein schönes Muster. | The dress has a nice pattern.
+verfestigen | (sich) verfestigen | verb | to become entrenched, solidify | Vorurteile verfestigen sich mit der Zeit. | Prejudices become entrenched over time.
+versucht | versuchen | verb | tries; tried (participle) | Er versucht, mit dem Rauchen aufzuhören. | He's trying to stop smoking.
+rauchen | rauchen / das Rauchen | verb / noun (n) | to smoke; smoking | Rauchen ist hier verboten. | Smoking is prohibited here.
+aufzugeben | aufgeben | verb (zu-infinitive) | to give up, quit | Es ist nie zu spät, das Rauchen aufzugeben. | It's never too late to give up smoking.
+rasch | rasch | adverb / adjective | quickly, rapidly | Die Preise steigen rasch. | Prices are rising rapidly.
+fest | fest / feststellen | adjective / prefix | firm, fixed; stellt fest = notices, finds | Ich stelle fest, dass es spät ist. | I notice that it's late.
+hartnäckig | hartnäckig | adjective | stubborn, persistent | Die Erkältung ist hartnäckig. | The cold is persistent.
+eingeschliffene | eingeschliffen | adjective | deeply ingrained, entrenched (habits) | Eingeschliffene Fehler sind schwer zu korrigieren. | Ingrained mistakes are hard to correct.
+verhaltensweisen | die Verhaltensweise | noun (f, pl.) | behaviours, patterns of behaviour | Kinder lernen Verhaltensweisen von ihren Eltern. | Children learn behaviours from their parents.
+psychologen | der Psychologe | noun (m, pl.) | psychologists | Psychologen untersuchen das menschliche Verhalten. | Psychologists study human behaviour.
+raten | raten | verb | to advise; to guess | Ich rate dir, mehr zu schlafen. | I advise you to sleep more.
+bloß | bloß | adverb / adjective | merely, only; mere | Das ist bloß ein Spiel. | It's only a game.
+willenskraft | die Willenskraft | noun (f) | willpower | Für eine Diät braucht man Willenskraft. | You need willpower for a diet.
+umfeld | das Umfeld | noun (n) | environment, surroundings, (social) circle | Das soziale Umfeld beeinflusst uns. | Our social environment influences us.
+gezielt | gezielt | adjective / adverb | targeted; deliberately, specifically | Wir suchen gezielt nach Fachkräften. | We're specifically looking for skilled workers.
+verändern | verändern | verb | to change, alter | Das Internet hat die Welt verändert. | The internet has changed the world.
+beispielsweise | beispielsweise | adverb | for example | Man kann beispielsweise mit dem Rad fahren. | You can, for example, go by bike.
+gesünder | gesund | adjective (comparative) | healthier; more healthily | Ich möchte gesünder leben. | I want to live more healthily.
+süßigkeiten | die Süßigkeit | noun (f, pl.) | sweets, candy | Kinder lieben Süßigkeiten. | Children love sweets.
+einkaufen | einkaufen | verb (separable) | to shop, buy | Wir müssen noch einkaufen. | We still have to go shopping.
+kleine | klein | adjective | small, little | Kleine Kinder brauchen viel Schlaf. | Small children need a lot of sleep.
+konsequent | konsequent | adjective / adverb | consistent(ly), rigorous(ly) | Man muss die Regeln konsequent anwenden. | You have to apply the rules consistently.
+umgesetzte | umsetzen | verb (participle as adj.) | implemented, put into practice | Der Plan wurde schnell umgesetzt. | The plan was implemented quickly.
+schritte | der Schritt | noun (m, pl.) | steps | Wir gehen Schritt für Schritt vor. | We proceed step by step.
+erweisen | (sich) erweisen (als) | verb | to prove (to be), turn out (to be) | Die Idee erwies sich als richtig. | The idea proved to be right.
+dauer | die Dauer | noun (f) | duration; auf Dauer = in the long run | Auf Dauer ist das zu teuer. | In the long run that's too expensive.
+wirksamer | wirksam | adjective (comparative) | more effective | Dieses Medikament ist wirksamer. | This medicine is more effective.
+radikale | radikal | adjective | radical, drastic | Er fordert radikale Veränderungen. | He demands radical changes.
+vorsätze | der Vorsatz | noun (m, pl.) | resolutions, intentions | Gute Vorsätze fürs neue Jahr! | Good New Year's resolutions!
+wenigen | wenig | determiner | few (dative) | Nach wenigen Minuten war er fertig. | After a few minutes he was done.
+wochen | die Woche | noun (f, pl.) | weeks | Der Kurs dauert sechs Wochen. | The course lasts six weeks.
+vergessenheit | die Vergessenheit | noun (f) | oblivion; in Vergessenheit geraten = to be forgotten | Das Lied geriet in Vergessenheit. | The song was forgotten.
+geraten | geraten | verb | to get into, end up (in a state) | Er ist in Schwierigkeiten geraten. | He got into trouble.
+
+# c1-002 Stadt der Zukunft
+angesichts | angesichts | preposition (+ genitive) | in view of, given, faced with | Angesichts der Lage bleiben wir zu Hause. | In view of the situation we're staying home.
+klimawandels | der Klimawandel | noun (m, genitive) | (of) climate change | Die Folgen des Klimawandels sind spürbar. | The effects of climate change are noticeable.
+fortschreitenden | fortschreitend | adjective | progressing, advancing, ongoing | Die fortschreitende Digitalisierung verändert alles. | Ongoing digitalisation is changing everything.
+urbanisierung | die Urbanisierung | noun (f) | urbanisation | Die Urbanisierung nimmt weltweit zu. | Urbanisation is increasing worldwide.
+stehen | stehen | verb | to stand; vor etwas stehen = to face something | Wir stehen vor einem Problem. | We're facing a problem.
+städte | die Stadt | noun (f, pl.) | cities, towns | Große Städte sind oft laut. | Big cities are often loud.
+weltweit | weltweit | adverb / adjective | worldwide, globally | Das Produkt wird weltweit verkauft. | The product is sold worldwide.
+enormen | enorm | adjective | enormous, huge | Das Projekt kostet enorm viel. | The project costs an enormous amount.
+herausforderungen | die Herausforderung | noun (f, pl.) | challenges | Der neue Job bringt viele Herausforderungen. | The new job brings many challenges.
+stadtplaner | der Stadtplaner | noun (m, pl.) | urban planners | Stadtplaner entwerfen neue Wohnviertel. | Urban planners design new neighbourhoods.
+experimentieren | experimentieren | verb | to experiment | Die Köche experimentieren mit neuen Rezepten. | The chefs are experimenting with new recipes.
+konzepten | das Konzept | noun (n, dat. pl.) | concepts, plans | Wir arbeiten mit neuen Konzepten. | We work with new concepts.
+jahrzehnten | das Jahrzehnt | noun (n, dat. pl.) | decades | Vor Jahrzehnten war hier ein Wald. | Decades ago there was a forest here.
+utopisch | utopisch | adjective | utopian, unrealistic | Der Plan klingt utopisch. | The plan sounds utopian.
+gegolten | gelten | verb (participle) | been considered, been regarded (als = as) | Das hätte früher als unmöglich gegolten. | That would once have been considered impossible.
+kopenhagen | Kopenhagen | proper noun | Copenhagen | Kopenhagen ist die Hauptstadt Dänemarks. | Copenhagen is the capital of Denmark.
+autoverkehr | der Autoverkehr | noun (m) | car traffic | Der Autoverkehr in der Innenstadt soll sinken. | Car traffic in the city centre is to be reduced.
+systematisch | systematisch | adjective / adverb | systematic(ally) | Wir gehen systematisch vor. | We proceed systematically.
+zugunsten | zugunsten | preposition (+ genitive / von) | in favour of, for the benefit of | Er verzichtete zugunsten seines Bruders. | He stepped aside in favour of his brother.
+radwegen | der Radweg | noun (m, dat. pl.) | cycle paths, bike lanes | Die Stadt baut mehr Radwege. | The city is building more cycle paths.
+zurückgedrängt | zurückdrängen | verb (participle) | pushed back, reduced | Die Krankheit wurde zurückgedrängt. | The disease was pushed back.
+fahrrad | das Fahrrad | noun (n) | bicycle | Ich fahre jeden Tag Fahrrad. | I ride my bike every day.
+pendeln | pendeln | verb | to commute | Er pendelt täglich nach Frankfurt. | He commutes to Frankfurt every day.
+metropolen | die Metropole | noun (f, pl.) | metropolises, major cities | London und Paris sind Metropolen. | London and Paris are major cities.
+begrünte | begrünt | adjective | planted with greenery, green | Begrünte Dächer kühlen die Stadt. | Green roofs cool the city.
+fassaden | die Fassade | noun (f, pl.) | façades | Die Fassaden der Altstadt sind bunt. | The façades of the old town are colourful.
+dächer | das Dach | noun (n, pl.) | roofs | Im Winter liegt Schnee auf den Dächern. | In winter there's snow on the roofs.
+luftqualität | die Luftqualität | noun (f) | air quality | Die Luftqualität hat sich verbessert. | Air quality has improved.
+verbessern | verbessern | verb | to improve | Ich möchte mein Deutsch verbessern. | I want to improve my German.
+sommerlichen | sommerlich | adjective | summery, summer('s) | Wir genießen die sommerlichen Temperaturen. | We're enjoying the summer temperatures.
+überhitzung | die Überhitzung | noun (f) | overheating | Der Motor ist wegen Überhitzung ausgefallen. | The engine broke down due to overheating.
+entgegenwirken | entgegenwirken | verb (separable, + dative) | to counteract, work against | Wir müssen dem Klimawandel entgegenwirken. | We must counteract climate change.
+bemängeln | bemängeln | verb | to criticise, find fault with | Kunden bemängeln den schlechten Service. | Customers criticise the poor service.
+solche | solcher | determiner | such | Solche Probleme kenne ich. | I know such problems.
+projekte | das Projekt | noun (n, pl.) | projects | Die Firma hat viele Projekte. | The company has many projects.
+häufig | häufig | adverb / adjective | frequently, often; frequent | Er ist häufig krank. | He is often ill.
+steigenden | steigend | adjective | rising, increasing | Steigende Preise sind ein Problem. | Rising prices are a problem.
+mieten | die Miete | noun (f, pl.) | rents | Die Mieten in München sind hoch. | Rents in Munich are high.
+einhergehen | einhergehen (mit) | verb (separable) | to go hand in hand with, be accompanied by | Fieber kann mit Kopfschmerzen einhergehen. | Fever can be accompanied by headaches.
+einkommensschwache | einkommensschwach | adjective | low-income | Einkommensschwache Familien bekommen Hilfe. | Low-income families receive help.
+bewohner | der Bewohner | noun (m, pl.) | residents, inhabitants | Die Bewohner protestieren gegen den Lärm. | The residents are protesting against the noise.
+verdrängen | verdrängen | verb | to displace, push out; to repress | Große Ketten verdrängen kleine Läden. | Big chains push out small shops.
+wirklich | wirklich | adverb / adjective | really, truly; real | Das ist wirklich interessant. | That's really interesting.
+zukunftsfähige | zukunftsfähig | adjective | sustainable, viable for the future | Wir brauchen zukunftsfähige Lösungen. | We need sustainable solutions.
+tenor | der Tenor | noun (m) | gist, general tone (of opinion); (also: tenor singer) | Der Tenor der Diskussion war positiv. | The general tone of the discussion was positive.
+fachleute | die Fachleute | noun (pl.) | experts, specialists | Fachleute warnen vor den Risiken. | Experts warn of the risks.
+ökologische | ökologisch | adjective | ecological, environmental | Wir achten auf ökologische Landwirtschaft. | We care about ecological farming.
+soziale | sozial | adjective | social | Soziale Medien sind sehr beliebt. | Social media are very popular.
+ziele | das Ziel | noun (n, pl.) | goals, aims, targets | Was sind deine Ziele für dieses Jahr? | What are your goals for this year?
+gleichermaßen | gleichermaßen | adverb | equally, alike | Das gilt für Männer und Frauen gleichermaßen. | That applies equally to men and women.
+berücksichtigen | berücksichtigen | verb | to take into account, consider | Wir müssen alle Faktoren berücksichtigen. | We must take all factors into account.
+
+# c1-003 Die Vier-Tage-Woche
+halben | halb | adjective | half (masc./neuter dative); seit einem halben Jahr = for six months | Seit einem halben Jahr lerne ich Gitarre. | I've been learning guitar for six months.
+leipziger | Leipziger | adjective | Leipzig (attributive: from/of Leipzig) | Die Leipziger Buchmesse ist sehr bekannt. | The Leipzig Book Fair is very well known.
+softwareunternehmens | das Softwareunternehmen | noun (n, genitive) | of a software company | Die Mitarbeiter des Softwareunternehmens arbeiten remote. | The software company's employees work remotely.
+pro | pro | preposition | per | Das kostet zehn Euro pro Person. | That costs ten euros per person.
+vollem | voll | adjective | full (masc./neuter dative); bei vollem Lohn = on full pay | Er arbeitet weniger bei vollem Gehalt. | He works less on full salary.
+lohn | der Lohn | noun (m) | wage(s), pay | Die Gewerkschaft fordert höhere Löhne. | The union is demanding higher wages.
+gewagtes | gewagt | adjective | daring, risky, bold (neuter) | Das war ein gewagtes Unternehmen. | That was a risky undertaking.
+experiment | das Experiment | noun (n) | experiment | Das Experiment ist gelungen. | The experiment was a success.
+wirkte | wirken | verb (past) | seemed, appeared; had an effect | Er wirkte müde und gestresst. | He seemed tired and stressed.
+angaben | die Angabe | noun (f, pl.) | details, information; nach Angaben = according to | Nach Angaben der Polizei gab es keine Verletzten. | According to the police, no one was injured.
+geschäftsführung | die Geschäftsführung | noun (f) | (company) management | Die Geschäftsführung hat neue Regeln beschlossen. | Management has decided on new rules.
+bewährt | bewähren / bewährt | verb (past participle) / adjective | sich bewähren = to prove its worth; tried and tested | Die Methode hat sich bewährt. | The method has proved its worth.
+produktivität | die Produktivität | noun (f) | productivity | Pausen können die Produktivität erhöhen. | Breaks can increase productivity.
+sei | sein | verb (subjunctive I) | is (in reported speech) | Er sagte, er sei krank. | He said he was ill.
+gesunken | sinken | verb (past participle) | fallen, dropped, sunk | Die Preise sind gesunken. | Prices have fallen.
+krankmeldungen | die Krankmeldung | noun (f, pl.) | sick notes, sick leave notifications | Im Winter gibt es mehr Krankmeldungen. | There are more sick notes in winter.
+dagegen | dagegen | adverb | on the other hand, by contrast; against it | Er ist laut, sie dagegen sehr ruhig. | He is loud; she, by contrast, is very quiet.
+deutlich | deutlich | adjective / adverb | clear; clearly, markedly | Die Zahlen sind deutlich gestiegen. | The figures have risen markedly.
+zurückgegangen | zurückgehen | verb (past participle) | declined, fallen; gone back | Die Arbeitslosigkeit ist zurückgegangen. | Unemployment has declined.
+offenbar | offenbar | adverb | evidently, apparently | Er hat offenbar keine Lust. | He evidently doesn't feel like it.
+abläufe | der Ablauf | noun (m, pl.) | processes, procedures, workflows | Die Abläufe im Büro müssen effizienter werden. | Office processes need to become more efficient.
+grundlegend | grundlegend | adjective / adverb | fundamental; fundamentally | Das System wurde grundlegend reformiert. | The system was fundamentally reformed.
+überdacht | überdenken | verb (past participle) | reconsidered, rethought | Wir haben unsere Pläne überdacht. | We've reconsidered our plans.
+wurden | werden | verb (past) | were (passive auxiliary); became | Die Häuser wurden 1900 gebaut. | The houses were built in 1900.
+überflüssige | überflüssig | adjective | superfluous, unnecessary (fem. / plural) | Überflüssige Kosten sollten vermieden werden. | Unnecessary costs should be avoided.
+besprechungen | die Besprechung | noun (f, pl.) | meetings | Ich habe heute drei Besprechungen. | I have three meetings today.
+gestrichen | streichen | verb (past participle) | cancelled, cut; painted | Der Flug wurde gestrichen. | The flight was cancelled.
+konzentrierte | konzentriert | adjective | concentrated, focused (fem. / plural) | Konzentrierte Arbeit braucht Ruhe. | Focused work needs quiet.
+arbeitsphasen | die Arbeitsphase | noun (f, pl.) | work phases, periods of work | Zwischen den Arbeitsphasen macht sie kurze Pausen. | She takes short breaks between work periods.
+unterbrochen | unterbrechen | verb (past participle) | interrupted | Das Gespräch wurde unterbrochen. | The conversation was interrupted.
+mitarbeitende | die Mitarbeitenden | noun (pl.) | employees, staff (gender-neutral) | Alle Mitarbeitenden bekommen einen Bonus. | All employees get a bonus.
+berichten | berichten | verb | to report | Die Medien berichten über den Streik. | The media are reporting on the strike.
+fühlten | fühlen | verb (subjunctive II / past) | (they) felt (reported speech) | Sie sagten, sie fühlten sich wohl. | They said they felt good.
+ausgeruhter | ausgeruht (comparative) | adjective | more rested | Nach dem Urlaub fühle ich mich ausgeruhter. | After the holiday I feel more rested.
+motivierter | motiviert (comparative) | adjective | more motivated | Mit Lob arbeiten Menschen motivierter. | People work with more motivation when praised.
+geben | geben | verb | to give; zu bedenken geben = to point out (a concern) | Er gab zu bedenken, dass es teuer wird. | He pointed out that it would be expensive.
+bedenken | bedenken / das Bedenken | verb / noun (n) | to consider; concern, reservation | Ich habe Bedenken gegen den Plan. | I have reservations about the plan.
+weiteres | weiter | adjective | ohne Weiteres = easily, just like that | Das kann man nicht ohne Weiteres ändern. | That can't simply be changed just like that.
+branchen | die Branche | noun (f, pl.) | sectors, industries | In vielen Branchen fehlen Fachkräfte. | Many sectors lack skilled workers.
+übertragen | übertragen | verb | to transfer, apply (to); to broadcast | Das Spiel wird live übertragen. | The match is broadcast live.
+pflege | die Pflege | noun (f) | care, nursing | In der Pflege fehlt Personal. | There is a shortage of staff in care.
+einzelhandel | der Einzelhandel | noun (m) | retail (trade) | Sie arbeitet im Einzelhandel. | She works in retail.
+personal | das Personal | noun (n) | staff, personnel | Das Hotel sucht neues Personal. | The hotel is looking for new staff.
+ohnehin | ohnehin | adverb | anyway, in any case | Ich wollte ohnehin in die Stadt. | I wanted to go into town anyway.
+knapp | knapp | adjective | scarce, in short supply; barely | Die Zeit ist knapp. | Time is short.
+würde | werden | verb (subjunctive II) | would | Ich würde gern mitkommen. | I would like to come along.
+verkürzte | verkürzt | adjective | shortened, reduced (fem. / plural) | Wegen Krankheit arbeitet sie mit verkürzter Arbeitszeit. | Due to illness she works reduced hours.
+arbeitszeit | die Arbeitszeit | noun (f) | working hours | Meine Arbeitszeit ist flexibel. | My working hours are flexible.
+zusätzliche | zusätzlich | adjective | additional, extra (fem. / plural) | Für zusätzliche Aufgaben bekommt er mehr Geld. | He gets more money for extra tasks.
+stellen | die Stelle / stellen | noun (f, pl.) / verb | positions, jobs; to put, place | Die Firma schafft hundert neue Stellen. | The company is creating a hundred new jobs.
+erfordern | erfordern | verb | to require | Diese Arbeit erfordert viel Geduld. | This work requires a lot of patience.
+besetzen | besetzen | verb | to fill (a position); to occupy | Die Stelle ist schwer zu besetzen. | The position is hard to fill.

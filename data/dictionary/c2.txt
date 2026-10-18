@@ -1,0 +1,168 @@
+# C2 vocabulary
+# Format: word | lemma | part of speech | English | German example | English example
+
+# c2-001 Über das Vergessen
+gilt | gelten | verb | is considered, counts as (als); applies | Er gilt als bester Spieler der Liga. | He is considered the best player in the league.
+gemeinhin | gemeinhin | adverb | commonly, generally | Das gilt gemeinhin als unhöflich. | That is commonly regarded as rude.
+makel | der Makel | noun (m) | flaw, blemish, stigma | Das Kleid hat einen kleinen Makel. | The dress has a small flaw.
+bedauerliches | bedauerlich | adjective | regrettable, unfortunate | Das ist ein bedauerlicher Fehler. | That is a regrettable mistake.
+versagen | das Versagen / versagen | noun (n) / verb | failure; to fail | Der Unfall war menschliches Versagen. | The accident was human error.
+unzulänglichen | unzulänglich | adjective | inadequate, insufficient | Die Ausrüstung war unzulänglich. | The equipment was inadequate.
+gedächtnisses | das Gedächtnis | noun (n, genitive) | (of) memory (the faculty) | Sie hat ein sehr gutes Gedächtnis. | She has a very good memory.
+sichtweise | die Sichtweise | noun (f) | point of view, perspective | Ich verstehe deine Sichtweise. | I understand your point of view.
+greift | greifen | verb | grabs, reaches; greift zu kurz = falls short, is too simplistic | Diese Erklärung greift zu kurz. | This explanation falls short.
+kurz | kurz | adjective / adverb | short, brief; briefly | Ich bin nur kurz weg. | I'll only be gone briefly.
+neurowissenschaftler | der Neurowissenschaftler | noun (m, pl.) | neuroscientists | Neurowissenschaftler erforschen das Gehirn. | Neuroscientists research the brain.
+mittlerweile | mittlerweile | adverb | meanwhile; by now, in the meantime | Mittlerweile wohne ich in Wien. | By now I live in Vienna.
+keineswegs | keineswegs | adverb | by no means, not at all | Das ist keineswegs selbstverständlich. | That is by no means a given.
+bloßer | bloß | adjective | mere, simple | Das war ein bloßer Zufall. | That was a mere coincidence.
+defekt | der Defekt / defekt | noun (m) / adjective | defect, fault; defective | Das Gerät hat einen Defekt. | The device has a defect.
+aktiver | aktiv | adjective | active | Er ist ein aktiver Mensch. | He is an active person.
+unverzichtbarer | unverzichtbar | adjective | indispensable, essential | Das Handy ist für viele unverzichtbar. | For many people the mobile phone is indispensable.
+vorgang | der Vorgang | noun (m) | process, procedure; event | Das ist ein natürlicher Vorgang. | That is a natural process.
+einzelheit | die Einzelheit | noun (f) | detail, particular | Ich erinnere mich an jede Einzelheit. | I remember every detail.
+unterschiedslos | unterschiedslos | adverb | indiscriminately, without distinction | Das Gesetz gilt unterschiedslos für alle. | The law applies to everyone without distinction.
+speicherte | speichern | verb (past / subjunctive II) | stored, saved; (would store) | Der Computer speicherte die Datei automatisch. | The computer saved the file automatically.
+schlichtweg | schlichtweg | adverb | simply, quite simply | Das ist schlichtweg falsch. | That is simply wrong.
+handlungsunfähig | handlungsunfähig | adjective | incapable of acting, paralysed | Ohne Strom war die Firma handlungsunfähig. | Without power the company was unable to act.
+versänke | versinken | verb (subjunctive II) | would sink, would drown (in) | Ohne Ordnung versänke ich im Chaos. | Without order I would drown in chaos.
+flut | die Flut | noun (f) | flood; high tide; deluge | Wir bekommen eine Flut von E-Mails. | We get a flood of emails.
+belangloser | belanglos | adjective | trivial, irrelevant, insignificant | Sie sprachen über belanglose Dinge. | They talked about trivial things.
+details | das Detail | noun (n, pl.) | details | Die Details besprechen wir morgen. | We'll discuss the details tomorrow.
+vermöchte | vermögen | verb (subjunctive II) | would be able to (formal, literary) | Niemand vermöchte das zu erklären. | No one would be able to explain that.
+wesentliche | wesentlich / das Wesentliche | adjective / noun | essential; das Wesentliche = the essentials, what matters | Konzentriere dich auf das Wesentliche. | Focus on what matters.
+nebensächlichen | nebensächlich / das Nebensächliche | adjective / noun | secondary, trivial; the unimportant things | Das ist eine nebensächliche Frage. | That's a minor question.
+unterscheiden | unterscheiden | verb | to distinguish, differentiate | Kannst du die Zwillinge unterscheiden? | Can you tell the twins apart?
+insofern | insofern | adverb | in this respect, to that extent | Insofern hast du recht. | In this respect you're right.
+kehrseite | die Kehrseite | noun (f) | the other side, flip side, downside | Ruhm hat auch eine Kehrseite. | Fame also has a downside.
+abstrahierens | das Abstrahieren | noun (n, genitive) | (of) abstraction, abstracting | Mathematik erfordert die Fähigkeit des Abstrahierens. | Mathematics requires the ability to abstract.
+unwichtiges | unwichtig / das Unwichtige | adjective / noun | unimportant (things) | Wir reden nur über Unwichtiges. | We're only talking about unimportant things.
+tilgen | tilgen | verb | to erase, delete; to pay off (a debt) | Er will seine Schulden tilgen. | He wants to pay off his debts.
+gelingt | gelingen | verb | succeeds; es gelingt mir = I manage to | Es gelingt ihm, den Fehler zu finden. | He manages to find the mistake.
+erkennen | erkennen | verb | to recognise, identify, realise | Ich habe dich sofort erkannt. | I recognised you immediately.
+verallgemeinern | verallgemeinern | verb | to generalise | Man sollte nicht verallgemeinern. | One shouldn't generalise.
+ungefähr | ungefähr | adverb | approximately, about; nicht von ungefähr = not by chance | Es dauert ungefähr eine Stunde. | It takes about an hour.
+schilderte | schildern | verb (past) | described, portrayed | Er schilderte den Unfall genau. | He described the accident precisely.
+argentinische | argentinisch | adjective | Argentinian | Argentinisches Rindfleisch ist berühmt. | Argentinian beef is famous.
+schriftsteller | der Schriftsteller | noun (m) | writer, author | Thomas Mann war ein berühmter Schriftsteller. | Thomas Mann was a famous writer.
+jorge | Jorge | proper noun | Jorge (Spanish first name) — Jorge Luis Borges, Argentine writer (1899–1986) | Jorge Luis Borges schrieb Erzählungen. | Jorge Luis Borges wrote short stories.
+luis | Luis | proper noun | Luis (Spanish first name) | Luis kommt aus Mexiko. | Luis comes from Mexico.
+borges | Borges | proper noun | Borges — Jorge Luis Borges, Argentine writer famous for his short stories | Borges ist für seine Erzählungen bekannt. | Borges is known for his short stories.
+erzählungen | die Erzählung | noun (f, pl.) | stories, tales, narratives | Kafkas Erzählungen sind oft seltsam. | Kafka's stories are often strange.
+gerade | gerade | adverb | just, exactly; precisely; currently | Ich esse gerade. Gerade das meine ich. | I'm eating right now. That's exactly what I mean.
+zugrunde | zugrunde | adverb | zugrunde gehen = to perish, be ruined | Die Firma ging an Schulden zugrunde. | The company was ruined by debt.
+ging | gehen | verb (past) | went | Er ging nach Hause. | He went home.
+
+# c2-002 Die Sprache der Bürokratie
+deutschen | deutsch | adjective | German | Ich lese gern deutsche Bücher. | I like reading German books.
+behördenbrief | der Behördenbrief | noun (m) | letter from a government office, official letter | Ich verstehe diesen Behördenbrief nicht. | I don't understand this official letter.
+erhalten | erhalten | verb | to receive; received (participle) | Haben Sie meine Nachricht erhalten? | Did you receive my message?
+kennt | kennen | verb | knows, is familiar with | Kennt ihr das Restaurant? | Do you know the restaurant?
+eigentümliche | eigentümlich | adjective | peculiar, strange, distinctive | Hier riecht es eigentümlich. | There's a peculiar smell here.
+text | der Text | noun (m) | text | Lies den Text und beantworte die Fragen. | Read the text and answer the questions.
+wort | das Wort | noun (n) | word; Wort für Wort = word for word | Ich verstehe kein Wort. | I don't understand a word.
+verstehen | verstehen | verb | to understand | Ich kann dich gut verstehen. | I can understand you well.
+sinn | der Sinn | noun (m) | sense, meaning; point | Das ergibt keinen Sinn. | That makes no sense.
+mühsam | mühsam | adjective / adverb | laborious(ly), with difficulty, tedious | Die Arbeit war mühsam. | The work was tedious.
+erschließen | erschließen | verb | to work out, deduce (meaning); to develop, open up | Die Bedeutung kann man aus dem Kontext erschließen. | You can work out the meaning from the context.
+sogenannte | sogenannt | adjective | so-called | Das ist der sogenannte Feierabend. | That's the so-called end of the working day.
+amtsdeutsch | das Amtsdeutsch | noun (n) | officialese, bureaucratic German | Amtsdeutsch ist oft schwer zu verstehen. | Officialese is often hard to understand.
+zeichnet | zeichnen / (sich) auszeichnen | verb | draws; zeichnet sich ... aus = is characterised by | Sie zeichnet sich durch Geduld aus. | She is characterised by patience.
+verschachtelte | verschachtelt | adjective | nested, convoluted (sentences) | Kant schrieb sehr verschachtelte Sätze. | Kant wrote very convoluted sentences.
+satzgefüge | das Satzgefüge | noun (n, pl.) | complex sentences (main clause + subordinate clauses) | Lange Satzgefüge sind typisch für Amtsdeutsch. | Long complex sentences are typical of officialese.
+vorliebe | die Vorliebe | noun (f) | preference, fondness, liking | Er hat eine Vorliebe für Jazz. | He has a fondness for jazz.
+substantivierungen | die Substantivierung | noun (f, pl.) | nominalisations (turning verbs/adjectives into nouns) | Das Lesen ist eine Substantivierung von lesen. | Das Lesen is a nominalisation of lesen.
+geradezu | geradezu | adverb | downright, practically, virtually | Das ist geradezu lächerlich. | That's downright ridiculous.
+verschwenderische | verschwenderisch | adjective | wasteful, lavish | Er hat einen verschwenderischen Lebensstil. | He has a lavish lifestyle.
+verwendung | die Verwendung | noun (f) | use, usage | Die Verwendung von Handys ist hier verboten. | The use of mobile phones is prohibited here.
+passivs | das Passiv | noun (n, genitive) | (of) the passive voice | Das Passiv wird mit werden gebildet. | The passive is formed with werden.
+schlicht | schlicht | adverb / adjective | simply, plainly; plain | Das ist schlicht unmöglich. | That is simply impossible.
+mitzuteilen | mitteilen | verb (zu-infinitive) | to inform, notify, communicate | Wir bitten Sie, uns Ihre Adresse mitzuteilen. | Please inform us of your address.
+beantragen | beantragen | verb | to apply for (officially) | Ich muss einen neuen Pass beantragen. | I have to apply for a new passport.
+bestehe | bestehen | verb (subjunctive I) | exists (reported speech); bestehen = to exist; to pass (an exam) | Er sagt, es bestehe keine Gefahr. | He says there is no danger.
+möglichkeit | die Möglichkeit | noun (f) | possibility, opportunity | Es gibt die Möglichkeit, online zu bezahlen. | There's the option of paying online.
+antragstellung | die Antragstellung | noun (f) | submission of an application | Die Antragstellung erfolgt online. | Applications are submitted online.
+sprachkritiker | der Sprachkritiker | noun (m, pl.) | language critics | Sprachkritiker bemängeln viele Anglizismen. | Language critics object to many anglicisms.
+monieren | monieren | verb | to complain about, criticise | Die Kunden monieren die hohen Preise. | The customers complain about the high prices.
+ausdrucksweise | die Ausdrucksweise | noun (f) | way of expressing oneself, phrasing | Achte auf deine Ausdrucksweise! | Watch your language!
+schaffe | schaffen | verb (subjunctive I) | creates (reported speech) | Sie meint, Bewegung schaffe neue Energie. | She thinks exercise creates new energy.
+distanz | die Distanz | noun (f) | distance (also emotional) | Er hält Distanz zu seinen Kollegen. | He keeps his distance from his colleagues.
+verschleiere | verschleiern | verb (subjunctive I) | conceals, obscures (reported speech) | Man wirft ihm vor, er verschleiere die Wahrheit. | He is accused of concealing the truth.
+verantwortlichkeiten | die Verantwortlichkeit | noun (f, pl.) | responsibilities, accountability | Die Verantwortlichkeiten sind klar verteilt. | The responsibilities are clearly divided.
+verfechter | der Verfechter | noun (m, pl.) | advocates, champions, defenders | Er ist ein Verfechter der Demokratie. | He is a champion of democracy.
+halten | halten | verb | to hold, keep; halten dem entgegen = counter (an argument) | Kritiker halten dem entgegen, dass es zu teuer ist. | Critics counter that it's too expensive.
+entgegen | entgegen | preposition / prefix | against, contrary to; entgegenhalten = to counter | Entgegen meiner Erwartung kam er pünktlich. | Contrary to my expectations he came on time.
+juristische | juristisch | adjective | legal, juridical | Das ist eine juristische Frage. | That's a legal question.
+präzision | die Präzision | noun (f) | precision | Uhrmacher arbeiten mit großer Präzision. | Watchmakers work with great precision.
+lasse | lassen | verb (subjunctive I) | lets; lasse sich = can be (reported speech) | Er meint, das lasse sich leicht ändern. | He thinks that can easily be changed.
+beliebig | beliebig | adjective / adverb | arbitrary; any, at will | Du kannst eine beliebige Zahl wählen. | You can choose any number.
+vereinfachen | vereinfachen | verb | to simplify | Wir wollen den Prozess vereinfachen. | We want to simplify the process.
+mehrere | mehrere | determiner | several | Ich habe mehrere Bewerbungen geschrieben. | I've written several applications.
+bundesländer | das Bundesland | noun (n, pl.) | federal states (of Germany / Austria) | Deutschland hat sechzehn Bundesländer. | Germany has sixteen federal states.
+leitfäden | der Leitfaden | noun (m, pl.) | guidelines, guides, manuals | Die Uni bietet Leitfäden zum wissenschaftlichen Schreiben. | The university offers guides on academic writing.
+bürgernahe | bürgernah | adjective | citizen-friendly, accessible to the public | Die Verwaltung soll bürgernäher werden. | The administration is supposed to become more citizen-friendly.
+sprache | die Sprache | noun (f) | language | Deutsch ist eine schöne Sprache. | German is a beautiful language.
+herausgegeben | herausgeben | verb (participle) | published, issued | Der Verlag hat ein neues Wörterbuch herausgegeben. | The publisher has issued a new dictionary.
+wechselndem | wechselnd | adjective | changing, varying, mixed | Morgen gibt es wechselndes Wetter. | Tomorrow the weather will be changeable.
+erfolg | der Erfolg | noun (m) | success | Viel Erfolg bei der Prüfung! | Good luck with the exam!
+eingefahrene | eingefahren | adjective | entrenched, deep-rooted, stuck in a rut | Er hat sehr eingefahrene Gewohnheiten. | He has very entrenched habits.
+formulierungen | die Formulierung | noun (f, pl.) | formulations, wordings, phrasings | Achte auf höfliche Formulierungen. | Pay attention to polite phrasing.
+erstaunlich | erstaunlich | adjective / adverb | astonishing(ly), surprising(ly) | Das Ergebnis ist erstaunlich gut. | The result is astonishingly good.
+zählebig | zählebig | adjective | tenacious, hard to kill, persistent | Vorurteile sind zählebig. | Prejudices die hard.
+
+# c2-003 Lob der Langeweile
+zuletzt | zuletzt | adverb | last (time); finally | Wann hast du ihn zuletzt gesehen? | When did you last see him?
+gelangweilt | langweilen | verb (past participle) | bored; sich langweilen = to be bored | Ich habe mich im Vortrag gelangweilt. | I was bored in the lecture.
+frage | die Frage | noun (f) | question | Ich habe eine Frage. | I have a question.
+befremdlich | befremdlich | adjective | strange, disconcerting, odd | Sein Verhalten fand ich befremdlich. | I found his behaviour disconcerting.
+klingen | klingen | verb | to sound | Das mag seltsam klingen, ist aber wahr. | That may sound strange, but it's true.
+antwort | die Antwort | noun (f) | answer, reply | Ich warte noch auf eine Antwort. | I'm still waiting for an answer.
+dürfte | dürfen | verb (subjunctive II) | is likely to, probably will; might | Das dürfte nicht schwer sein. | That probably won't be difficult.
+schwerfallen | schwerfallen | verb | to be difficult (for someone) | Der Abschied wird mir schwerfallen. | Saying goodbye will be hard for me.
+entsteht | entstehen | verb | arises, comes into being | Hier entsteht ein neues Wohnviertel. | A new residential area is being built here.
+moment | der Moment | noun (m) | moment | Einen Moment, bitte! | One moment, please!
+leerlaufs | der Leerlauf | noun (m, genitive) | (of) idle time, downtime; neutral (gear) | Im Büro gibt es kaum Leerlauf. | There's hardly any downtime in the office.
+schlange | die Schlange | noun (f) | queue, line; snake | Vor dem Museum steht eine lange Schlange. | There's a long queue in front of the museum.
+greifen | greifen | verb | to reach (for), grab; zu etwas greifen = to resort to | Er greift nach seinem Glas. | He reaches for his glass.
+reflexhaft | reflexhaft | adverb / adjective | reflexively, by reflex | Sie greift reflexhaft zum Handy. | She reaches for her phone by reflex.
+smartphone | das Smartphone | noun (n) | smartphone | Ohne Smartphone fühlt er sich verloren. | He feels lost without his smartphone.
+gälte | gelten | verb (subjunctive II) | als gälte es = as if it were a matter of | Er rannte, als gälte es sein Leben. | He ran as if his life depended on it.
+drohende | drohend | adjective | threatening, looming (fem. / plural) | Die drohende Krise beunruhigt viele. | The looming crisis worries many people.
+leere | die Leere / leer | noun (f) / adjective | emptiness, void; empty (fem. / plural) | Nach seinem Tod spürte sie eine große Leere. | After his death she felt a great emptiness.
+preis | der Preis | noun (m) | price; prize; um jeden Preis = at any cost | Er will um jeden Preis gewinnen. | He wants to win at any cost.
+abzuwenden | abwenden | verb (zu-infinitive) | to avert, ward off | Es gelang, die Katastrophe abzuwenden. | They managed to avert the disaster.
+langeweile | die Langeweile | noun (f) | boredom | Aus Langeweile fing er an zu malen. | Out of boredom he started painting.
+verpönt | verpönt | adjective | frowned upon, taboo | Rauchen ist heute vielerorts verpönt. | Smoking is frowned upon in many places today.
+philosophen | der Philosoph | noun (m, pl.) | philosophers | Antike Philosophen fragten nach dem Glück. | Ancient philosophers asked about happiness.
+sahen | sehen | verb (past) | (they) saw | Sie sahen in ihm einen Helden. | They saw him as a hero.
+zustand | der Zustand | noun (m) | state, condition | Das Haus ist in einem guten Zustand. | The house is in good condition.
+mensch | der Mensch | noun (m) | human being, person | Jeder Mensch braucht Ruhe. | Every person needs rest.
+zurückgeworfen | zurückwerfen | verb (past participle) | thrown back; auf sich selbst zurückgeworfen = thrown back on oneself | In der Krise ist man auf sich selbst zurückgeworfen. | In a crisis you are thrown back on your own resources.
+psychologische | psychologisch | adjective | psychological (fem. / plural) | Psychologische Faktoren spielen eine große Rolle. | Psychological factors play a big role.
+studien | die Studie | noun (f, pl.) | studies (research) | Neue Studien zeigen das Gegenteil. | New studies show the opposite.
+legen | legen | verb | to lay, put; nahelegen = to suggest | Die Daten legen einen Zusammenhang nahe. | The data suggest a connection.
+nahe | nahe | adjective / prefix | near, close; part of nahelegen (to suggest) | Die Schule liegt nahe am Bahnhof. | The school is close to the station.
+ungerichtetes | ungerichtet | adjective | undirected, unfocused (neuter) | Ungerichtetes Denken kann kreativ sein. | Unfocused thinking can be creative.
+grübeln | das Grübeln / grübeln | noun (n) / verb | brooding, pondering; to brood, ponder | Nachts grübelt er über seine Zukunft. | At night he broods about his future.
+jene | jener | demonstrative | those, that (formal) | Jene Tage waren die schönsten meines Lebens. | Those days were the best of my life.
+gedanklichen | gedanklich | adjective | mental, intellectual, of thought (acc./dat./pl.) | Die gedanklichen Schritte sind schwer nachzuvollziehen. | The steps of thought are hard to follow.
+verknüpfungen | die Verknüpfung | noun (f, pl.) | connections, links | Das Gehirn bildet ständig neue Verknüpfungen. | The brain constantly forms new connections.
+begünstigt | begünstigen | verb | favours, promotes, encourages | Warmes Wetter begünstigt das Wachstum. | Warm weather encourages growth.
+denen | der/die/das (relative) | pronoun | which, whom (dative plural relative) | Das sind die Leute, denen ich helfe. | Those are the people I help.
+einfälle | der Einfall | noun (m, pl.) | ideas, inspirations | Beim Duschen habe ich die besten Einfälle. | I have my best ideas in the shower.
+hervorgehen | hervorgehen | verb | to emerge, arise, result (from) | Aus dem Treffen ging ein neues Projekt hervor. | A new project emerged from the meeting.
+aussetzt | aussetzen | verb | sich etwas aussetzen = to expose oneself to something | Wer sich der Sonne zu lange aussetzt, bekommt Sonnenbrand. | Anyone who exposes themselves to the sun too long gets sunburnt.
+beraubt | berauben | verb | sich (einer Sache) berauben = to deprive oneself (of something) | Er beraubt sich jeder Chance. | He deprives himself of every chance.
+also | also | adverb | so, therefore, thus (not "also"!) | Es regnet, also bleiben wir zu Hause. | It's raining, so we're staying at home.
+womöglich | womöglich | adverb | possibly, perhaps | Er hat es womöglich vergessen. | He may possibly have forgotten.
+stillen | still | adjective | quiet, silent (fem. dat. / acc./dat./pl.) | Sie sucht einen stillen Ort zum Lesen. | She's looking for a quiet place to read.
+quelle | die Quelle | noun (f) | source; spring | Bitte nennen Sie Ihre Quellen. | Please cite your sources.
+schöpferischer | schöpferisch | adjective | creative (fem. genitive/dative) | Sie verfügt über große schöpferische Kraft. | She has great creative power.
+kraft | die Kraft | noun (f) | strength, power, force | Ich habe keine Kraft mehr. | I have no strength left.
+darum | darum | adverb | therefore; es geht darum = the point is, it's about | Es geht darum, Zeit zu sparen. | The point is to save time.
+technik | die Technik | noun (f) | technology; technique | Die moderne Technik verändert unser Leben. | Modern technology is changing our lives.
+verteufeln | verteufeln | verb | to demonise | Man sollte das Internet nicht verteufeln. | One shouldn't demonise the internet.
+muße | die Muße | noun (f) | leisure, idleness (time free from purpose) | Ihr fehlt die Muße zum Lesen. | She lacks the leisure for reading.
+zurückzuerobern | zurückerobern | verb (zu-infinitive) | to win back, reconquer | Die Stadt versucht, ihre Plätze für Fußgänger zurückzuerobern. | The city is trying to win back its squares for pedestrians.
+zweck | der Zweck | noun (m) | purpose, aim | Welchen Zweck hat das Treffen? | What is the purpose of the meeting?
+dienen | dienen | verb | to serve | Das Geld dient einem guten Zweck. | The money serves a good cause.

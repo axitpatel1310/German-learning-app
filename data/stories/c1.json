@@ -1,0 +1,35 @@
+[
+  {
+    "id": "c1-001",
+    "title": "Die Macht der Gewohnheit",
+    "title_en": "The power of habit",
+    "summary_en": "Nearly half of our daily actions are automatic habits. That saves the brain energy, but harmful patterns are hard to break; psychologists recommend changing your environment and taking small, consistent steps.",
+    "paragraphs": [
+      "Gewohnheiten prägen unseren Alltag weitaus stärker, als uns bewusst ist. Schätzungen zufolge beruht nahezu die Hälfte unserer täglichen Handlungen nicht auf bewussten Entscheidungen, sondern auf automatisierten Abläufen. Aus evolutionärer Sicht ist das durchaus sinnvoll: Das Gehirn spart Energie, indem es wiederkehrende Tätigkeiten gewissermaßen auslagert.",
+      "Problematisch wird es allerdings, wenn sich schädliche Muster verfestigen. Wer etwa versucht, das Rauchen aufzugeben, stellt rasch fest, wie hartnäckig eingeschliffene Verhaltensweisen sein können.",
+      "Psychologen raten daher, nicht bloß auf Willenskraft zu setzen, sondern das Umfeld gezielt zu verändern. Wer beispielsweise gesünder essen möchte, sollte Süßigkeiten gar nicht erst einkaufen. Kleine, konsequent umgesetzte Schritte erweisen sich auf Dauer als wirksamer als radikale Vorsätze, die nach wenigen Wochen in Vergessenheit geraten."
+    ]
+  },
+  {
+    "id": "c1-002",
+    "title": "Stadt der Zukunft",
+    "title_en": "City of the future",
+    "summary_en": "Cities experiment with bike-first traffic and green façades to face climate change, but critics warn of rising rents and displacement; a sustainable city must balance ecological and social goals.",
+    "paragraphs": [
+      "Angesichts des Klimawandels und der fortschreitenden Urbanisierung stehen Städte weltweit vor enormen Herausforderungen. Stadtplaner experimentieren deshalb mit Konzepten, die vor wenigen Jahrzehnten noch als utopisch gegolten hätten.",
+      "In Kopenhagen etwa wurde der Autoverkehr systematisch zugunsten von Radwegen zurückgedrängt, sodass inzwischen mehr Menschen mit dem Fahrrad als mit dem Auto zur Arbeit pendeln. Andere Metropolen setzen auf begrünte Fassaden und Dächer, die nicht nur die Luftqualität verbessern, sondern auch der sommerlichen Überhitzung entgegenwirken.",
+      "Kritiker bemängeln jedoch, dass solche Projekte häufig mit steigenden Mieten einhergehen und einkommensschwache Bewohner verdrängen. Eine wirklich zukunftsfähige Stadt müsse daher, so der Tenor vieler Fachleute, ökologische und soziale Ziele gleichermaßen berücksichtigen."
+    ]
+  },
+  {
+    "id": "c1-003",
+    "title": "Die Vier-Tage-Woche",
+    "title_en": "The four-day week",
+    "summary_en": "A software company in Leipzig tests a four-day week with full pay. Productivity stays stable and staff are less stressed, but critics point out that the model doesn't suit every sector.",
+    "paragraphs": [
+      "Seit einem halben Jahr arbeiten die Beschäftigten eines Leipziger Softwareunternehmens nur noch vier Tage pro Woche – bei vollem Lohn. Was zunächst wie ein gewagtes Experiment wirkte, hat sich nach Angaben der Geschäftsführung bewährt: Die Produktivität sei nicht gesunken, die Zahl der Krankmeldungen dagegen deutlich zurückgegangen.",
+      "Entscheidend für den Erfolg war offenbar, dass Abläufe grundlegend überdacht wurden. Überflüssige Besprechungen wurden gestrichen, und konzentrierte Arbeitsphasen dürfen nicht durch E-Mails unterbrochen werden. Viele Mitarbeitende berichten, sie fühlten sich ausgeruhter und motivierter.",
+      "Kritiker geben allerdings zu bedenken, dass sich das Modell nicht ohne Weiteres auf andere Branchen übertragen lasse. In der Pflege oder im Einzelhandel, wo Personal ohnehin knapp ist, würde eine verkürzte Arbeitszeit zusätzliche Stellen erfordern, die kaum zu besetzen sind."
+    ]
+  }
+]

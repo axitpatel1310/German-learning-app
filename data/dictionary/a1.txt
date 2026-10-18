@@ -1,0 +1,1406 @@
+# A1 vocabulary
+# Format: word | lemma | part of speech | English | German example | English example
+
+# a1-001 Mein Name ist Anna
+name | der Name | noun (m) | name | Wie ist Ihr Name? | What is your name?
+anna | Anna | proper noun | Anna (female first name) | Anna wohnt in Berlin. | Anna lives in Berlin.
+jahre | das Jahr | noun (n, pl.) | years | Ich bin dreißig Jahre alt. | I am thirty years old.
+alt | alt | adjective | old | Das Haus ist sehr alt. | The house is very old.
+wohne | wohnen | verb | (I) live, reside | Ich wohne in München. | I live in Munich.
+berlin | Berlin | proper noun | Berlin (capital of Germany) | Berlin ist groß. | Berlin is big.
+bruder | der Bruder | noun (m) | brother | Mein Bruder spielt Gitarre. | My brother plays guitar.
+heißt | heißen | verb | is called, is named | Wie heißt deine Schwester? | What is your sister's name?
+tom | Tom | proper noun | Tom (male first name) | Tom geht zur Schule. | Tom goes to school.
+morgen | der Morgen / morgen | noun (m) / adverb | morning; tomorrow (morgen) | Am Morgen trinke ich Tee. | In the morning I drink tea.
+trinke | trinken | verb | (I) drink | Ich trinke gern Wasser. | I like drinking water.
+kaffee | der Kaffee | noun (m) | coffee | Der Kaffee ist heiß. | The coffee is hot.
+esse | essen | verb | (I) eat | Ich esse gern Pizza. | I like eating pizza.
+brot | das Brot | noun (n) | bread; slice of bread / sandwich | Ich kaufe frisches Brot. | I'm buying fresh bread.
+käse | der Käse | noun (m) | cheese | Ich mag Käse aus der Schweiz. | I like cheese from Switzerland.
+fahre | fahren | verb | (I) drive, ride, go (by vehicle) | Ich fahre mit dem Fahrrad. | I go by bicycle.
+bus | der Bus | noun (m) | bus | Der Bus kommt um acht. | The bus comes at eight.
+arbeit | die Arbeit | noun (f) | work; job | Ich gehe zur Arbeit. | I'm going to work.
+arbeite | arbeiten | verb | (I) work | Ich arbeite in einem Büro. | I work in an office.
+café | das Café | noun (n) | café | Wir treffen uns im Café. | We're meeting in the café.
+macht | machen | verb | makes, does; Spaß machen = to be fun | Das macht Spaß! | That's fun!
+spaß | der Spaß | noun (m) | fun | Viel Spaß beim Spielen! | Have fun playing!
+anstrengend | anstrengend | adjective | tiring, exhausting | Der Tag war anstrengend. | The day was exhausting.
+abend | der Abend | noun (m) | evening | Am Abend sehe ich fern. | In the evening I watch TV.
+koche | kochen | verb | (I) cook | Ich koche heute Nudeln. | I'm cooking pasta today.
+mutter | die Mutter | noun (f) | mother | Meine Mutter ist Lehrerin. | My mother is a teacher.
+essen | essen / das Essen | verb / noun (n) | to eat; food, meal | Wir essen um sieben. | We eat at seven.
+zusammen | zusammen | adverb | together | Wir lernen zusammen. | We study together.
+sprechen | sprechen | verb | to speak, talk | Wir sprechen Deutsch. | We speak German.
+tag | der Tag | noun (m) | day | Heute ist ein schöner Tag. | Today is a beautiful day.
+lese | lesen | verb | (I) read | Ich lese die Zeitung. | I read the newspaper.
+buch | das Buch | noun (n) | book | Das Buch ist spannend. | The book is exciting.
+uhr | die Uhr | noun (f) | o'clock; clock, watch | Es ist acht Uhr. | It is eight o'clock.
+gehe | gehen | verb | (I) go, walk | Ich gehe nach Hause. | I'm going home.
+bett | das Bett | noun (n) | bed | Ich gehe ins Bett. | I'm going to bed.
+
+# a1-002 Im Supermarkt
+heute | heute | adverb | today | Heute ist Montag. | Today is Monday.
+samstag | der Samstag | noun (m) | Saturday | Am Samstag gehe ich einkaufen. | On Saturday I go shopping.
+peter | Peter | proper noun | Peter (male first name) | Peter ist mein Nachbar. | Peter is my neighbour.
+geht | gehen | verb | goes, walks; es geht = it's okay | Sie geht in die Schule. | She goes to school.
+supermarkt | der Supermarkt | noun (m) | supermarket | Der Supermarkt ist um die Ecke. | The supermarket is around the corner.
+braucht | brauchen | verb | needs | Er braucht einen neuen Computer. | He needs a new computer.
+milch | die Milch | noun (f) | milk | Ich trinke Kaffee mit Milch. | I drink coffee with milk.
+eier | das Ei | noun (n, pl.) | eggs | Ich kaufe sechs Eier. | I'm buying six eggs.
+äpfel | der Apfel | noun (m, pl.) | apples | Die Äpfel sind süß. | The apples are sweet.
+weit | weit | adjective | far | Der Bahnhof ist nicht weit. | The station isn't far.
+fuß | der Fuß | noun (m) | foot; zu Fuß = on foot | Ich gehe zu Fuß zur Schule. | I walk to school.
+voll | voll | adjective | full, crowded | Der Bus ist voll. | The bus is full.
+leute | die Leute | noun (pl.) | people | Hier wohnen nette Leute. | Nice people live here.
+kaufen | kaufen | verb | to buy; einkaufen = to shop | Wir kaufen ein Auto. | We're buying a car.
+nimmt | nehmen | verb | takes | Er nimmt den Bus. | He takes the bus.
+korb | der Korb | noun (m) | basket | Der Korb ist voll mit Obst. | The basket is full of fruit.
+rot | rot | adjective | red | Die Tomate ist rot. | The tomato is red.
+frisch | frisch | adjective | fresh | Der Fisch ist frisch. | The fish is fresh.
+kilo | das Kilo | noun (n) | kilo(gram) | Ein Kilo Tomaten, bitte. | A kilo of tomatoes, please.
+kostet | kosten | verb | costs | Was kostet das? | What does that cost?
+euro | der Euro | noun (m) | euro | Das Ticket kostet zehn Euro. | The ticket costs ten euros.
+findet | finden | verb | finds; thinks (an opinion) | Er findet seine Brille nicht. | He can't find his glasses.
+fragt | fragen | verb | asks | Sie fragt den Lehrer. | She asks the teacher.
+verkäuferin | die Verkäuferin | noun (f) | (female) shop assistant, saleswoman | Die Verkäuferin ist sehr freundlich. | The shop assistant is very friendly.
+entschuldigung | die Entschuldigung | noun (f) / interjection | excuse me; sorry; apology | Entschuldigung, wie spät ist es? | Excuse me, what time is it?
+lächelt | lächeln | verb | smiles | Das Baby lächelt. | The baby is smiling.
+hinten | hinten | adverb | at the back, behind | Der Ausgang ist hinten. | The exit is at the back.
+links | links | adverb | (on the) left | Gehen Sie hier links. | Turn left here.
+danke | danke | interjection | thank you, thanks | Danke für deine Hilfe! | Thanks for your help!
+schön | schön | adjective / adverb | beautiful, nice; danke schön = thank you very much | Das Wetter ist schön. | The weather is nice.
+sagt | sagen | verb | says | Er sagt nichts. | He says nothing.
+kasse | die Kasse | noun (f) | checkout, till, cash register | Bitte zahlen Sie an der Kasse. | Please pay at the checkout.
+bezahlt | bezahlen | verb | pays; paid (participle) | Sie bezahlt mit Karte. | She pays by card.
+hause | das Haus (nach Hause / zu Hause) | noun (n) | home: nach Hause = (to) home, zu Hause = at home | Ich bin heute zu Hause. | I'm at home today.
+
+# --- Day 2 additions (a1-003 … a1-100) ---
+heiße | heißen | verb | (I) am called | Ich heiße Maria. | My name is Maria.
+lukas | Lukas | proper noun | Lukas (male first name) | Lukas ist acht Jahre alt. | Lukas is eight years old.
+acht | acht | number | eight | Der Kurs beginnt um acht Uhr. | The course starts at eight o'clock.
+hamburg | Hamburg | proper noun | Hamburg (city in northern Germany) | Hamburg hat einen großen Hafen. | Hamburg has a big port.
+meine | mein | possessive | my (fem. / plural) | Meine Eltern wohnen in Köln. | My parents live in Cologne.
+groß | groß | adjective | big, large; tall | Das Zimmer ist groß. | The room is big.
+vater | der Vater | noun (m) | father | Mein Vater arbeitet viel. | My father works a lot.
+jan | Jan | proper noun | Jan (male first name) | Jan spielt Tennis. | Jan plays tennis.
+arzt | der Arzt | noun (m) | doctor (male) | Ich muss zum Arzt gehen. | I have to go to the doctor.
+krankenhaus | das Krankenhaus | noun (n) | hospital | Sie liegt im Krankenhaus. | She is in hospital.
+sabine | Sabine | proper noun | Sabine (female first name) | Sabine trinkt gern Tee. | Sabine likes drinking tea.
+lehrerin | die Lehrerin | noun (f) | teacher (female) | Die Lehrerin erklärt die Grammatik. | The teacher explains the grammar.
+schwester | die Schwester | noun (f) | sister | Meine Schwester wohnt in Wien. | My sister lives in Vienna.
+mia | Mia | proper noun | Mia (female first name) | Mia malt ein Bild. | Mia is painting a picture.
+vier | vier | number | four | Wir sind vier Personen. | There are four of us.
+laut | laut | adjective | loud, noisy | Die Musik ist zu laut. | The music is too loud.
+oma | die Oma | noun (f) | grandma, granny | Meine Oma backt gern. | My grandma likes baking.
+wohnt | wohnen | verb | lives, resides | Er wohnt in einer kleinen Wohnung. | He lives in a small flat.
+kocht | kochen | verb | cooks | Mein Vater kocht heute. | My father is cooking today.
+gut | gut | adjective / adverb | good; well | Das Essen schmeckt gut. | The food tastes good.
+sonntag | der Sonntag | noun (m) | Sunday | Am Sonntag schlafe ich lange. | On Sunday I sleep in.
+backt | backen | verb | bakes | Sie backt einen Kuchen. | She is baking a cake.
+kuchen | der Kuchen | noun (m) | cake | Möchtest du ein Stück Kuchen? | Would you like a piece of cake?
+hund | der Hund | noun (m) | dog | Der Hund spielt im Garten. | The dog is playing in the garden.
+bello | Bello | proper noun | Bello (a typical dog's name) | Bello bellt laut. | Bello barks loudly.
+liebe | lieben / lieb | verb / adjective | (I) love; dear (in letters: Liebe Oma = Dear Grandma) | Ich liebe dich. | I love you.
+sara | Sara | proper noun | Sara (female first name) | Sara wohnt in Köln. | Sara lives in Cologne.
+wohnung | die Wohnung | noun (f) | flat, apartment | Die Wohnung hat drei Zimmer. | The flat has three rooms.
+köln | Köln | proper noun | Cologne (city on the Rhine) | Der Dom steht in Köln. | The cathedral is in Cologne.
+zimmer | das Zimmer | noun (n) | room | Mein Zimmer ist klein. | My room is small.
+küche | die Küche | noun (f) | kitchen; cuisine | Wir essen in der Küche. | We eat in the kitchen.
+bad | das Bad | noun (n) | bathroom; bath (ein Bad nehmen = to have a bath) | Das Bad ist neben der Küche. | The bathroom is next to the kitchen.
+hell | hell | adjective | bright, light | Das Zimmer ist sehr hell. | The room is very bright.
+sofa | das Sofa | noun (n) | sofa, couch | Die Katze schläft auf dem Sofa. | The cat is sleeping on the sofa.
+tisch | der Tisch | noun (m) | table | Das Buch liegt auf dem Tisch. | The book is on the table.
+stühle | der Stuhl | noun (m, pl.) | chairs | Wir brauchen noch zwei Stühle. | We need two more chairs.
+schlafzimmer | das Schlafzimmer | noun (n) | bedroom | Das Schlafzimmer ist ruhig. | The bedroom is quiet.
+steht | stehen | verb | stands; is (located); im Plan steht = it says in the plan; steht auf = gets up | Das Auto steht vor dem Haus. | The car is in front of the house.
+kühlschrank | der Kühlschrank | noun (m) | fridge, refrigerator | Die Milch ist im Kühlschrank. | The milk is in the fridge.
+herd | der Herd | noun (m) | cooker, stove | Der Topf steht auf dem Herd. | The pot is on the stove.
+trinkt | trinken | verb | drinks | Er trinkt viel Wasser. | He drinks a lot of water.
+tee | der Tee | noun (m) | tea | Möchtest du einen Tee? | Would you like a tea?
+vierten | vierte | number (ordinal) | fourth | Ich wohne im vierten Stock. | I live on the fourth floor.
+stock | der Stock | noun (m) | floor, storey | Das Büro ist im zweiten Stock. | The office is on the second floor.
+keinen | kein | determiner | no, not a (masc. accusative) | Ich habe keinen Hunger. | I'm not hungry.
+aufzug | der Aufzug | noun (m) | lift, elevator | Der Aufzug ist kaputt. | The lift is broken.
+problem | das Problem | noun (n) | problem | Das ist kein Problem. | That's no problem.
+miete | die Miete | noun (f) | rent | Die Miete ist sehr hoch. | The rent is very high.
+teuer | teuer | adjective | expensive | Das Hotel ist zu teuer. | The hotel is too expensive.
+glücklich | glücklich | adjective | happy | Die Kinder sind glücklich. | The children are happy.
+paul | Paul | proper noun | Paul (male first name) | Paul trinkt einen Tee. | Paul is drinking a tea.
+treffen | treffen | verb | to meet; (we/they) meet; sich treffen = to meet up | Wir treffen uns um acht. | We're meeting at eight.
+kellner | der Kellner | noun (m) | waiter | Der Kellner bringt die Karte. | The waiter brings the menu.
+möchten | mögen | verb (modal) | (we/they/you formal) would like | Möchten Sie etwas trinken? | Would you like something to drink?
+trinken | trinken | verb | to drink | Was möchtest du trinken? | What would you like to drink?
+nehme | nehmen | verb | (I) take; (I'll) have (when ordering) | Ich nehme die Suppe. | I'll have the soup.
+bitte | bitte | adverb | please; you're welcome; here you are | Ein Wasser, bitte. | A water, please.
+bestellt | bestellen | verb | orders | Sie bestellt eine Pizza. | She orders a pizza.
+stück | das Stück | noun (n) | piece | Ich nehme ein Stück Torte. | I'll have a piece of gateau.
+sandwich | das Sandwich | noun (n) | sandwich | Er isst ein Sandwich mit Käse. | He's eating a cheese sandwich.
+schinken | der Schinken | noun (m) | ham | Ich esse Brot mit Schinken. | I'm eating bread with ham.
+lecker | lecker | adjective | tasty, delicious | Die Suppe ist lecker! | The soup is delicious!
+ruft | rufen / anrufen | verb | calls, shouts; ruft … an = phones | Das Kind ruft seine Mutter. | The child calls its mother.
+rechnung | die Rechnung | noun (f) | bill, invoice | Die Rechnung, bitte! | The bill, please!
+alles | alles | pronoun | everything, all | Alles ist gut. | Everything is fine.
+vierzehn | vierzehn | number | fourteen | Sie ist vierzehn Jahre alt. | She is fourteen years old.
+ahmet | Ahmet | proper noun | Ahmet (Turkish male first name) | Ahmet studiert in Berlin. | Ahmet studies in Berlin.
+student | der Student | noun (m) | student (male, at university) | Er ist Student in Köln. | He is a student in Cologne.
+stehe | stehen / aufstehen | verb | (I) stand; stehe … auf = (I) get up | Ich stehe um sechs Uhr auf. | I get up at six o'clock.
+sieben | sieben | number | seven | Die Woche hat sieben Tage. | The week has seven days.
+zuerst | zuerst | adverb | first, at first | Zuerst trinke ich Kaffee. | First I drink coffee.
+dusche | duschen / die Dusche | verb / noun (f) | (I) shower; shower | Ich dusche jeden Morgen. | I shower every morning.
+frühstücke | frühstücken | verb | (I) have breakfast | Ich frühstücke um sieben. | I have breakfast at seven.
+müsli | das Müsli | noun (n) | muesli, cereal | Ich esse Müsli mit Joghurt. | I eat muesli with yoghurt.
+orangensaft | der Orangensaft | noun (m) | orange juice | Ein Glas Orangensaft, bitte. | A glass of orange juice, please.
+u-bahn | die U-Bahn | noun (f) | underground, subway | Ich fahre mit der U-Bahn. | I go by underground.
+studiere | studieren | verb | (I) study (at university) | Ich studiere Medizin. | I'm studying medicine.
+informatik | die Informatik | noun (f) | computer science | Sie studiert Informatik. | She studies computer science.
+mensa | die Mensa | noun (f) | university canteen | Das Essen in der Mensa ist billig. | The food in the canteen is cheap.
+billig | billig | adjective | cheap | Das T-Shirt war billig. | The T-shirt was cheap.
+lerne | lernen | verb | (I) learn, study | Ich lerne Deutsch. | I'm learning German.
+bibliothek | die Bibliothek | noun (f) | library | Ich lese in der Bibliothek. | I read in the library.
+fünf | fünf | number | five | Das kostet fünf Euro. | That costs five euros.
+spiele | spielen | verb | (I) play | Ich spiele gern Tennis. | I like playing tennis.
+freunden | der Freund | noun (m, dat. pl.) | (with) friends | Ich gehe mit Freunden ins Kino. | I'm going to the cinema with friends.
+fußball | der Fußball | noun (m) | football, soccer | Wir spielen Fußball im Park. | We play football in the park.
+sehe | sehen / fernsehen | verb | (I) see; sehe … fern = (I) watch TV | Ich sehe einen Vogel. | I see a bird.
+fern | fern / fernsehen | adjective / prefix | far; part of fernsehen (to watch TV) | Am Abend sehe ich fern. | In the evening I watch TV.
+telefoniere | telefonieren | verb | (I) talk on the phone | Ich telefoniere mit meiner Mutter. | I'm on the phone with my mother.
+türkei | die Türkei | proper noun (f) | Turkey | Er kommt aus der Türkei. | He comes from Turkey.
+elf | elf | number | eleven | Es ist elf Uhr. | It's eleven o'clock.
+schlafe | schlafen / einschlafen | verb | (I) sleep; schlafe … ein = (I) fall asleep | Ich schlafe acht Stunden. | I sleep eight hours.
+deutschland | Deutschland | proper noun | Germany | Ich wohne in Deutschland. | I live in Germany.
+wetter | das Wetter | noun (n) | weather | Wie ist das Wetter heute? | What's the weather like today?
+anders | anders | adjective / adverb | different; differently | Hier ist alles anders. | Everything is different here.
+frühling | der Frühling | noun (m) | spring | Im Frühling blühen die Blumen. | In spring the flowers bloom.
+warm | warm | adjective | warm | Heute ist es warm. | It's warm today.
+regnet | regnen | verb | rains, is raining | Es regnet schon den ganzen Tag. | It's been raining all day.
+heiß | heiß | adjective | hot | Der Tee ist heiß. | The tea is hot.
+sonne | die Sonne | noun (f) | sun | Die Sonne scheint. | The sun is shining.
+scheint | scheinen | verb | shines; seems | Heute scheint die Sonne. | The sun is shining today.
+emma | Emma | proper noun | Emma (female first name) | Emma fährt gern Ski. | Emma likes skiing.
+schwimmen | schwimmen | verb | to swim | Wir gehen schwimmen. | We're going swimming.
+herbst | der Herbst | noun (m) | autumn, fall | Im Herbst ist es windig. | It's windy in autumn.
+kühl | kühl | adjective | cool | Am Abend ist es kühl. | It's cool in the evening.
+windig | windig | adjective | windy | Heute ist es sehr windig. | It's very windy today.
+blätter | das Blatt | noun (n, pl.) | leaves; sheets (of paper) | Im Herbst fallen die Blätter. | In autumn the leaves fall.
+gelb | gelb | adjective | yellow | Die Banane ist gelb. | The banana is yellow.
+winter | der Winter | noun (m) | winter | Im Winter ist es kalt. | It's cold in winter.
+schneit | schneien | verb | snows, is snowing | Es schneit seit gestern. | It has been snowing since yesterday.
+mag | mögen | verb | likes | Sie mag Katzen. | She likes cats.
+fährt | fahren | verb | drives, goes (by vehicle), rides; leaves (train, bus) | Der Zug fährt um acht. | The train leaves at eight.
+ski | der Ski | noun (m) | ski; Ski fahren = to ski | Im Winter fahren wir Ski. | In winter we go skiing.
+montag | der Montag | noun (m) | Monday | Am Montag arbeite ich. | I work on Monday.
+grau | grau | adjective | grey | Der Himmel ist grau. | The sky is grey.
+schokolade | die Schokolade | noun (f) | chocolate; heiße Schokolade = hot chocolate | Ich esse gern Schokolade. | I like eating chocolate.
+liest | lesen | verb | reads | Er liest die Zeitung. | He's reading the newspaper.
+vielleicht | vielleicht | adverb | maybe, perhaps | Vielleicht komme ich morgen. | Maybe I'll come tomorrow.
+weber | Weber | proper noun | Weber (surname) | Herr Weber ist Arzt. | Mr Weber is a doctor.
+krank | krank | adjective | ill, sick | Ich bin krank und bleibe zu Hause. | I'm ill and staying at home.
+kopfschmerzen | die Kopfschmerzen | noun (pl.) | headache | Ich habe Kopfschmerzen. | I have a headache.
+halsschmerzen | die Halsschmerzen | noun (pl.) | sore throat | Er hat Halsschmerzen. | He has a sore throat.
+fieber | das Fieber | noun (n) | fever, temperature | Das Kind hat Fieber. | The child has a fever.
+beim | bei dem | preposition | at the (bei + dem); beim Arzt = at the doctor's | Ich bin beim Friseur. | I'm at the hairdresser's.
+termin | der Termin | noun (m) | appointment | Ich habe morgen einen Termin. | I have an appointment tomorrow.
+wartezimmer | das Wartezimmer | noun (n) | waiting room | Bitte warten Sie im Wartezimmer. | Please wait in the waiting room.
+sitzen | sitzen | verb | to sit; (we/they) sit | Wir sitzen im Garten. | We're sitting in the garden.
+wartet | warten | verb | waits | Sie wartet auf den Bus. | She is waiting for the bus.
+minuten | die Minute | noun (f, pl.) | minutes | Der Bus kommt in fünf Minuten. | The bus comes in five minutes.
+ärztin | die Ärztin | noun (f) | doctor (female) | Die Ärztin ist sehr nett. | The doctor is very nice.
+ihnen | Sie / sie | pronoun | (to) you (formal, dative); (to) them | Wie geht es Ihnen? | How are you?
+kopf | der Kopf | noun (m) | head | Mein Kopf tut weh. | My head hurts.
+tut | tun | verb | does; tut weh = hurts; tut mir leid = I'm sorry | Mein Bein tut weh. | My leg hurts.
+weh | weh | adverb | sore; weh tun = to hurt | Der Zahn tut weh. | The tooth hurts.
+erkältung | die Erkältung | noun (f) | cold (illness) | Ich habe eine Erkältung. | I have a cold.
+bleiben | bleiben | verb | to stay, remain | Bleiben Sie im Bett! | Stay in bed!
+rezept | das Rezept | noun (n) | prescription; recipe | Die Ärztin schreibt ein Rezept. | The doctor writes a prescription.
+apotheke | die Apotheke | noun (f) | pharmacy, chemist's | Die Apotheke ist am Markt. | The pharmacy is at the market square.
+lena | Lena | proper noun | Lena (female first name) | Lena spielt Gitarre. | Lena plays the guitar.
+sechzehn | sechzehn | number | sixteen | Er ist sechzehn Jahre alt. | He is sixteen years old.
+hobby | das Hobby | noun (n) | hobby | Mein Hobby ist Lesen. | My hobby is reading.
+musik | die Musik | noun (f) | music | Ich höre gern Musik. | I like listening to music.
+spielt | spielen | verb | plays | Er spielt Klavier. | He plays the piano.
+gitarre | die Gitarre | noun (f) | guitar | Sie spielt gut Gitarre. | She plays the guitar well.
+übt | üben | verb | practises | Er übt jeden Tag. | He practises every day.
+stunde | die Stunde | noun (f) | hour; lesson | Der Film dauert eine Stunde. | The film lasts an hour.
+band | die Band | noun (f) | band (music) | Die Band spielt heute Abend. | The band is playing tonight.
+max | Max | proper noun | Max (male first name) | Max spielt Schlagzeug. | Max plays the drums.
+sofia | Sofia | proper noun | Sofia (female first name) | Sofia singt sehr schön. | Sofia sings very beautifully.
+schlagzeug | das Schlagzeug | noun (n) | drums, drum kit | Er spielt Schlagzeug in einer Band. | He plays drums in a band.
+singt | singen | verb | sings | Sie singt im Chor. | She sings in the choir.
+berühmt | berühmt | adjective | famous | Er ist ein berühmter Schauspieler. | He's a famous actor.
+schule | die Schule | noun (f) | school | Die Kinder gehen zur Schule. | The children go to school.
+lenas | Lena | proper noun (genitive) | Lena's | Lenas Bruder heißt Paul. | Lena's brother is called Paul.
+langweilig | langweilig | adjective | boring | Der Film ist langweilig. | The film is boring.
+computerspiele | das Computerspiel | noun (n, pl.) | computer games | Er spielt gern Computerspiele. | He likes playing computer games.
+okay | okay | adverb | OK, okay | Das ist okay für mich. | That's OK with me.
+besser | gut (comparative) | adjective / adverb | better | Heute geht es mir besser. | I'm feeling better today.
+julia | Julia | proper noun | Julia (female first name) | Julia hat heute Geburtstag. | It's Julia's birthday today.
+geburtstag | der Geburtstag | noun (m) | birthday | Alles Gute zum Geburtstag! | Happy birthday!
+dreißig | dreißig | number | thirty | Es sind dreißig Grad. | It's thirty degrees.
+party | die Party | noun (f) | party | Kommst du zu meiner Party? | Are you coming to my party?
+lädt | laden / einladen | verb | loads; lädt … ein = invites | Sie lädt ihre Freunde ein. | She invites her friends.
+kauft | kaufen / einkaufen | verb | buys; kauft ein = goes shopping | Er kauft ein Brot. | He buys a loaf of bread.
+getränke | das Getränk | noun (n, pl.) | drinks | Die Getränke sind im Kühlschrank. | The drinks are in the fridge.
+salat | der Salat | noun (m) | salad; lettuce | Ich mache einen Salat. | I'm making a salad.
+freundin | die Freundin | noun (f) | (female) friend; girlfriend | Meine Freundin heißt Sara. | My friend is called Sara.
+nina | Nina | proper noun | Nina (female first name) | Nina bringt eine Torte mit. | Nina brings a gateau.
+bringt | bringen / mitbringen | verb | brings; bringt … mit = brings along | Der Kellner bringt das Essen. | The waiter brings the food.
+torte | die Torte | noun (f) | gateau, layer cake | Die Torte ist mit Sahne. | The gateau has cream on it.
+klingelt | klingeln | verb | rings (doorbell, phone); es klingelt = someone's at the door | Das Telefon klingelt. | The phone is ringing.
+gäste | der Gast | noun (m, pl.) | guests | Die Gäste kommen um acht. | The guests are coming at eight.
+kommen | kommen | verb | to come; (we/they) come | Wann kommen die Kinder? | When are the children coming?
+gute | gut | adjective | good; Alles Gute! = All the best! | Gute Nacht! | Good night!
+sagen | sagen | verb | to say; (we/they) say | Was sagen Sie? | What are you saying?
+alle | alle | pronoun / determiner | all, everyone | Alle sind da. | Everyone is here.
+geschenke | das Geschenk | noun (n, pl.) | presents, gifts | Die Kinder öffnen die Geschenke. | The children open the presents.
+blumen | die Blume | noun (f, pl.) | flowers | Ich kaufe Blumen für meine Mutter. | I'm buying flowers for my mother.
+freut | freuen | verb (reflexive) | sich freuen = to be happy, pleased; sich freuen auf = to look forward to | Er freut sich über das Geschenk. | He's pleased with the present.
+singen | singen | verb | to sing; (we/they) sing | Wir singen ein Lied. | We sing a song.
+tanzen | tanzen | verb | to dance | Sie tanzt sehr gern. | She loves dancing.
+endet | enden | verb | ends | Der Film endet um zehn. | The film ends at ten.
+mitternacht | die Mitternacht | noun (f) | midnight | Um Mitternacht schlafe ich. | At midnight I'm asleep.
+tim | Tim | proper noun | Tim (male first name) | Tim fährt nach München. | Tim is going to Munich.
+nürnberg | Nürnberg | proper noun | Nuremberg (city in Bavaria) | Nürnberg ist in Bayern. | Nuremberg is in Bavaria.
+wochenende | das Wochenende | noun (n) | weekend | Schönes Wochenende! | Have a nice weekend!
+freund | der Freund | noun (m) | (male) friend; boyfriend | Mein Freund heißt Ali. | My friend is called Ali.
+felix | Felix | proper noun | Felix (male first name) | Felix wohnt in München. | Felix lives in Munich.
+bahnhof | der Bahnhof | noun (m) | railway station | Der Bahnhof ist im Zentrum. | The station is in the centre.
+fahrkarte | die Fahrkarte | noun (f) | ticket (bus, train) | Ich brauche eine Fahrkarte nach Köln. | I need a ticket to Cologne.
+automaten | der Automat | noun (m, dat.) | (at the) machine, ticket machine | Ich kaufe die Fahrkarte am Automaten. | I buy the ticket at the machine.
+neun | neun | number | nine | Der Laden öffnet um neun. | The shop opens at nine.
+gleis | das Gleis | noun (n) | platform, track | Der Zug fährt von Gleis drei. | The train leaves from platform three.
+verspätung | die Verspätung | noun (f) | delay; Verspätung haben = to be late | Der Bus hat Verspätung. | The bus is late.
+ruhig | ruhig | adjective | quiet, calm | Die Straße ist ruhig. | The street is quiet.
+sitzt | sitzen | verb | sits, is sitting | Sie sitzt am Fenster. | She is sitting by the window.
+fenster | das Fenster | noun (n) | window | Mach bitte das Fenster auf. | Please open the window.
+draußen | draußen | adverb | outside | Die Kinder spielen draußen. | The children are playing outside.
+sieht | sehen / aussehen | verb | sees; sieht … aus = looks (like) | Er sieht einen Hund. | He sees a dog.
+felder | das Feld | noun (n, pl.) | fields | Die Felder sind grün. | The fields are green.
+wälder | der Wald | noun (m, pl.) | forests, woods | In Deutschland gibt es viele Wälder. | There are many forests in Germany.
+dörfer | das Dorf | noun (n, pl.) | villages | Die Dörfer sind klein. | The villages are small.
+bahnsteig | der Bahnsteig | noun (m) | platform | Wir warten am Bahnsteig. | We're waiting on the platform.
+markt | der Markt | noun (m) | market | Am Samstag gehe ich auf den Markt. | On Saturday I go to the market.
+dorthin | dorthin | adverb | there (direction), to that place | Wie komme ich dorthin? | How do I get there?
+obst | das Obst | noun (n) | fruit | Ich esse jeden Tag Obst. | I eat fruit every day.
+gemüse | das Gemüse | noun (n) | vegetables | Gemüse ist gesund. | Vegetables are healthy.
+region | die Region | noun (f) | region, local area | Das Obst kommt aus der Region. | The fruit comes from the local area.
+tomaten | die Tomate | noun (f, pl.) | tomatoes | Die Tomaten sind rot. | The tomatoes are red.
+kartoffeln | die Kartoffel | noun (f, pl.) | potatoes | Wir essen Fisch mit Kartoffeln. | We're eating fish with potatoes.
+gurke | die Gurke | noun (f) | cucumber | Ich schneide eine Gurke für den Salat. | I'm cutting a cucumber for the salad.
+obststand | der Obststand | noun (m) | fruit stall | Der Obststand ist neben der Bäckerei. | The fruit stall is next to the bakery.
+guten | gut | adjective | good (Guten Morgen/Tag/Abend = good morning/day/evening) | Guten Tag, Frau Müller! | Good afternoon, Mrs Müller!
+bananen | die Banane | noun (f, pl.) | bananas | Affen essen gern Bananen. | Monkeys like eating bananas.
+verkäufer | der Verkäufer | noun (m) | shop assistant, seller (male) | Der Verkäufer ist freundlich. | The shop assistant is friendly.
+fünfzig | fünfzig | number | fifty | Das kostet fünfzig Euro. | That costs fifty euros.
+schenkt | schenken | verb | gives (as a present) | Er schenkt ihr Blumen. | He gives her flowers.
+apfel | der Apfel | noun (m) | apple | Der Apfel ist süß. | The apple is sweet.
+schönes | schön | adjective | nice, beautiful (neuter); Schönes Wochenende! = Have a nice weekend! | Das ist ein schönes Bild. | That's a beautiful picture.
+lacht | lachen | verb | laughs | Das Baby lacht. | The baby is laughing.
+besonderer | besonders | adjective | special | Heute ist ein besonderer Tag. | Today is a special day.
+ben | Ben | proper noun | Ben (male first name) | Ben geht in die erste Klasse. | Ben is in year one.
+ersten | erste | number (ordinal) | first; zum ersten Mal = for the first time | Das ist mein erster Tag. | It's my first day.
+mal | das Mal / mal | noun (n) / particle | time, occasion (zum ersten Mal = for the first time); softening particle | Komm mal her! | Come here a moment!
+neuen | neu | adjective | new (masc. acc. / dative / plural) | Ich habe einen neuen Job. | I have a new job.
+große | groß | adjective | big, large (fem. / plural) | Wir haben eine große Küche. | We have a big kitchen.
+schultüte | die Schultüte | noun (f) | school cone (cone of sweets for the first school day) | Die Schultüte ist voll mit Süßigkeiten. | The school cone is full of sweets.
+stifte | der Stift | noun (m, pl.) | pens, pencils | Hast du Stifte für mich? | Do you have pens for me?
+bens | Ben | proper noun (genitive) | Ben's | Bens Mutter ist Ärztin. | Ben's mother is a doctor.
+eltern | die Eltern | noun (pl.) | parents | Meine Eltern wohnen auf dem Land. | My parents live in the country.
+bringen | bringen | verb | to bring, take (someone somewhere); (we/they) bring | Wir bringen die Kinder zur Schule. | We take the children to school.
+braun | braun / Braun | adjective / proper noun | brown; Braun (surname) | Der Tisch ist braun. | The table is brown.
+nett | nett | adjective | nice, kind | Die Nachbarn sind sehr nett. | The neighbours are very nice.
+klassenzimmer | das Klassenzimmer | noun (n) | classroom | Das Klassenzimmer ist hell. | The classroom is bright.
+neben | neben | preposition | next to, beside | Die Bank ist neben der Post. | The bank is next to the post office.
+jungen | der Junge | noun (m, acc./dat./pl.) | boy; boys | Die Jungen spielen Fußball. | The boys are playing football.
+ali | Ali | proper noun | Ali (male first name) | Ali ist mein Freund. | Ali is my friend.
+lachen | lachen | verb | to laugh; (we/they) laugh | Wir lachen viel. | We laugh a lot.
+malen | malen | verb | to paint, draw | Die Kinder malen ein Haus. | The children are painting a house.
+mittag | der Mittag | noun (m) | midday, noon | Am Mittag essen wir zusammen. | At midday we eat together.
+mama | die Mama | noun (f) | mum, mummy | Mama, ich habe Hunger! | Mum, I'm hungry!
+neuer | neu | adjective | new (masc. nominative) | Das ist mein neuer Computer. | That's my new computer.
+restaurant | das Restaurant | noun (n) | restaurant | Wir essen heute im Restaurant. | We're eating at a restaurant today.
+italienisches | italienisch | adjective | Italian (neuter) | Ich mag italienisches Essen. | I like Italian food.
+nähe | die Nähe | noun (f) | nearness; in der Nähe = nearby | Gibt es hier in der Nähe eine Bank? | Is there a bank nearby?
+personen | die Person | noun (f, pl.) | people, persons | Ein Tisch für vier Personen, bitte. | A table for four, please.
+reserviert | reservieren | verb (past participle) | reserved, booked | Ich habe ein Zimmer reserviert. | I have booked a room.
+kellnerin | die Kellnerin | noun (f) | waitress | Die Kellnerin bringt den Kaffee. | The waitress brings the coffee.
+speisekarte | die Speisekarte | noun (f) | menu | Kann ich bitte die Speisekarte haben? | Can I have the menu, please?
+pilzen | der Pilz | noun (m, dat. pl.) | (with) mushrooms | Ich esse Nudeln mit Pilzen. | I'm eating pasta with mushrooms.
+spaghetti | die Spaghetti | noun (pl.) | spaghetti | Die Kinder lieben Spaghetti. | The children love spaghetti.
+tomatensoße | die Tomatensoße | noun (f) | tomato sauce | Die Tomatensoße ist selbst gemacht. | The tomato sauce is homemade.
+glas | das Glas | noun (n) | glass; jar | Ein Glas Wasser, bitte. | A glass of water, please.
+rotwein | der Rotwein | noun (m) | red wine | Zum Essen trinken wir Rotwein. | We drink red wine with the meal.
+flasche | die Flasche | noun (f) | bottle | Eine Flasche Wasser kostet einen Euro. | A bottle of water costs one euro.
+schmeckt | schmecken | verb | tastes; es schmeckt = it tastes good | Schmeckt dir die Suppe? | Do you like the soup?
+nachtisch | der Nachtisch | noun (m) | dessert | Zum Nachtisch gibt es Obst. | There's fruit for dessert.
+eis | das Eis | noun (n) | ice cream; ice | Im Sommer esse ich gern Eis. | In summer I like eating ice cream.
+achtundvierzig | achtundvierzig | number | forty-eight | Das Zimmer kostet achtundvierzig Euro. | The room costs forty-eight euros.
+karte | die Karte | noun (f) | card; ticket; menu; map; Karten spielen = to play cards | Kann ich mit Karte bezahlen? | Can I pay by card?
+trinkgeld | das Trinkgeld | noun (n) | tip (money) | Er gibt dem Kellner Trinkgeld. | He gives the waiter a tip.
+nora | Nora | proper noun | Nora (female first name) | Nora geht zum Friseur. | Nora is going to the hairdresser's.
+halb | halb | adjective | half; halb vier = half past three | Wir treffen uns um halb acht. | We're meeting at half past seven.
+friseur | der Friseur | noun (m) | hairdresser, barber (also the salon) | Ich gehe morgen zum Friseur. | I'm going to the hairdresser's tomorrow.
+leer | leer | adjective | empty; flat (battery) | Die Flasche ist leer. | The bottle is empty.
+keine | kein | determiner | no, not a/any (fem. / plural) | Ich habe keine Zeit. | I have no time.
+viertel | das Viertel | noun (n) | quarter; Viertel nach drei = quarter past three | Es ist Viertel vor acht. | It's quarter to eight.
+oh | oh | interjection | oh | Oh, das ist schön! | Oh, that's beautiful!
+nein | nein | particle | no | Nein, danke. | No, thank you.
+vielen | viel | determiner | many; Vielen Dank! = Many thanks! | Vielen Dank für die Hilfe! | Many thanks for the help!
+schnell | schnell | adjective / adverb | fast, quick; quickly | Das Auto ist sehr schnell. | The car is very fast.
+entfernt | entfernt | adjective | away, distant | Der See ist zwei Kilometer entfernt. | The lake is two kilometres away.
+friseurin | die Friseurin | noun (f) | hairdresser (female) | Die Friseurin schneidet meine Haare. | The hairdresser cuts my hair.
+pünktlich | pünktlich | adjective | punctual, on time | Der Zug ist pünktlich. | The train is on time.
+oktober | der Oktober | noun (m) | October | Im Oktober wird es kalt. | It gets cold in October.
+leon | Leon | proper noun | Leon (male first name) | Leon kauft eine Jacke. | Leon is buying a jacket.
+warme | warm | adjective | warm (fem. / plural) | Ich brauche eine warme Jacke. | I need a warm jacket.
+kleidergeschäft | das Kleidergeschäft | noun (n) | clothes shop | Das Kleidergeschäft ist im Zentrum. | The clothes shop is in the centre.
+zentrum | das Zentrum | noun (n) | centre, city centre | Ich wohne im Zentrum. | I live in the centre.
+welche | welcher | determiner | which (fem. / plural) | Welche Farbe magst du? | Which colour do you like?
+größe | die Größe | noun (f) | size; height | Welche Größe haben Sie? | What size are you?
+glaube | glauben | verb | (I) believe, think | Ich glaube, er kommt nicht. | I think he isn't coming.
+m | M | abbreviation | M, medium (clothing size) | Ich trage Größe M. | I wear size M.
+probiert | probieren / anprobieren | verb | tries, tastes; probiert … an = tries on (clothes) | Sie probiert den Kuchen. | She tries the cake.
+schwarze | schwarz | adjective | black (fem. / plural) | Sie trägt eine schwarze Hose. | She's wearing black trousers.
+l | L | abbreviation | L, large (clothing size) | Haben Sie das Hemd in L? | Do you have the shirt in L?
+leider | leider | adverb | unfortunately | Leider habe ich keine Zeit. | Unfortunately I don't have time.
+blaue | blau | adjective | blue (fem. / plural) | Sie hat blaue Augen. | She has blue eyes.
+passt | passen | verb | fits; suits; is convenient | Die Hose passt gut. | The trousers fit well.
+neunzig | neunzig | number | ninety | Mein Opa ist neunzig. | My grandpa is ninety.
+prozent | das Prozent | noun (n) | per cent | Es gibt zehn Prozent Rabatt. | There is a ten per cent discount.
+rabatt | der Rabatt | noun (m) | discount | Bekomme ich einen Rabatt? | Do I get a discount?
+zufrieden | zufrieden | adjective | satisfied, content | Ich bin mit dem Hotel zufrieden. | I'm satisfied with the hotel.
+grüße | der Gruß | noun (m, pl.) | greetings, regards; viele Grüße = best wishes | Viele Grüße aus Berlin! | Greetings from Berlin!
+spanien | Spanien | proper noun | Spain | Wir fahren im Sommer nach Spanien. | We're going to Spain in summer.
+papa | der Papa | noun (m) | dad, daddy | Papa, kannst du mir helfen? | Dad, can you help me?
+valencia | Valencia | proper noun | Valencia (city in Spain) | Valencia liegt am Meer. | Valencia is by the sea.
+liegt | liegen | verb | lies, is (located) | Das Buch liegt auf dem Tisch. | The book is on the table.
+direkt | direkt | adjective / adverb | direct; directly, right (direkt am Meer = right by the sea) | Das Hotel liegt direkt am Bahnhof. | The hotel is right by the station.
+hier | hier | adverb | here | Ich wohne hier. | I live here.
+super | super | adjective | great, super | Der Film war super! | The film was great!
+paella | die Paella | noun (f) | paella (Spanish rice dish) | Paella ist ein Essen aus Spanien. | Paella is a dish from Spain.
+toll | toll | adjective | great, fantastic | Das ist eine tolle Idee! | That's a great idea!
+sonnig | sonnig | adjective | sunny | Morgen wird es sonnig. | It will be sunny tomorrow.
+grad | das Grad | noun (n) | degree(s) (temperature) | Es sind zwanzig Grad. | It's twenty degrees.
+fliegen | fliegen | verb | to fly; (we/they) fly | Wir fliegen nach Rom. | We're flying to Rome.
+frankfurt | Frankfurt | proper noun | Frankfurt (city in Hesse) | Der Flughafen Frankfurt ist groß. | Frankfurt airport is big.
+erzähle | erzählen | verb | (I) tell, recount | Ich erzähle dir eine Geschichte. | I'll tell you a story.
+dir | du | pronoun | (to) you (informal, dative) | Ich helfe dir. | I'll help you.
+bis | bis | preposition / conjunction | until, till; to; Bis bald! = See you soon! | Ich arbeite bis fünf Uhr. | I work until five o'clock.
+bald | bald | adverb | soon | Ich komme bald. | I'll come soon.
+deine | dein | possessive | your (informal, fem. / plural); Deine Clara = Love, Clara (letter ending) | Ist das deine Tasche? | Is that your bag?
+daniel | Daniel | proper noun | Daniel (male first name) | Daniel arbeitet im Büro. | Daniel works in an office.
+hannah | Hannah | proper noun | Hannah (female first name) | Hannah spielt Klavier. | Hannah plays the piano.
+frei | frei | adjective | free; off work (frei haben); vacant | Ist der Platz frei? | Is this seat free?
+putzen | putzen | verb | to clean | Wir putzen am Samstag die Wohnung. | We clean the flat on Saturday.
+besuchen | besuchen | verb | to visit; (we/they) visit | Wir besuchen unsere Oma. | We're visiting our grandma.
+kochen | kochen | verb | to cook; (we/they) cook | Wir kochen zusammen. | We cook together.
+karten | die Karte | noun (f, pl.) | cards; tickets | Wir spielen Karten. | We're playing cards.
+schlafen | schlafen | verb | to sleep; (we/they) sleep | Am Wochenende schlafen wir lange. | At the weekend we sleep in.
+frühstücken | frühstücken | verb | to have breakfast; (we/they) have breakfast | Wir frühstücken auf dem Balkon. | We have breakfast on the balcony.
+brötchen | das Brötchen | noun (n) | bread roll(s) | Ich hole Brötchen vom Bäcker. | I'm getting rolls from the baker's.
+marmelade | die Marmelade | noun (f) | jam | Ich esse Brot mit Marmelade. | I eat bread with jam.
+spaziergang | der Spaziergang | noun (m) | walk, stroll | Wir machen einen Spaziergang. | We're going for a walk.
+beginnt | beginnen | verb | begins, starts | Der Kurs beginnt um neun. | The course starts at nine.
+tourist | der Tourist | noun (m) | tourist | Der Tourist fotografiert den Dom. | The tourist photographs the cathedral.
+straße | die Straße | noun (f) | street, road | Ich wohne in der Goethestraße. | I live in Goethe Street.
+sucht | suchen | verb | looks for, searches | Er sucht seinen Schlüssel. | He's looking for his key.
+komme | kommen | verb | (I) come; wie komme ich …? = how do I get …? | Ich komme aus Polen. | I come from Poland.
+geradeaus | geradeaus | adverb | straight ahead, straight on | Gehen Sie immer geradeaus. | Keep going straight on.
+ampel | die Ampel | noun (f) | traffic lights | Die Ampel ist rot. | The traffic light is red.
+rechts | rechts | adverb | (on the) right; nach rechts = to the right | Die Post ist rechts. | The post office is on the right.
+kirche | die Kirche | noun (f) | church | Die Kirche ist sehr alt. | The church is very old.
+vorbei | vorbei | adverb | past; over; an … vorbei = past … | Der Sommer ist vorbei. | Summer is over.
+geschehen | geschehen | verb | to happen; Gern geschehen! = You're welcome! | „Danke!“ – „Gern geschehen!“ | "Thanks!" – "You're welcome!"
+fischer | der Fischer / Fischer | noun (m) / proper noun | fisherman; Fischer (surname) | Herr Fischer wohnt nebenan. | Mr Fischer lives next door.
+ecke | die Ecke | noun (f) | corner | Die Bäckerei ist an der Ecke. | The bakery is on the corner.
+seinem | sein | possessive | his, its (masc./neuter dative) | Er wohnt bei seinem Bruder. | He lives with his brother.
+haus | das Haus | noun (n) | house; nach Hause = home (direction); zu Hause = at home | Das Haus hat einen Garten. | The house has a garden.
+riecht | riechen | verb | smells | Der Kaffee riecht gut. | The coffee smells good.
+darf | dürfen | verb (modal) | may, is allowed to; Was darf es sein? = What can I get you? | Darf ich das Fenster öffnen? | May I open the window?
+bäckerin | die Bäckerin | noun (f) | baker (female) | Die Bäckerin backt jeden Morgen Brot. | The baker bakes bread every morning.
+brezel | die Brezel | noun (f) | pretzel | Eine Brezel mit Butter, bitte. | A pretzel with butter, please.
+brezeln | die Brezel | noun (f, pl.) | pretzels | Die Brezeln sind frisch. | The pretzels are fresh.
+weg | weg / der Weg | adverb / noun (m) | gone, away; way, path, route | Mein Schlüssel ist weg! | My key is gone!
+schade | schade | adjective | a pity, too bad | Schade, dass du nicht kommst. | What a pity you're not coming.
+croissant | das Croissant | noun (n) | croissant | Zum Frühstück esse ich ein Croissant. | I eat a croissant for breakfast.
+katrin | Katrin | proper noun | Katrin (female first name) | Katrin arbeitet in Stuttgart. | Katrin works in Stuttgart.
+sekretärin | die Sekretärin | noun (f) | secretary (female) | Die Sekretärin macht Termine. | The secretary makes appointments.
+stuttgart | Stuttgart | proper noun | Stuttgart (city in southwest Germany) | Stuttgart ist bekannt für Autos. | Stuttgart is known for cars.
+computer | der Computer | noun (m) | computer | Ich arbeite am Computer. | I work at the computer.
+telefon | das Telefon | noun (n) | telephone | Das Telefon ist auf dem Tisch. | The phone is on the table.
+papiere | das Papier | noun (n, pl.) | papers, documents | Die Papiere liegen im Büro. | The papers are in the office.
+schreibtisch | der Schreibtisch | noun (m) | desk | Mein Schreibtisch ist voll. | My desk is full.
+e-mails | die E-Mail | noun (f, pl.) | emails | Ich schreibe viele E-Mails. | I write a lot of emails.
+schreibt | schreiben | verb | writes | Sie schreibt einen Brief. | She is writing a letter.
+antworten | die Antwort / antworten | noun (f, pl.) / verb | answers, replies; to answer | Bitte antworten Sie schnell. | Please reply quickly.
+besprechung | die Besprechung | noun (f) | meeting | Die Besprechung dauert eine Stunde. | The meeting lasts an hour.
+ihrem | ihr | possessive | her, their (masc./neuter dative); Ihrem = your (formal) | Sie spricht mit ihrem Chef. | She's talking to her boss.
+chef | der Chef | noun (m) | boss | Mein Chef ist im Urlaub. | My boss is on holiday.
+eins | eins | number | one; halb eins = half past twelve | Eins plus eins ist zwei. | One plus one is two.
+mittagspause | die Mittagspause | noun (f) | lunch break | Die Mittagspause ist um zwölf. | The lunch break is at twelve.
+isst | essen | verb | eats | Er isst gern Fisch. | He likes eating fish.
+kollegin | die Kollegin | noun (f) | colleague (female) | Meine Kollegin hilft mir. | My colleague helps me.
+petra | Petra | proper noun | Petra (female first name) | Petra arbeitet im Büro. | Petra works in the office.
+kantine | die Kantine | noun (f) | canteen (at work) | Wir essen in der Kantine. | We eat in the canteen.
+feierabend | der Feierabend | noun (m) | end of the working day; Feierabend haben = to finish work | Um fünf habe ich Feierabend. | I finish work at five.
+murat | Murat | proper noun | Murat (Turkish male first name) | Murat joggt im Park. | Murat jogs in the park.
+fünfunddreißig | fünfunddreißig | number | thirty-five | Er ist fünfunddreißig Jahre alt. | He is thirty-five years old.
+sport | der Sport | noun (m) | sport, exercise; Sport machen = to do sport | Ich mache jeden Tag Sport. | I do sport every day.
+dienstag | der Dienstag | noun (m) | Tuesday | Am Dienstag habe ich Yoga. | I have yoga on Tuesday.
+donnerstag | der Donnerstag | noun (m) | Thursday | Am Donnerstag gehe ich schwimmen. | I go swimming on Thursday.
+joggt | joggen | verb | jogs | Sie joggt jeden Morgen. | She jogs every morning.
+läuft | laufen | verb | runs; walks; is going (well) | Er läuft sehr schnell. | He runs very fast.
+paar | paar / das Paar | determiner / noun (n) | ein paar = a few; ein Paar = a pair, a couple | Ich habe ein paar Fragen. | I have a few questions.
+kilometer | der Kilometer | noun (m) | kilometre(s) | Die Schule ist zwei Kilometer weit. | The school is two kilometres away.
+lang | lang / Lang | adjective / proper noun | long; Lang (surname) | Der Weg ist lang. | The path is long.
+hallo | hallo | interjection | hello, hi | Hallo, wie geht's? | Hi, how are you?
+laufen | laufen | verb | to run; to walk; (we/they) run | Wir laufen jeden Morgen. | We run every morning.
+marie | Marie | proper noun | Marie (female first name) | Marie kocht mit ihren Kindern. | Marie cooks with her children.
+kindern | das Kind | noun (n, dat. pl.) | (with/to) children | Sie spielt mit den Kindern. | She plays with the children.
+pfannkuchen | der Pfannkuchen | noun (m) | pancake(s) | Ich esse Pfannkuchen mit Zucker. | I eat pancakes with sugar.
+brauchen | brauchen | verb | to need; (we/they) need | Wir brauchen mehr Zeit. | We need more time.
+mehl | das Mehl | noun (n) | flour | Für Brot braucht man Mehl. | You need flour for bread.
+zucker | der Zucker | noun (m) | sugar | Trinkst du Kaffee mit Zucker? | Do you take sugar in your coffee?
+salz | das Salz | noun (n) | salt | Die Suppe braucht mehr Salz. | The soup needs more salt.
+schüssel | die Schüssel | noun (f) | bowl | Die Schüssel ist voll mit Salat. | The bowl is full of salad.
+rühren | rühren | verb | to stir | Rühren Sie die Soße gut. | Stir the sauce well.
+pfanne | die Pfanne | noun (f) | frying pan | Die Pfanne ist sehr heiß. | The pan is very hot.
+riechen | riechen | verb | to smell; (we/they) smell | Die Blumen riechen gut. | The flowers smell nice.
+apfelmus | das Apfelmus | noun (n) | apple sauce, stewed apples | Kartoffelpuffer isst man mit Apfelmus. | Potato pancakes are eaten with apple sauce.
+ende | das Ende | noun (n) | end; am Ende = in the end | Am Ende des Films weinen alle. | At the end of the film everyone cries.
+kein | kein | determiner | no, not a (masc./neuter) | Das ist kein Problem. | That's no problem.
+juli | der Juli | noun (m) | July | Im Juli haben wir Ferien. | We have holidays in July.
+fahren | fahren | verb | to drive, go, ride; (we/they) go | Wir fahren mit dem Zug. | We're going by train.
+see | der See | noun (m) | lake (die See = the sea) | Der See ist sehr tief. | The lake is very deep.
+fünfzehn | fünfzehn | number | fifteen | Der Bus kommt in fünfzehn Minuten. | The bus comes in fifteen minutes.
+wunderbar | wunderbar | adjective | wonderful | Das Wetter ist wunderbar. | The weather is wonderful.
+klar | klar | adjective | clear; klar! = sure! of course! | Das Wasser ist klar. | The water is clear.
+liegen | liegen | verb | to lie; (we/they) lie | Wir liegen am Strand. | We're lying on the beach.
+mittagessen | das Mittagessen | noun (n) | lunch | Was gibt es zum Mittagessen? | What's for lunch?
+picknick | das Picknick | noun (n) | picnic | Wir machen ein Picknick im Park. | We're having a picnic in the park.
+limonade | die Limonade | noun (f) | lemonade, soft drink | Die Kinder trinken Limonade. | The children are drinking lemonade.
+volleyball | der Volleyball | noun (m) | volleyball | Am Strand spielen wir Volleyball. | We play volleyball on the beach.
+nächsten | nächste | adjective | next (masc. acc. / dative); nächsten Sonntag = next Sunday | Nächsten Monat fahre ich weg. | I'm going away next month.
+meyer | Meyer | proper noun | Meyer (surname) | Frau Meyer wohnt im Hotel. | Mrs Meyer is staying at the hotel.
+dresden | Dresden | proper noun | Dresden (city in Saxony) | Dresden liegt an der Elbe. | Dresden is on the Elbe.
+rezeption | die Rezeption | noun (f) | reception (desk) | Der Schlüssel ist an der Rezeption. | The key is at reception.
+einzelzimmer | das Einzelzimmer | noun (n) | single room | Ich möchte ein Einzelzimmer. | I'd like a single room.
+nächte | die Nacht | noun (f, pl.) | nights | Wir bleiben drei Nächte. | We're staying three nights.
+dreihundertzwölf | dreihundertzwölf | number | three hundred and twelve | Ihr Zimmer ist dreihundertzwölf. | Your room is three hundred and twelve.
+dritten | dritte | number (ordinal) | third | Ich wohne im dritten Stock. | I live on the third floor.
+wann | wann | adverb | when | Wann kommst du? | When are you coming?
+frühstück | das Frühstück | noun (n) | breakfast | Das Frühstück ist um acht. | Breakfast is at eight.
+sauber | sauber | adjective | clean | Die Küche ist sauber. | The kitchen is clean.
+fluss | der Fluss | noun (m) | river | Der Fluss ist breit. | The river is wide.
+kofi | Kofi | proper noun | Kofi (Ghanaian male first name) | Kofi kommt aus Ghana. | Kofi comes from Ghana.
+ghana | Ghana | proper noun | Ghana (country in West Africa) | Ghana liegt in Afrika. | Ghana is in Africa.
+leipzig | Leipzig | proper noun | Leipzig (city in Saxony) | Leipzig ist eine Stadt in Sachsen. | Leipzig is a city in Saxony.
+spricht | sprechen | verb | speaks | Sie spricht drei Sprachen. | She speaks three languages.
+englisch | Englisch / englisch | noun (n) / adjective | English (language); English | Sprechen Sie Englisch? | Do you speak English?
+französisch | Französisch / französisch | noun (n) / adjective | French (language); French | Er lernt Französisch. | He's learning French.
+lernt | lernen | verb | learns | Sie lernt für die Prüfung. | She's studying for the exam.
+deutsch | Deutsch / deutsch | noun (n) / adjective | German (language); German | Ich spreche ein bisschen Deutsch. | I speak a little German.
+koch | der Koch | noun (m) | cook, chef | Der Koch macht eine Suppe. | The cook is making a soup.
+hart | hart | adjective | hard (difficult; not soft) | Die Arbeit ist hart. | The work is hard.
+basketball | der Basketball | noun (m) | basketball | Er spielt Basketball im Verein. | He plays basketball in a club.
+plan | der Plan | noun (m) | plan; schedule | Was ist dein Plan für heute? | What's your plan for today?
+medizin | die Medizin | noun (f) | medicine (subject; drug) | Sie studiert Medizin. | She studies medicine.
+studieren | studieren | verb | to study (at university) | Ich möchte in Berlin studieren. | I'd like to study in Berlin.
+helfe | helfen | verb | (I) help | Ich helfe dir gern. | I'm happy to help you.
+eva | Eva | proper noun | Eva (female first name) | Eva zieht nach Frankfurt. | Eva is moving to Frankfurt.
+zieht | ziehen / umziehen / anziehen / einziehen | verb | pulls; zieht um = moves house; zieht … an = puts on; zieht ein = moves in | Sie zieht nach Berlin um. | She's moving to Berlin.
+kleinen | klein | adjective | small, little (masc. acc. / dative / plural) | Er wohnt in einem kleinen Haus. | He lives in a small house.
+dorf | das Dorf | noun (n) | village | Das Dorf hat nur eine Straße. | The village has only one street.
+umzug | der Umzug | noun (m) | move (to a new home) | Der Umzug ist am Samstag. | The move is on Saturday.
+brüder | der Bruder | noun (m, pl.) | brothers | Ich habe zwei Brüder. | I have two brothers.
+helfen | helfen | verb | to help; (we/they) help | Kannst du mir helfen? | Can you help me?
+tragen | tragen | verb | to carry; to wear | Wir tragen die Kisten. | We're carrying the boxes.
+kartons | der Karton | noun (m, pl.) | cardboard boxes | Die Kartons sind im Keller. | The boxes are in the cellar.
+schrank | der Schrank | noun (m) | cupboard, wardrobe | Die Kleider sind im Schrank. | The clothes are in the wardrobe.
+schwer | schwer | adjective | heavy; difficult | Der Koffer ist schwer. | The suitcase is heavy.
+glück | das Glück | noun (n) | luck; happiness; zum Glück = luckily | Viel Glück! | Good luck!
+platz | der Platz | noun (m) | place, space, seat; square | Ist hier noch ein Platz frei? | Is there a free seat here?
+boden | der Boden | noun (m) | floor; ground | Das Buch liegt auf dem Boden. | The book is on the floor.
+eure | euer | possessive | your (informal plural) | Ist das eure Wohnung? | Is that your flat?
+hilfe | die Hilfe | noun (f) | help | Danke für Ihre Hilfe. | Thank you for your help.
+hoffmann | Hoffmann | proper noun | Hoffmann (surname) | Herr Hoffmann ist Rentner. | Mr Hoffmann is a pensioner.
+siebzig | siebzig | number | seventy | Mein Opa ist siebzig. | My grandpa is seventy.
+nachbarn | der Nachbar | noun (m, pl. / acc.) | neighbours; neighbour | Unsere Nachbarn sind nett. | Our neighbours are nice.
+junge | jung / der Junge | adjective / noun (m) | young; boy | Sie ist eine junge Frau. | She is a young woman.
+öffnet | öffnen | verb | opens | Er öffnet die Tür. | He opens the door.
+nachbar | der Nachbar | noun (m) | neighbour (male) | Mein Nachbar hat einen Hund. | My neighbour has a dog.
+ah | ah | interjection | ah, oh | Ah, jetzt verstehe ich! | Ah, now I understand!
+ayşe | Ayşe | proper noun | Ayşe (Turkish female first name) | Ayşe wohnt nebenan. | Ayşe lives next door.
+yılmaz | Yılmaz | proper noun | Yılmaz (Turkish surname) | Familie Yılmaz ist neu im Haus. | The Yılmaz family is new in the building.
+emre | Emre | proper noun | Emre (Turkish male first name) | Emre arbeitet als Ingenieur. | Emre works as an engineer.
+unsere | unser | possessive | our (fem. / plural) | Unsere Kinder gehen zur Schule. | Our children go to school.
+fatima | Fatima | proper noun | Fatima (female first name) | Fatima lernt Deutsch. | Fatima is learning German.
+syrien | Syrien | proper noun | Syria | Sie kommt aus Syrien. | She comes from Syria.
+deutschkurs | der Deutschkurs | noun (m) | German course | Der Deutschkurs beginnt im Mai. | The German course starts in May.
+volkshochschule | die Volkshochschule | noun (f) | adult education centre (VHS) | Ich mache einen Kurs an der Volkshochschule. | I'm taking a course at the adult education centre.
+kurs | der Kurs | noun (m) | course, class | Der Kurs ist am Abend. | The course is in the evening.
+ländern | das Land | noun (n, dat. pl.) | (from) countries | Die Studenten kommen aus vielen Ländern. | The students come from many countries.
+polen | Polen | proper noun | Poland | Er kommt aus Polen. | He comes from Poland.
+brasilien | Brasilien | proper noun | Brazil | In Brasilien spricht man Portugiesisch. | Portuguese is spoken in Brazil.
+china | China | proper noun | China | China ist sehr groß. | China is very big.
+italien | Italien | proper noun | Italy | Wir fahren nach Italien. | We're going to Italy.
+lehrer | der Lehrer | noun (m) | teacher (male) | Der Lehrer ist sehr geduldig. | The teacher is very patient.
+wolf | der Wolf / Wolf | noun (m) / proper noun | wolf; Wolf (surname) | Herr Wolf ist unser Lehrer. | Mr Wolf is our teacher.
+erklärt | erklären | verb | explains | Sie erklärt die Aufgabe. | She explains the task.
+lernen | lernen | verb | to learn; (we/they) learn | Wir lernen neue Wörter. | We're learning new words.
+zahlen | die Zahl / zahlen | noun (f, pl.) / verb | numbers; to pay | Die Kinder lernen die Zahlen. | The children are learning numbers.
+spiel | das Spiel | noun (n) | game; match | Das Spiel beginnt um drei. | The game starts at three.
+zahl | die Zahl | noun (f) | number | Sieben ist meine Lieblingszahl. | Seven is my favourite number.
+schreiben | schreiben | verb | to write; (we/they) write | Wir schreiben einen Test. | We're writing a test.
+tafel | die Tafel | noun (f) | board, blackboard; bar (of chocolate) | Der Lehrer schreibt an die Tafel. | The teacher writes on the board.
+gewinnt | gewinnen | verb | wins | Wer gewinnt das Spiel? | Who's winning the game?
+mehmet | Mehmet | proper noun | Mehmet (Turkish male first name) | Mehmet geht ins Kino. | Mehmet is going to the cinema.
+kino | das Kino | noun (n) | cinema | Wir gehen heute ins Kino. | We're going to the cinema today.
+kommst | kommen / mitkommen | verb | (you, informal) come; kommst du mit? = are you coming along? | Woher kommst du? | Where are you from?
+mir | ich | pronoun | (to) me (dative); Tut mir leid = I'm sorry | Gib mir bitte das Buch. | Please give me the book.
+leid | leid | adverb | (es) tut mir leid = I'm sorry | Es tut mir leid, ich habe keine Zeit. | I'm sorry, I don't have time.
+muss | müssen | verb (modal) | must, has to; (I) have to | Ich muss heute arbeiten. | I have to work today.
+perfekt | perfekt | adjective | perfect | Dein Deutsch ist perfekt! | Your German is perfect!
+tschüss | tschüss | interjection | bye | Tschüss, bis morgen! | Bye, see you tomorrow!
+mila | Mila | proper noun | Mila (female first name) | Mila fährt Fahrrad. | Mila rides a bike.
+gesund | gesund | adjective | healthy | Obst ist gesund. | Fruit is healthy.
+reifen | der Reifen | noun (m) | tyre | Der Reifen hat ein Loch. | The tyre has a hole.
+kaputt | kaputt | adjective | broken | Mein Handy ist kaputt. | My phone is broken.
+straßenbahn | die Straßenbahn | noun (f) | tram | Die Straßenbahn fährt zum Bahnhof. | The tram goes to the station.
+reparieren | reparieren | verb | to repair, fix | Kannst du das Fahrrad reparieren? | Can you fix the bike?
+dauert | dauern | verb | lasts, takes (time) | Die Fahrt dauert zwei Stunden. | The journey takes two hours.
+halbe | halb | adjective | half (fem.); eine halbe Stunde = half an hour | Ich warte eine halbe Stunde. | I'll wait half an hour.
+sonntagabend | der Sonntagabend | noun (m) | Sunday evening | Am Sonntagabend sehe ich fern. | On Sunday evening I watch TV.
+hunger | der Hunger | noun (m) | hunger; Hunger haben = to be hungry | Ich habe großen Hunger. | I'm very hungry.
+altes | alt | adjective | old (neuter) | Das ist ein altes Haus. | That's an old house.
+ei | das Ei | noun (n) | egg | Ich esse ein Ei zum Frühstück. | I eat an egg for breakfast.
+geschäfte | das Geschäft | noun (n, pl.) | shops; business deals | Die Geschäfte öffnen um neun. | The shops open at nine.
+geschlossen | geschlossen | adjective / past participle | closed, shut | Die Bank ist heute geschlossen. | The bank is closed today.
+türkischen | türkisch | adjective | Turkish (dative / plural) | Wir essen in einem türkischen Restaurant. | We're eating in a Turkish restaurant.
+döner | der Döner | noun (m) | doner kebab | Ein Döner mit Salat, bitte. | A doner kebab with salad, please.
+denkt | denken / nachdenken | verb | thinks; denkt nach = thinks it over | Er denkt an seine Familie. | He's thinking of his family.
+schreibe | schreiben | verb | (I) write | Ich schreibe dir eine E-Mail. | I'll write you an email.
+einkaufsliste | die Einkaufsliste | noun (f) | shopping list | Die Einkaufsliste ist lang. | The shopping list is long.
+butter | die Butter | noun (f) | butter | Brot mit Butter schmeckt gut. | Bread and butter tastes good.
+nudeln | die Nudel | noun (f, pl.) | pasta, noodles | Heute gibt es Nudeln. | We're having pasta today.
+sofort | sofort | adverb | immediately, right away | Komm sofort her! | Come here right away!
+zahnschmerzen | die Zahnschmerzen | noun (pl.) | toothache | Ich habe schlimme Zahnschmerzen. | I have a bad toothache.
+angst | die Angst | noun (f) | fear; Angst haben vor = to be afraid of | Sie hat Angst vor Hunden. | She's afraid of dogs.
+zahnarzt | der Zahnarzt | noun (m) | dentist (male; also the dentist's in general) | Ich gehe zum Zahnarzt. | I'm going to the dentist.
+schmerzen | der Schmerz | noun (m, pl.) | pain(s) | Haben Sie Schmerzen? | Are you in pain?
+stark | stark | adjective | strong; severe | Der Kaffee ist sehr stark. | The coffee is very strong.
+zahnärztin | die Zahnärztin | noun (f) | dentist (female) | Die Zahnärztin ist nett. | The dentist is nice.
+dr | Dr. (Doktor) | abbreviation | Dr (doctor, title) | Dr. Schmidt hat heute Sprechstunde. | Dr Schmidt has surgery hours today.
+neumann | Neumann | proper noun | Neumann (surname) | Frau Neumann ist Zahnärztin. | Mrs Neumann is a dentist.
+freundlich | freundlich | adjective | friendly | Die Leute hier sind freundlich. | The people here are friendly.
+mund | der Mund | noun (m) | mouth | Mach den Mund auf! | Open your mouth!
+schaut | schauen / anschauen | verb | looks; schaut … an = looks at | Sie schaut aus dem Fenster. | She looks out of the window.
+zähne | der Zahn | noun (m, pl.) | teeth | Ich putze mir die Zähne. | I brush my teeth.
+kleines | klein | adjective | small, little (neuter) | Wir haben ein kleines Auto. | We have a small car.
+loch | das Loch | noun (n) | hole; cavity | Der Zahn hat ein Loch. | The tooth has a cavity.
+behandlung | die Behandlung | noun (f) | treatment | Die Behandlung tut nicht weh. | The treatment doesn't hurt.
+froh | froh | adjective | glad, happy | Ich bin froh, dass du da bist. | I'm glad you're here.
+zweimal | zweimal | adverb | twice | Ich trinke zweimal am Tag Kaffee. | I drink coffee twice a day.
+versuche | versuchen | verb | (I) try | Ich versuche es noch einmal. | I'll try again.
+zoo | der Zoo | noun (m) | zoo | Im Zoo gibt es Löwen. | There are lions at the zoo.
+heißen | heißen | verb | to be called; (we/they) are called | Wie heißen Sie? | What is your name?
+leo | Leo | proper noun | Leo (male first name) | Leo mag Affen. | Leo likes monkeys.
+aufgeregt | aufgeregt | adjective | excited; nervous | Die Kinder sind aufgeregt. | The children are excited.
+elefanten | der Elefant | noun (m, pl.) | elephants | Elefanten sind sehr groß. | Elephants are very big.
+riesig | riesig | adjective | huge, enormous | Das Stadion ist riesig. | The stadium is huge.
+löwen | der Löwe | noun (m, pl.) | lions | Die Löwen schlafen. | The lions are sleeping.
+löwe | der Löwe | noun (m) | lion | Der Löwe ist stark. | The lion is strong.
+schläft | schlafen / einschlafen | verb | sleeps; schläft ein = falls asleep | Das Baby schläft. | The baby is sleeping.
+pinguinen | der Pinguin | noun (m, dat. pl.) | (at/with the) penguins | Wir gehen zu den Pinguinen. | We're going to the penguins.
+lustig | lustig | adjective | funny, amusing | Der Film ist sehr lustig. | The film is very funny.
+pinguine | der Pinguin | noun (m, pl.) | penguins | Pinguine können nicht fliegen. | Penguins can't fly.
+besten | gut (superlative) | adjective / adverb | best; am besten = best | Am besten fahren wir mit dem Zug. | It's best if we go by train.
+finden | finden | verb | to find; to think (something is …); (we/they) find | Wir finden das Buch gut. | We think the book is good.
+affen | der Affe | noun (m, pl.) | monkeys | Die Affen klettern auf den Baum. | The monkeys climb the tree.
+springen | springen | verb | to jump; (we/they) jump | Die Kinder springen ins Wasser. | The children jump into the water.
+affe | der Affe | noun (m) | monkey | Der Affe isst eine Banane. | The monkey is eating a banana.
+banane | die Banane | noun (f) | banana | Ich esse eine Banane. | I'm eating a banana.
+dezember | der Dezember | noun (m) | December | Im Dezember ist es kalt. | It's cold in December.
+weihnachten | das Weihnachten | noun (n) | Christmas; Frohe Weihnachten! = Merry Christmas! | Weihnachten feiern wir bei Oma. | We celebrate Christmas at Grandma's.
+schmidt | Schmidt | proper noun | Schmidt (very common surname) | Familie Schmidt wohnt nebenan. | The Schmidt family lives next door.
+weihnachtsbaum | der Weihnachtsbaum | noun (m) | Christmas tree | Der Weihnachtsbaum steht im Wohnzimmer. | The Christmas tree is in the living room.
+schmücken | schmücken | verb | to decorate | Wir schmücken das Zimmer mit Blumen. | We decorate the room with flowers.
+baum | der Baum | noun (m) | tree | Der Baum ist sehr alt. | The tree is very old.
+kugeln | die Kugel | noun (f, pl.) | baubles; balls | Am Baum hängen rote Kugeln. | Red baubles hang on the tree.
+sternen | der Stern | noun (m, dat. pl.) | (with) stars | Der Himmel ist voll mit Sternen. | The sky is full of stars.
+vierundzwanzigsten | vierundzwanzigste | number (ordinal) | twenty-fourth | Am vierundzwanzigsten Dezember ist Heiligabend. | Christmas Eve is on the twenty-fourth of December.
+heiligabend | der Heiligabend | noun (m) | Christmas Eve | An Heiligabend gibt es Geschenke. | There are presents on Christmas Eve.
+großeltern | die Großeltern | noun (pl.) | grandparents | Meine Großeltern wohnen auf dem Land. | My grandparents live in the country.
+gans | die Gans | noun (f) | goose | Zu Weihnachten essen wir Gans. | We eat goose at Christmas.
+rotkohl | der Rotkohl | noun (m) | red cabbage | Rotkohl ist lila. | Red cabbage is purple.
+lieder | das Lied | noun (n, pl.) | songs | Die Kinder singen Lieder. | The children sing songs.
+bücher | das Buch | noun (n, pl.) | books | Ich habe viele Bücher. | I have a lot of books.
+socken | die Socke | noun (f, pl.) | socks | Meine Socken sind nass. | My socks are wet.
+foto | das Foto | noun (n) | photo | Ich mache ein Foto. | I'm taking a photo.
+frohe | froh | adjective | happy, merry (Frohe Weihnachten = Merry Christmas) | Frohe Ostern! | Happy Easter!
+einunddreißigste | einunddreißigste | number (ordinal) | thirty-first | Heute ist der einunddreißigste Mai. | Today is the thirty-first of May.
+silvester | das Silvester | noun (n) | New Year's Eve | An Silvester gibt es Feuerwerk. | There are fireworks on New Year's Eve.
+igor | Igor | proper noun | Igor (male first name) | Igor kommt aus der Ukraine. | Igor comes from Ukraine.
+feiert | feiern | verb | celebrates; parties | Sie feiert ihren Geburtstag. | She's celebrating her birthday.
+sarah | Sarah | proper noun | Sarah (female first name) | Sarah lernt Spanisch. | Sarah is learning Spanish.
+raclette | das Raclette | noun (n) | raclette (melted cheese meal, popular at New Year) | An Silvester essen wir Raclette. | We eat raclette on New Year's Eve.
+zählen | zählen | verb | to count; (we/they) count | Das Kind kann bis zehn zählen. | The child can count to ten.
+frohes | froh | adjective | happy (neuter); Frohes neues Jahr! = Happy New Year! | Frohes neues Jahr! | Happy New Year!
+neues | neu | adjective | new (neuter) | Ich habe ein neues Fahrrad. | I have a new bike.
+feuerwerk | das Feuerwerk | noun (n) | fireworks | Das Feuerwerk ist sehr schön. | The fireworks are very beautiful.
+himmel | der Himmel | noun (m) | sky; heaven | Der Himmel ist blau. | The sky is blue.
+bunt | bunt | adjective | colourful | Die Blumen sind bunt. | The flowers are colourful.
+pläne | der Plan | noun (m, pl.) | plans | Hast du Pläne für das Wochenende? | Do you have plans for the weekend?
+will | wollen | verb (modal) | wants (to); (I) want | Ich will Ärztin werden. | I want to become a doctor.
+spanisch | Spanisch / spanisch | noun (n) / adjective | Spanish (language); Spanish | Er spricht gut Spanisch. | He speaks Spanish well.
+jedes | jeder | determiner | every, each (neuter) | Jedes Kind bekommt ein Eis. | Every child gets an ice cream.
+roth | Roth | proper noun | Roth (surname) | Frau Roth hat eine Katze. | Mrs Roth has a cat.
+katze | die Katze | noun (f) | cat | Die Katze trinkt Milch. | The cat is drinking milk.
+minka | Minka | proper noun | Minka (a typical cat's name) | Minka schläft auf dem Sofa. | Minka is sleeping on the sofa.
+weiß | weiß / wissen | adjective / verb | white; (I/he/she) know(s) | Der Schnee ist weiß. Ich weiß es nicht. | The snow is white. I don't know.
+süß | süß | adjective | sweet; cute | Der Kuchen ist sehr süß. | The cake is very sweet.
+garten | der Garten | noun (m) | garden | Die Kinder spielen im Garten. | The children are playing in the garden.
+traurig | traurig | adjective | sad | Warum bist du traurig? | Why are you sad?
+zettel | der Zettel | noun (m) | note, slip of paper | Ich schreibe dir einen Zettel. | I'll write you a note.
+hängt | hängen | verb | hangs | Das Bild hängt an der Wand. | The picture hangs on the wall.
+bäume | der Baum | noun (m, pl.) | trees | Im Park gibt es viele Bäume. | There are many trees in the park.
+garage | die Garage | noun (f) | garage | Das Auto steht in der Garage. | The car is in the garage.
+olga | Olga | proper noun | Olga (female first name) | Olga fliegt nach Rom. | Olga is flying to Rome.
+fliegt | fliegen | verb | flies | Das Flugzeug fliegt nach Paris. | The plane is flying to Paris.
+rom | Rom | proper noun | Rome | Rom ist die Hauptstadt von Italien. | Rome is the capital of Italy.
+taxi | das Taxi | noun (n) | taxi | Wir nehmen ein Taxi. | We'll take a taxi.
+flughafen | der Flughafen | noun (m) | airport | Der Flughafen ist weit weg. | The airport is far away.
+flug | der Flug | noun (m) | flight | Der Flug dauert zwei Stunden. | The flight takes two hours.
+schalter | der Schalter | noun (m) | counter, desk; switch | Fragen Sie am Schalter. | Ask at the counter.
+zeigt | zeigen | verb | shows | Er zeigt mir die Stadt. | He shows me the town.
+pass | der Pass | noun (m) | passport | Ich brauche meinen Pass. | I need my passport.
+koffer | der Koffer | noun (m) | suitcase | Mein Koffer ist schwer. | My suitcase is heavy.
+wiegt | wiegen | verb | weighs | Das Paket wiegt zwei Kilo. | The parcel weighs two kilos.
+achtzehn | achtzehn | number | eighteen | Mit achtzehn darf man Auto fahren. | At eighteen you're allowed to drive.
+sicherheitskontrolle | die Sicherheitskontrolle | noun (f) | security check | Die Sicherheitskontrolle dauert lange. | The security check takes a long time.
+gate | das Gate | noun (n) | gate (at the airport) | Das Flugzeug wartet am Gate. | The plane is waiting at the gate.
+zeitung | die Zeitung | noun (f) | newspaper | Er liest jeden Morgen die Zeitung. | He reads the newspaper every morning.
+einsteigen | einsteigen | verb | to get on, board | Bitte steigen Sie ein. | Please get on.
+tina | Tina | proper noun | Tina (female first name) | Tina liest gern. | Tina likes reading.
+stadtbibliothek | die Stadtbibliothek | noun (f) | city library | Die Stadtbibliothek ist neben dem Rathaus. | The city library is next to the town hall.
+information | die Information | noun (f) | information; information desk | Fragen Sie an der Information. | Ask at the information desk.
+ausleihen | ausleihen | verb | to borrow; to lend | Kann ich dein Fahrrad ausleihen? | Can I borrow your bike?
+brauche | brauchen | verb | (I) need | Ich brauche Hilfe. | I need help.
+bibliotheksausweis | der Bibliotheksausweis | noun (m) | library card | Ohne Bibliotheksausweis kann man keine Bücher ausleihen. | You can't borrow books without a library card.
+ausweis | der Ausweis | noun (m) | ID card; pass | Haben Sie Ihren Ausweis dabei? | Do you have your ID with you?
+anfänger | der Anfänger | noun (m) | beginner(s) | Der Kurs ist für Anfänger. | The course is for beginners.
+dvd | die DVD | noun (f) | DVD | Wir sehen eine DVD. | We're watching a DVD.
+sachen | die Sache | noun (f, pl.) | things, stuff | Wo sind meine Sachen? | Where are my things?
+behalten | behalten | verb | to keep | Du kannst das Buch behalten. | You can keep the book.
+lesen | lesen | verb | to read | Ich lese gern Krimis. | I like reading crime novels.
+simon | Simon | proper noun | Simon (male first name) | Simon wartet auf den Bus. | Simon is waiting for the bus.
+bushaltestelle | die Bushaltestelle | noun (f) | bus stop | Die Bushaltestelle ist vor dem Haus. | The bus stop is in front of the house.
+normalerweise | normalerweise | adverb | usually, normally | Normalerweise stehe ich um sieben auf. | I usually get up at seven.
+warten | warten | verb | to wait; (we/they) wait | Wir warten auf dich. | We're waiting for you.
+busse | der Bus | noun (m, pl.) | buses | Am Sonntag fahren weniger Busse. | Fewer buses run on Sunday.
+fahrer | der Fahrer | noun (m) | driver(s) | Der Fahrer ist sehr nett. | The driver is very nice.
+streiken | streiken | verb | to strike, be on strike | Die Lokführer streiken heute. | The train drivers are on strike today.
+nass | nass | adjective | wet | Meine Haare sind nass. | My hair is wet.
+ärgerlich | ärgerlich | adjective | annoyed; annoying | Das ist wirklich ärgerlich! | That's really annoying!
+hält | halten | verb | stops; holds | Der Zug hält in Köln. | The train stops in Cologne.
+laura | Laura | proper noun | Laura (female first name) | Laura fährt ein rotes Auto. | Laura drives a red car.
+steig | steigen / einsteigen | verb (imperative) | get (in/on)!; steig ein! = get in! | Steig schnell ein! | Get in quickly!
+dich | du | pronoun | you (informal, accusative) | Ich liebe dich. | I love you.
+bist | sein | verb | (you, informal) are | Du bist sehr nett. | You are very nice.
+sophie | Sophie | proper noun | Sophie (female first name) | Sophie liebt Nudeln. | Sophie loves pasta.
+moritz | Moritz | proper noun | Moritz (male first name) | Moritz spielt Fußball. | Moritz plays football.
+decke | die Decke | noun (f) | blanket; ceiling | Wir sitzen auf einer Decke. | We're sitting on a blanket.
+wurst | die Wurst | noun (f) | sausage; cold meat | Ich esse Brot mit Wurst. | I'm eating bread with cold meat.
+erdbeeren | die Erdbeere | noun (f, pl.) | strawberries | Erdbeeren sind rot und süß. | Strawberries are red and sweet.
+saft | der Saft | noun (m) | juice | Ein Glas Saft, bitte. | A glass of juice, please.
+unter | unter | preposition | under, below; among | Die Katze liegt unter dem Tisch. | The cat is lying under the table.
+großen | groß | adjective | big, large (masc. acc. / dative / plural) | Wir haben einen großen Garten. | We have a big garden.
+vögel | der Vogel | noun (m, pl.) | birds | Die Vögel singen am Morgen. | The birds sing in the morning.
+ameisen | die Ameise | noun (f, pl.) | ants | In der Küche sind Ameisen. | There are ants in the kitchen.
+dunkle | dunkel | adjective | dark (fem. / plural) | Dunkle Wolken kommen. | Dark clouds are coming.
+wolken | die Wolke | noun (f, pl.) | clouds | Am Himmel sind viele Wolken. | There are many clouds in the sky.
+regnen | regnen | verb | to rain | Es beginnt zu regnen. | It's starting to rain.
+packen | packen / einpacken | verb | to pack; packen … ein = pack up | Wir packen die Koffer. | We're packing the suitcases.
+bester | gut (superlative) | adjective | best (masc.) | Er ist mein bester Freund. | He is my best friend.
+noah | Noah | proper noun | Noah (male first name) | Noah erzählt gern Witze. | Noah likes telling jokes.
+kennen | kennen | verb | to know (be familiar with); sich kennen = to know each other | Kennen Sie Herrn Meier? | Do you know Mr Meier?
+kindergarten | der Kindergarten | noun (m) | kindergarten, nursery school | Mein Sohn geht in den Kindergarten. | My son goes to kindergarten.
+gleiche | gleich | adjective | same (fem. / plural) | Wir haben die gleiche Jacke. | We have the same jacket.
+klasse | die Klasse / klasse | noun (f) / adjective | class (school year, group); great (colloquial) | In meiner Klasse sind zwanzig Kinder. | There are twenty children in my class.
+braune | braun | adjective | brown (fem. / plural) | Sie hat braune Augen. | She has brown eyes.
+haare | das Haar | noun (n, pl.) | hair | Sie hat lange Haare. | She has long hair.
+augen | das Auge | noun (n, pl.) | eyes | Er hat grüne Augen. | He has green eyes.
+kleiner | klein (comparative) | adjective | smaller; shorter | Mein Bruder ist kleiner als ich. | My brother is shorter than me.
+witze | der Witz | noun (m, pl.) | jokes | Er erzählt gute Witze. | He tells good jokes.
+rechnen | rechnen | verb | to calculate, do sums | Kinder lernen in der Schule rechnen. | Children learn arithmetic at school.
+hausaufgaben | die Hausaufgabe | noun (f, pl.) | homework | Hast du deine Hausaufgaben gemacht? | Have you done your homework?
+film | der Film | noun (m) | film, movie | Der Film beginnt um acht. | The film starts at eight.
+guter | gut | adjective | good (masc. nominative) | Das ist ein guter Plan. | That's a good plan.
+wichtig | wichtig | adjective | important | Das ist sehr wichtig. | That's very important.
+wagner | Wagner | proper noun | Wagner (surname) | Herr Wagner trinkt schwarzen Kaffee. | Mr Wagner drinks black coffee.
+gleich | gleich | adjective / adverb | same, equal; right away, in a moment | Ich komme gleich. | I'm coming right away.
+verschieden | verschieden | adjective | different, various | Die Geschwister sind sehr verschieden. | The siblings are very different.
+schwarzen | schwarz | adjective | black (masc. acc. / dative / plural) | Er trinkt schwarzen Tee. | He drinks black tea.
+joghurt | der Joghurt | noun (m) | yoghurt | Ich esse Joghurt mit Honig. | I eat yoghurt with honey.
+grünen | grün | adjective | green (masc. acc. / dative / plural) | Sie trinkt grünen Tee. | She drinks green tea.
+tochter | die Tochter | noun (f) | daughter | Meine Tochter ist fünf. | My daughter is five.
+lea | Lea | proper noun | Lea (female first name) | Lea trinkt einen Kakao. | Lea drinks a cocoa.
+kakao | der Kakao | noun (m) | cocoa, hot chocolate | Kinder trinken gern Kakao. | Children like drinking cocoa.
+musst | müssen | verb (modal) | (you, informal) must, have to | Du musst mehr schlafen. | You must sleep more.
+raj | Raj | proper noun | Raj (Indian male first name) | Raj wohnt in Bonn. | Raj lives in Bonn.
+indien | Indien | proper noun | India | Indien ist ein großes Land. | India is a big country.
+bonn | Bonn | proper noun | Bonn (city on the Rhine) | Beethoven kommt aus Bonn. | Beethoven comes from Bonn.
+adresse | die Adresse | noun (f) | address | Wie ist deine Adresse? | What's your address?
+anmelden | anmelden | verb | to register (an address, for a course) | Ich muss mich beim Kurs anmelden. | I have to register for the course.
+bürgeramt | das Bürgeramt | noun (n) | citizens' office (registration office) | Den Pass bekommt man im Bürgeramt. | You get your passport at the citizens' office.
+formular | das Formular | noun (n) | form | Bitte füllen Sie das Formular aus. | Please fill in the form.
+namen | der Name | noun (m, acc./dat./pl.) | name | Schreiben Sie bitte Ihren Namen hier. | Please write your name here.
+geburtsdatum | das Geburtsdatum | noun (n) | date of birth | Wie ist Ihr Geburtsdatum? | What is your date of birth?
+mietvertrag | der Mietvertrag | noun (m) | tenancy agreement, rental contract | Der Mietvertrag ist für ein Jahr. | The rental contract is for one year.
+tippt | tippen | verb | types | Sie tippt sehr schnell. | She types very fast.
+papier | das Papier | noun (n) | paper; document | Ich brauche ein Blatt Papier. | I need a sheet of paper.
+meldebestätigung | die Meldebestätigung | noun (f) | certificate of registration (of address) | Für das Bankkonto braucht man die Meldebestätigung. | You need the registration certificate for the bank account.
+aufheben | aufheben | verb | to keep, hold on to; to pick up | Bitte heben Sie die Quittung auf. | Please keep the receipt.
+fertig | fertig | adjective | finished, ready, done | Das Essen ist fertig. | The food is ready.
+einfach | einfach | adjective / adverb | simple, easy; simply | Die Aufgabe ist einfach. | The task is easy.
+kraus | Kraus | proper noun | Kraus (surname) | Frau Kraus geht zur Post. | Mrs Kraus goes to the post office.
+post | die Post | noun (f) | post office; post, mail | Ich bringe den Brief zur Post. | I'm taking the letter to the post office.
+paket | das Paket | noun (n) | parcel, package | Das Paket ist für dich. | The parcel is for you.
+sohn | der Sohn | noun (m) | son | Ihr Sohn studiert in Wien. | Her son studies in Vienna.
+österreich | Österreich | proper noun | Austria | In Österreich spricht man Deutsch. | German is spoken in Austria.
+graz | Graz | proper noun | Graz (city in Austria) | Graz ist die zweitgrößte Stadt Österreichs. | Graz is Austria's second-largest city.
+schicken | schicken | verb | to send | Ich schicke dir ein Foto. | I'll send you a photo.
+neunundneunzig | neunundneunzig | number | ninety-nine | Das kostet neunundneunzig Cent. | That costs ninety-nine cents.
+briefmarken | die Briefmarke | noun (f, pl.) | stamps | Ich brauche drei Briefmarken. | I need three stamps.
+hofft | hoffen | verb | hopes | Er hofft auf gutes Wetter. | He's hoping for good weather.
+jana | Jana | proper noun | Jana (female first name) | Jana lernt Spanisch. | Jana is learning Spanish.
+kemal | Kemal | proper noun | Kemal (Turkish male first name) | Kemal putzt das Bad. | Kemal cleans the bathroom.
+wohnen | wohnen | verb | to live, reside; (we/they) live | Wir wohnen in Berlin. | We live in Berlin.
+wg | die WG (Wohngemeinschaft) | noun (f) | shared flat | Ich wohne in einer WG. | I live in a shared flat.
+jeder | jeder | pronoun / determiner | everyone, each; every (masc.) | Jeder kann das lernen. | Anyone can learn that.
+aufgabe | die Aufgabe | noun (f) | task, job; exercise | Das ist eine schwere Aufgabe. | That's a difficult task.
+putzt | putzen | verb | cleans; brushes (teeth) | Er putzt das Fenster. | He's cleaning the window.
+spült | spülen | verb | washes up, rinses | Sie spült das Geschirr. | She's washing the dishes.
+geschirr | das Geschirr | noun (n) | dishes, crockery | Wer spült heute das Geschirr? | Who's washing the dishes today?
+saugt | saugen | verb | sucks; Staub saugen = to vacuum | Er saugt jeden Samstag Staub. | He vacuums every Saturday.
+staub | der Staub | noun (m) | dust; Staub saugen = to vacuum | Auf dem Regal ist viel Staub. | There's a lot of dust on the shelf.
+flur | der Flur | noun (m) | hall, corridor | Die Schuhe stehen im Flur. | The shoes are in the hall.
+müll | der Müll | noun (m) | rubbish, garbage | Bringst du bitte den Müll raus? | Can you take the rubbish out, please?
+raus | raus (heraus/hinaus) | adverb | out | Geh raus und spiel! | Go out and play!
+glänzt | glänzen | verb | shines, sparkles | Das Auto glänzt in der Sonne. | The car shines in the sun.
+pause | die Pause | noun (f) | break, pause | Wir machen eine kurze Pause. | We're taking a short break.
+verdient | verdienen | verb / past participle | earned, deserved; earns | Du hast eine Pause verdient. | You've earned a break.
+mittwochnachmittag | der Mittwochnachmittag | noun (m) | Wednesday afternoon | Am Mittwochnachmittag habe ich frei. | I'm free on Wednesday afternoon.
+elif | Elif | proper noun | Elif (Turkish female first name) | Elif schwimmt gern. | Elif likes swimming.
+schwimmbad | das Schwimmbad | noun (n) | swimming pool | Das Schwimmbad öffnet um neun. | The swimming pool opens at nine.
+can | Can | proper noun | Can (Turkish male first name) | Can ist sieben Jahre alt. | Can is seven years old.
+ziehen | ziehen / umziehen | verb | to pull; to move; sich umziehen = to get changed | Wir ziehen uns schnell um. | We get changed quickly.
+schwimmt | schwimmen | verb | swims | Der Fisch schwimmt im Wasser. | The fish swims in the water.
+becken | das Becken | noun (n) | pool, basin | Das Becken ist zwei Meter tief. | The pool is two metres deep.
+bahnen | die Bahn | noun (f, pl.) | lengths (in a pool); lanes; railways | Ich schwimme zehn Bahnen. | I swim ten lengths.
+kinderbecken | das Kinderbecken | noun (n) | children's pool, paddling pool | Das Kinderbecken ist nicht tief. | The children's pool isn't deep.
+ball | der Ball | noun (m) | ball | Der Hund spielt mit dem Ball. | The dog plays with the ball.
+beide | beide | pronoun / determiner | both | Beide Kinder sind krank. | Both children are ill.
+pommes | die Pommes (frites) | noun (pl.) | chips, French fries | Ich möchte Pommes mit Ketchup. | I'd like chips with ketchup.
+kiosk | der Kiosk | noun (m) | kiosk, snack stand | Am Kiosk kann man Zeitungen kaufen. | You can buy newspapers at the kiosk.
+kannst | können | verb (modal) | (you, informal) can | Kannst du mir helfen? | Can you help me?
+beibringen | beibringen | verb | to teach (someone something) | Kannst du mir Gitarre beibringen? | Can you teach me the guitar?
+nächste | nächste | adjective | next (fem. / nominative) | Nächste Woche habe ich Urlaub. | I'm on holiday next week.
+fangen | fangen / anfangen | verb | to catch; fangen … an = (we/they) start | Wir fangen um neun an. | We start at nine.
+lieber | lieb / gern (comparative) | adjective / adverb | dear (Lieber Marco = Dear Marco); rather, preferably | Ich trinke lieber Tee. | I'd rather drink tea.
+marco | Marco | proper noun | Marco (Italian male first name) | Marco kommt aus Italien. | Marco comes from Italy.
+interessant | interessant | adjective | interesting | Das Buch ist sehr interessant. | The book is very interesting.
+schöne | schön | adjective | beautiful, nice (fem. / plural) | Wien ist eine schöne Stadt. | Vienna is a beautiful city.
+hafen | der Hafen | noun (m) | harbour, port | Im Hafen liegen viele Schiffe. | There are many ships in the harbour.
+brücken | die Brücke | noun (f, pl.) | bridges | Venedig hat viele Brücken. | Venice has many bridges.
+möchtest | mögen | verb (modal) | (you, informal) would like | Möchtest du einen Kaffee? | Would you like a coffee?
+mich | ich | pronoun | me; myself (accusative) | Besuch mich bald! | Visit me soon!
+mai | der Mai | noun (m) | May | Im Mai blühen die Bäume. | The trees blossom in May.
+zeige | zeigen | verb | (I) show | Ich zeige dir mein Zimmer. | I'll show you my room.
+schreib | schreiben | verb (imperative) | write! | Schreib mir eine Karte! | Write me a card!
+emil | Emil | proper noun | Emil (male first name) | Emil baut einen Turm. | Emil is building a tower.
+erzieherin | die Erzieherin | noun (f) | nursery teacher, childcare worker (female) | Die Erzieherin spielt mit den Kindern. | The nursery teacher plays with the children.
+steffi | Steffi | proper noun | Steffi (female first name, short for Stefanie) | Steffi arbeitet im Kindergarten. | Steffi works at a kindergarten.
+bausteinen | der Baustein | noun (m, dat. pl.) | (with) building blocks | Das Kind spielt mit Bausteinen. | The child is playing with building blocks.
+baut | bauen | verb | builds | Er baut ein Haus. | He's building a house.
+hohen | hoch | adjective | high, tall (masc. acc. / dative / plural) | Wir wohnen in einem hohen Haus. | We live in a tall building.
+turm | der Turm | noun (m) | tower | Der Turm ist hundert Meter hoch. | The tower is a hundred metres high.
+kreis | der Kreis | noun (m) | circle; district | Die Kinder sitzen im Kreis. | The children sit in a circle.
+rutscht | rutschen | verb | slides, slips | Das Kind rutscht auf der Rutsche. | The child goes down the slide.
+schaukelt | schaukeln | verb | swings (on a swing) | Sie schaukelt im Garten. | She's swinging in the garden.
+holt | holen / abholen | verb | fetches, gets; holt … ab = picks up, collects | Er holt Brötchen. | He's getting rolls.
+dein | dein | possessive | your (informal, masc./neuter) | Wie ist dein Name? | What's your name?
+baue | bauen | verb | (I) build | Ich baue ein Vogelhaus. | I'm building a birdhouse.
+höheren | hoch (comparative) | adjective | higher, taller (masc. acc. / dative) | Morgen baue ich einen höheren Turm. | Tomorrow I'll build a taller tower.
+ana | Ana | proper noun | Ana (female first name) | Ana kommt aus Portugal. | Ana comes from Portugal.
+portugal | Portugal | proper noun | Portugal | Portugal liegt am Atlantik. | Portugal is on the Atlantic.
+düsseldorf | Düsseldorf | proper noun | Düsseldorf (city on the Rhine) | Düsseldorf liegt am Rhein. | Düsseldorf is on the Rhine.
+deutsches | deutsch | adjective | German (neuter) | Das ist ein deutsches Auto. | That's a German car.
+konto | das Konto | noun (n) | (bank) account | Ich habe ein Konto bei der Sparkasse. | I have an account at the Sparkasse.
+gehalt | das Gehalt | noun (n) | salary | Das Gehalt kommt am Ende des Monats. | The salary comes at the end of the month.
+bank | die Bank | noun (f) | bank; bench | Ich gehe zur Bank. | I'm going to the bank.
+bankangestellter | der Bankangestellte | noun (m) | bank employee, bank clerk | Ein Bankangestellter hilft mir. | A bank clerk helps me.
+eröffnen | eröffnen | verb | to open (an account, a shop) | Ich möchte ein Konto eröffnen. | I'd like to open an account.
+unterschreibt | unterschreiben | verb | signs | Er unterschreibt den Vertrag. | He signs the contract.
+monat | der Monat | noun (m) | month | Der Kurs dauert einen Monat. | The course lasts a month.
+bekomme | bekommen | verb | (I) get, receive | Ich bekomme viele E-Mails. | I get a lot of emails.
+albrecht | Albrecht | proper noun | Albrecht (surname / male first name) | Frau Albrecht fährt Bus. | Mrs Albrecht takes the bus.
+steigt | steigen / einsteigen / aussteigen | verb | climbs, rises; steigt ein = gets on; steigt aus = gets off | Sie steigt in den Bus ein. | She gets on the bus.
+vorne | vorne | adverb | at the front | Steigen Sie bitte vorne ein. | Please get on at the front.
+busfahrer | der Busfahrer | noun (m) | bus driver | Der Busfahrer verkauft Fahrkarten. | The bus driver sells tickets.
+achtzig | achtzig | number | eighty | Meine Oma ist achtzig. | My grandma is eighty.
+haltestelle | die Haltestelle | noun (f) | stop (bus, tram) | An der nächsten Haltestelle steige ich aus. | I'm getting off at the next stop.
+schwangere | schwanger | adjective | pregnant (fem.) | Eine schwangere Frau steigt ein. | A pregnant woman gets on.
+rathaus | das Rathaus | noun (n) | town hall | Das Rathaus ist am Marktplatz. | The town hall is on the market square.
+drückt | drücken | verb | presses, pushes | Er drückt auf den Knopf. | He presses the button.
+knopf | der Knopf | noun (m) | button | Drücken Sie den grünen Knopf. | Press the green button.
+peters | Peters | proper noun | Peters (surname) | Herr Peters hat einen Garten. | Mr Peters has a garden.
+hinter | hinter | preposition | behind | Der Garten ist hinter dem Haus. | The garden is behind the house.
+pflanzt | pflanzen | verb | plants | Sie pflanzt Blumen im Garten. | She plants flowers in the garden.
+karotten | die Karotte | noun (f, pl.) | carrots | Hasen fressen gern Karotten. | Rabbits like eating carrots.
+gießt | gießen | verb | waters (plants); pours | Er gießt die Blumen. | He waters the flowers.
+besonders | besonders | adverb | especially, particularly | Das Essen ist besonders gut. | The food is especially good.
+reif | reif | adjective | ripe | Die Tomaten sind reif. | The tomatoes are ripe.
+freuen | freuen | verb (reflexive) | sich freuen = to be pleased; (we/they) are pleased | Wir freuen uns auf den Urlaub. | We're looking forward to the holiday.
+bamberg | Bamberg | proper noun | Bamberg (historic town in Bavaria) | Bamberg hat eine schöne Altstadt. | Bamberg has a beautiful old town.
+bayern | Bayern | proper noun | Bavaria | München ist die Hauptstadt von Bayern. | Munich is the capital of Bavaria.
+siebzigtausend | siebzigtausend | number | seventy thousand | Die Stadt hat siebzigtausend Einwohner. | The town has seventy thousand inhabitants.
+einwohner | der Einwohner | noun (m, pl.) | inhabitants, residents | Berlin hat über drei Millionen Einwohner. | Berlin has over three million inhabitants.
+altstadt | die Altstadt | noun (f) | old town | Die Altstadt ist sehr schön. | The old town is very beautiful.
+alte | alt | adjective | old (fem. / plural) | Wir wohnen in einer alten Wohnung. | We live in an old flat.
+häuser | das Haus | noun (n, pl.) | houses | Die Häuser sind bunt. | The houses are colourful.
+schönen | schön | adjective | beautiful, nice (masc. acc. / dative / plural) | Wir haben einen schönen Tag. | We're having a nice day.
+marktplatz | der Marktplatz | noun (m) | market square | Am Marktplatz gibt es ein Café. | There's a café on the market square.
+dom | der Dom | noun (m) | cathedral | Der Kölner Dom ist berühmt. | Cologne Cathedral is famous.
+fließt | fließen | verb | flows | Der Rhein fließt durch Köln. | The Rhine flows through Cologne.
+bier | das Bier | noun (n) | beer | Ein Bier, bitte! | A beer, please!
+david | David | proper noun | David (male first name) | David hat ein neues Handy. | David has a new phone.
+fällt | fallen / ausfallen | verb | falls, drops; fällt aus = is cancelled | Das Glas fällt auf den Boden. | The glass falls to the floor.
+bildschirm | der Bildschirm | noun (m) | screen | Der Bildschirm ist zu dunkel. | The screen is too dark.
+handyladen | der Handyladen | noun (m) | mobile phone shop | Der Handyladen repariert Handys. | The phone shop repairs phones.
+seufzt | seufzen | verb | sighs | Sie seufzt und macht weiter. | She sighs and carries on.
+ohne | ohne | preposition | without | Ich trinke Kaffee ohne Zucker. | I drink coffee without sugar.
+mitbewohnerin | die Mitbewohnerin | noun (f) | flatmate (female) | Meine Mitbewohnerin kocht gern. | My flatmate likes cooking.
+eigentlich | eigentlich | adverb | actually, really | Eigentlich habe ich keine Zeit. | Actually, I don't have time.
+großer | groß | adjective | big, great (masc. nominative) | Das ist ein großer Erfolg. | That's a great success.
+lisas | Lisa | proper noun (genitive) | Lisa's | Lisas Schwester heiratet. | Lisa's sister is getting married.
+anja | Anja | proper noun | Anja (female first name) | Anja heiratet heute. | Anja is getting married today.
+heiratet | heiraten | verb | marries, gets married | Mein Bruder heiratet im Mai. | My brother is getting married in May.
+stefan | Stefan | proper noun | Stefan (male first name) | Stefan trägt einen Anzug. | Stefan is wearing a suit.
+standesamt | das Standesamt | noun (n) | registry office | Sie heiraten im Standesamt. | They're getting married at the registry office.
+trägt | tragen | verb | wears; carries | Sie trägt ein rotes Kleid. | She is wearing a red dress.
+weißes | weiß | adjective | white (neuter) | Er trägt ein weißes Hemd. | He's wearing a white shirt.
+kleid | das Kleid | noun (n) | dress | Das Kleid ist sehr elegant. | The dress is very elegant.
+dunklen | dunkel | adjective | dark (masc. acc. / dative / plural) | Er trägt einen dunklen Mantel. | He's wearing a dark coat.
+anzug | der Anzug | noun (m) | suit | Zur Hochzeit trägt er einen Anzug. | He wears a suit to the wedding.
+klatschen | klatschen | verb | to clap; (we/they) clap | Am Ende klatschen alle. | At the end everyone claps.
+anjas | Anja | proper noun (genitive) | Anja's | Anjas Mutter weint. | Anja's mother is crying.
+weint | weinen | verb | cries, weeps | Das Baby weint. | The baby is crying.
+feier | die Feier | noun (f) | celebration, party | Die Feier beginnt um sieben. | The celebration starts at seven.
+hundert | hundert | number | a hundred | Das kostet hundert Euro. | That costs a hundred euros.
+großes | groß | adjective | big, large (neuter) | Sie haben ein großes Haus. | They have a big house.
+hochzeitstorte | die Hochzeitstorte | noun (f) | wedding cake | Die Hochzeitstorte ist weiß. | The wedding cake is white.
+etagen | die Etage | noun (f, pl.) | tiers; floors, storeys | Das Haus hat vier Etagen. | The house has four floors.
+morgens | morgens | adverb | in the morning(s); drei Uhr morgens = three in the morning | Morgens trinke ich Kaffee. | In the mornings I drink coffee.
+schönste | schön (superlative) | adjective | most beautiful, best | Das ist der schönste Tag meines Lebens. | This is the best day of my life.
+jahres | das Jahr | noun (n, genitive) | of the year | Das ist der Film des Jahres. | That's the film of the year.
+ausflug | der Ausflug | noun (m) | trip, excursion, outing | Am Sonntag machen wir einen Ausflug. | On Sunday we're going on a trip.
+alpen | die Alpen | proper noun (pl.) | the Alps | Im Winter fahren wir in die Alpen. | In winter we go to the Alps.
+los | los | adverb / prefix | off, away (losfahren = to set off); Was ist los? = What's the matter? | Wir fahren um acht los. | We set off at eight.
+berg | der Berg | noun (m) | mountain | Der Berg ist sehr hoch. | The mountain is very high.
+wandern | wandern | verb | to hike; (we/they) hike | Am Wochenende wandern wir gern. | We like hiking at the weekend.
+oben | oben | adverb | up, at the top; nach oben = upwards | Das Zimmer ist oben. | The room is upstairs.
+steil | steil | adjective | steep | Die Straße ist sehr steil. | The street is very steep.
+unterwegs | unterwegs | adverb | on the way, out and about | Unterwegs trinken wir Kaffee. | We drink coffee on the way.
+kühe | die Kuh | noun (f, pl.) | cows | Die Kühe stehen auf der Wiese. | The cows are in the meadow.
+ziegen | die Ziege | noun (f, pl.) | goats | Die Ziegen klettern auf die Steine. | The goats climb onto the rocks.
+endlich | endlich | adverb | finally, at last | Endlich ist Wochenende! | At last it's the weekend!
+aussicht | die Aussicht | noun (f) | view | Vom Turm hat man eine tolle Aussicht. | There's a great view from the tower.
+fantastisch | fantastisch | adjective | fantastic | Das Konzert war fantastisch! | The concert was fantastic!
+seen | der See | noun (m, pl.) | lakes | In Bayern gibt es viele Seen. | There are many lakes in Bavaria.
+berge | der Berg | noun (m, pl.) | mountains | Die Berge sind voll Schnee. | The mountains are full of snow.
+hütte | die Hütte | noun (f) | hut; mountain hut | Wir übernachten in einer Hütte. | We're staying overnight in a hut.
+suppe | die Suppe | noun (f) | soup | Die Suppe ist heiß. | The soup is hot.
+apfelstrudel | der Apfelstrudel | noun (m) | apple strudel | Apfelstrudel kommt aus Österreich. | Apple strudel comes from Austria.
+beine | das Bein | noun (n, pl.) | legs | Meine Beine tun weh. | My legs hurt.
+tobias | Tobias | proper noun | Tobias (male first name) | Tobias arbeitet im Büro. | Tobias works in an office.
+miriam | Miriam | proper noun | Miriam (female first name) | Miriam isst gern asiatisch. | Miriam likes Asian food.
+wohin | wohin | adverb | where (to) | Wohin fährst du? | Where are you going?
+goethestraße | die Goethestraße | proper noun | Goethe Street | Das Restaurant ist in der Goethestraße. | The restaurant is in Goethe Street.
+vietnamesisches | vietnamesisch | adjective | Vietnamese (neuter) | Wir gehen in ein vietnamesisches Restaurant. | We're going to a Vietnamese restaurant.
+kennst | kennen | verb | (you, informal) know | Kennst du meinen Bruder? | Do you know my brother?
+asiatisch | asiatisch | adjective / adverb | Asian; asiatisch essen = to eat Asian food | Ich koche gern asiatisch. | I like cooking Asian food.
+nudelsuppe | die Nudelsuppe | noun (f) | noodle soup | Bei Erkältung esse ich Nudelsuppe. | When I have a cold I eat noodle soup.
+reis | der Reis | noun (m) | rice | Wir essen Reis mit Gemüse. | We're eating rice with vegetables.
+hähnchen | das Hähnchen | noun (n) | chicken (food) | Ich nehme das Hähnchen mit Pommes. | I'll have the chicken with chips.
+öfter | oft (comparative) | adverb | more often; quite often | Wir sollten uns öfter sehen. | We should see each other more often.
+dreiundzwanzig | dreiundzwanzig | number | twenty-three | Es ist dreiundzwanzig Uhr. | It's eleven p.m.
+lehmann | Lehmann | proper noun | Lehmann (surname) | Herr Lehmann nimmt ein Taxi. | Mr Lehmann takes a taxi.
+hannover | Hannover | proper noun | Hanover (city in Lower Saxony) | Hannover ist bekannt für Messen. | Hanover is known for trade fairs.
+bergstraße | die Bergstraße | proper noun | Bergstraße (street name, lit. "mountain street") | Das Hotel ist in der Bergstraße. | The hotel is in Bergstraße.
+taxifahrer | der Taxifahrer | noun (m) | taxi driver | Der Taxifahrer kennt die Stadt gut. | The taxi driver knows the city well.
+konferenz | die Konferenz | noun (f) | conference | Die Konferenz dauert drei Tage. | The conference lasts three days.
+zweiundzwanzig | zweiundzwanzig | number | twenty-two | Sie ist zweiundzwanzig Jahre alt. | She is twenty-two years old.
+fünfundzwanzig | fünfundzwanzig | number | twenty-five | Das Ticket kostet fünfundzwanzig Euro. | The ticket costs twenty-five euros.
+stimmt | stimmen | verb | is right, is true; Stimmt so! = Keep the change! | Das stimmt nicht! | That's not true!
+greta | Greta | proper noun | Greta (female first name) | Greta kauft Schuhe. | Greta is buying shoes.
+passenden | passend | adjective | matching, suitable (acc./dat./pl.) | Sie sucht passende Schuhe. | She's looking for matching shoes.
+schuhe | der Schuh | noun (m, pl.) | shoes | Die Schuhe sind neu. | The shoes are new.
+kaufhaus | das Kaufhaus | noun (n) | department store | Das Kaufhaus hat fünf Etagen. | The department store has five floors.
+schuhabteilung | die Schuhabteilung | noun (f) | shoe department | Die Schuhabteilung ist im Erdgeschoss. | The shoe department is on the ground floor.
+eng | eng | adjective | tight; narrow | Die Hose ist zu eng. | The trousers are too tight.
+bequem | bequem | adjective | comfortable | Das Sofa ist sehr bequem. | The sofa is very comfortable.
+elegant | elegant | adjective | elegant | Sie trägt ein elegantes Kleid. | She's wearing an elegant dress.
+rote | rot | adjective | red (fem. / plural) | Ich kaufe rote Rosen. | I'm buying red roses.
+achtunddreißig | achtunddreißig | number | thirty-eight | Ich habe Schuhgröße achtunddreißig. | My shoe size is thirty-eight.
+genau | genau | adjective / adverb | exact; exactly; Genau! = Exactly! | Es ist genau zwölf Uhr. | It's exactly twelve o'clock.
+sommerferien | die Sommerferien | noun (pl.) | summer holidays | In den Sommerferien fahren wir weg. | We go away in the summer holidays.
+jakob | Jakob | proper noun | Jakob (male first name) | Jakob besucht seine Großeltern. | Jakob visits his grandparents.
+land | das Land | noun (n) | country; countryside; auf dem Land = in the country | Deutschland ist ein schönes Land. | Germany is a beautiful country.
+bauernhof | der Bauernhof | noun (m) | farm | Auf dem Bauernhof gibt es viele Tiere. | There are many animals on the farm.
+kühen | die Kuh | noun (f, dat. pl.) | (with) cows | Der Bauer ist bei den Kühen. | The farmer is with the cows.
+hühnern | das Huhn | noun (n, dat. pl.) | (with) chickens, hens | Die Eier sind von unseren Hühnern. | The eggs are from our hens.
+pferd | das Pferd | noun (n) | horse | Sie reitet auf einem Pferd. | She rides a horse.
+opa | der Opa | noun (m) | grandpa, granddad | Mein Opa erzählt gern Geschichten. | My grandpa likes telling stories.
+füttern | füttern | verb | to feed (animals, babies) | Wir füttern die Enten. | We're feeding the ducks.
+tiere | das Tier | noun (n, pl.) | animals | Ich mag Tiere. | I like animals.
+sammelt | sammeln | verb | collects, gathers | Er sammelt Briefmarken. | He collects stamps.
+reitet | reiten | verb | rides (a horse) | Sie reitet jeden Samstag. | She goes riding every Saturday.
+bach | der Bach | noun (m) | stream, brook | Im Bach ist das Wasser kalt. | The water in the stream is cold.
+ferien | die Ferien | noun (pl.) | holidays (school/university) | Wann beginnen die Ferien? | When do the holidays start?
+liebsten | gern (superlative) | adverb | am liebsten = most of all, best (of all) | Am liebsten esse ich Pizza. | I like pizza best of all.
+krüger | Krüger | proper noun | Krüger (surname) | Familie Krüger grillt. | The Krüger family is having a barbecue.
+grillt | grillen | verb | grills, has a barbecue | Er grillt Würstchen. | He's grilling sausages.
+laden | laden / einladen / der Laden | verb / noun (m) | (we/they) load; laden … ein = invite; shop | Wir laden euch zum Essen ein. | We're inviting you to dinner.
+würstchen | das Würstchen | noun (n) | sausage(s), frankfurter | Die Kinder essen Würstchen. | The children are eating sausages.
+fleisch | das Fleisch | noun (n) | meat | Ich esse kein Fleisch. | I don't eat meat.
+kartoffelsalat | der Kartoffelsalat | noun (m) | potato salad | Zum Grillen gibt es Kartoffelsalat. | There's potato salad with the barbecue.
+nudelsalat | der Nudelsalat | noun (m) | pasta salad | Ich mache einen Nudelsalat. | I'm making a pasta salad.
+grill | der Grill | noun (m) | grill, barbecue | Das Fleisch liegt auf dem Grill. | The meat is on the barbecue.
+sandra | Sandra | proper noun | Sandra (female first name) | Sandra ist Vegetarierin. | Sandra is a vegetarian.
+vegetarierin | die Vegetarierin | noun (f) | vegetarian (female) | Meine Schwester ist Vegetarierin. | My sister is a vegetarian.
+grillkäse | der Grillkäse | noun (m) | grilling cheese (like halloumi) | Grillkäse ist gut für Vegetarier. | Grilling cheese is good for vegetarians.
+probieren | probieren | verb | to try, taste; (we/they) try | Möchtest du den Kuchen probieren? | Would you like to try the cake?
+sandras | Sandra | proper noun (genitive) | Sandra's | Sandras Gemüse ist lecker. | Sandra's vegetables are tasty.
+ole | Ole | proper noun | Ole (male first name, common in northern Germany) | Ole liebt Fußball. | Ole loves football.
+stadion | das Stadion | noun (n) | stadium | Das Stadion ist voll. | The stadium is full.
+mannschaft | die Mannschaft | noun (f) | team | Unsere Mannschaft gewinnt! | Our team is winning!
+gegen | gegen | preposition | against; around (time: gegen acht = around eight) | Wir spielen gegen Bremen. | We're playing against Bremen.
+bremen | Bremen | proper noun | Bremen (city in northern Germany; also its football club) | Bremen liegt an der Weser. | Bremen is on the Weser.
+fünfzigtausend | fünfzigtausend | number | fifty thousand | Fünfzigtausend Fans sind im Stadion. | Fifty thousand fans are in the stadium.
+rufen | rufen | verb | to call, shout; (we/they) call | Die Fans rufen laut. | The fans shout loudly.
+schal | der Schal | noun (m) | scarf | Im Winter trage ich einen Schal. | I wear a scarf in winter.
+farben | die Farbe | noun (f, pl.) | colours | Welche Farben magst du? | Which colours do you like?
+schießt | schießen | verb | shoots; ein Tor schießen = to score a goal | Er schießt ein Tor. | He scores a goal.
+tor | das Tor | noun (n) | goal; gate | Das war ein schönes Tor! | That was a great goal!
+null | null | number | zero, nil | Das Spiel endet null zu null. | The match ends nil-nil.
+halbzeit | die Halbzeit | noun (f) | half (of a match); half-time | In der Halbzeit trinken wir etwas. | At half-time we have a drink.
+tore | das Tor | noun (n, pl.) | goals | Er schießt zwei Tore. | He scores two goals.
+jubeln | jubeln | verb | to cheer | Die Fans jubeln. | The fans cheer.
+umarmt | umarmen | verb | hugs, embraces | Sie umarmt ihre Mutter. | She hugs her mother.
+beste | gut (superlative) | adjective | best | Das ist die beste Pizza der Stadt. | That's the best pizza in town.
+meinem | mein | possessive | my (masc./neuter dative) | Ich wohne bei meinem Vater. | I live with my father.
+leben | das Leben / leben | noun (n) / verb | life; to live | Das Leben ist schön. | Life is beautiful.
+mira | Mira | proper noun | Mira (female first name) | Mira geht in die vierte Klasse. | Mira is in year four.
+dritte | dritte | number (ordinal) | third | Das ist die dritte Stunde. | This is the third lesson.
+mathe | die Mathe | noun (f) | maths (short for Mathematik) | Mathe ist mein Lieblingsfach. | Maths is my favourite subject.
+bauchschmerzen | die Bauchschmerzen | noun (pl.) | stomach ache | Ich habe Bauchschmerzen. | I have a stomach ache.
+schlecht | schlecht | adjective | bad; mir ist schlecht = I feel sick | Das Wetter ist schlecht. | The weather is bad.
+seidel | Seidel | proper noun | Seidel (surname) | Frau Seidel unterrichtet Mathe. | Mrs Seidel teaches maths.
+ganz | ganz | adjective / adverb | whole, entire; quite, completely | Du bist ganz nass! | You're completely wet!
+blass | blass | adjective | pale | Du siehst blass aus. | You look pale.
+geh | gehen | verb (imperative) | go! | Geh bitte nach Hause. | Please go home.
+sekretariat | das Sekretariat | noun (n) | (school) office, secretary's office | Die Formulare sind im Sekretariat. | The forms are in the office.
+miras | Mira | proper noun (genitive) | Mira's | Miras Vater holt sie ab. | Mira's father picks her up.
+legt | legen | verb | lays, puts (flat); sich legen = to lie down | Er legt das Buch auf den Tisch. | He puts the book on the table.
+nadine | Nadine | proper noun | Nadine (female first name) | Nadine fährt nach Wien. | Nadine is going to Vienna.
+wien | Wien | proper noun | Vienna | Wien ist die Hauptstadt von Österreich. | Vienna is the capital of Austria.
+fahrt | die Fahrt | noun (f) | journey, trip, ride | Gute Fahrt! | Have a good trip!
+schloss | das Schloss | noun (n) | palace, castle; lock | Das Schloss ist sehr alt. | The palace is very old.
+schönbrunn | Schönbrunn | proper noun | Schönbrunn (imperial palace in Vienna) | Schloss Schönbrunn hat einen großen Park. | Schönbrunn Palace has a big park.
+wunderschönen | wunderschön | adjective | beautiful, gorgeous (masc. acc. / dative / plural) | Sie haben einen wunderschönen Garten. | They have a gorgeous garden.
+berühmtes | berühmt | adjective | famous (neuter) | Das ist ein berühmtes Bild. | That's a famous painting.
+kaffeehaus | das Kaffeehaus | noun (n) | coffee house, café (especially in Vienna) | Im Kaffeehaus liest man Zeitung. | In the coffee house people read the paper.
+sachertorte | die Sachertorte | noun (f) | Sachertorte (Viennese chocolate cake) | Die Sachertorte ist sehr berühmt. | The Sachertorte is very famous.
+schokoladenkuchen | der Schokoladenkuchen | noun (m) | chocolate cake | Ich backe einen Schokoladenkuchen. | I'm baking a chocolate cake.
+riesenrad | das Riesenrad | noun (n) | Ferris wheel | Das Riesenrad ist sehr hoch. | The Ferris wheel is very high.
+prater | der Prater | proper noun | the Prater (large park with funfair in Vienna) | Im Prater gibt es ein Riesenrad. | There's a Ferris wheel in the Prater.
+ganze | ganz | adjective | whole, entire (fem. / plural) | Ich habe die ganze Nacht gearbeitet. | I worked the whole night.
+wiederkommen | wiederkommen | verb | to come back, return | Ich möchte bald wiederkommen. | I'd like to come back soon.
+schröder | Schröder | proper noun | Schröder (surname) | Herr Schröder macht Yoga. | Mr Schröder does yoga.
+rückenschmerzen | die Rückenschmerzen | noun (pl.) | back pain | Vom Sitzen bekomme ich Rückenschmerzen. | Sitting gives me back pain.
+ines | Ines | proper noun | Ines (female first name) | Ines macht seit Jahren Yoga. | Ines has been doing yoga for years.
+mach | machen | verb (imperative) | do! make!; Mach doch …! = Why don't you …! | Mach bitte die Tür zu. | Please close the door.
+yoga | das Yoga | noun (n) | yoga | Yoga ist gut für den Rücken. | Yoga is good for the back.
+idee | die Idee | noun (f) | idea | Das ist eine gute Idee! | That's a good idea!
+komisch | komisch | adjective | strange, odd; funny | Das Essen schmeckt komisch. | The food tastes strange.
+dienstagabend | der Dienstagabend | noun (m) | Tuesday evening | Am Dienstagabend habe ich Kurs. | I have a class on Tuesday evening.
+erste | erste | number (ordinal) | first | Das ist meine erste Reise. | This is my first trip.
+beweglich | beweglich | adjective | flexible, supple; mobile | Durch Yoga wird man beweglicher. | Yoga makes you more flexible.
+geduldig | geduldig | adjective | patient | Die Lehrerin ist sehr geduldig. | The teacher is very patient.
+leichter | leicht (comparative) | adjective | easier; lighter | Die zweite Aufgabe ist leichter. | The second task is easier.
+rücken | der Rücken | noun (m) | back (body) | Mein Rücken tut weh. | My back hurts.
+mona | Mona | proper noun | Mona (female first name) | Mona besucht ihre Großeltern. | Mona visits her grandparents.
+stadtrand | der Stadtrand | noun (m) | outskirts (of town) | Wir wohnen am Stadtrand. | We live on the outskirts.
+achtundsiebzig | achtundsiebzig | number | seventy-eight | Meine Oma ist achtundsiebzig. | My grandma is seventy-eight.
+leckeres | lecker | adjective | something tasty (etwas Leckeres) | Ich koche dir etwas Leckeres. | I'll cook you something tasty.
+rouladen | die Roulade | noun (f, pl.) | beef olives, rolled stuffed beef (German dish) | Oma macht die besten Rouladen. | Grandma makes the best rouladen.
+klößen | der Kloß | noun (m, dat. pl.) | (with) dumplings | Es gibt Braten mit Klößen. | There's roast with dumplings.
+lustige | lustig | adjective | funny (fem. / plural) | Er erzählt lustige Geschichten. | He tells funny stories.
+schülern | der Schüler | noun (m, dat. pl.) | (from/with) pupils, students | Der Lehrer spricht mit den Schülern. | The teacher talks to the pupils.
+videoanrufe | der Videoanruf | noun (m, pl.) | video calls | Wir machen jeden Sonntag Videoanrufe. | We make video calls every Sunday.
+neu | neu | adjective | new | Das Auto ist neu. | The car is new.
+yusuf | Yusuf | proper noun | Yusuf (male first name) | Yusuf arbeitet im Laden. | Yusuf works in the shop.
+t-shirts | das T-Shirt | noun (n, pl.) | T-shirts | Im Sommer trage ich T-Shirts. | In summer I wear T-shirts.
+hosen | die Hose | noun (f, pl.) | trousers, pants | Die Hosen sind im Regal. | The trousers are on the shelf.
+regale | das Regal | noun (n, pl.) | shelves | Die Regale sind voll. | The shelves are full.
+kunden | der Kunde | noun (m, pl.) | customers | Der Laden hat viele Kunden. | The shop has many customers.
+pullover | der Pullover | noun (m) | jumper, sweater | Der Pullover ist aus Wolle. | The jumper is made of wool.
+s | S | abbreviation | S, small (clothing size) | Ich brauche das T-Shirt in S. | I need the T-shirt in S.
+hose | die Hose | noun (f) | trousers, pants | Die Hose ist zu lang. | The trousers are too long.
+umtauschen | umtauschen | verb | to exchange (goods) | Kann ich die Schuhe umtauschen? | Can I exchange the shoes?
+allen | alle | pronoun | (to) everyone, all (dative) | Er hilft allen. | He helps everyone.
+schließt | schließen | verb | closes, shuts | Die Bank schließt um vier. | The bank closes at four.
+füße | der Fuß | noun (m, pl.) | feet | Meine Füße sind kalt. | My feet are cold.
+tun | tun | verb | to do; (we/they) do; weh tun = to hurt | Was können wir tun? | What can we do?
+studiert | studieren | verb | studies (at university) | Sie studiert Jura. | She studies law.
+wohnungen | die Wohnung | noun (f, pl.) | flats, apartments | Die Wohnungen hier sind teuer. | The flats here are expensive.
+tausend | tausend | number | a thousand | Das kostet tausend Euro. | That costs a thousand euros.
+anzeigen | die Anzeige | noun (f, pl.) | adverts, listings; displays | Ich lese die Anzeigen in der Zeitung. | I read the ads in the paper.
+internet | das Internet | noun (n) | internet | Ich suche das im Internet. | I'll look it up on the internet.
+besichtigt | besichtigen | verb | views, visits (sights, a flat) | Sie besichtigt eine Wohnung. | She's viewing a flat.
+manche | mancher | pronoun / determiner | some, many a | Manche Leute mögen keinen Kaffee. | Some people don't like coffee.
+dunkel | dunkel | adjective | dark | Im Winter ist es früh dunkel. | In winter it gets dark early.
+fünfhundert | fünfhundert | number | five hundred | Die Miete ist fünfhundert Euro. | The rent is five hundred euros.
+mitbewohner | der Mitbewohner | noun (m, sg./pl.) | flatmate(s) | Meine Mitbewohner sind nett. | My flatmates are nice.
+zuhause | das Zuhause | noun (n) | home | Berlin ist jetzt mein Zuhause. | Berlin is my home now.
+jung | jung / Jung | adjective / proper noun | young; Jung (surname) | Er ist noch sehr jung. | He's still very young.
+fünften | fünfte | number (ordinal) | fifth | Wir wohnen im fünften Stock. | We live on the fifth floor.
+heizung | die Heizung | noun (f) | heating | Die Heizung ist an. | The heating is on.
+funktioniert | funktionieren | verb | works, functions | Der Drucker funktioniert nicht. | The printer isn't working.
+duschen | duschen | verb | to shower | Ich möchte duschen. | I'd like to have a shower.
+entschuldigen | entschuldigen | verb | to excuse; Entschuldigen Sie! = Excuse me! / Sorry! | Entschuldigen Sie die Verspätung. | Sorry for the delay.
+anderes | anderer | adjective | other, different (neuter) | Haben Sie ein anderes Zimmer? | Do you have a different room?
+sechsten | sechste | number (ordinal) | sixth | Das Büro ist im sechsten Stock. | The office is on the sixth floor.
+größer | groß (comparative) | adjective | bigger, larger; taller | Mein Zimmer ist größer als deins. | My room is bigger than yours.
+novak | Novak | proper noun | Novak (surname) | Frau Novak fährt nach Leipzig. | Mrs Novak is travelling to Leipzig.
+erfurt | Erfurt | proper noun | Erfurt (capital of Thuringia) | Erfurt liegt in Thüringen. | Erfurt is in Thuringia.
+anzeigetafel | die Anzeigetafel | noun (f) | departure board, display board | Auf der Anzeigetafel steht das Gleis. | The platform is shown on the board.
+halle | die Halle / Halle | noun (f) / proper noun | hall; Halle (city in Saxony-Anhalt) | In Halle muss ich umsteigen. | I have to change in Halle.
+umsteigen | umsteigen | verb | to change (trains, buses) | Sie müssen in Köln umsteigen. | You have to change in Cologne.
+vierzig | vierzig | number | forty | Er ist vierzig Jahre alt. | He is forty years old.
+gültig | gültig | adjective | valid | Mein Pass ist noch gültig. | My passport is still valid.
+natürlich | natürlich | adverb / adjective | of course; natural | Natürlich helfe ich dir. | Of course I'll help you.
+bedankt | bedanken | verb (reflexive) | sich bedanken = to say thank you | Er bedankt sich für das Geschenk. | He says thank you for the present.
+leonie | Leonie | proper noun | Leonie (female first name) | Leonie geht zum Konzert. | Leonie is going to the concert.
+konzert | das Konzert | noun (n) | concert | Das Konzert beginnt um acht. | The concert starts at eight.
+lieblingsband | die Lieblingsband | noun (f) | favourite band | Meine Lieblingsband spielt heute. | My favourite band is playing today.
+total | total | adverb | totally, completely | Das ist total toll! | That's totally great!
+pia | Pia | proper noun | Pia (female first name) | Pia ist Leonies Freundin. | Pia is Leonie's friend.
+bühne | die Bühne | noun (f) | stage | Die Sängerin steht auf der Bühne. | The singer is on stage.
+schreien | schreien | verb | to scream, shout | Die Fans schreien laut. | The fans scream loudly.
+lied | das Lied | noun (n) | song | Das ist mein Lieblingslied. | That's my favourite song.
+stimme | die Stimme | noun (f) | voice; vote | Sie hat eine schöne Stimme. | She has a beautiful voice.
+wäsche | die Wäsche | noun (f) | laundry, washing | Ich wasche heute Wäsche. | I'm doing the laundry today.
+waschen | waschen | verb | to wash | Ich muss meine Haare waschen. | I have to wash my hair.
+weiße | weiß | adjective | white (fem. / plural) | Er trägt weiße Schuhe. | He's wearing white shoes.
+hemden | das Hemd | noun (n, pl.) | shirts | Er hat zehn Hemden. | He has ten shirts.
+rotes | rot | adjective | red (neuter) | Sie fährt ein rotes Auto. | She drives a red car.
+t-shirt | das T-Shirt | noun (n) | T-shirt | Das T-Shirt ist zu klein. | The T-shirt is too small.
+steckt | stecken | verb | puts (into), sticks | Er steckt das Geld in die Tasche. | He puts the money in his pocket.
+waschmaschine | die Waschmaschine | noun (f) | washing machine | Die Waschmaschine ist im Keller. | The washing machine is in the cellar.
+maschine | die Maschine | noun (f) | machine | Die Maschine ist laut. | The machine is loud.
+rosa | rosa | adjective | pink | Sie trägt ein rosa Kleid. | She's wearing a pink dress.
+geschockt | geschockt | adjective | shocked | Ich war total geschockt. | I was totally shocked.
+wichtiges | wichtig | adjective | important (neuter) | Ich habe ein wichtiges Gespräch. | I have an important meeting.
+lina | Lina | proper noun | Lina (female first name) | Lina wohnt nebenan. | Lina lives next door.
+wäscht | waschen | verb | washes | Er wäscht das Auto. | He's washing the car.
+spezielles | speziell | adjective | special (neuter) | Das ist ein spezielles Angebot. | That's a special offer.
+waschmittel | das Waschmittel | noun (n) | detergent, washing powder | Das Waschmittel ist alle. | The detergent has run out.
+fast | fast | adverb | almost, nearly | Ich bin fast fertig. | I'm almost finished.
+mache | machen | verb | (I) make, do | Ich mache meine Hausaufgaben. | I'm doing my homework.
+nie | nie | adverb | never | Ich trinke nie Alkohol. | I never drink alcohol.
+priya | Priya | proper noun | Priya (Indian female first name) | Priya studiert in Göttingen. | Priya studies in Göttingen.
+chennai | Chennai | proper noun | Chennai (city in southern India) | Chennai liegt am Meer. | Chennai is by the sea.
+september | der September | noun (m) | September | Im September beginnt die Schule. | School starts in September.
+göttingen | Göttingen | proper noun | Göttingen (university town in Lower Saxony) | Göttingen hat eine alte Universität. | Göttingen has an old university.
+schnee | der Schnee | noun (m) | snow | Der Schnee ist weiß. | The snow is white.
+weich | weich | adjective | soft | Das Kissen ist weich. | The pillow is soft.
+schneemann | der Schneemann | noun (m) | snowman | Die Kinder bauen einen Schneemann. | The children are building a snowman.
+winterstiefel | der Winterstiefel | noun (m, pl.) | winter boots | Ich brauche neue Winterstiefel. | I need new winter boots.
+roberts | Robert | proper noun (genitive) | Robert's | Roberts Haare sind lang. | Robert's hair is long.
+robert | Robert | proper noun | Robert (male first name) | Robert geht zum Friseur. | Robert is going to the hairdresser's.
+seiten | die Seite | noun (f, pl.) | sides; pages | Das Buch hat hundert Seiten. | The book has a hundred pages.
+länger | lang (comparative) | adjective | longer | Der Film ist länger als zwei Stunden. | The film is longer than two hours.
+schneidet | schneiden | verb | cuts | Sie schneidet das Brot. | She cuts the bread.
+spiegel | der Spiegel | noun (m) | mirror | Er sieht in den Spiegel. | He looks in the mirror.
+haarschnitt | der Haarschnitt | noun (m) | haircut | Dein neuer Haarschnitt ist toll! | Your new haircut is great!
+lieblingsessen | das Lieblingsessen | noun (n) | favourite food | Pizza ist mein Lieblingsessen. | Pizza is my favourite food.
+afghanistan | Afghanistan | proper noun | Afghanistan | Er kommt aus Afghanistan. | He comes from Afghanistan.
+pesto | das Pesto | noun (n) | pesto | Ich esse Nudeln mit Pesto. | I'm eating pasta with pesto.
+finde | finden | verb | (I) find; (I) think (something is …) | Ich finde den Film gut. | I think the film is good.
+frank | Frank | proper noun | Frank (male first name / surname) | Herr Frank wohnt in München. | Mr Frank lives in Munich.
+schweinebraten | der Schweinebraten | noun (m) | roast pork | Schweinebraten ist typisch bayerisch. | Roast pork is typically Bavarian.
+knödeln | der Knödel | noun (m, dat. pl.) | (with) dumplings | Es gibt Braten mit Knödeln. | There's roast with dumplings.
+sauerkraut | das Sauerkraut | noun (n) | sauerkraut, pickled cabbage | Zur Wurst gibt es Sauerkraut. | There's sauerkraut with the sausage.
+typisches | typisch | adjective | typical (neuter) | Das ist ein typisches Gericht. | That's a typical dish.
+gasthaus | das Gasthaus | noun (n) | inn, traditional restaurant | Wir essen im Gasthaus. | We're eating at the inn.
+karin | Karin | proper noun | Karin (female first name) | Karin arbeitet halbtags. | Karin works part-time.
+halbtags | halbtags | adverb | part-time (half days) | Sie arbeitet halbtags in einem Büro. | She works part-time in an office.
+fußballtraining | das Fußballtraining | noun (n) | football practice | Das Fußballtraining ist am Montag. | Football practice is on Monday.
+klavierunterricht | der Klavierunterricht | noun (m) | piano lessons | Meine Tochter hat Klavierunterricht. | My daughter has piano lessons.
+elternabend | der Elternabend | noun (m) | parents' evening | Der Elternabend beginnt um sieben. | The parents' evening starts at seven.
+abendessen | das Abendessen | noun (n) | dinner, supper | Was gibt es zum Abendessen? | What's for dinner?
+einkauf | der Einkauf | noun (m) | shopping, purchase | Ich mache den Einkauf am Samstag. | I do the shopping on Saturday.
+flohmarkt | der Flohmarkt | noun (m) | flea market | Auf dem Flohmarkt ist alles billig. | Everything is cheap at the flea market.
+parkplatz | der Parkplatz | noun (m) | car park; parking space | Ich finde keinen Parkplatz. | I can't find a parking space.
+sven | Sven | proper noun | Sven (male first name) | Sven verkauft alte Sachen. | Sven is selling old things.
+verkaufen | verkaufen | verb | to sell; (we/they) sell | Wir verkaufen unser Auto. | We're selling our car.
+kisten | die Kiste | noun (f, pl.) | boxes, crates | Die Kisten sind voll mit Büchern. | The boxes are full of books.
+spielsachen | die Spielsachen | noun (pl.) | toys | Die Kinder räumen ihre Spielsachen auf. | The children tidy up their toys.
+kleidung | die Kleidung | noun (f) | clothes, clothing | Ich kaufe neue Kleidung. | I'm buying new clothes.
+teller | der Teller | noun (m, sg./pl.) | plate(s) | Die Teller sind im Schrank. | The plates are in the cupboard.
+schauen | schauen | verb | to look; (we/they) look | Wir schauen nur. | We're just looking.
+nehmen | nehmen | verb | to take; (we/they) take; Nehmen Sie …? = Will you take …? | Wir nehmen den Bus. | We'll take the bus.
+cent | der Cent | noun (m) | cent | Das kostet fünfzig Cent. | That costs fifty cents.
+sechzig | sechzig | number | sixty | Mein Vater ist sechzig. | My father is sixty.
+anderen | anderer | adjective | other, different (acc./dat./pl.) | Die anderen Kinder spielen draußen. | The other children are playing outside.
+puppe | die Puppe | noun (f) | doll | Das Mädchen spielt mit der Puppe. | The girl is playing with the doll.
+fahrradtour | die Fahrradtour | noun (f) | bike tour, cycling trip | Wir machen eine Fahrradtour. | We're going on a bike tour.
+rhein | der Rhein | proper noun (m) | the Rhine | Der Rhein ist ein langer Fluss. | The Rhine is a long river.
+mainz | Mainz | proper noun | Mainz (city on the Rhine) | Mainz liegt am Rhein. | Mainz is on the Rhine.
+koblenz | Koblenz | proper noun | Koblenz (city where the Rhine and Moselle meet) | In Koblenz treffen sich Rhein und Mosel. | The Rhine and Moselle meet in Koblenz.
+tour | die Tour | noun (f) | tour, trip | Die Tour dauert zwei Stunden. | The tour lasts two hours.
+burgen | die Burg | noun (f, pl.) | castles | Am Rhein gibt es viele Burgen. | There are many castles on the Rhine.
+weinberge | der Weinberg | noun (m, pl.) | vineyards | Die Weinberge sind grün. | The vineyards are green.
+nacht | die Nacht | noun (f) | night | Gute Nacht! | Good night!
+jugendherbergen | die Jugendherberge | noun (f, pl.) | youth hostels | Jugendherbergen sind billig. | Youth hostels are cheap.
+falsche | falsch | adjective | wrong (fem. / plural) | Das ist die falsche Antwort. | That's the wrong answer.
+richtung | die Richtung | noun (f) | direction | In welche Richtung müssen wir? | Which direction do we have to go?
+merken | merken | verb | to notice; sich merken = to remember | Wir merken den Fehler zu spät. | We notice the mistake too late.
+alten | alt | adjective | old (masc. acc. / dative / plural) | Er hat einen alten Hund. | He has an old dog.
+richtigen | richtig | adjective | right, correct (acc./dat./pl.) | Sie zeigt uns den richtigen Weg. | She shows us the right way.
+lucas | Lucas | proper noun | Lucas (male first name) | Lucas kommt aus Brasilien. | Lucas comes from Brazil.
+ingenieur | der Ingenieur | noun (m) | engineer | Er arbeitet als Ingenieur. | He works as an engineer.
+wolfsburg | Wolfsburg | proper noun | Wolfsburg (city in Lower Saxony, home of Volkswagen) | In Wolfsburg baut man Autos. | Cars are built in Wolfsburg.
+vieles | vieles | pronoun | many things, much | Vieles ist hier anders. | Many things are different here.
+plastik | das Plastik | noun (n) | plastic | Die Flasche ist aus Plastik. | The bottle is made of plastic.
+biomüll | der Biomüll | noun (m) | organic waste, food waste | Kartoffelschalen kommen in den Biomüll. | Potato peel goes in the organic waste.
+langsam | langsam | adjective / adverb | slow; slowly | Bitte sprechen Sie langsam. | Please speak slowly.
+muttertag | der Muttertag | noun (m) | Mother's Day | Am Muttertag bekommt Mama Blumen. | Mum gets flowers on Mother's Day.
+ella | Ella | proper noun | Ella (female first name) | Ella malt ein Bild. | Ella paints a picture.
+schenken | schenken | verb | to give (as a present) | Was schenken wir Papa? | What shall we give Dad?
+rose | die Rose | noun (f) | rose | Er schenkt ihr eine Rose. | He gives her a rose.
+malt | malen | verb | paints, draws | Das Kind malt eine Sonne. | The child is drawing a sun.
+bild | das Bild | noun (n) | picture, painting, image | Das Bild hängt an der Wand. | The picture hangs on the wall.
+überrascht | überrascht / überraschen | adjective / verb | surprised; surprises | Ich bin sehr überrascht! | I'm very surprised!
+geschenk | das Geschenk | noun (n) | present, gift | Das ist ein Geschenk für dich. | This is a present for you.
+özdemir | Özdemir | proper noun | Özdemir (Turkish surname) | Familie Özdemir geht ins Museum. | The Özdemir family goes to the museum.
+naturkundemuseum | das Naturkundemuseum | noun (n) | natural history museum | Im Naturkundemuseum gibt es Dinosaurier. | There are dinosaurs in the natural history museum.
+eintritt | der Eintritt | noun (m) | admission, entry (fee) | Der Eintritt ist frei. | Admission is free.
+erwachsene | der/die Erwachsene | noun (pl.) | adults | Erwachsene zahlen zehn Euro. | Adults pay ten euros.
+saal | der Saal | noun (m) | hall, room | Der Saal ist voll. | The hall is full.
+dinosaurier | der Dinosaurier | noun (m, sg./pl.) | dinosaur(s) | Dinosaurier lebten vor Millionen Jahren. | Dinosaurs lived millions of years ago.
+deniz | Deniz | proper noun | Deniz (Turkish first name) | Deniz liebt Dinosaurier. | Deniz loves dinosaurs.
+selin | Selin | proper noun | Selin (Turkish female first name) | Selin ist Deniz' Schwester. | Selin is Deniz's sister.
+staunen | staunen | verb | to be amazed, marvel | Die Kinder staunen über den Elefanten. | The children marvel at the elephant.
+steine | der Stein | noun (m, pl.) | stones, rocks | Am Strand liegen viele Steine. | There are many stones on the beach.
+fische | der Fisch | noun (m, pl.) | fish (plural) | Im See gibt es viele Fische. | There are many fish in the lake.
+welt | die Welt | noun (f) | world | Sie reist um die ganze Welt. | She travels around the whole world.
+museumsladen | der Museumsladen | noun (m) | museum shop | Im Museumsladen kaufen wir Postkarten. | We buy postcards in the museum shop.
+nennt | nennen | verb | calls, names | Sie nennt ihren Hund Max. | She calls her dog Max.
+rex | Rex | proper noun | Rex (name, e.g. for a toy dinosaur or dog) | Rex ist ein kleiner Dinosaurier. | Rex is a little dinosaur.
+kai | Kai | proper noun | Kai (male first name) | Kai hat ein Vorstellungsgespräch. | Kai has a job interview.
+wacht | wachen / aufwachen | verb | wacht … auf = wakes up | Er wacht um sieben Uhr auf. | He wakes up at seven.
+wecker | der Wecker | noun (m) | alarm clock | Mein Wecker klingelt um sechs. | My alarm goes off at six.
+geklingelt | klingeln | verb (past participle) | rung, gone off | Der Wecker hat nicht geklingelt. | The alarm didn't go off.
+duscht | duschen | verb | showers | Sie duscht am Abend. | She showers in the evening.
+hemd | das Hemd | noun (n) | shirt | Er bügelt sein Hemd. | He's ironing his shirt.
+neunundfünfzig | neunundfünfzig | number | fifty-nine | Es ist acht Uhr neunundfünfzig. | It's eight fifty-nine.
+anruf | der Anruf | noun (m) | phone call | Ich warte auf einen Anruf. | I'm waiting for a call.
+freitagabend | der Freitagabend | noun (m) | Friday evening | Am Freitagabend gehen wir aus. | On Friday evening we go out.
+nele | Nele | proper noun | Nele (female first name) | Nele bleibt zu Hause. | Nele stays at home.
+ausgehen | ausgehen | verb | to go out; (of a machine/light) to go off | Heute möchte ich nicht ausgehen. | I don't want to go out today.
+bar | die Bar | noun (f) | bar | Wir treffen uns in einer Bar. | We're meeting in a bar.
+warmes | warm | adjective | warm (neuter) | Sie nimmt ein warmes Bad. | She takes a warm bath.
+gemüsesuppe | die Gemüsesuppe | noun (f) | vegetable soup | Die Gemüsesuppe ist gesund. | The vegetable soup is healthy.
+drinnen | drinnen | adverb | inside, indoors | Bei Regen spielen wir drinnen. | When it rains we play indoors.
+fernsehen | das Fernsehen / fernsehen | noun (n) / verb | television; to watch TV | Was kommt heute im Fernsehen? | What's on TV today?
+samstagmorgen | der Samstagmorgen | noun (m) | Saturday morning | Am Samstagmorgen schlafe ich lange. | On Saturday morning I sleep in.
+fühlt | fühlen | verb | feels; sich fühlen = to feel (well, ill) | Er fühlt sich nicht gut. | He doesn't feel well.
+b | b | letter | b (as in class 2b: the second class in year 2) | Ich bin in der Klasse 5b. | I'm in class 5b.
+bäuerin | die Bäuerin | noun (f) | farmer (female) | Die Bäuerin melkt die Kühe. | The farmer milks the cows.
+hartmann | Hartmann | proper noun | Hartmann (surname) | Frau Hartmann hat einen Bauernhof. | Mrs Hartmann has a farm.
+hof | der Hof | noun (m) | yard, courtyard; farm | Die Kinder spielen im Hof. | The children are playing in the yard.
+schweine | das Schwein | noun (n, pl.) | pigs | Die Schweine sind im Stall. | The pigs are in the sty.
+hühner | das Huhn | noun (n, pl.) | chickens, hens | Die Hühner legen Eier. | The hens lay eggs.
+schafe | das Schaf | noun (n, pl.) | sheep (plural) | Die Schafe sind auf der Wiese. | The sheep are in the meadow.
+katzen | die Katze | noun (f, pl.) | cats | Wir haben zwei Katzen. | We have two cats.
+schmutzig | schmutzig | adjective | dirty | Meine Schuhe sind schmutzig. | My shoes are dirty.
+dürfen | dürfen | verb (modal) | may, to be allowed to; (we/they) may | Dürfen wir hier spielen? | Are we allowed to play here?
+kuh | die Kuh | noun (f) | cow | Die Kuh gibt Milch. | The cow gives milk.
+melken | melken | verb | to milk | Der Bauer melkt jeden Morgen. | The farmer milks every morning.
+leicht | leicht | adjective | easy; light | Die Übung ist leicht. | The exercise is easy.
+sammeln | sammeln | verb | to collect, gather; (we/they) collect | Wir sammeln Pilze im Wald. | We collect mushrooms in the forest.
+schluss | der Schluss | noun (m) | end; zum Schluss = finally, at the end | Zum Schluss singen alle. | At the end everyone sings.
+frische | frisch | adjective | fresh (fem. / plural) | Ich kaufe frische Brötchen. | I'm buying fresh rolls.
+sonniger | sonnig | adjective | sunny (masc. nominative) | Es ist ein sonniger Tag. | It's a sunny day.
+spielplatz | der Spielplatz | noun (m) | playground | Die Kinder sind auf dem Spielplatz. | The children are at the playground.
+verstecken | verstecken / das Verstecken | verb / noun (n) | to hide; Verstecken spielen = to play hide-and-seek | Die Katze versteckt sich. | The cat is hiding.
+mädchen | das Mädchen | noun (n) | girl | Das Mädchen heißt Lea. | The girl is called Lea.
+zählt | zählen | verb | counts | Sie zählt das Geld. | She counts the money.
+bäumen | der Baum | noun (m, dat. pl.) | (behind/under) trees | Wir sitzen unter den Bäumen. | We're sitting under the trees.
+büschen | der Busch | noun (m, dat. pl.) | (behind) bushes | Der Hase sitzt in den Büschen. | The rabbit is in the bushes.
+schaukel | die Schaukel | noun (f) | swing | Das Kind sitzt auf der Schaukel. | The child is sitting on the swing.
+graf | Graf / der Graf | proper noun / noun (m) | Graf (surname); count (noble title) | Frau Graf fotografiert gern. | Mrs Graf likes taking photos.
+pensioniert | pensioniert | adjective | retired | Mein Vater ist seit einem Jahr pensioniert. | My father has been retired for a year.
+programm | das Programm | noun (n) | programme, schedule | Was steht heute auf dem Programm? | What's on the programme today?
+fotokurs | der Fotokurs | noun (m) | photography course | Der Fotokurs ist am Mittwoch. | The photography course is on Wednesday.
+termine | der Termin | noun (m, pl.) | appointments; sessions, dates | Ich habe heute viele Termine. | I have a lot of appointments today.
+kamera | die Kamera | noun (f) | camera | Meine Kamera ist neu. | My camera is new.
+licht | das Licht | noun (n) | light | Mach bitte das Licht an. | Please turn on the light.
+fotografiert | fotografieren | verb | photographs, takes photos | Er fotografiert die Berge. | He photographs the mountains.
+fotos | das Foto | noun (n, pl.) | photos | Ich zeige dir meine Fotos. | I'll show you my photos.
+vögeln | der Vogel | noun (m, dat. pl.) | (of/with) birds | Sie macht Fotos von Vögeln. | She takes photos of birds.
+wein | der Wein | noun (m) | wine | Ein Glas Wein, bitte. | A glass of wine, please.
+luisa | Luisa | proper noun | Luisa (female first name) | Luisa ist bei ihrer Oma. | Luisa is at her grandma's.
+fotoalbum | das Fotoalbum | noun (n) | photo album | Im Fotoalbum sind alte Bilder. | There are old pictures in the photo album.
+komm | kommen | verb (imperative) | come! | Komm schnell! | Come quickly!
+schwarz-weiß | schwarz-weiß | adjective | black-and-white | Das Foto ist schwarz-weiß. | The photo is black and white.
+siehst | sehen / aussehen | verb | (you, informal) see; siehst … aus = look (like) | Du siehst müde aus. | You look tired.
+hochzeit | die Hochzeit | noun (f) | wedding | Die Hochzeit ist im Juni. | The wedding is in June.
+baby | das Baby | noun (n) | baby | Das Baby schläft. | The baby is sleeping.
+glauben | glauben | verb | to believe, think | Ich kann es nicht glauben! | I can't believe it!
+juni | der Juni | noun (m) | June | Im Juni ist es warm. | It's warm in June.
+erdbeerzeit | die Erdbeerzeit | noun (f) | strawberry season | Im Juni ist Erdbeerzeit. | June is strawberry season.
+julian | Julian | proper noun | Julian (male first name) | Julian pflückt Erdbeeren. | Julian picks strawberries.
+erdbeerfeld | das Erdbeerfeld | noun (n) | strawberry field | Das Erdbeerfeld ist groß. | The strawberry field is big.
+außerhalb | außerhalb | preposition | outside (of) | Wir wohnen außerhalb der Stadt. | We live outside the town.
+pflücken | pflücken | verb | to pick (fruit, flowers) | Wir pflücken Äpfel. | We're picking apples.
+feld | das Feld | noun (n) | field | Auf dem Feld wächst Mais. | Corn grows in the field.
+pflückt | pflücken | verb | picks | Sie pflückt Blumen. | She picks flowers.
+erdbeere | die Erdbeere | noun (f) | strawberry | Die Erdbeere ist süß. | The strawberry is sweet.
+hana | Hana | proper noun | Hana (Japanese female first name) | Hana kommt aus Japan. | Hana comes from Japan.
+japan | Japan | proper noun | Japan | Japan ist ein Inselstaat. | Japan is an island nation.
+austauschschülerin | die Austauschschülerin | noun (f) | exchange student (female, at school) | Die Austauschschülerin wohnt bei uns. | The exchange student is staying with us.
+gewohnt | wohnen / gewohnt | verb (past participle) / adjective | lived; used to, accustomed | Ich habe in Berlin gewohnt. | I lived in Berlin.
+tokio | Tokio | proper noun | Tokyo | Tokio ist die Hauptstadt von Japan. | Tokyo is the capital of Japan.
+hanas | Hana | proper noun (genitive) | Hana's | Hanas Koffer ist schwer. | Hana's suitcase is heavy.
+darin | darin | adverb | in it, inside | Das ist meine Tasche. Darin ist mein Handy. | That's my bag. My phone is in it.
+fußballtrikot | das Fußballtrikot | noun (n) | football shirt | Er trägt ein Fußballtrikot. | He's wearing a football shirt.
+weinen | weinen | verb | to cry; (we/they) cry | Warum weinen die Kinder? | Why are the children crying?
+seid | sein | verb | (you, informal plural) are | Ihr seid sehr nett. | You are very nice.
+verspreche | versprechen | verb | (I) promise | Ich verspreche es dir. | I promise you.
+wolff | Wolff | proper noun | Wolff (surname) | Herr Wolff kauft ein Geschenk. | Mr Wolff buys a present.
+suche | suchen / die Suche | verb / noun (f) | (I) look for; search | Ich suche meine Brille. | I'm looking for my glasses.
+blau | blau / das Blau | adjective / noun (n) | blue; the colour blue | Der Himmel ist blau. | The sky is blue.
+blauen | blau | adjective | blue (masc. acc. / dative / plural) | Er kauft einen blauen Pullover. | He's buying a blue jumper.
+wolle | die Wolle | noun (f) | wool | Der Schal ist aus Wolle. | The scarf is made of wool.
+verpackt | verpacken | verb (past participle) | wrapped, packed | Das Geschenk ist schön verpackt. | The present is nicely wrapped.
+kowalski | Kowalski | proper noun | Kowalski (Polish surname) | Herr Kowalski ist Hausmeister. | Mr Kowalski is the caretaker.
+hausmeister | der Hausmeister | noun (m) | caretaker, janitor | Der Hausmeister repariert die Tür. | The caretaker repairs the door.
+familien | die Familie | noun (f, pl.) | families | Im Haus wohnen zehn Familien. | Ten families live in the building.
+repariert | reparieren | verb | repairs, fixes | Er repariert das Auto. | He's repairing the car.
+lampen | die Lampe | noun (f, pl.) | lamps, lights | Die Lampen sind kaputt. | The lamps are broken.
+türen | die Tür | noun (f, pl.) | doors | Bitte schließen Sie die Türen. | Please close the doors.
+räumt | räumen / wegräumen / aufräumen | verb | clears; räumt … weg = clears away; räumt auf = tidies up | Er räumt sein Zimmer auf. | He tidies his room.
+lorenz | Lorenz | proper noun | Lorenz (surname / male first name) | Frau Lorenz wohnt im ersten Stock. | Mrs Lorenz lives on the first floor.
+tropft | tropfen | verb | drips | Der Wasserhahn tropft. | The tap is dripping.
+wasserhahn | der Wasserhahn | noun (m) | tap, faucet | Mach den Wasserhahn zu! | Turn off the tap!
+martins | Martin | proper noun (genitive) | Martin's | Martins Frau schreibt eine Liste. | Martin's wife writes a list.
+zwiebeln | die Zwiebel | noun (f, pl.) | onions | Ich schneide Zwiebeln. | I'm cutting onions.
+toilettenpapier | das Toilettenpapier | noun (n) | toilet paper | Wir brauchen Toilettenpapier. | We need toilet paper.
+martin | Martin | proper noun | Martin (male first name) | Martin geht einkaufen. | Martin goes shopping.
+liste | die Liste | noun (f) | list | Die Liste ist lang. | The list is long.
+kekse | der Keks | noun (m, pl.) | biscuits, cookies | Die Kinder essen Kekse. | The children are eating biscuits.
+tüte | die Tüte | noun (f) | bag (plastic/paper) | Brauchen Sie eine Tüte? | Do you need a bag?
+verlegen | verlegen | adjective | embarrassed, sheepish | Er lächelt verlegen. | He smiles sheepishly.
+pablo | Pablo | proper noun | Pablo (Spanish male first name) | Pablo studiert in Heidelberg. | Pablo studies in Heidelberg.
+heidelberg | Heidelberg | proper noun | Heidelberg (university city on the Neckar) | Heidelberg hat ein berühmtes Schloss. | Heidelberg has a famous castle.
+deutsche | deutsch / der/die Deutsche | adjective / noun | German (fem./pl.); a German (person) | Sie ist Deutsche. | She is German.
+tandem | das Tandem | noun (n) | language exchange (partnership); tandem bicycle | Ich suche einen Tandempartner. | I'm looking for a tandem partner.
+aussprache | die Aussprache | noun (f) | pronunciation | Ihre Aussprache ist sehr gut. | Your pronunciation is very good.
+spanische | spanisch | adjective | Spanish (fem. / plural) | Ich mag die spanische Küche. | I like Spanish cuisine.
+grammatik | die Grammatik | noun (f) | grammar | Die deutsche Grammatik ist schwer. | German grammar is difficult.
+fehler | der Fehler | noun (m, sg./pl.) | mistake(s), error(s) | Jeder macht Fehler. | Everyone makes mistakes.
+monaten | der Monat | noun (m, dat. pl.) | months | Vor drei Monaten bin ich umgezogen. | I moved three months ago.
+bestellen | bestellen | verb | to order | Ich möchte bestellen. | I'd like to order.
+geworden | werden | verb (past participle) | become | Sie sind Freunde geworden. | They have become friends.
+ida | Ida | proper noun | Ida (female first name) | Ida trinkt Tee. | Ida is drinking tea.
+vergisst | vergessen | verb | forgets | Er vergisst immer seinen Schlüssel. | He always forgets his key.
+regenschirm | der Regenschirm | noun (m) | umbrella | Nimm einen Regenschirm mit! | Take an umbrella!
+weißen | weiß | adjective | white (masc. acc. / dative / plural) | Sie hat einen weißen Hund. | She has a white dog.
+punkten | der Punkt | noun (m, dat. pl.) | (with) dots, spots; points | Das Kleid ist rot mit weißen Punkten. | The dress is red with white polka dots.
+merkt | merken | verb | notices | Er merkt den Fehler nicht. | He doesn't notice the mistake.
+schirm | der Schirm | noun (m) | umbrella (short for Regenschirm); screen | Wo ist mein Schirm? | Where's my umbrella?
+junger | jung | adjective | young (masc. nominative) | Ein junger Mann hilft mir. | A young man helps me.
+gelben | gelb | adjective | yellow (masc. acc. / dative / plural) | Er hat einen gelben Regenschirm. | He has a yellow umbrella.
+falsch | falsch | adjective / adverb | wrong; by mistake | Die Antwort ist falsch. | The answer is wrong.
+genommen | nehmen | verb (past participle) | taken | Ich habe den falschen Bus genommen. | I took the wrong bus.
+petrova | Petrova | proper noun | Petrova (Bulgarian/Russian surname) | Frau Petrova ist Lehrerin. | Ms Petrova is a teacher.
+deutschlehrerin | die Deutschlehrerin | noun (f) | German teacher (female) | Unsere Deutschlehrerin ist sehr nett. | Our German teacher is very nice.
+bulgarien | Bulgarien | proper noun | Bulgaria | Bulgarien liegt am Schwarzen Meer. | Bulgaria is on the Black Sea.
+unterrichtet | unterrichten | verb | teaches | Er unterrichtet Mathe. | He teaches maths.
+sprachschule | die Sprachschule | noun (f) | language school | Ich lerne an einer Sprachschule. | I'm learning at a language school.
+mannheim | Mannheim | proper noun | Mannheim (city in Baden-Württemberg) | Mannheim liegt am Rhein. | Mannheim is on the Rhine.
+schüler | der Schüler | noun (m, sg./pl.) | pupil(s), student(s) (at school) | Die Schüler schreiben einen Test. | The pupils are writing a test.
+ärzte | der Arzt | noun (m, pl.) | doctors | Im Krankenhaus arbeiten viele Ärzte. | Many doctors work in the hospital.
+studenten | der Student | noun (m, pl.) | students (university) | Die Studenten essen in der Mensa. | The students eat in the canteen.
+hausfrauen | die Hausfrau | noun (f, pl.) | housewives, homemakers | Viele Hausfrauen lernen im Kurs Deutsch. | Many homemakers learn German in the course.
+unterricht | der Unterricht | noun (m) | lessons, class, teaching | Der Unterricht beginnt um acht. | Lessons start at eight.
+wörter | das Wort | noun (n, pl.) | words | Ich lerne jeden Tag zehn Wörter. | I learn ten words every day.
+schneller | schnell (comparative) | adjective / adverb | faster, quicker | Mit dem Zug ist es schneller. | It's quicker by train.
+liebt | lieben | verb | loves | Sie liebt ihren Beruf. | She loves her job.
+elias | Elias | proper noun | Elias (male first name) | Elias fährt mit dem Nachtzug. | Elias takes the night train.
+nachtzug | der Nachtzug | noun (m) | night train | Der Nachtzug fährt nach Wien. | The night train goes to Vienna.
+abteil | das Abteil | noun (n) | compartment (train) | Das Abteil ist voll. | The compartment is full.
+betten | das Bett | noun (n, pl.) | beds | Das Zimmer hat zwei Betten. | The room has two beds.
+teilt | teilen | verb | shares, divides | Er teilt sein Zimmer mit seinem Bruder. | He shares his room with his brother.
+baumann | Baumann | proper noun | Baumann (surname) | Frau Baumann liest einen Brief. | Mrs Baumann reads a letter.
+brief | der Brief | noun (m) | letter | Ich schreibe einen Brief. | I'm writing a letter.
+briefkasten | der Briefkasten | noun (m) | letterbox, mailbox | Im Briefkasten ist Post. | There's post in the letterbox.
+vermieter | der Vermieter | noun (m) | landlord | Der Vermieter wohnt im Erdgeschoss. | The landlord lives on the ground floor.
+mieterinnen | die Mieterin | noun (f, pl.) | tenants (female) | Liebe Mieterinnen und Mieter … | Dear tenants …
+mieter | der Mieter | noun (m, sg./pl.) | tenant(s) | Die Mieter zahlen die Miete pünktlich. | The tenants pay the rent on time.
+vierzehnten | vierzehnte | number (ordinal) | fourteenth | Am vierzehnten Februar ist Valentinstag. | Valentine's Day is on the fourteenth of February.
+märz | der März | noun (m) | March | Im März beginnt der Frühling. | Spring begins in March.
+reparaturen | die Reparatur | noun (f, pl.) | repairs | Die Reparaturen dauern eine Woche. | The repairs take a week.
+keller | der Keller | noun (m) | cellar, basement | Das Fahrrad steht im Keller. | The bike is in the cellar.
+freundlichen | freundlich | adjective | friendly; Mit freundlichen Grüßen = Yours sincerely / Kind regards | Mit freundlichen Grüßen, Anna Schmidt | Kind regards, Anna Schmidt
+grüßen | der Gruß / grüßen | noun (m, dat. pl.) / verb | regards (Mit freundlichen Grüßen); to greet | Grüßen Sie Ihre Frau von mir! | Give my regards to your wife!
+klaus | Klaus | proper noun | Klaus (male first name) | Klaus arbeitet bei der Hausverwaltung. | Klaus works for the property management.
+hausverwaltung | die Hausverwaltung | noun (f) | property management (company) | Rufen Sie die Hausverwaltung an. | Call the property management.
+montagabend | der Montagabend | noun (m) | Monday evening | Am Montagabend habe ich Zeit. | I'm free on Monday evening.
+füllt | füllen | verb | fills | Sie füllt das Glas mit Wasser. | She fills the glass with water.
+flaschen | die Flasche | noun (f, pl.) | bottles | Wir brauchen sechs Flaschen Wasser. | We need six bottles of water.
+wald | der Wald | noun (m) | forest, woods | Wir gehen im Wald spazieren. | We go for a walk in the forest.
+voraus | voraus | adverb | ahead, in front | Die Kinder laufen voraus. | The children run on ahead.
+pst | pst | interjection | shh!, psst! | Pst! Das Baby schläft. | Shh! The baby is sleeping.
+reh | das Reh | noun (n) | deer, roe deer | Im Wald sehen wir ein Reh. | We see a deer in the forest.
+still | still | adjective | quiet, silent, still | Seid bitte still! | Please be quiet!
+pilze | der Pilz | noun (m, pl.) | mushrooms | Im Herbst sammeln wir Pilze. | We collect mushrooms in autumn.
+giftig | giftig | adjective | poisonous | Diese Pilze sind giftig. | These mushrooms are poisonous.
+apfelkuchen | der Apfelkuchen | noun (m) | apple cake, apple pie | Oma backt Apfelkuchen. | Grandma is baking apple cake.
+sahne | die Sahne | noun (f) | cream | Kuchen mit Sahne, bitte. | Cake with cream, please.
+wände | die Wand | noun (f, pl.) | walls | Die Wände sind weiß. | The walls are white.
+hellgrün | hellgrün | adjective | light green | Mein Zimmer ist hellgrün. | My room is light green.
+grün | grün / das Grün | adjective / noun (n) | green; the colour green | Die Ampel ist grün. | The light is green.
+lieblingsfarbe | die Lieblingsfarbe | noun (f) | favourite colour | Meine Lieblingsfarbe ist Blau. | My favourite colour is blue.
+kissen | das Kissen | noun (n, sg./pl.) | cushion(s), pillow(s) | Das Kissen ist weich. | The pillow is soft.
+regal | das Regal | noun (n) | shelf, bookcase | Die Bücher stehen im Regal. | The books are on the shelf.
+büchern | das Buch | noun (n, dat. pl.) | (with) books | Das Regal ist voll mit Büchern. | The shelf is full of books.
+wand | die Wand | noun (f) | wall | Das Bild hängt an der Wand. | The picture hangs on the wall.
+hängen | hängen | verb | to hang; (we/they) hang | Die Jacken hängen im Flur. | The jackets hang in the hall.
+poster | das Poster | noun (n, sg./pl.) | poster(s) | Er hat ein Poster von seiner Band. | He has a poster of his band.
+meinen | mein | possessive | my (masc. acc.; dative plural) | Ich besuche meinen Opa. | I'm visiting my grandpa.
+lieblingssängern | der Lieblingssänger | noun (m, dat. pl.) | (of) favourite singers | Sie hat Poster von ihren Lieblingssängern. | She has posters of her favourite singers.
+pflanzen | die Pflanze / pflanzen | noun (f, pl.) / verb | plants; to plant | Die Pflanzen brauchen Wasser. | The plants need water.
+gieße | gießen | verb | (I) water (plants) | Ich gieße die Blumen. | I water the flowers.
+ordentlich | ordentlich | adjective | tidy, neat | Sein Schreibtisch ist immer ordentlich. | His desk is always tidy.
+lieblingsort | der Lieblingsort | noun (m) | favourite place | Der Park ist mein Lieblingsort. | The park is my favourite place.
+kassiererin | die Kassiererin | noun (f) | cashier (female) | Die Kassiererin ist freundlich. | The cashier is friendly.
+portemonnaie | das Portemonnaie | noun (n) | wallet, purse | Mein Portemonnaie ist leer. | My wallet is empty.
+bezahle | bezahlen | verb | (I) pay | Ich bezahle mit Karte. | I'll pay by card.
+lindenstraße | die Lindenstraße | proper noun | Lindenstraße (street name, lit. "Linden Street") | Ich wohne in der Lindenstraße. | I live on Lindenstraße.
+geld | das Geld | noun (n) | money | Ich habe kein Geld. | I have no money.
+schachtel | die Schachtel | noun (f) | box (small, cardboard) | Eine Schachtel Pralinen, bitte. | A box of chocolates, please.
+pralinen | die Praline | noun (f, pl.) | chocolates (filled) | Sie isst gern Pralinen. | She likes eating chocolates.
