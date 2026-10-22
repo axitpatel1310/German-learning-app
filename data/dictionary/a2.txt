@@ -1372,3 +1372,8 @@ altmodischen | altmodisch | adjective | old-fashioned | Meine Oma hat einen altm
 batterien | die Batterie | noun (f, pl.) | batteries | Die Fernbedienung braucht neue Batterien. | The remote control needs new batteries.
 lautem | laut | adjective | loud | Er spricht mit lauter Stimme. | He speaks in a loud voice.
 klingeln | das Klingeln / klingeln | noun (n) / verb | ringing; to ring | Das Klingeln vom Wecker ist sehr laut. | The ringing of the alarm clock is very loud.
+eincheckt | einchecken | verb | checks in | Sie zeigt mir, wie man Gäste eincheckt. | She shows me how to check guests in.
+computersystem | das Computersystem | noun (n) | computer system | Das neue Computersystem ist schneller. | The new computer system is faster.
+heft | das Heft | noun (n) | notebook, exercise book; issue (of a magazine) | Schreib die Wörter in dein Heft. | Write the words in your exercise book.
+nachgesehen | nachsehen | verb (participle) | checked, looked up | Ich habe im Kalender nachgesehen. | I checked in the calendar.
+ruhigeres | ruhig | adjective (comparative) | quieter | Haben Sie ein ruhigeres Zimmer? | Do you have a quieter room?

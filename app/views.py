@@ -1,10 +1,11 @@
-"""The screens: level picker, story list, story reader and My Words."""
+"""The screens: level picker, story list, story reader, My Words, word search and the gap game."""
 
 from typing import Callable
 
 import flet as ft
 
 from app.data import LEVELS, Entry, Library, Story, tokenize
+from app.game import GAP, GapGame, level_choices
 from app.storage import MyWords
 from app.theme import HIGHLIGHT, level_color, level_name
 
@@ -46,6 +47,11 @@ def home_view(lib: Library, my_words: MyWords, nav: Navigate, toggle_theme: Call
             title=ft.Text("Deutsch mit Geschichten"),
             actions=[
                 ft.IconButton(
+                    icon=ft.Icons.SEARCH,
+                    tooltip="Word search",
+                    on_click=nav("/search"),
+                ),
+                ft.IconButton(
                     icon=ft.Icons.BOOKMARKS_OUTLINED,
                     tooltip="My Words",
                     on_click=nav("/words"),
@@ -77,6 +83,26 @@ def home_view(lib: Library, my_words: MyWords, nav: Navigate, toggle_theme: Call
                     ),
                     trailing=ft.Icon(ft.Icons.CHEVRON_RIGHT),
                     on_click=nav("/words"),
+                )
+            ),
+            ft.Card(
+                content=ft.ListTile(
+                    leading=ft.Icon(ft.Icons.MANAGE_SEARCH, color=ft.Colors.PRIMARY),
+                    title=ft.Text("Word search", weight=ft.FontWeight.W_600),
+                    subtitle=ft.Text(
+                        f"Look up any of {len(lib.dictionary):,} words, in German or English."
+                    ),
+                    trailing=ft.Icon(ft.Icons.CHEVRON_RIGHT),
+                    on_click=nav("/search"),
+                )
+            ),
+            ft.Card(
+                content=ft.ListTile(
+                    leading=ft.Icon(ft.Icons.EXTENSION_OUTLINED, color=ft.Colors.PRIMARY),
+                    title=ft.Text("Gap game", weight=ft.FontWeight.W_600),
+                    subtitle=ft.Text("A word is missing from a sentence. Pick the right one."),
+                    trailing=ft.Icon(ft.Icons.CHEVRON_RIGHT),
+                    on_click=nav("/game"),
                 )
             ),
         ],
@@ -307,6 +333,7 @@ def word_card(
     entry: Entry | None,
     saved: bool = False,
     on_toggle_save: Callable[[], bool] | None = None,
+    extra: list[ft.Control] | None = None,
 ) -> ft.Control:
     def label(text: str) -> ft.Text:
         return ft.Text(
@@ -348,6 +375,8 @@ def word_card(
             ]
         if on_toggle_save:
             body += [ft.Container(height=6), _save_button(saved, on_toggle_save)]
+    if extra:
+        body += extra
 
     return ft.Container(
         padding=ft.Padding.only(left=24, right=24, bottom=28),
@@ -468,4 +497,283 @@ def words_view(page: ft.Page, lib: Library, my_words: MyWords, nav: Navigate) ->
         padding=16,
         appbar=ft.AppBar(title=title),
         controls=[search, results],
+    )
+
+
+def search_view(page: ft.Page, lib: Library, my_words: MyWords, nav: Navigate, state: dict) -> ft.View:
+    """Look up any dictionary word, by German form, base form or English meaning."""
+    results = ft.Column(spacing=0)
+    search = ft.TextField(
+        value=state.get("query", ""),
+        hint_text="Type a German or English word",
+        prefix_icon=ft.Icons.SEARCH,
+        autofocus=True,
+        dense=True,
+        border_radius=12,
+        on_change=lambda e: refresh(),
+    )
+
+    def toggle_save(entry: Entry, stories: list[Story]) -> bool:
+        if my_words.has(entry.word):
+            my_words.remove(entry.word)
+        else:
+            my_words.add(entry.display, entry, stories[0] if stories else None)
+        refresh()
+        return my_words.has(entry.word)
+
+    def open_entry(entry: Entry):
+        stories = lib.stories_with(entry.word)
+        extra: list[ft.Control] = []
+        if stories:
+            extra.append(ft.Container(height=6))
+            extra.append(
+                ft.Text(
+                    f"USED IN {len(stories)} {'STORY' if len(stories) == 1 else 'STORIES'}",
+                    size=11,
+                    weight=ft.FontWeight.W_600,
+                    color=ft.Colors.PRIMARY,
+                )
+            )
+            for story in stories[:3]:
+                extra.append(
+                    ft.TextButton(
+                        content=f"{story.title} ({story.level})",
+                        icon=ft.Icons.MENU_BOOK_OUTLINED,
+                        on_click=nav(f"/story/{story.id}"),
+                        style=ft.ButtonStyle(padding=0),
+                    )
+                )
+        page.show_dialog(
+            ft.BottomSheet(
+                content=word_card(
+                    entry.display,
+                    entry,
+                    saved=my_words.has(entry.word),
+                    on_toggle_save=lambda: toggle_save(entry, stories),
+                    extra=extra,
+                ),
+                show_drag_handle=True,
+                scrollable=True,
+            )
+        )
+
+    def tile(entry: Entry) -> ft.Control:
+        title = entry.display
+        if entry.lemma.lower().endswith(" " + entry.word.lower()):
+            title = entry.lemma  # "die Wohnung" rather than "Wohnung → die Wohnung"
+        elif entry.lemma and entry.lemma.lower() != entry.word.lower():
+            title += f"  →  {entry.lemma}"
+        return ft.ListTile(
+            leading=ft.Icon(
+                ft.Icons.BOOKMARK if my_words.has(entry.word) else ft.Icons.TRANSLATE,
+                color=ft.Colors.PRIMARY,
+            ),
+            title=ft.Text(title, weight=ft.FontWeight.W_600),
+            subtitle=ft.Text(
+                f"{entry.pos} · {entry.english}" if entry.pos else entry.english,
+                max_lines=2,
+                overflow=ft.TextOverflow.ELLIPSIS,
+            ),
+            on_click=lambda e: open_entry(entry),
+        )
+
+    def refresh(update: bool = True):
+        q = (search.value or "").strip()
+        state["query"] = q
+        if not q:
+            results.controls = [
+                ft.Container(
+                    padding=24,
+                    content=ft.Column(
+                        horizontal_alignment=ft.CrossAxisAlignment.CENTER,
+                        controls=[
+                            ft.Icon(ft.Icons.MANAGE_SEARCH, size=48, color=ft.Colors.PRIMARY),
+                            ft.Text(
+                                f"{len(lib.dictionary):,} words",
+                                size=18,
+                                weight=ft.FontWeight.W_600,
+                            ),
+                            ft.Text(
+                                "Search a German word (ging, Wohnung, uber) or an English "
+                                "meaning (apartment, to decide).",
+                                text_align=ft.TextAlign.CENTER,
+                                color=ft.Colors.ON_SURFACE_VARIANT,
+                            ),
+                        ],
+                    ),
+                )
+            ]
+        else:
+            found = lib.search(q)
+            results.controls = [tile(e) for e in found] or [
+                ft.Container(padding=16, content=ft.Text(f"No words found for “{q}”."))
+            ]
+        if update:
+            page.update()
+
+    refresh(update=False)
+    return ft.View(
+        route="/search",
+        scroll=ft.ScrollMode.AUTO,
+        padding=16,
+        appbar=ft.AppBar(title=ft.Text("Word search")),
+        controls=[search, results],
+    )
+
+
+def game_view(page: ft.Page, game: GapGame, my_words: MyWords, state: dict) -> ft.View:
+    """Fill-the-gap: guess the hidden word in an example sentence, four options."""
+    score = ft.Text(color=ft.Colors.ON_SURFACE_VARIANT)
+    levels = ft.Row(wrap=True, spacing=6, run_spacing=6)
+    body = ft.Column(spacing=10, horizontal_alignment=ft.CrossAxisAlignment.STRETCH)
+
+    def pill(lvl: str) -> ft.Control:
+        selected = state["level"] == lvl
+        color = ft.Colors.PRIMARY if lvl == "ALL" else level_color(lvl)
+        return ft.Container(
+            padding=ft.Padding.symmetric(horizontal=14, vertical=6),
+            border_radius=16,
+            bgcolor=color if selected else None,
+            border=ft.Border.all(1, color),
+            on_click=lambda e: pick_level(lvl),
+            content=ft.Text(
+                "All" if lvl == "ALL" else lvl,
+                weight=ft.FontWeight.W_600,
+                color=ft.Colors.WHITE if selected else color,
+            ),
+        )
+
+    def pick_level(lvl: str):
+        state["level"] = lvl
+        next_question()
+
+    def show_score():
+        n, ok = state["answered"], state["correct"]
+        score.value = (
+            f"{ok} of {n} correct · streak {state['streak']}" if n else "Pick the missing word."
+        )
+
+    def answer(q, chosen: str, buttons: list[ft.Container], extra: ft.Column):
+        if extra.controls:
+            return  # already answered
+        right = chosen == q.answer
+        state["answered"] += 1
+        state["correct"] += right
+        state["streak"] = state["streak"] + 1 if right else 0
+        for btn in buttons:
+            if btn.data == q.answer:
+                btn.bgcolor = ft.Colors.with_opacity(0.25, ft.Colors.GREEN)
+                btn.border = ft.Border.all(2, ft.Colors.GREEN)
+            elif btn.data == chosen:
+                btn.bgcolor = ft.Colors.with_opacity(0.25, ft.Colors.RED)
+                btn.border = ft.Border.all(2, ft.Colors.RED)
+        entry = q.entry
+        lemma = f"  ({entry.lemma})" if entry.lemma.lower() != q.answer.lower() else ""
+        extra.controls = [
+            ft.Text(
+                ("Right! " if right else "Not quite. ") + f"{q.answer}{lemma}",
+                size=17,
+                weight=ft.FontWeight.W_600,
+                color=ft.Colors.GREEN if right else ft.Colors.RED,
+            ),
+            ft.Text(f"{entry.pos} · {entry.english}"),
+            ft.Text(entry.example_en, italic=True, color=ft.Colors.ON_SURFACE_VARIANT),
+            ft.Row(
+                wrap=True,
+                controls=[
+                    _save_button(my_words.has(entry.word), lambda: toggle_save(entry)),
+                    ft.FilledButton(
+                        content="Next sentence",
+                        icon=ft.Icons.ARROW_FORWARD,
+                        on_click=lambda e: next_question(),
+                    ),
+                ],
+            ),
+        ]
+        show_score()
+        page.update()
+
+    def toggle_save(entry: Entry) -> bool:
+        if my_words.has(entry.word):
+            my_words.remove(entry.word)
+        else:
+            my_words.add(entry.display, entry)
+        return my_words.has(entry.word)
+
+    def next_question(update: bool = True):
+        levels.controls = [pill(lvl) for lvl in level_choices()]
+        show_score()
+        q = game.question(state["level"])
+        if q is None:
+            body.controls = [ft.Text("No sentences for this level yet.")]
+        else:
+            translation = ft.Text(
+                q.entry.example_en, visible=False, color=ft.Colors.ON_SURFACE_VARIANT
+            )
+
+            def toggle_hint(e):
+                translation.visible = not translation.visible
+                e.control.content = "Hide English" if translation.visible else "Show English"
+                page.update()
+
+            extra = ft.Column(spacing=8)
+            buttons: list[ft.Container] = []
+            for option in q.options:
+                buttons.append(
+                    ft.Container(
+                        data=option,
+                        padding=14,
+                        border_radius=12,
+                        border=ft.Border.all(1, ft.Colors.OUTLINE),
+                        ink=True,
+                        on_click=lambda e: answer(q, e.control.data, buttons, extra),
+                        content=ft.Text(option, size=17),
+                    )
+                )
+            body.controls = [
+                ft.Card(
+                    content=ft.Container(
+                        padding=20,
+                        content=ft.Column(
+                            tight=True,
+                            spacing=6,
+                            controls=[
+                                ft.Text(
+                                    size=21,
+                                    style=ft.TextStyle(height=1.5),
+                                    spans=[
+                                        ft.TextSpan(q.before),
+                                        ft.TextSpan(
+                                            GAP,
+                                            style=ft.TextStyle(
+                                                color=ft.Colors.PRIMARY, weight=ft.FontWeight.BOLD
+                                            ),
+                                        ),
+                                        ft.TextSpan(q.after),
+                                    ],
+                                ),
+                                translation,
+                                ft.TextButton(
+                                    content="Show English",
+                                    icon=ft.Icons.TRANSLATE,
+                                    on_click=toggle_hint,
+                                    style=ft.ButtonStyle(padding=0),
+                                ),
+                            ],
+                        ),
+                    )
+                ),
+                *buttons,
+                extra,
+            ]
+        if update:
+            page.update()
+
+    next_question(update=False)
+    return ft.View(
+        route="/game",
+        scroll=ft.ScrollMode.AUTO,
+        padding=16,
+        appbar=ft.AppBar(title=ft.Text("Gap game")),
+        controls=[levels, score, body],
     )

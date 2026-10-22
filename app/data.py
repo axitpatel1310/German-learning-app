@@ -24,6 +24,14 @@ class Entry:
     english: str
     example_de: str
     example_en: str
+    level: str = ""  # from the dictionary file name, e.g. b1.txt -> B1
+
+    @property
+    def display(self) -> str:
+        """The word as written in a text: dictionary keys are lowercase, nouns are not."""
+        if self.pos.startswith(("noun", "proper noun")):
+            return self.word[:1].upper() + self.word[1:]
+        return self.word
 
 
 @dataclass
@@ -69,6 +77,7 @@ def load_dictionary(folder: Path = DICTIONARY_DIR) -> dict[str, Entry]:
     """
     entries: dict[str, Entry] = {}
     for path in sorted(folder.glob("*.txt")):
+        level = path.stem.upper() if path.stem.upper() in LEVELS else "A1"
         for lineno, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
             line = raw.strip()
             if not line or line.startswith("#"):
@@ -77,7 +86,7 @@ def load_dictionary(folder: Path = DICTIONARY_DIR) -> dict[str, Entry]:
             if len(parts) != 6:
                 print(f"{path.name}:{lineno}: expected 6 fields, got {len(parts)}")
                 continue
-            entry = Entry(*parts)
+            entry = Entry(*parts, level=level)
             key = entry.word.lower()
             if key in entries:
                 print(f"{path.name}:{lineno}: duplicate entry '{key}'")
@@ -120,11 +129,22 @@ def load_stories() -> dict[str, list[Story]]:
     return by_level
 
 
+_FOLD = str.maketrans({"ä": "a", "ö": "o", "ü": "u", "ß": "ss"})
+_LEMMA_PREFIX = re.compile(r"^(der|die|das|sich)\s+")
+
+
+def fold(text: str) -> str:
+    """Lowercase and drop umlauts, so 'uber' finds 'über' and 'strasse' finds 'Straße'."""
+    return text.lower().translate(_FOLD)
+
+
 class Library:
     def __init__(self):
         self.stories = load_stories()
         self.dictionary = load_dictionary()
         self._by_id = {s.id: s for lst in self.stories.values() for s in lst}
+        self._search_index: list[tuple[str, str, str, Entry]] | None = None
+        self._word_stories: dict[str, list[Story]] | None = None
 
     def get_story(self, story_id: str) -> Story | None:
         return self._by_id.get(story_id)
@@ -134,3 +154,44 @@ class Library:
         if story and key in story.glossary:
             return story.glossary[key]
         return self.dictionary.get(key)
+
+    def search(self, query: str, limit: int = 50) -> list[Entry]:
+        """Dictionary search: exact word, then word or base form starting with the
+        query, then English meanings containing it as a word."""
+        q = fold(query.strip())
+        if not q:
+            return []
+        if self._search_index is None:
+            self._search_index = [
+                (fold(e.word), _LEMMA_PREFIX.sub("", fold(e.lemma)), e.english.lower(), e)
+                for e in self.dictionary.values()
+            ]
+        english_re = re.compile(r"\b" + re.escape(query.strip().lower()))
+        ranked = []
+        for word, lemma, english, entry in self._search_index:
+            if word == q:
+                rank = 0
+            elif lemma == q:
+                rank = 1
+            elif word.startswith(q) or lemma.startswith(q):
+                rank = 2
+            elif english_re.search(english):
+                rank = 3
+            else:
+                continue
+            ranked.append((rank, len(word), word, entry))
+        ranked.sort(key=lambda t: t[:3])
+        return [t[3] for t in ranked[:limit]]
+
+    def stories_with(self, word: str) -> list[Story]:
+        """Stories that use this exact word form, easiest level first."""
+        if self._word_stories is None:
+            self._word_stories = {}
+            for stories in self.stories.values():
+                for story in stories:
+                    for para in story.paragraphs:
+                        for w in WORD_RE.findall(para):
+                            found = self._word_stories.setdefault(w.lower(), [])
+                            if not found or found[-1] is not story:
+                                found.append(story)
+        return self._word_stories.get(word.lower(), [])
