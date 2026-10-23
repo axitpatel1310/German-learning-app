@@ -2144,3 +2144,93 @@ startende | starten | verb (present participle as adjective) | starting (automat
 verschiebung | die Verschiebung | noun (f) | shift; postponement | Es gab eine Verschiebung der Prioritäten. | There was a shift in priorities.
 vierteljahrhundert | das Vierteljahrhundert | noun (n) | quarter of a century | Er lebt seit einem Vierteljahrhundert in Berlin. | He has lived in Berlin for a quarter of a century.
 weiterscrollen | das Weiterscrollen | noun (n) | scrolling on (endloses Weiterscrollen = endless scrolling) | Das endlose Weiterscrollen kostet viel Zeit. | Endless scrolling costs a lot of time.
+abkam | abkommen | verb (Präteritum) | strayed, got off (vom Thema/Weg abkommen = to stray from the subject/path) | Das Gespräch kam immer wieder vom Thema ab. | The conversation kept straying from the subject.
+abzweigung | die Abzweigung | noun (f) | turning, turn-off, fork (in a road) | Nehmen Sie die zweite Abzweigung links. | Take the second turning on the left.
+ahnt | ahnen | verb | suspects, has an inkling, senses | Sie ahnt schon, was er sagen will. | She already senses what he wants to say.
+all | all | determiner | all (here: "All dies" = all this) | All das hat er allein geschafft. | He managed all that on his own.
+aufklebt | aufkleben | verb (separable) | sticks on (a label, a stamp) | Sie klebt eine Briefmarke auf den Umschlag auf. | She sticks a stamp on the envelope.
+aufsagen | aufsagen | verb (separable) | to recite | Das Kind kann das ganze Gedicht aufsagen. | The child can recite the whole poem.
+berührte | berühren | verb (Präteritum) | touched; (fig.) touched on | Seine Rede berührte viele Menschen. | His speech touched many people.
+bestimmtes | bestimmt | adjective | particular, specific, certain | Suchen Sie ein bestimmtes Buch? | Are you looking for a particular book?
+bestrafen | bestrafen | verb | to punish, to penalise | Man sollte Kinder nicht für Fehler bestrafen. | Children shouldn't be punished for mistakes.
+bewohnen | bewohnen | verb | to inhabit, to live in | Die Familie bewohnt ein altes Bauernhaus. | The family lives in an old farmhouse.
+durchwandert | durchwandern | verb | walks through, hikes through (an area) | Im Sommer haben wir den ganzen Schwarzwald durchwandert. | In summer we hiked right through the Black Forest.
+eingesparten | einsparen | verb (past participle, as adjective) | saved (money, time) | Mit dem eingesparten Geld fahren wir in den Urlaub. | We're going on holiday with the money we saved.
+eintrag | der Eintrag | noun (m) | entry (in a dictionary, list or diary) | Zu diesem Wort gibt es im Lexikon keinen Eintrag. | There is no entry for this word in the encyclopedia.
+ermunterung | die Ermunterung | noun (f) | encouragement | Ein Lob ist für Schüler eine große Ermunterung. | Praise is a great encouragement for pupils.
+erschließt | erschließen | verb | opens up, reveals; (sich erschließen = to become clear/accessible) | Der Sinn des Gedichts erschließt sich erst beim zweiten Lesen. | The meaning of the poem only becomes clear on a second reading.
+freundliche | freundlich | adjective | friendly, kind | Sie hat eine freundliche Stimme. | She has a friendly voice.
+fügt | fügen | verb | adds (hinzufügen); joins | Jede Erfahrung fügt dem Bild etwas hinzu. | Every experience adds something to the picture.
+gebrauchsweisen | die Gebrauchsweise | noun (f, pl.) | ways of using, uses (e.g. of a word) | Das Wort hat viele verschiedene Gebrauchsweisen. | The word has many different uses.
+geflecht | das Geflecht | noun (n) | network, web, mesh | Die Stadt ist ein dichtes Geflecht aus Straßen und Gassen. | The city is a dense web of streets and alleys.
+genommene | nehmen | verb (past participle, as adjective) | taken | Die falsch genommene Abfahrt kostete uns eine Stunde. | The wrong exit we took cost us an hour.
+gewährt | gewähren | verb | grants, allows, gives | Die Bank gewährt ihm einen Kredit. | The bank is granting him a loan.
+hinzufügt | hinzufügen | verb (separable) | adds | Man rührt die Suppe um, während man das Salz hinzufügt. | You stir the soup while adding the salt.
+ineffizienz | die Ineffizienz | noun (f) | inefficiency | Die Ineffizienz der Verwaltung ärgert viele Bürger. | The inefficiency of the administration annoys many citizens.
+inventar | das Inventar | noun (n) | inventory, (list of) stock or fixtures | Das Inventar des Hotels wurde versteigert. | The hotel's fixtures and fittings were auctioned off.
+knotenpunkt | der Knotenpunkt | noun (m) | junction, hub; (fig.) nodal point | Der Bahnhof ist ein wichtiger Knotenpunkt im Fernverkehr. | The station is an important hub for long-distance trains.
+kürzeste | kurz | adjective (superlative) | shortest | Das ist die kürzeste Verbindung nach Berlin. | That is the shortest connection to Berlin.
+kürzesten | kurz | adjective (superlative) | shortest | Wir nehmen den kürzesten Weg nach Hause. | We'll take the shortest way home.
+lieb | lieb | adjective | dear, kind (jemandem lieb sein = to be welcome/pleasing to someone) | Das ist sehr lieb von dir. | That's very kind of you.
+loswird | loswerden | verb (separable) | gets rid of | Er hat einen Husten, den er einfach nicht loswird. | He has a cough he just can't get rid of.
+malerische | malerisch | adjective | picturesque, scenic | Wir fuhren durch eine malerische Landschaft. | We drove through picturesque countryside.
+mitschwingt | mitschwingen | verb (separable) | resonates, is implied (as an undertone) | In seiner Stimme schwingt etwas Trauer mit. | There is a note of sadness in his voice.
+mögen | mögen | verb | to like (also: may, in "es mag sein") | Kinder mögen meistens Süßigkeiten. | Children usually like sweets.
+nachbarwörtern | das Nachbarwort | noun (n, dative pl.) | neighbouring words (words that often appear next to a word) | Die Bedeutung erkennt man oft an den Nachbarwörtern. | You can often tell the meaning from the neighbouring words.
+navigationsapp | die Navigationsapp | noun (f) | navigation app | Die Navigationsapp zeigt einen Stau auf der Autobahn an. | The navigation app shows a traffic jam on the motorway.
+nirgendwo | nirgendwo | adverb | nowhere | Ich kann meinen Schlüssel nirgendwo finden. | I can't find my key anywhere.
+perlen | die Perle | noun (f, pl.) | pearls; beads | Sie trägt eine Kette aus Perlen. | She is wearing a pearl necklace.
+refrain | der Refrain | noun (m) | chorus, refrain (of a song) | Den Refrain singen alle mit. | Everyone joins in with the chorus.
+schnur | die Schnur | noun (f) | string, cord | Die Perlen hängen an einer dünnen Schnur. | The beads hang on a thin string.
+tonfällen | der Tonfall | noun (m, dative pl.) | tones of voice, intonations | Man erkennt Ironie oft nur an Tonfällen. | You often only recognise irony by the tone of voice.
+tractatus | Tractatus | proper noun | Tractatus (Logico-Philosophicus), Ludwig Wittgenstein's first book, 1921 | Den Tractatus schrieb Wittgenstein während des Ersten Weltkriegs. | Wittgenstein wrote the Tractatus during the First World War.
+unmerklich | unmerklich | adjective / adverb | imperceptible, imperceptibly | Die Tage werden unmerklich kürzer. | The days are getting imperceptibly shorter.
+verbindung | die Verbindung | noun (f) | connection, link; (train) connection | Gibt es eine direkte Verbindung nach Wien? | Is there a direct connection to Vienna?
+vokabellernen | das Vokabellernen | noun (n) | learning vocabulary | Beim Vokabellernen helfen mir Karteikarten. | Flashcards help me with learning vocabulary.
+wesentliches | das Wesentliche | noun (adj. noun) | something essential, what matters (Wesentliches = essential things) | Das Gespräch hat Wesentliches geklärt. | The conversation cleared up essential points.
+wiederbegegnung | die Wiederbegegnung | noun (f) | meeting again, re-encounter | Die Wiederbegegnung nach zwanzig Jahren war sehr emotional. | Meeting again after twenty years was very emotional.
+wittgenstein | Wittgenstein | proper noun | Ludwig Wittgenstein (1889–1951), Austrian-British philosopher | Wittgenstein wurde 1889 in Wien geboren. | Wittgenstein was born in Vienna in 1889.
+wittgensteins | Wittgenstein | proper noun (genitive) | Wittgenstein's | Wittgensteins Sätze sind kurz, aber schwer zu verstehen. | Wittgenstein's sentences are short but hard to understand.
+wörterbuch | das Wörterbuch | noun (n) | dictionary | Schlag das Wort im Wörterbuch nach. | Look the word up in the dictionary.
+überlässt | überlassen | verb | leaves (something to someone), hands over (sich etwas überlassen = to give oneself over to) | Sie überlässt die Entscheidung ihrem Bruder. | She leaves the decision to her brother.
+barthes | Barthes | proper noun | Roland Barthes (1915–1980, French literary theorist) | Barthes schrieb über die Mythen des Alltags. | Barthes wrote about the myths of everyday life.
+bedeutungen | die Bedeutung | noun (pl.) | meanings; significance | Dieses Wort hat zwei Bedeutungen. | This word has two meanings.
+belächeln | belächeln | verb | to smile at (condescendingly), scoff at | Früher hat man seine Ideen belächelt. | People used to scoff at his ideas.
+einlösen | einlösen | verb | to redeem, cash; to keep (a promise: ein Versprechen einlösen) | Du kannst den Gutschein im Laden einlösen. | You can redeem the voucher in the shop.
+einverständnisses | das Einverständnis | noun (n, genitive) | consent, agreement, complicity | Er handelte im Sinne eines stillen Einverständnisses. | He acted on the basis of a tacit agreement.
+frühstückstisch | der Frühstückstisch | noun (m) | breakfast table | Die Familie sitzt am Frühstückstisch. | The family is sitting at the breakfast table.
+gesponnen | spinnen | verb (past participle) | spun (eine Geschichte spinnen = to spin a story) | Um das Produkt wird eine ganze Geschichte gesponnen. | A whole story is spun around the product.
+hausfrau | die Hausfrau | noun (f) | housewife | In alten Werbespots putzt meistens die Hausfrau. | In old commercials it's usually the housewife who cleans.
+inszenierung | die Inszenierung | noun (f) | staging, production; carefully staged show | Die ganze Pressekonferenz war eine Inszenierung. | The whole press conference was a staged show.
+ironische | ironisch | adjective | ironic | Er antwortete mit einer ironischen Bemerkung. | He replied with an ironic remark.
+ironisiert | ironisieren | verb | treats ironically, gently mocks | Der Film ironisiert das Leben in der Großstadt. | The film pokes fun at life in the big city.
+läge | liegen | verb (Konjunktiv II) | would lie, would be (found) | Die Lösung läge eigentlich auf der Hand. | The solution would actually be obvious.
+lebensstil | der Lebensstil | noun (m) | lifestyle | Sie hat einen sehr gesunden Lebensstil. | She has a very healthy lifestyle.
+lächeln | das Lächeln | noun (n) | smile (as a verb: lächeln = to smile) | Ihr Lächeln war ansteckend. | Her smile was infectious.
+melodie | die Melodie | noun (f) | melody, tune | Die Melodie geht mir nicht aus dem Kopf. | I can't get the tune out of my head.
+mitliefern | mitliefern | verb | to supply along with, include (in a delivery) | Kann der Händler die Batterien gleich mitliefern? | Can the dealer include the batteries straight away?
+mythologies | Mythologies | proper noun | Mythologies (book by Roland Barthes, 1957; German title: Mythen des Alltags) | „Mythologies“ erschien 1957 in Paris. | Mythologies was published in Paris in 1957.
+preist | anpreisen / preisen | verb | praises, extols (preist … an = advertises, promotes) | Der Verkäufer preist sein Obst laut an. | The seller loudly promotes his fruit.
+pulver | das Pulver | noun (n) | powder | Das Pulver löst sich in Wasser auf. | The powder dissolves in water.
+raffinierteste | raffiniert | adjective (superlative) | most sophisticated, cleverest, most cunning | Das war der raffinierteste Trick des Abends. | That was the cleverest trick of the evening.
+reklame | die Reklame | noun (f) | advertising, advertisement (somewhat old-fashioned) | An der Wand hängt eine alte Reklame für Seife. | There's an old advertisement for soap on the wall.
+retter | der Retter | noun (m) | rescuer, saviour | Der Hund war der Retter des kleinen Jungen. | The dog was the little boy's rescuer.
+roland | Roland | proper noun | Roland (male first name) | Roland Barthes war ein französischer Denker. | Roland Barthes was a French thinker.
+scharfsinnigsten | scharfsinnig | adjective (superlative) | most astute, most perceptive | Sie ist eine der scharfsinnigsten Kritikerinnen ihrer Zeit. | She is one of the most astute critics of her time.
+schmeichelt | schmeicheln | verb | flatters | Das Kompliment schmeichelt ihr. | The compliment flatters her.
+schmutz | der Schmutz | noun (m) | dirt, filth | Nach dem Regen war überall Schmutz. | After the rain there was dirt everywhere.
+selbstüberwindung | die Selbstüberwindung | noun (f) | overcoming oneself, willpower | Früh aufzustehen kostet mich Selbstüberwindung. | Getting up early takes a lot of willpower for me.
+sieges | der Sieg | noun (m, genitive) | (of the) victory | Am Tag des Sieges feierte die ganze Stadt. | On the day of the victory the whole town celebrated.
+sohle | die Sohle | noun (f) | sole (of a shoe or foot) | Die Sohle meines Schuhs ist kaputt. | The sole of my shoe is broken.
+strahlende | strahlend | adjective | radiant, beaming, bright | Sie kam mit einem strahlenden Lächeln herein. | She came in with a beaming smile.
+tritt | treten | verb | steps, kicks (tritt … zurück = steps back, recedes) | Er tritt einen Schritt zurück. | He takes a step back.
+turnschuh | der Turnschuh | noun (m) | trainer, sneaker | Ich habe einen Turnschuh verloren. | I've lost one of my trainers.
+verführen | verführen | verb | to seduce, tempt, lure | Der Duft soll die Kunden zum Kauf verführen. | The smell is meant to tempt customers into buying.
+verheißt | verheißen | verb | promises (formal, literary) | Der Name verheißt nichts Gutes. | The name doesn't bode well.
+waschmittelwerbung | die Waschmittelwerbung | noun (f) | detergent advertising | Die Waschmittelwerbung zeigt immer strahlend weiße Wäsche. | Detergent ads always show sparkling white laundry.
+widmete | widmen | verb (past) | dedicated, devoted | Er widmete sein Buch seiner Mutter. | He dedicated his book to his mother.
+wirbt | werben | verb | advertises, promotes; recruits | Die Firma wirbt mit niedrigen Preisen. | The company advertises with low prices.
+wusch | waschen | verb (past) | washed | Sie wusch die Wäsche mit der Hand. | She washed the laundry by hand.
+zeugin | die Zeugin | noun (f) | (female) witness | Die Zeugin hat den Unfall gesehen. | The witness saw the accident.
+zuspitzen | zuspitzen | verb | to sharpen, put pointedly; (sich zuspitzen) to come to a head | Man kann die These so zuspitzen: Weniger ist mehr. | You can put the thesis pointedly: less is more.
+zwinkert | zuzwinkern / zwinkern | verb | winks (zwinkert … zu = winks at) | Er zwinkert mir zu. | He winks at me.

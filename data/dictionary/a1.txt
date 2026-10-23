@@ -1415,3 +1415,6 @@ telefonnummer | die Telefonnummer | noun (f) | telephone number | Wie ist Ihre T
 nummer | die Nummer | noun (f) | number (e.g. phone number, house number) | Kannst du mir deine Nummer geben? | Can you give me your number?
 klickt | klicken | verb | clicks | Sie klickt auf den Link. | She clicks on the link.
 code | der Code | noun (m) | code | Ich habe den Code per SMS bekommen. | I got the code by text message.
+piep | piep | interjection | beep (the sound a device makes) | Piep! Die Zahlung hat funktioniert. | Beep! The payment went through.
+gartenstraße | die Gartenstraße | proper noun | Gartenstraße (street name; literally "Garden Street") | Das Café ist in der Gartenstraße. | The café is on Gartenstraße.
+gratis | gratis | adverb | free, free of charge | Der Kaffee ist heute gratis. | The coffee is free today.

@@ -1626,5 +1626,38 @@
    "Allerdings sind nicht alle Verfahren gleich sicher. Codes per SMS gelten als vergleichsweise anfällig, weil Kriminelle Mobilfunkanbieter mitunter dazu bringen, die Rufnummer auf eine neue SIM-Karte zu übertragen. Sicherer sind Authentifizierungs-Apps und vor allem physische Sicherheitsschlüssel, die zudem gefälschte Anmeldeseiten erkennen. Für Banken ist ein zweiter Faktor im Übrigen ohnehin vorgeschrieben: Seit 2019 verlangt die europäische Zahlungsdiensterichtlinie PSD2 bei Online-Zahlungen in aller Regel eine starke Kundenauthentifizierung.",
    "Bleibt die Frage der Bequemlichkeit. Fachleute raten, den zusätzlichen Schritt zumindest für das E-Mail-Konto zu aktivieren, da sich über dieses fast alle anderen Passwörter zurücksetzen lassen. Wer hier ein paar Sekunden investiert, erspart sich womöglich wochenlangen Ärger."
   ]
+ },
+ {
+  "id": "c1-106",
+  "title": "Die Macht der App-Stores",
+  "title_en": "The power of the app stores",
+  "summary_en": "A report on the role of the two big app stores as gatekeepers between developers and users. It explains the commission of usually 15 to 30 percent on digital sales, the arguments of the platforms (security, infrastructure) and of developers (lack of alternatives, high costs), and the EU Digital Markets Act, which since March 2024 has required designated gatekeepers to allow alternative payment options, with the effects still disputed.",
+  "topics": [
+   "wirtschaft",
+   "medien"
+  ],
+  "paragraphs": [
+   "Wer heute eine App auf sein Smartphone lädt, tut dies fast immer über einen von zwei Läden: den App Store von Apple oder Google Play. Was für Nutzerinnen und Nutzer bequem ist, stellt für Entwickler eine erhebliche Abhängigkeit dar. Denn die beiden Konzerne entscheiden nicht nur darüber, welche Anwendungen zugelassen werden, sondern verlangen auch eine Provision auf digitale Verkäufe, die in der Regel zwischen 15 und 30 Prozent liegt.",
+   "Die Plattformbetreiber rechtfertigen diese Gebühren mit den Leistungen, die sie erbringen. Sie stellten eine weltweite Infrastruktur bereit, prüften Anwendungen auf Schadsoftware und sorgten für ein einheitliches, vertrauenswürdiges Bezahlverfahren. Ohne diese Kontrolle, so das Argument, wären Betrug und Datenmissbrauch an der Tagesordnung. Viele Entwickler sehen das anders: Gerade kleine Anbieter hätten faktisch keine Alternative und müssten einen beträchtlichen Teil ihrer Einnahmen abtreten, ohne über die Bedingungen verhandeln zu können.",
+   "Die Europäische Union hat auf diese Kritik mit dem Gesetz über digitale Märkte reagiert, das seit März 2024 für die als sogenannte Torwächter eingestuften Unternehmen gilt. Es verpflichtet sie unter anderem, alternative Bezahlmöglichkeiten zuzulassen und Entwicklern zu erlauben, ihre Kundschaft auf günstigere Angebote außerhalb der App hinzuweisen. Wer gegen die Vorgaben verstößt, dem drohen Geldbußen von bis zu zehn Prozent des weltweiten Jahresumsatzes.",
+   "Ob das Gesetz den Wettbewerb tatsächlich belebt, ist umstritten. Die Konzerne haben ihre Regeln zwar angepasst, verlangen aber für alternative Wege teilweise neue Gebühren, was Kritiker als Umgehung der Vorgaben werten. Fest steht lediglich, dass die Auseinandersetzung um die Bedingungen des digitalen Handels noch lange nicht beendet ist und letztlich auch darüber entscheidet, was Nutzer für ihre Apps bezahlen."
+  ]
+ },
+ {
+  "id": "c1-107",
+  "title": "Personalisierte Werbung auf dem Prüfstand",
+  "title_en": "Personalised advertising under scrutiny",
+  "summary_en": "An analysis of targeted online advertising. Platforms build detailed profiles from our clicks and use them to show ads that match our interests, which finances many free services. Critics point to manipulation and data protection. Since February 2024 the EU Digital Services Act has applied to all online platforms: it bans profiling-based ads aimed at minors and the use of sensitive data such as religion or health for targeting. The text weighs contextual advertising as an alternative.",
+  "topics": [
+   "medien",
+   "wirtschaft",
+   "gesellschaft"
+  ],
+  "paragraphs": [
+   "Wer im Netz nach Wanderschuhen sucht, bekommt in den folgenden Tagen auf nahezu jeder Website Wanderschuhe angezeigt. Was harmlos wirkt, beruht auf einem ausgefeilten System: Plattformen und Werbenetzwerke werten Klicks, Suchanfragen und Standortdaten aus, erstellen daraus Profile und versteigern binnen Millisekunden den Werbeplatz an jene Anbieter, die sich von genau diesem Nutzer den größten Ertrag versprechen.",
+   "Befürworter verweisen darauf, dass dieses Modell zahlreiche kostenlose Dienste überhaupt erst finanziere. Zudem sei zielgerichtete Werbung für die Nutzer weniger lästig, da sie Angebote zeige, die tatsächlich von Interesse seien. Kritiker halten dem entgegen, dass die Grenze zwischen Information und Manipulation verschwimme, wenn Algorithmen gezielt Momente der Schwäche ausnutzten, etwa nächtliche Einkaufslaune oder Unsicherheit über das eigene Aussehen.",
+   "Der europäische Gesetzgeber hat inzwischen Grenzen gezogen. Seit Februar 2024 gilt der Digital Services Act für sämtliche Online-Plattformen in der EU. Demnach dürfen Minderjährigen keine Anzeigen mehr gezeigt werden, die auf Profiling beruhen, und besonders sensible Daten wie Religion, Gesundheit, sexuelle Orientierung oder politische Überzeugungen dürfen nicht zur Auswahl von Werbung herangezogen werden. Außerdem müssen Nutzer erkennen können, warum ihnen eine bestimmte Anzeige angezeigt wird.",
+   "Als Alternative gewinnt die kontextbezogene Werbung an Bedeutung: Statt nach der Person richtet sich die Anzeige nach dem Inhalt der Seite, auf der sie erscheint. Wer einen Artikel über Bergtouren liest, sieht dann Werbung für Wanderschuhe, ohne dass dafür ein Profil angelegt werden muss. Ob dieses Modell wirtschaftlich mithalten kann, ist umstritten. Es zeigt jedoch, dass sich Werbefinanzierung und Datenschutz nicht zwangsläufig ausschließen."
+  ]
  }
 ]

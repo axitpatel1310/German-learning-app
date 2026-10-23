@@ -2438,3 +2438,21 @@ sender | der Sender | noun (m) | (TV or radio) channel, station; sender | Welche
 verbraucherforum | das Verbraucherforum | noun (n) | consumer forum | Im Verbraucherforum findet man viele Tipps zu Verträgen. | In the consumer forum you find lots of tips about contracts.
 würdet | werden | verb (subjunctive II) | (you, plural) would | Was würdet ihr an meiner Stelle machen? | What would you do in my place?
 öffentlich-rechtlichen | öffentlich-rechtlich | adjective | public-service (broadcasting), under public law | ARD und ZDF sind öffentlich-rechtliche Sender. | ARD and ZDF are public-service broadcasters.
+bildschirmzeit | die Bildschirmzeit | noun (f) | screen time | Meine Bildschirmzeit war letzte Woche viel zu hoch. | My screen time was far too high last week.
+breche | brechen | verb | (I) break (e.g. a rule, a promise) | Manchmal breche ich meine eigenen Regeln. | Sometimes I break my own rules.
+gegriffen | greifen | verb (past participle) | reached, grabbed (nach etwas greifen = to reach for something) | Er hat sofort nach seinem Handy gegriffen. | He immediately reached for his phone.
+hundertsten | hundertste | adjective (ordinal) | hundredth | Nach dem hundertsten Versuch hat es endlich geklappt. | After the hundredth attempt it finally worked.
+scrolle | scrollen | verb | (I) scroll | Abends scrolle ich oft zu lange durch Videos. | In the evening I often scroll through videos for too long.
+seminararbeit | die Seminararbeit | noun (f) | seminar paper, term paper (at university) | Ich muss meine Seminararbeit bis Freitag abgeben. | I have to hand in my term paper by Friday.
+startbildschirm | der Startbildschirm | noun (m) | home screen (of a phone or tablet) | Die wichtigsten Apps liegen auf meinem Startbildschirm. | The most important apps are on my home screen.
+burgdorf | Burgdorf | proper noun | Burgdorf (small town near Hanover) | Burgdorf liegt bei Hannover. | Burgdorf is near Hanover.
+drehte | drehen | verb (past) | turned; filmed, shot (ein Video drehen = to film a video) | Sie drehte ein kurzes Video im Park. | She filmed a short video in the park.
+hängten | aufhängen / hängen | verb (past) | hung, put up (hängten … auf = put up) | Wir hängten die Plakate im Flur auf. | We put up the posters in the corridor.
+interessierten | der/die Interessierte | noun (pl.) | interested people, those interested (alle Interessierten = everyone interested) | Alle Interessierten sind herzlich eingeladen. | Everyone interested is warmly invited.
+jahresversammlung | die Jahresversammlung | noun (f) | annual meeting, annual general meeting | Die Jahresversammlung findet im März statt. | The annual meeting takes place in March.
+jüngste | jung | adjective (superlative) | youngest | Sie ist die jüngste Spielerin im Team. | She is the youngest player on the team.
+kassenwart | der Kassenwart | noun (m) | treasurer (of a club) | Der Kassenwart kümmert sich um das Geld des Vereins. | The treasurer looks after the club's money.
+mitspielen | mitspielen | verb | to play along, join in (a game) | Darf ich heute mitspielen? | May I join in today?
+schalten | schalten | verb | to switch; to place (an ad: eine Anzeige schalten) | Wir wollen eine Anzeige in der Zeitung schalten. | We want to place an ad in the newspaper.
+tischtennisverein | der Tischtennisverein | noun (m) | table-tennis club | Mein Sohn spielt im Tischtennisverein. | My son plays in the table-tennis club.
+widersprach | widersprechen | verb (past) | contradicted, objected | Niemand widersprach dem Chef. | Nobody contradicted the boss.

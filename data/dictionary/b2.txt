@@ -3268,3 +3268,47 @@ online-shops | der Online-Shop | noun (m, plural) | online shops | Viele Online-
 supermarktkette | die Supermarktkette | noun (f) | supermarket chain | Die Supermarktkette hat zweihundert Filialen. | The supermarket chain has two hundred branches.
 verbraucherinnen | die Verbraucherin | noun (f, plural) | (female) consumers | Verbraucherinnen und Verbraucher haben ein Recht auf Information. | Consumers have a right to information.
 zuständigen | zuständig | adjective | responsible, competent (the authority in charge) | Wenden Sie sich an die zuständigen Stellen. | Contact the relevant authorities.
+aufschlagen | aufschlagen | verb (separable) | to open (a book); also: to hit, to serve (tennis) | Bitte schlagen Sie das Buch auf Seite zwanzig auf. | Please open the book at page twenty.
+dranzubleiben | dranbleiben | verb (separable, zu-infinitive) | to keep at it, to stick with something | Es ist nicht leicht, jeden Tag dranzubleiben. | It isn't easy to keep at it every day.
+effektiv | effektiv | adjective | effective | Diese Lernmethode ist besonders effektiv. | This learning method is particularly effective.
+einheiten | die Einheit | noun (f, pl.) | units (e.g. lessons, learning units) | Der Kurs besteht aus zwölf Einheiten. | The course consists of twelve units.
+formate | das Format | noun (n, pl.) | formats | Kurze Formate sind in sozialen Netzwerken sehr beliebt. | Short formats are very popular on social networks.
+gelerntes | das Gelernte | noun (adj. noun) | what has been learned | Am Ende der Woche wiederholen wir das Gelernte. | At the end of the week we review what we have learned.
+grammatikregel | die Grammatikregel | noun (f) | grammar rule | Diese Grammatikregel hat viele Ausnahmen. | This grammar rule has many exceptions.
+hemmschwelle | die Hemmschwelle | noun (f) | inhibition threshold; the barrier to doing something | Die Hemmschwelle, im Kurs zu sprechen, ist am Anfang hoch. | At the beginning, people are reluctant to speak in class.
+häppchen | das Häppchen | noun (n, sg./pl.) | small bite(s), morsel(s); (fig.) small chunks | Sie lernt die Vokabeln in kleinen Häppchen. | She learns the vocabulary in small chunks.
+integrieren | integrieren | verb | to integrate | Sport lässt sich gut in den Alltag integrieren. | Sport can easily be integrated into everyday life.
+konzentrationsfähigkeit | die Konzentrationsfähigkeit | noun (f) | ability to concentrate | Zu wenig Schlaf schadet der Konzentrationsfähigkeit. | Too little sleep harms the ability to concentrate.
+lehrbuch | das Lehrbuch | noun (n) | textbook | Im Lehrbuch gibt es zu jedem Kapitel Übungen. | The textbook has exercises for every chapter.
+lernangebote | das Lernangebot | noun (n, pl.) | learning offers, courses and materials on offer | Die Volkshochschule hat viele Lernangebote für Erwachsene. | The adult education centre offers many courses for adults.
+lernblock | der Lernblock | noun (m) | block of study time | Nach einem Lernblock von einer Stunde mache ich eine Pause. | After an hour-long block of study I take a break.
+lerneinheit | die Lerneinheit | noun (f) | learning unit, lesson | Jede Lerneinheit dauert etwa zehn Minuten. | Each lesson takes about ten minutes.
+sinke | sinken | verb (Konjunktiv I) | sinks, falls (in indirect speech) | Der Bericht sagt, die Zahl der Unfälle sinke. | The report says the number of accidents is falling.
+tue | tun | verb (Konjunktiv I) | does (in indirect speech; sich schwer tun mit = to struggle with) | Er sagt, er tue sich schwer mit langen Texten. | He says he struggles with long texts.
+unverbunden | unverbunden | adjective | unconnected, unrelated | Die Informationen stehen unverbunden nebeneinander. | The pieces of information stand side by side without any connection.
+verteilten | verteilt | adjective (dative) | distributed, spaced (verteiltes Lernen = spaced learning) | Beim verteilten Lernen wiederholt man den Stoff in Abständen. | With spaced learning you review the material at intervals.
+vertiefte | vertieft | adjective | in-depth, deepened | Für die Prüfung braucht man vertiefte Kenntnisse. | You need in-depth knowledge for the exam.
+vokabelvideo | das Vokabelvideo | noun (n) | vocabulary video | Jeden Tag schaut sie ein kurzes Vokabelvideo. | Every day she watches a short vocabulary video.
+wischen | wischen | verb | to wipe; to swipe (on a touchscreen) | Man muss nur nach links wischen. | You just have to swipe to the left.
+wischt | wischen | verb | wipes; swipes (on a touchscreen) | Er wischt nach oben, und das nächste Video beginnt. | He swipes up and the next video starts.
+wortkarten | die Wortkarte | noun (f, pl.) | word cards, flashcards | Mit Wortkarten lerne ich jeden Tag zehn neue Wörter. | With word cards I learn ten new words every day.
+abgemahnt | abmahnen | verb (past participle) | given a formal warning; sent a cease-and-desist letter | Die Firma wurde wegen falscher Werbung abgemahnt. | The company received a cease-and-desist letter for misleading advertising.
+abkürzungen | die Abkürzung | noun (pl.) | abbreviations; shortcuts | In Nachrichten benutzen viele Leute Abkürzungen. | Many people use abbreviations in messages.
+bali | Bali | proper noun | Bali (Indonesian island) | Sie macht Urlaub auf Bali. | She is on holiday in Bali.
+begeisterten | begeistert | adjective | enthusiastic, excited | Die begeisterten Fans sangen laut mit. | The enthusiastic fans sang along loudly.
+duschgel | das Duschgel | noun (n) | shower gel | Das Duschgel riecht nach Zitrone. | The shower gel smells of lemon.
+erkennbar | erkennbar | adjective | recognisable, identifiable, clear | Der Fehler war sofort erkennbar. | The mistake was immediately recognisable.
+glaubwürdiger | glaubwürdig | adjective (comparative) | more credible, more believable | Mit Beispielen wirkt dein Argument glaubwürdiger. | With examples your argument seems more credible.
+hinweise | der Hinweis | noun (pl.) | hints, notes, notices, indications | Danke für die hilfreichen Hinweise! | Thanks for the helpful tips!
+influencerinnen | die Influencerin | noun (pl.) | (female) influencers | Viele Influencerinnen werben für Kosmetik. | Many influencers advertise cosmetics.
+innezuhalten | innehalten | verb (zu-infinitive) | to pause, stop for a moment | Es hilft, vor einer Entscheidung kurz innezuhalten. | It helps to pause briefly before a decision.
+instagram | Instagram | proper noun | Instagram (social media app) | Sie teilt ihre Fotos auf Instagram. | She shares her photos on Instagram.
+kennzeichnen | kennzeichnen | verb | to mark, label, identify | Allergene muss man auf der Verpackung kennzeichnen. | Allergens have to be labelled on the packaging.
+rabattcodes | der Rabattcode | noun (pl.) | discount codes, promo codes | Mit Rabattcodes bekommt man zehn Prozent weniger. | With discount codes you get ten per cent off.
+schnellen | schnell | adjective | quick, fast | Nach einer schnellen Antwort war alles klar. | After a quick answer everything was clear.
+tiktok | TikTok | proper noun | TikTok (short-video app) | Auf TikTok sieht man viele kurze Videos. | On TikTok you see lots of short videos.
+unklare | unklar | adjective | unclear, vague | Unklare Regeln führen oft zu Streit. | Unclear rules often lead to arguments.
+verleiten | verleiten | verb | to tempt, lead (someone) into (doing something) | Sonderangebote verleiten zu unnötigen Käufen. | Special offers tempt people into unnecessary purchases.
+verstöße | der Verstoß | noun (pl.) | violations, breaches, infringements | Verstöße gegen die Regeln werden bestraft. | Violations of the rules are punished.
+werbespot | der Werbespot | noun (m) | commercial, advert (on TV or radio) | Der Werbespot läuft vor jedem Film. | The commercial runs before every film.
+youtube | YouTube | proper noun | YouTube (video platform) | Er lernt Gitarre mit Videos auf YouTube. | He is learning guitar with videos on YouTube.

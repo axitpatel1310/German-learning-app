@@ -1,0 +1,14 @@
+name: flet_play_billing
+description: "Flet extension: Google Play Billing for the Premium plan."
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flet: 1.0.4
+  in_app_purchase: ^3.2.0

@@ -3899,3 +3899,57 @@ wertlos | wertlos | adjective | worthless | Ohne den Schlüssel ist die Karte we
 wochenlangen | wochenlang | adjective | weeks-long, lasting for weeks | Nach wochenlangen Verhandlungen gab es eine Einigung. | After weeks of negotiations there was an agreement.
 zahlungsdiensterichtlinie | die Zahlungsdiensterichtlinie | noun (f) | Payment Services Directive (EU) | Die Zahlungsdiensterichtlinie regelt Zahlungen in Europa. | The Payment Services Directive regulates payments in Europe.
 zurücksetzen | zurücksetzen | verb | to reset | Ich muss mein Passwort zurücksetzen. | I have to reset my password.
+abtreten | abtreten | verb (separable) | to hand over, to cede (e.g. part of one's income) | Der Verlag muss einen Teil der Einnahmen an den Autor abtreten. | The publisher has to hand over part of the income to the author.
+apple | Apple | proper noun | Apple (US technology company) | Das neue Handy von Apple ist sehr teuer. | Apple's new phone is very expensive.
+belebt | beleben | verb | livens up, stimulates | Mehr Wettbewerb belebt den Markt. | More competition stimulates the market.
+bezahlmöglichkeiten | die Bezahlmöglichkeit | noun (f, pl.) | payment options | Der Shop bietet mehrere Bezahlmöglichkeiten an. | The shop offers several payment options.
+bezahlverfahren | das Bezahlverfahren | noun (n, sg./pl.) | payment method, payment system | Das Bezahlverfahren muss sicher und einfach sein. | The payment system has to be secure and simple.
+datenmissbrauch | der Datenmissbrauch | noun (m) | misuse of data | Das Gesetz soll vor Datenmissbrauch schützen. | The law is meant to protect against the misuse of data.
+eingestuften | einstufen | verb (past participle, as adjective) | classified, rated (als … eingestuft = classified as …) | Die als gefährlich eingestuften Stoffe sind verboten. | The substances classified as dangerous are banned.
+entwickler | der Entwickler | noun (m, sg./pl.) | developer(s) (e.g. of software) | Viele Entwickler arbeiten an kleinen Apps. | Many developers work on small apps.
+erbringen | erbringen | verb | to provide, to render (a service); to produce (proof) | Die Firma muss die Leistung bis Ende Mai erbringen. | The company has to provide the service by the end of May.
+geldbußen | die Geldbuße | noun (f, pl.) | fines | Bei Verstößen drohen hohe Geldbußen. | Breaches can lead to heavy fines.
+günstigere | günstig | adjective (comparative) | cheaper, more favourable | Im Internet findet man oft günstigere Angebote. | You can often find cheaper offers online.
+hinzuweisen | hinweisen | verb (separable, zu-infinitive) | to point out, to refer (auf etwas hinweisen) | Ich möchte darauf hinweisen, dass die Frist morgen endet. | I'd like to point out that the deadline ends tomorrow.
+jahresumsatzes | der Jahresumsatz | noun (m, genitive) | annual turnover, annual revenue | Die Strafe beträgt bis zu zehn Prozent des Jahresumsatzes. | The penalty amounts to up to ten percent of annual turnover.
+kundschaft | die Kundschaft | noun (f) | customers, clientele | Das Geschäft hat eine treue Kundschaft. | The shop has loyal customers.
+plattformbetreiber | der Plattformbetreiber | noun (m, sg./pl.) | platform operator(s) | Die Plattformbetreiber müssen illegale Inhalte löschen. | Platform operators have to delete illegal content.
+play | Play | proper noun | Play (in "Google Play", Google's app store) | Die App gibt es bei Google Play. | The app is available on Google Play.
+provision | die Provision | noun (f) | commission (a fee as a percentage of a sale) | Der Makler verlangt eine Provision von drei Prozent. | The estate agent charges a commission of three percent.
+prüften | prüfen | verb (Präteritum / Konjunktiv II, pl.) | checked, tested (here in indirect speech: they check) | Die Firmen sagen, sie prüften jede App genau. | The companies say they check every app carefully.
+schadsoftware | die Schadsoftware | noun (f) | malware | Das Programm schützt den Computer vor Schadsoftware. | The program protects the computer against malware.
+sorgten | sorgen | verb (Präteritum / Konjunktiv II, pl.) | ensured, took care (für etwas sorgen = to ensure something) | Die Ordner sorgten für einen ruhigen Ablauf. | The stewards ensured that everything went smoothly.
+store | Store | proper noun | Store (in "App Store", Apple's app store) | Ich habe das Spiel im App Store gekauft. | I bought the game in the App Store.
+tagesordnung | die Tagesordnung | noun (f) | agenda (an der Tagesordnung sein = to be commonplace) | Staus sind in der Stadt an der Tagesordnung. | Traffic jams are an everyday occurrence in the city.
+torwächter | der Torwächter | noun (m, sg./pl.) | gatekeeper(s) (also the EU term for very large digital platforms) | Die EU stuft große Plattformen als Torwächter ein. | The EU classifies large platforms as gatekeepers.
+umgehung | die Umgehung | noun (f) | circumvention, getting around (a rule); also: bypass (road) | Das ist eine Umgehung des Gesetzes. | That is a way of getting around the law.
+verkäufe | der Verkauf | noun (m, pl.) | sales | Die Verkäufe sind im Dezember stark gestiegen. | Sales rose sharply in December.
+verstößt | verstoßen | verb | violates, breaches (gegen etwas verstoßen) | Wer gegen die Regeln verstößt, muss zahlen. | Anyone who breaks the rules has to pay.
+vertrauenswürdiges | vertrauenswürdig | adjective | trustworthy | Wir suchen ein vertrauenswürdiges Unternehmen. | We are looking for a trustworthy company.
+weltweiten | weltweit | adjective (genitive) | worldwide, global | Das hängt von der weltweiten Nachfrage ab. | That depends on global demand.
+zuzulassen | zulassen | verb (separable, zu-infinitive) | to allow, to permit; to approve, to register | Die Behörde weigert sich, das Medikament zuzulassen. | The authority refuses to approve the medicine.
+ausgefeilten | ausgefeilt | adjective | sophisticated, polished, refined | Hinter der App steckt ein ausgefeiltes System. | There is a sophisticated system behind the app.
+ausnutzten | ausnutzen | verb (Konjunktiv II / past) | (would) exploit, take advantage of | Kritiker meinen, die Firmen nutzten die Lage aus. | Critics think the companies are exploiting the situation.
+bergtouren | die Bergtour | noun (pl.) | mountain hikes, mountain tours | Im Sommer machen wir gern Bergtouren. | In summer we like going on mountain hikes.
+einkaufslaune | die Einkaufslaune | noun (f) | shopping mood, the urge to shop | In der Vorweihnachtszeit ist die Einkaufslaune groß. | In the run-up to Christmas people are in a shopping mood.
+erstellen | erstellen | verb | to create, compile, draw up | Bitte erstellen Sie eine Liste aller Teilnehmer. | Please draw up a list of all participants.
+finanziere | finanzieren | verb (Konjunktiv I) | finances, funds (reported speech) | Er sagt, die Werbung finanziere das Angebot. | He says advertising funds the service.
+herangezogen | heranziehen | verb (past participle) | used, drawn on, consulted (zur Auswahl herangezogen = used for selection) | Für die Studie wurden ältere Daten herangezogen. | Older data was drawn on for the study.
+kontextbezogene | kontextbezogen | adjective | contextual, context-based | Kontextbezogene Werbung richtet sich nach dem Inhalt der Seite. | Contextual advertising depends on the content of the page.
+millisekunden | die Millisekunde | noun (pl.) | milliseconds | Die Antwort kommt nach wenigen Millisekunden. | The response comes after a few milliseconds.
+minderjährigen | der/die Minderjährige | noun (pl.) | minors, under-18s | Alkohol darf nicht an Minderjährige verkauft werden. | Alcohol must not be sold to minors.
+mithalten | mithalten | verb | to keep up, compete (with) | Kleine Läden können mit den Preisen kaum mithalten. | Small shops can hardly keep up with the prices.
+nächtliche | nächtlich | adjective | nightly, nocturnal, late-night | Die nächtliche Ruhe wurde gestört. | The peace of the night was disturbed.
+profile | das Profil | noun (pl.) | profiles | Die Plattform speichert Profile ihrer Nutzer. | The platform stores profiles of its users.
+profiling | das Profiling | noun (n) | profiling (building a profile of a person from their data) | Profiling ist für Werbung an Kinder verboten. | Profiling is banned for ads aimed at children.
+sensible | sensibel | adjective | sensitive | Gesundheitsdaten gelten als besonders sensible Daten. | Health data is considered particularly sensitive.
+sexuelle | sexuell | adjective | sexual | Niemand darf wegen seiner sexuellen Orientierung benachteiligt werden. | Nobody may be discriminated against because of their sexual orientation.
+standortdaten | die Standortdaten | noun (pl.) | location data | Die App fragt nach deinen Standortdaten. | The app asks for your location data.
+suchanfragen | die Suchanfrage | noun (pl.) | search queries | Täglich gibt es Milliarden Suchanfragen. | There are billions of search queries every day.
+verschwimme | verschwimmen | verb (Konjunktiv I) | becomes blurred (reported speech) | Sie meint, die Grenze zwischen Arbeit und Freizeit verschwimme. | She thinks the line between work and free time is blurring.
+versteigern | versteigern | verb | to auction (off) | Das Museum will das Bild versteigern. | The museum wants to auction the painting.
+wanderschuhe | der Wanderschuh | noun (pl.) | hiking boots | Für die Tour brauchst du feste Wanderschuhe. | You need sturdy hiking boots for the tour.
+wanderschuhen | der Wanderschuh | noun (pl., dative) | hiking boots (after nach, mit …) | Er sucht nach bequemen Wanderschuhen. | He is looking for comfortable hiking boots.
+werbefinanzierung | die Werbefinanzierung | noun (f) | funding through advertising | Viele Websites leben von Werbefinanzierung. | Many websites live on advertising revenue.
+werbenetzwerke | das Werbenetzwerk | noun (pl.) | advertising networks, ad networks | Werbenetzwerke verteilen Anzeigen auf viele Websites. | Ad networks distribute ads across many websites.
+werbeplatz | der Werbeplatz | noun (m) | advertising space, ad slot | Der Werbeplatz auf der Startseite ist teuer. | The ad slot on the home page is expensive.

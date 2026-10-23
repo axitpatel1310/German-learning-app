@@ -214,11 +214,56 @@ class ServerAccount(Account):
 
     def buy(self):
         """The server's test purchase (only when the server allows it)."""
+        self._apply(self._billing("/v1/billing/checkout", {"provider": "test"})["account"])
+
+    def checkout_url(self) -> str:
+        """A Stripe payment page. Premium arrives through the server once Stripe confirms."""
+        return self._billing("/v1/billing/checkout", {"provider": "stripe"})["url"]
+
+    def confirm_play(self, purchase_token: str):
+        """Sends a Google Play purchase to the server, which checks it and grants Premium."""
+        body = {"purchase_token": purchase_token, "product_id": self.play_product}
+        self._apply(self._billing("/v1/billing/google/verify", body)["account"])
+
+    @property
+    def billing_ref(self) -> str:
+        return self.data.get("billing_ref", "")
+
+    @property
+    def play_product(self) -> str:
+        return self.data.get("play_product", "")
+
+    # ads (free users only; the server decides)
+
+    @property
+    def ads_url(self) -> str:
+        return self.api.base_url + "/ads"
+
+    def next_ad(self) -> dict | None:
+        if not self.signed_in or self.premium:
+            return None
         try:
-            res = self.api.post("/v1/billing/checkout")
+            return self.api.get("/v1/ads/next").get("ad")
+        except ApiError:
+            return None
+
+    def ad_seen(self, ad_id: int):
+        try:
+            self.api.post("/v1/ads/seen", {"id": ad_id})
+        except ApiError:
+            pass  # an uncounted view only means the ad runs a little longer
+
+    def ad_click(self, ad_id: int):
+        try:
+            self.api.post("/v1/ads/click", {"id": ad_id})
+        except ApiError:
+            pass
+
+    def _billing(self, path: str, body: dict) -> dict:
+        try:
+            return self.api.post(path, body)
         except ApiError as e:
             raise OtpError(str(e)) from e
-        self._apply(res["account"])
 
     def sync_usage(self, usage: "Usage"):
         """Uploads this device's minutes and gets the other devices' minutes back."""
@@ -238,6 +283,8 @@ class ServerAccount(Account):
             created_at=info.get("created_at"),
             premium_until=info.get("premium_until") or 0,
             payments=info.get("payments", []),
+            billing_ref=info.get("billing_ref", ""),
+            play_product=info.get("play_product", ""),
         )
         _save(self.path, self.data)
 

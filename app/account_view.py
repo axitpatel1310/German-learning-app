@@ -20,6 +20,7 @@ from app.account import (
     mask_phone,
     normalize_phone,
 )
+from app.billing import PlayBilling, provider_for
 from app.data import Story
 from app.storage import MyWords
 from app.theme import level_color
@@ -198,9 +199,93 @@ def _benefit(text: str) -> ft.Control:
     )
 
 
-def plan_view(page: ft.Page, lib, account: Account, refresh: Callable) -> ft.View:
-    """The Premium plan and the (test) purchase."""
+PAID_WITH = {
+    "google_play": " Paid through Google Play.",
+    "stripe": " Paid securely with Stripe in your browser.",
+}
+_stripe_wait = {"on": False}  # one payment-status poll at a time
+STRIPE_WAIT = 15 * 60
+STRIPE_POLL = 4
+
+
+def plan_view(
+    page: ft.Page, lib, account: Account, refresh: Callable, play: Callable[[], PlayBilling] | None = None
+) -> ft.View:
+    """The Premium plan and buying it: Google Play on Android (play is given there), Stripe in
+    the browser elsewhere, or the free test purchase on a test server."""
     total = sum(len(v) for v in lib.stories.values())
+    provider = provider_for(account.payments, play is not None)
+
+    def say(text: str):
+        page.show_dialog(ft.SnackBar(ft.Text(text)))
+
+    def activated():
+        refresh()  # rebuilding closes open dialogs, so the snackbar comes after
+        say(f"Premium is active until {account.premium_until:%d %b %Y}. Viel Spaß beim Lesen!")
+
+    async def wait_for_stripe():
+        # The webhook reaches the server, not the app, so ask the server until Premium shows up.
+        was = account.premium_until
+        _stripe_wait["on"] = True
+        try:
+            for _ in range(STRIPE_WAIT // STRIPE_POLL):
+                await asyncio.sleep(STRIPE_POLL)
+                await asyncio.to_thread(account.refresh)
+                if account.premium_until != was:
+                    activated()
+                    return
+        finally:
+            _stripe_wait["on"] = False
+
+    async def check_now(e):
+        was = account.premium_until
+        await asyncio.to_thread(account.refresh)
+        if account.premium_until != was:
+            activated()
+        else:
+            say("No payment yet. If you just paid, it can take a few seconds.")
+
+    async def buy_stripe():
+        try:
+            url = await asyncio.to_thread(account.checkout_url)
+        except OtpError as err:
+            say(str(err))
+            return
+        await ft.UrlLauncher().launch_url(url)
+        page.show_dialog(
+            ft.AlertDialog(
+                title=ft.Text("Finish paying in your browser"),
+                content=ft.Text(
+                    f"{PLAN_LABEL}, paid securely with Stripe. Premium turns on here by itself "
+                    "as soon as the payment is confirmed."
+                ),
+                actions=[
+                    ft.TextButton(content="Close", on_click=lambda e: page.pop_dialog()),
+                    ft.FilledButton(content="I've paid", on_click=check_now),
+                ],
+            )
+        )
+        if not _stripe_wait["on"]:
+            page.run_task(wait_for_stripe)
+
+    async def buy_play():
+        billing = play()
+        res = await billing.buy(account.play_product, account.billing_ref)
+        status = res.get("status")
+        if status == "pending":
+            say("Google Play is still processing the payment. Premium turns on once it's done.")
+            return
+        if status != "purchased":
+            if status != "cancelled":
+                say(res.get("message") or "The purchase didn't work. No money was charged.")
+            return
+        try:
+            await asyncio.to_thread(account.confirm_play, res["purchase_token"])
+        except OtpError as err:
+            say(f"{err} Your purchase is safe: it's checked again the next time the app starts.")
+            return
+        await billing.finish(res["purchase_token"])
+        activated()
 
     def buy(e):
         async def confirm(e):
@@ -208,14 +293,17 @@ def plan_view(page: ft.Page, lib, account: Account, refresh: Callable) -> ft.Vie
             try:
                 await asyncio.to_thread(account.buy)
             except OtpError as err:
-                page.show_dialog(ft.SnackBar(ft.Text(str(err))))
+                say(str(err))
                 return
-            refresh()  # rebuilding closes open dialogs, so the snackbar comes after
-            page.show_dialog(ft.SnackBar(ft.Text(
-                f"Premium is active until {account.premium_until:%d %b %Y}. Viel Spaß beim Lesen!"
-            )))
+            activated()
 
-        if not account.payments:
+        if provider == "stripe":
+            page.run_task(buy_stripe)
+            return
+        if provider == "google_play":
+            page.run_task(buy_play)
+            return
+        if not provider:
             page.show_dialog(
                 ft.AlertDialog(
                     title=ft.Text("Coming soon"),
@@ -270,11 +358,13 @@ def plan_view(page: ft.Page, lib, account: Account, refresh: Callable) -> ft.Vie
                              ft.Text("for 3 months", size=16, color=ft.Colors.ON_SURFACE_VARIANT)],
                             vertical_alignment=ft.CrossAxisAlignment.END,
                         ),
-                        ft.Text("About €3.33 a month. One payment, no automatic renewal.",
+                        ft.Text("About €3.33 a month. One payment, no automatic renewal."
+                                + PAID_WITH.get(provider, ""),
                                 size=13, color=ft.Colors.ON_SURFACE_VARIANT),
                         ft.Divider(),
                         _benefit(f"All {total} stories from A1 to C2, and every new story we add"),
                         _benefit("Tap-to-translate, My Words, word search and the games, as on the free plan"),
+                        *([_benefit("No ads")] if account.server else []),
                         _benefit("Enough time to prepare for a Goethe, telc or TestDaF exam"),
                         ft.Container(height=4),
                         button,
@@ -460,6 +550,20 @@ def profile_view(
                 size=12,
                 color=ft.Colors.ON_SURFACE_VARIANT,
             ),
+            *([
+                glass.section_label("For businesses"),
+                glass.panel(
+                    ft.ListTile(
+                        leading=glass.icon_tile(ft.Icons.CAMPAIGN_OUTLINED, ft.Colors.PINK_400),
+                        title=ft.Text("Advertise your business", weight=ft.FontWeight.W_600),
+                        subtitle=ft.Text("Show your ad to German learners. Pay per 1,000 views.",
+                                         size=13, color=ft.Colors.ON_SURFACE_VARIANT),
+                        trailing=ft.Icon(ft.Icons.OPEN_IN_NEW, color=ft.Colors.OUTLINE),
+                        on_click=lambda e: page.run_task(ft.UrlLauncher().launch_url, account.ads_url),
+                    ),
+                    padding=ft.Padding.symmetric(vertical=4),
+                ),
+            ] if account.server else []),
             ft.Container(height=4),
             ft.OutlinedButton(content="Sign out", icon=ft.Icons.LOGOUT, on_click=sign_out),
             ft.Container(height=12),

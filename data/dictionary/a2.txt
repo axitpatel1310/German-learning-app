@@ -1408,3 +1408,8 @@ zerbrochen | zerbrechen | verb (past participle) | broken (into pieces) | Das Gl
 zuckerguss | der Zuckerguss | noun (m) | icing, frosting | Die Plätzchen haben weißen Zuckerguss. | The biscuits have white icing.
 tomás | Tomás | proper noun | Tomás (Spanish male first name) | Tomás arbeitet in einer Bäckerei. | Tomás works in a bakery.
 trainiere | trainieren | verb | (I) train, work out; (that I) train | Ich trainiere zweimal pro Woche im Fitnessstudio. | I work out at the gym twice a week.
+beispielsatz | der Beispielsatz | noun (m) | example sentence | Unter jedem Wort steht ein Beispielsatz. | There is an example sentence under every word.
+nützlich | nützlich | adjective | useful | Dieses Wörterbuch ist sehr nützlich. | This dictionary is very useful.
+scrollt | scrollen | verb | scrolls (through something on a screen) | Er scrollt durch die Nachrichten auf seinem Handy. | He scrolls through the news on his phone.
+amir | Amir | proper noun | Amir (male first name) | Amir kommt aus dem Irak. | Amir comes from Iraq.
+brett | das Brett | noun (n) | board, plank (das schwarze Brett = noticeboard) | Die Anzeige hängt am schwarzen Brett. | The notice is on the noticeboard.

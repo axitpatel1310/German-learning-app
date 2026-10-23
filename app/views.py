@@ -201,6 +201,7 @@ def home_view(
     nav: Navigate,
     toggle_theme: Callable,
     word_cards: Callable[[], list[dict]],
+    ad: ft.Control | None = None,
 ) -> ft.View:
     n = len(my_words)
     cards = word_cards()
@@ -230,8 +231,11 @@ def home_view(
             *([glass.section_label("Your word"), _word_hero(page, cards, nav)] if cards else []),
             glass.section_label("Choose your level"),
             ft.ResponsiveRow(controls=[_level_card(lib, lvl, nav) for lvl in LEVELS], spacing=12, run_spacing=12),
+            *([ft.Container(height=2), ad] if ad else []),
             glass.section_label("Learn"),
             _list_panel([
+                _menu_row(ft.Icons.SWIPE_UP_OUTLINED, ft.Colors.RED_400, "Word scroll",
+                          "New words one by one: swipe up for the next, double-tap to save.", nav("/feed")),
                 _menu_row(ft.Icons.CATEGORY_OUTLINED, ft.Colors.INDIGO_400, "Topics",
                           f"{len(TOPICS)} exam topics: stories and key words for each.", nav("/topics")),
                 _menu_row(ft.Icons.EXTENSION_OUTLINED, ft.Colors.TEAL_400, "Gap game",
@@ -317,10 +321,12 @@ class StoryReader:
     MIN_FONT, MAX_FONT = 14, 30
 
     def __init__(
-        self, page: ft.Page, lib: Library, story: Story, my_words: MyWords, nav: Navigate
+        self, page: ft.Page, lib: Library, story: Story, my_words: MyWords, nav: Navigate,
+        ad: ft.Control | None = None,
     ):
         self.page = page
         self.nav = nav
+        self.ad = ad
         self.lib = lib
         self.story = story
         self.my_words = my_words
@@ -415,6 +421,7 @@ class StoryReader:
                     padding=ft.Padding.symmetric(horizontal=20, vertical=18),
                     margin=ft.Margin.symmetric(vertical=8),
                 ),
+                *([self.ad, ft.Container(height=8)] if self.ad else []),
                 glass.panel(
                     ft.ExpansionTile(
                         title=ft.Text("English summary"),

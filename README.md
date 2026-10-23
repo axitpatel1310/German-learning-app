@@ -3,7 +3,8 @@
 A Flet app for German exam prep: graded stories from A1 to C2. Tap any word to see its
 meaning and an example sentence, and save words to **My Words** to review later. **Word
 search** looks up any dictionary word, and the **Gap game** hides one word in an example
-sentence for you to pick from four options. **Topics** groups the stories by exam theme
+sentence for you to pick from four options. **Word scroll** shows one word card at a time:
+swipe up (or use the mouse wheel or arrow keys) for the next word and double-tap to save it. **Topics** groups the stories by exam theme
 (Wohnen, Arbeit, Gesundheit …), with each topic's key words and a gap game for them. On
 Android, the **Word widget** puts a glass word card on the home screen (a new word every 30
 minutes, or tap its arrow), and the **Word wallpaper** shows a word card on the lock and home
@@ -48,13 +49,18 @@ TWILIO_VERIFY_SID=VA...       # the Verify service
 ```
 
 These keys must not be shipped inside a public app build. For a release, use the accounts
-server below. Payments for Premium are a test flow (no money is charged).
+server below. Without the server, Premium is a test flow (no money is charged). With it, Premium
+is bought with **Stripe** on desktop/web or **Google Play** on Android, and the server confirms
+each payment; see [server/README.md](server/README.md#setting-up-payments).
 
 ### Accounts server
 
 `server/` is a small backend (standard library + SQLite). With it, the server sends and checks
 the WhatsApp codes, keeps one account per phone number, stores the Premium plan, and keeps your
-time stats across devices. Start it, then point the app at it with `DMG_API_URL` (PowerShell):
+time stats across devices. It also sells ads: businesses book and pay on `/ads`, you approve
+them on `/ads/admin`, and free users see them in the app until the booked views are reached
+(see [server/README.md](server/README.md#ads)). Start it, then point the app at it with
+`DMG_API_URL` (PowerShell):
 
 ```bash
 python -m server --port 8600
@@ -78,6 +84,9 @@ app/storage.py          saved words (My Words), stored as JSON on the device
 app/account.py          the account (on this device, or on the accounts server), the Premium plan, time tracking
 app/otp.py              phone numbers and sign-in codes (demo or Twilio WhatsApp), shared with the server
 app/api.py              JSON client for the accounts server
+app/billing.py          buying Premium: which provider on this device, and the Google Play bridge
+app/feed.py             word scroll: the deck of word cards, unseen words first
+app/feed_view.py        word scroll screen (swipe, wheel, keys, double-tap to save)
 app/account_view.py     sign-in, Premium, locked-story and profile screens
 app/theme.py            level names and colours
 app/wallpaper.py        word wallpaper and widget: settings, the word cards, the bridge to Android
@@ -86,7 +95,10 @@ extensions/flet_word_wallpaper/
                         Flet extension with the native Android live wallpaper and home-screen
                         widget (Kotlin), added to the APK by `flet build` via
                         [tool.flet.dev_packages]
-server/                 accounts server: sign-in, one account per number, plan, time stats (SQLite)
+extensions/flet_play_billing/
+                        Flet extension for Google Play Billing (Flutter in_app_purchase)
+server/                 accounts server: sign-in, one account per number, plan, payments
+                        (Stripe, Google Play), time stats, ads sold per view (SQLite)
 data/stories/*.json     stories, one file per level
 data/dictionary/*.txt   dictionary entries: word | lemma | pos | english | example_de | example_en
 tools/check_coverage.py lists story words that have no dictionary entry
@@ -100,7 +112,7 @@ Everything is kept in the app's data folder: the folder Flet provides for packag
 desktop/mobile apps (`FLET_APP_STORAGE_DATA`), or `~/.deutsch-mit-geschichten/` when running
 from source. Saved words go to `my_words.json`. The signed-in phone number and the Premium plan
 go to `account.json`, and the minutes spent in the app per day to `usage.json`. Delete a file
-to start over. With the accounts server, `account.json` only holds the session token and a copy
+to start over. Word scroll remembers which words you've already seen in `feed.json`. With the accounts server, `account.json` only holds the session token and a copy
 of the plan; the account itself lives in the server's `accounts.db`.
 The word wallpaper's choices go to `wallpaper.json` and the widget's to `widget.json` in the
 same folder; the words they show are copied to `word_wallpaper.json` and `word_widget.json`

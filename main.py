@@ -8,9 +8,13 @@ from pathlib import Path
 import flet as ft
 
 from app import glass
-from app.account import Usage, make_account
+from app.account import OtpError, Usage, make_account
 from app.account_view import locked_view, plan_view, profile_view, signin_view
+from app.ads_view import ad_card
+from app.billing import PlayBilling
 from app.data import LEVELS, Library
+from app.feed import WordFeed
+from app.feed_view import feed_view
 from app.game import GapGame
 from app.storage import MyWords
 from app.topics import TOPIC_BY_KEY
@@ -50,6 +54,7 @@ def main(page: ft.Page):
     usage.claim(account.phone)
     search_state = {"query": ""}
     game = GapGame(lib)
+    feed: list[WordFeed] = []  # the word scroll deck, built on first visit
     game_state = {"level": "ALL", "answered": 0, "correct": 0, "streak": 0}
     topic_states: dict[str, dict] = {}  # per topic: level, tab and its own game score
     wallpaper_settings = WallpaperSettings()
@@ -61,6 +66,27 @@ def main(page: ft.Page):
         if not home_words:
             home_words.extend(level_cards(lib, "ALL"))
         return home_words
+
+    play: list[PlayBilling] = []  # Google Play Billing, Android with an accounts server only
+
+    def play_billing() -> PlayBilling:
+        if not play:
+            play.append(PlayBilling())
+        return play[0]
+
+    async def recover_purchases():
+        # A Play purchase the server never confirmed (the app closed while paying, or no
+        # connection) is sent again, so nobody pays without getting Premium.
+        if "google_play" not in account.payments or not account.signed_in:
+            return
+        billing = play_billing()
+        for item in await billing.pending():
+            try:
+                await asyncio.to_thread(account.confirm_play, item["purchase_token"])
+            except OtpError:
+                continue
+            await billing.finish(item["purchase_token"])
+            route_change()
 
     def wallpaper_service() -> WordWallpaper:
         if not wallpaper:
@@ -94,10 +120,30 @@ def main(page: ft.Page):
     def locked(story) -> bool:
         return account.locked(lib, story)
 
+    # Ads: free users with an accounts server see one ad card, refreshed with each sync.
+    current_ad: dict = {"ad": None}
+
+    async def fetch_ad():
+        if not account.server:
+            return
+        ad = await asyncio.to_thread(account.next_ad)
+        changed = (ad or {}).get("id") != (current_ad["ad"] or {}).get("id")
+        current_ad["ad"] = ad
+        if changed and page.route == "/":  # elsewhere it shows from the next screen on
+            route_change()
+
+    def ad_control() -> ft.Control | None:
+        ad = current_ad["ad"]
+        if not ad or account.premium:
+            return None
+        page.run_task(asyncio.to_thread, account.ad_seen, ad["id"])  # the server counts once per 30 min
+        return ad_card(page, ad, lambda: page.run_task(asyncio.to_thread, account.ad_click, ad["id"]),
+                       nav("/premium"))
+
     def reader(story) -> ft.View:
         if locked(story):
             return locked_view(story, lib.stories[story.level].index(story) + 1, nav)
-        return StoryReader(page, lib, story, my_words, nav).build()
+        return StoryReader(page, lib, story, my_words, nav, ad_control()).build()
 
     async def signed_in():
         usage.claim(account.phone)
@@ -120,6 +166,7 @@ def main(page: ft.Page):
         await asyncio.to_thread(account.sync_usage, usage)
         if (account.signed_in, account.premium) != was:
             route_change()
+        await fetch_ad()
 
     async def track_usage():
         n = 0
@@ -141,6 +188,7 @@ def main(page: ft.Page):
         #   /words           -> home, my words
         #   /search          -> home, word search
         #   /game            -> home, gap game
+        #   /feed            -> home, word scroll
         #   /wallpaper       -> home, word wallpaper
         #   /widget          -> home, word widget
         #   /topics          -> home, topics
@@ -156,15 +204,20 @@ def main(page: ft.Page):
             page.views.append(signin_view(page, account, signed_in))
             _decorate()
             return
-        page.views.append(home_view(page, lib, my_words, nav, toggle_theme, home_word_cards))
-
         parts = page.route.strip("/").split("/")
+        page.views.append(home_view(page, lib, my_words, nav, toggle_theme, home_word_cards,
+                                    ad_control() if parts == [""] else None))
+
         if len(parts) == 2 and parts[0] == "level" and parts[1] in LEVELS:
             page.views.append(level_view(lib, parts[1], nav, locked))
         elif parts == ["words"]:
             page.views.append(words_view(page, lib, my_words, nav))
         elif parts == ["search"]:
             page.views.append(search_view(page, lib, my_words, nav, search_state))
+        elif parts == ["feed"]:
+            if not feed:
+                feed.append(WordFeed(lib, my_words))
+            page.views.append(feed_view(page, lib, my_words, feed[0], nav))
         elif parts == ["game"]:
             page.views.append(game_view(page, game, my_words, game_state))
         elif parts == ["wallpaper"]:
@@ -176,7 +229,8 @@ def main(page: ft.Page):
         elif parts == ["profile"]:
             page.views.append(profile_view(page, account, usage, my_words, nav, signed_out))
         elif parts == ["premium"]:
-            page.views.append(plan_view(page, lib, account, route_change))
+            android_play = account.server and is_android(page)
+            page.views.append(plan_view(page, lib, account, route_change, play_billing if android_play else None))
         elif parts == ["topics"]:
             page.views.append(topics_view(lib, nav))
         elif len(parts) >= 2 and parts[0] == "topic" and parts[1] in TOPIC_BY_KEY:
@@ -221,6 +275,8 @@ def main(page: ft.Page):
     page.on_connect = lambda e: set_connected(True)
     page.on_disconnect = lambda e: set_connected(False)
     page.on_close = lambda e: usage_task.cancel()
+    if account.server and is_android(page):
+        page.run_task(recover_purchases)
     if is_android(page) and (wallpaper_settings["enabled"] or widget_settings["enabled"]):
         page.run_task(sync_android)
 

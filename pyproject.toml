@@ -3,7 +3,7 @@ name = "sprach-up"
 version = "1.0.0"
 description = "Graded German stories from A1 to C2: tap any word to see its meaning and an example."
 requires-python = ">=3.10"
-dependencies = ["flet==1.0.4", "flet-word-wallpaper"]
+dependencies = ["flet==1.0.4", "flet-word-wallpaper", "flet-play-billing"]
 
 [tool.flet]
 product = "Sprach Up"
@@ -11,10 +11,11 @@ org = "com.sprachup"
 company = "Sprach Up"
 copyright = "Copyright (C) 2026 Sprach Up"
 
-# The word wallpaper's Android code is a local Flet extension, installed from this folder
-# into the build only (not into your global Python).
+# The word wallpaper's Android code and Google Play Billing are local Flet extensions,
+# installed from these folders into the build only (not into your global Python).
 [tool.flet.dev_packages]
 flet-word-wallpaper = "extensions/flet_word_wallpaper"
+flet-play-billing = "extensions/flet_play_billing"
 
 [tool.flet.app]
 path = "."
