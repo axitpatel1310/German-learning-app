@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="word_wallpaper_label">Sprach Up words</string>
+    <string name="word_wallpaper_description">A new German word with its meaning and an example sentence every time you turn on the screen.</string>
+    <string name="word_widget_label">Sprach Up word</string>
+    <string name="word_widget_description">A German word with its meaning and an example. A new one every 30 minutes, or tap the arrow.</string>
+    <string name="word_widget_next">Next word</string>
+</resources>

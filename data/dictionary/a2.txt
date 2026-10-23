@@ -1377,3 +1377,34 @@ computersystem | das Computersystem | noun (n) | computer system | Das neue Comp
 heft | das Heft | noun (n) | notebook, exercise book; issue (of a magazine) | Schreib die Wörter in dein Heft. | Write the words in your exercise book.
 nachgesehen | nachsehen | verb (participle) | checked, looked up | Ich habe im Kalender nachgesehen. | I checked in the calendar.
 ruhigeres | ruhig | adjective (comparative) | quieter | Haben Sie ein ruhigeres Zimmer? | Do you have a quieter room?
+
+# a2-112 Sankt Martin
+armen | arm | adjective | poor (after der/dem/einem: armen) | Sie hilft einem armen Mann. | She helps a poor man.
+gebastelt | basteln | verb (participle) | made by hand (crafts) | Die Kinder haben Sterne aus Papier gebastelt. | The children made paper stars.
+geritten | reiten | verb (participle) | ridden (a horse) | Sie ist als Kind oft geritten. | She often went riding as a child.
+handschuhe | der Handschuh | noun (m, pl.) | gloves | Im Winter trage ich Handschuhe. | In winter I wear gloves.
+kürbis | der Kürbis | noun (m) | pumpkin | Im Herbst kochen wir Suppe aus Kürbis. | In autumn we make pumpkin soup.
+laterne | die Laterne | noun (f) | lantern; street lamp | Die Laterne leuchtet im Dunkeln. | The lantern glows in the dark.
+laternenlieder | das Laternenlied | noun (n, pl.) | lantern songs (sung at St Martin's) | Im Kindergarten lernen die Kinder Laternenlieder. | At kindergarten the children learn lantern songs.
+mantel | der Mantel | noun (m) | coat; cloak | Zieh deinen Mantel an, es ist kalt! | Put your coat on, it's cold!
+reiter | der Reiter | noun (m) | rider (on a horse) | Der Reiter springt über den Zaun. | The rider jumps over the fence.
+sankt | Sankt | proper noun | Saint (in names: Sankt Martin, Sankt Petersburg) | Am 11. November feiern wir Sankt Martin. | On 11 November we celebrate St Martin's Day.
+schwert | das Schwert | noun (n) | sword | Der Ritter hat ein langes Schwert. | The knight has a long sword.
+süßem | süß | adjective | sweet (after aus/mit without article: süßem) | Der Weckmann ist aus süßem Teig. | The Weckmann is made of sweet dough.
+weckmann | der Weckmann | noun (m) | bread figure of sweet yeast dough (eaten at St Martin's) | Jedes Kind bekommt einen Weckmann. | Every child gets a Weckmann.
+adventssonntag | der Adventssonntag | noun (m) | Sunday in Advent (one of the four Sundays before Christmas) | Am ersten Adventssonntag zünden wir eine Kerze an. | On the first Sunday of Advent we light a candle.
+ausgerollt | ausrollen | verb (past participle) | rolled out | Sie hat den Teig dünn ausgerollt. | She rolled the dough out thinly.
+ausgestochen | ausstechen | verb (past participle) | cut out (with a biscuit cutter) | Wir haben Sterne aus dem Teig ausgestochen. | We cut stars out of the dough.
+dekoriert | dekorieren | verb (past participle / he, she, it) | decorated; decorates | Die Kinder haben den Weihnachtsbaum dekoriert. | The children decorated the Christmas tree.
+gepackt | packen | verb (past participle) | packed | Hast du deinen Koffer schon gepackt? | Have you packed your suitcase yet?
+herzen | das Herz | noun (n, pl.) | hearts | Sie hat kleine Herzen aus Papier gebastelt. | She made little paper hearts.
+monde | der Mond | noun (m, pl.) | moons | Die Plätzchen haben die Form von Sternen und Monden. | The biscuits are shaped like stars and moons.
+ofen | der Ofen | noun (m) | oven; stove | Der Kuchen ist noch im Ofen. | The cake is still in the oven.
+plätzchen | das Plätzchen | noun (n, sg./pl.) | biscuit(s), cookie(s) (especially at Christmas) | Im Advent backen wir Plätzchen. | In Advent we bake Christmas biscuits.
+streuseln | die Streusel | noun (pl., dative) | sprinkles; crumble topping | Der Kuchen ist mit bunten Streuseln dekoriert. | The cake is decorated with colourful sprinkles.
+vanille | die Vanille | noun (f) | vanilla | Ich nehme ein Eis mit Vanille. | I'll have a vanilla ice cream.
+weihnachtslieder | das Weihnachtslied | noun (n, pl.) | Christmas songs, carols | Im Dezember singen wir Weihnachtslieder. | In December we sing Christmas carols.
+zerbrochen | zerbrechen | verb (past participle) | broken (into pieces) | Das Glas ist auf dem Boden zerbrochen. | The glass broke on the floor.
+zuckerguss | der Zuckerguss | noun (m) | icing, frosting | Die Plätzchen haben weißen Zuckerguss. | The biscuits have white icing.
+tomás | Tomás | proper noun | Tomás (Spanish male first name) | Tomás arbeitet in einer Bäckerei. | Tomás works in a bakery.
+trainiere | trainieren | verb | (I) train, work out; (that I) train | Ich trainiere zweimal pro Woche im Fitnessstudio. | I work out at the gym twice a week.

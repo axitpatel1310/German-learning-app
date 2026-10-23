@@ -3178,3 +3178,93 @@ langer | lang | adjective | long | Das war ein langer Tag. | That was a long day
 arbeitsblätter | das Arbeitsblatt | noun (n), plural | worksheets | Die Lehrerin verteilt die Arbeitsblätter. | The teacher hands out the worksheets.
 geübt | üben | verb (participle) | practised | Ich habe das Lied lange geübt. | I practised the song for a long time.
 übungen | die Übung | noun (f), plural | exercises | Machen Sie die Übungen auf Seite zehn. | Do the exercises on page ten.
+
+# b2-102 Wohin verschwindet mein Geld?
+abbuchungen | die Abbuchung | noun (f, pl.) | direct debits, debits (from an account) | Ich kontrolliere jeden Monat meine Abbuchungen. | I check my direct debits every month.
+abos | das Abo | noun (n, pl.) | subscriptions (short for Abonnements) | Er hat zu viele Abos für Streamingdienste. | He has too many streaming subscriptions.
+anschrieb | anschreiben | verb (past) | wrote to, contacted in writing | Die Firma schrieb alle Kunden an. | The company wrote to all its customers.
+dauerauftrag | der Dauerauftrag | noun (m) | standing order | Die Miete zahle ich per Dauerauftrag. | I pay the rent by standing order.
+ehrlichen | ehrlich | adjective | honest (after einen/den: ehrlichen) | Sie wollte einen ehrlichen Überblick. | She wanted an honest overview.
+einzeln | einzeln | adjective / adverb | individual(ly), single, one by one | Die Gäste kamen einzeln herein. | The guests came in one by one.
+festes | fest | adjective | fixed, firm (neuter: ein festes) | Sie hat ein festes Einkommen. | She has a fixed income.
+festlegt | festlegen | verb | sets, fixes, lays down | Der Vertrag legt die Arbeitszeit genau fest. | The contract sets the working hours precisely.
+finanzen | die Finanzen | noun (pl.) | finances | Sie hat ihre Finanzen gut im Griff. | She has her finances well under control.
+haushaltsbuch | das Haushaltsbuch | noun (n) | household budget book, expense diary | In ihr Haushaltsbuch schreibt sie jede Ausgabe. | She writes every expense in her budget book.
+kontos | das Konto | noun (n, genitive) | (of the) account | Der Stand des Kontos war negativ. | The balance of the account was negative.
+kosteten | kosten | verb (past) | cost (past, plural) | Die Tickets kosteten 50 Euro. | The tickets cost 50 euros.
+lieferdienste | der Lieferdienst | noun (m, pl.) | delivery services | Lieferdienste bringen das Essen bis an die Tür. | Delivery services bring food to the door.
+monatsanfang | der Monatsanfang | noun (m) | beginning of the month | Das Gehalt kommt zum Monatsanfang. | The salary arrives at the beginning of the month.
+monatsende | das Monatsende | noun (n) | end of the month | Am Monatsende ist das Geld oft knapp. | At the end of the month money is often tight.
+notgroschen | der Notgroschen | noun (m) | emergency savings, nest egg | Jeder sollte einen Notgroschen haben. | Everyone should have some emergency savings.
+referendar | der Referendar | noun (m) | trainee teacher or trainee lawyer (in the practical training phase) | Als Referendar unterrichtet er schon eigene Klassen. | As a trainee teacher he already teaches his own classes.
+sparziele | das Sparziel | noun (n, pl.) | savings goals | Setz dir realistische Sparziele! | Set yourself realistic savings goals!
+tagesgeldkonto | das Tagesgeldkonto | noun (n) | instant-access savings account | Das Geld liegt auf einem Tagesgeldkonto. | The money is in an instant-access savings account.
+verbraucherzentralen | die Verbraucherzentrale | noun (f, pl.) | consumer advice centres | Die Verbraucherzentralen beraten bei Problemen mit Verträgen. | Consumer advice centres give advice on problems with contracts.
+wehtun | wehtun | verb | to hurt | Die Spritze wird nicht wehtun. | The injection won't hurt.
+wochenbudget | das Wochenbudget | noun (n) | weekly budget | Mein Wochenbudget für Essen ist 60 Euro. | My weekly budget for food is 60 euros.
+überweist | überweisen | verb | transfers (money) | Er überweist die Miete am Ersten. | He transfers the rent on the first.
+überzogenen | überzogen | adjective | overdrawn; exaggerated | Wegen des überzogenen Kontos zahlt er hohe Zinsen. | Because of the overdrawn account he pays high interest.
+abführt | abführen | verb | (he/she/it) pays over, transfers (taxes to an authority) | Der Arbeitgeber führt die Lohnsteuer jeden Monat ab. | The employer pays over the wage tax every month.
+angestellten | der/die Angestellte | noun (adj. noun, pl. / dative) | employees, salaried staff | Die Angestellten bekommen ein Weihnachtsgeld. | The employees get a Christmas bonus.
+angibt | angeben | verb | (he/she/it) states, declares; shows off | Wer Kosten angibt, braucht Belege. | Anyone who declares costs needs receipts.
+arbeitsmittel | das Arbeitsmittel | noun (n, sg./pl.) | work equipment, tools of the trade | Ein Laptop kann ein Arbeitsmittel sein. | A laptop can count as work equipment.
+arbeitszimmer | das Arbeitszimmer | noun (n) | study, home office (room) | Sie hat sich ein kleines Arbeitszimmer eingerichtet. | She set up a small study.
+beißt | beißen | verb | (he/she/it) bites | Keine Angst, der Hund beißt nicht. | Don't worry, the dog doesn't bite.
+bereitlegen | bereitlegen | verb | to lay out ready, have ready | Bitte legen Sie Ihren Ausweis bereit. | Please have your ID ready.
+einplanen | einplanen | verb | to plan in, allow for | Für die Fahrt sollten wir zwei Stunden einplanen. | We should allow two hours for the journey.
+fachbegriffe | der Fachbegriff | noun (m, pl.) | technical terms | Der Text enthält viele Fachbegriffe. | The text contains many technical terms.
+fachbücher | das Fachbuch | noun (n, pl.) | specialist books, textbooks | Fachbücher für den Beruf kann man von der Steuer absetzen. | Specialist books for your job are tax-deductible.
+finanzverwaltung | die Finanzverwaltung | noun (f) | tax administration, revenue authorities | Die Finanzverwaltung bietet ein Onlineportal an. | The tax authorities offer an online portal.
+handwerkerrechnungen | die Handwerkerrechnung | noun (f, pl.) | tradespeople's bills (e.g. plumber, painter) | Handwerkerrechnungen kann man teilweise absetzen. | Bills from tradespeople are partly deductible.
+häusliches | häuslich | adjective | domestic, home (häusliches Arbeitszimmer: home office) | Ein häusliches Arbeitszimmer muss bestimmte Bedingungen erfüllen. | A home office has to meet certain conditions.
+jahresbeitrag | der Jahresbeitrag | noun (m) | annual fee, yearly subscription | Der Jahresbeitrag für den Verein beträgt 60 Euro. | The annual membership fee for the club is 60 euros.
+lohnsteuerhilfeverein | der Lohnsteuerhilfeverein | noun (m) | income-tax help association (helps employees with tax returns for a fee) | Der Lohnsteuerhilfeverein hat meine Steuererklärung gemacht. | The tax-help association did my tax return.
+nebeneinkünften | die Nebeneinkünfte | noun (pl., dative) | additional income, side earnings | Wer Nebeneinkünfte hat, muss oft eine Steuererklärung abgeben. | Anyone with side income often has to file a tax return.
+onlineportal | das Onlineportal | noun (n) | online portal | Die Erklärung lässt sich über ein Onlineportal einreichen. | The return can be submitted via an online portal.
+pauschale | die Pauschale | noun (f) | flat rate, lump sum | Für jeden Tag im Homeoffice gibt es eine Pauschale. | There is a flat-rate allowance for every day working from home.
+ruhigen | ruhig | adjective | quiet, calm | Wir haben einen ruhigen Abend zu Hause verbracht. | We spent a quiet evening at home.
+steuerklassen | die Steuerklasse | noun (f, pl.) | tax brackets/classes (German wage-tax categories) | In Deutschland gibt es sechs Steuerklassen. | There are six tax classes in Germany.
+steuerlast | die Steuerlast | noun (f) | tax burden | Spenden können die Steuerlast senken. | Donations can reduce the tax burden.
+steuersoftware | die Steuersoftware | noun (f) | tax software | Mit einer Steuersoftware geht die Erklärung schneller. | Tax software makes the return quicker.
+unlust | die Unlust | noun (f) | reluctance, lack of enthusiasm | Er macht die Hausaufgaben nur mit Unlust. | He does his homework only reluctantly.
+verschenken | verschenken | verb | to give away (as a present); to waste | Wer keine Steuererklärung macht, verschenkt oft Geld. | People who don't file a tax return often give money away.
+verspätungszuschlag | der Verspätungszuschlag | noun (m) | late-filing surcharge, late fee | Wegen der späten Abgabe musste sie einen Verspätungszuschlag zahlen. | She had to pay a late-filing surcharge because she submitted late.
+versäumt | versäumen | verb (past participle / he, she, it) | missed (a deadline, an appointment); misses | Er hat die Frist leider versäumt. | Unfortunately he missed the deadline.
+übermitteln | übermitteln | verb | to transmit, send (data, information) | Der Arbeitgeber übermittelt die Daten elektronisch. | The employer transmits the data electronically.
+abgebucht | abbuchen | verb (participle) | debited (from an account) | Die Miete wird am Monatsanfang abgebucht. | The rent is debited at the start of the month.
+abo | das Abo | noun (n) | subscription (short for Abonnement) | Ich habe mein Abo gekündigt. | I've cancelled my subscription.
+abonnement | das Abonnement | noun (n) | subscription | Das Abonnement verlängert sich automatisch. | The subscription renews automatically.
+button | der Button | noun (m) | button (on a website or app) | Klicken Sie auf den Button unten rechts. | Click the button at the bottom right.
+durchzugehen | durchgehen | verb (zu-infinitive) | to go through, check through | Es lohnt sich, die Rechnung genau durchzugehen. | It's worth going through the bill carefully.
+einzutragen | eintragen | verb (zu-infinitive) | to enter, write down (e.g. in a calendar) | Vergiss nicht, den Termin einzutragen. | Don't forget to put the appointment in.
+fitness-app | die Fitness-App | noun (f) | fitness app | Die Fitness-App zählt meine Schritte. | The fitness app counts my steps.
+kontoauszüge | der Kontoauszug | noun (m, pl.) | bank statements | Prüfen Sie regelmäßig Ihre Kontoauszüge. | Check your bank statements regularly.
+kostenpflichtigen | kostenpflichtig | adjective | subject to a charge, paid | Nach dem Test beginnt ein kostenpflichtiges Abo. | After the trial a paid subscription begins.
+kündigt | kündigen | verb | cancels (a contract); hands in notice | Wer kündigt, sollte eine Bestätigung verlangen. | Anyone who cancels should ask for a confirmation.
+kündigungsbutton | der Kündigungsbutton | noun (m) | cancellation button (required on German websites since 2022) | Der Kündigungsbutton muss gut sichtbar sein. | The cancellation button must be clearly visible.
+nutze | nutzen | verb (ich) | (I) use | Ich nutze die App fast jeden Tag. | I use the app almost every day.
+probeabos | das Probeabo | noun (n, gen.) | (of a) trial subscription | Am Ende des Probeabos zahlt man den vollen Preis. | At the end of the trial subscription you pay the full price.
+probemonate | der Probemonat | noun (m, pl.) | trial months, free trial periods | Viele Dienste bieten kostenlose Probemonate an. | Many services offer free trial months.
+rabatten | der Rabatt | noun (m, pl. dat.) | discounts | Der Anbieter lockt mit hohen Rabatten. | The provider tempts people with big discounts.
+streamingdienst | der Streamingdienst | noun (m) | streaming service | Welchen Streamingdienst hast du? | Which streaming service do you have?
+verbraucherschützern | der Verbraucherschützer | noun (m, pl. dat.) | consumer advocates | Laut Verbraucherschützern ist das Angebot zu teuer. | According to consumer advocates the offer is too expensive.
+verbraucherverträge | der Verbrauchervertrag | noun (m, pl.) | consumer contracts | Das Gesetz schützt Verbraucherverträge im Internet. | The law protects consumer contracts on the internet.
+verlängerten | verlängern | verb (past) | extended, renewed (themselves) | Die Verträge verlängerten sich automatisch. | The contracts renewed automatically.
+zeitungsabo | das Zeitungsabo | noun (n) | newspaper subscription | Mein Zeitungsabo kostet zwanzig Euro im Monat. | My newspaper subscription costs twenty euros a month.
+überreden | überreden | verb | to persuade, talk (someone) into | Sie wollte mich zum Bleiben überreden. | She wanted to talk me into staying.
+aufschlussreich | aufschlussreich | adjective | revealing, informative | Das Gespräch mit der Ärztin war sehr aufschlussreich. | The conversation with the doctor was very informative.
+auskunftsrecht | das Auskunftsrecht | noun (n) | right of access (to information about yourself) | Nach der DSGVO haben Sie ein Auskunftsrecht. | Under the GDPR you have a right of access.
+berichtigung | die Berichtigung | noun (f) | correction, rectification | Ich habe die Berichtigung meiner Adresse beantragt. | I asked for my address to be corrected.
+cookie-banner | das Cookie-Banner | noun (n, also plural) | cookie banner (consent pop-up on websites) | Auf jeder Website erscheint ein Cookie-Banner. | A cookie banner appears on every website.
+datenschutzbehörde | die Datenschutzbehörde | noun (f) | data protection authority | Sie hat sich bei der Datenschutzbehörde beschwert. | She complained to the data protection authority.
+dsgvo | die DSGVO | noun (f) | GDPR (Datenschutz-Grundverordnung, the EU General Data Protection Regulation) | Die DSGVO gilt seit Mai 2018. | The GDPR has applied since May 2018.
+einkaufsgewohnheiten | die Einkaufsgewohnheit | noun (f, plural) | shopping habits | Die App speichert unsere Einkaufsgewohnheiten. | The app stores our shopping habits.
+feststellt | feststellen | verb | notices, finds out, establishes | Wer einen Fehler feststellt, sollte ihn melden. | Anyone who notices a mistake should report it.
+k | K. | abbreviation | K. (initial of a surname, e.g. to protect someone's privacy) | Die Lehrerin Anna K. erzählt von ihrem Alltag. | The teacher Anna K. talks about her everyday life.
+kundenkarte | die Kundenkarte | noun (f) | loyalty card, customer card | Haben Sie eine Kundenkarte? | Do you have a loyalty card?
+löschung | die Löschung | noun (f) | deletion, erasure | Sie können die Löschung Ihrer Daten verlangen. | You can demand the deletion of your data.
+modehändler | der Modehändler | noun (m) | fashion retailer | Der Modehändler verkauft seine Kleidung vor allem online. | The fashion retailer sells its clothes mainly online.
+online-shops | der Online-Shop | noun (m, plural) | online shops | Viele Online-Shops bieten kostenlosen Versand an. | Many online shops offer free delivery.
+supermarktkette | die Supermarktkette | noun (f) | supermarket chain | Die Supermarktkette hat zweihundert Filialen. | The supermarket chain has two hundred branches.
+verbraucherinnen | die Verbraucherin | noun (f, plural) | (female) consumers | Verbraucherinnen und Verbraucher haben ein Recht auf Information. | Consumers have a right to information.
+zuständigen | zuständig | adjective | responsible, competent (the authority in charge) | Wenden Sie sich an die zuständigen Stellen. | Contact the relevant authorities.

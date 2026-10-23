@@ -2395,3 +2395,46 @@ fehlte | fehlen | verb (past) | was missing; (mir fehlte) I missed | Mir fehlte 
 wortspiele | das Wortspiel | noun (n), plural | word games; puns | Die Kinder lieben Wortspiele. | The children love word games.
 emir | Emir | proper noun | Emir (first name) | Emir geht in die zweite Klasse. | Emir is in year two.
 mutiger | mutig | adjective (comparative) | braver, more confident | Sie ist mit der Zeit mutiger geworden. | She has become braver over time.
+
+# b1-102 Termin bei der Ausländerbehörde
+ablaufdatum | das Ablaufdatum | noun (n) | expiry date | Das Ablaufdatum steht auf der Rückseite der Karte. | The expiry date is on the back of the card.
+aktuelles | aktuell | adjective | current, recent (neuter: ein aktuelles) | Für den Pass braucht man ein aktuelles Foto. | For the passport you need a recent photo.
+antragsformular | das Antragsformular | noun (n) | application form | Bitte füllen Sie das Antragsformular vollständig aus. | Please fill in the application form completely.
+aufenthaltstitel | der Aufenthaltstitel | noun (m) | residence permit, residence title | Mein Aufenthaltstitel ist noch zwei Jahre gültig. | My residence permit is valid for two more years.
+ausländerbehörde | die Ausländerbehörde | noun (f) | immigration office, foreigners' registration office | Den Antrag stellt man bei der Ausländerbehörde. | You submit the application at the immigration office.
+bearbeitet | bearbeiten | verb (participle) / verb | processed, dealt with; processes | Ihr Antrag wird gerade bearbeitet. | Your application is currently being processed.
+fiktionsbescheinigung | die Fiktionsbescheinigung | noun (f) | interim certificate (lets you stay legally while a permit is being processed) | Mit der Fiktionsbescheinigung darf sie weiterarbeiten. | With the interim certificate she may keep working.
+gehaltsabrechnungen | die Gehaltsabrechnung | noun (f, pl.) | payslips, salary statements | Der Vermieter möchte drei Gehaltsabrechnungen sehen. | The landlord wants to see three payslips.
+legal | legal | adjective | legal, lawful | Ist das überhaupt legal? | Is that even legal?
+nachweis | der Nachweis | noun (m) | proof, evidence (as a document) | Sie brauchen einen Nachweis über Ihr Einkommen. | You need proof of your income.
+ordner | der Ordner | noun (m) | folder, file (binder) | Alle Rechnungen sind in diesem Ordner. | All the bills are in this folder.
+reisepass | der Reisepass | noun (m) | passport | Für die Reise nach Kanada brauchst du einen Reisepass. | You need a passport for the trip to Canada.
+sachbearbeiterin | die Sachbearbeiterin | noun (f) | (female) clerk, case officer | Die Sachbearbeiterin hat alle Unterlagen geprüft. | The case officer checked all the documents.
+softwareentwicklerin | die Softwareentwicklerin | noun (f) | (female) software developer | Meine Schwester arbeitet als Softwareentwicklerin. | My sister works as a software developer.
+termins | der Termin | noun (m, genitive) | (of the) appointment | Am Tag des Termins war ich nervös. | On the day of the appointment I was nervous.
+titels | der Titel | noun (m, genitive) | (of the) title; here: residence permit | Das Ablaufdatum des Titels steht auf der Karte. | The expiry date of the permit is on the card.
+arbeitslosen | arbeitslos | adjective | unemployed (here part of "Arbeitslosenversicherung", unemployment insurance) | Er zahlt Beiträge zur Arbeitslosenversicherung. | He pays contributions to unemployment insurance.
+brutto | brutto | adverb | gross (before tax and deductions) | Er verdient 3.000 Euro brutto im Monat. | He earns 3,000 euros gross a month.
+daraufhin | daraufhin | adverb | thereupon, as a result | Er hat die Prüfung bestanden und daraufhin eine Stelle bekommen. | He passed the exam and got a job as a result.
+elektroniker | der Elektroniker | noun (m) | electronics technician, electrician | Mein Bruder macht eine Ausbildung als Elektroniker. | My brother is training as an electronics technician.
+feststeht | feststehen | verb | (it) is fixed, is certain (separable: steht … fest) | Schreib auf, was jeden Monat feststeht. | Write down what is fixed every month.
+gehaltsabrechnung | die Gehaltsabrechnung | noun (f) | payslip, salary statement | Auf der Gehaltsabrechnung stehen alle Abzüge. | All the deductions are on the payslip.
+leg | legen | verb (imperative, du) | put, lay (here "leg … zur Seite": put aside, save) | Leg jeden Monat etwas Geld zur Seite. | Put some money aside every month.
+lohnsteuer | die Lohnsteuer | noun (f) | income tax on wages (deducted by the employer) | Der Arbeitgeber zahlt die Lohnsteuer direkt ans Finanzamt. | The employer pays the wage tax directly to the tax office.
+pflegeversicherung | die Pflegeversicherung | noun (f) | long-term care insurance | Die Pflegeversicherung zahlt, wenn man im Alter Hilfe braucht. | Care insurance pays when you need help in old age.
+sozialversicherung | die Sozialversicherung | noun (f) | social insurance (pension, health, unemployment and care insurance) | Ein Teil des Gehalts geht an die Sozialversicherung. | Part of the salary goes to social insurance.
+benutze | benutzen | verb (ich) | (I) use | Ich benutze das Wörterbuch jeden Tag. | I use the dictionary every day.
+forum | das Forum | noun (n) | (online) forum | Im Forum haben viele Leute geantwortet. | Many people answered in the forum.
+italienisch | Italienisch / italienisch | noun (n) / adjective | Italian (language); Italian | Sie lernt seit einem Jahr Italienisch. | She has been learning Italian for a year.
+leichtesten | leicht | adjective (superlative) | easiest | Er macht immer nur die leichtesten Aufgaben. | He only ever does the easiest tasks.
+madrid | Madrid | proper noun | Madrid (capital of Spain) | Im Sommer war ich in Madrid. | In the summer I was in Madrid.
+tandempartnerin | die Tandempartnerin | noun (f) | (female) language exchange partner | Meine Tandempartnerin kommt aus Italien. | My language exchange partner is from Italy.
+gelöst | lösen | verb (past participle) | solved, sorted out | Wir haben das Problem schnell gelöst. | We solved the problem quickly.
+geschäftsbedingungen | die Geschäftsbedingungen | noun (pl.) | terms and conditions (Allgemeine Geschäftsbedingungen, AGB) | Hast du die Geschäftsbedingungen gelesen? | Have you read the terms and conditions?
+geselliger | gesellig | adjective (comparative) | more sociable, more convivial | Im Verein ist es geselliger als allein zu Hause. | It's more sociable at the club than alone at home.
+haushalts | der Haushalt | noun (m, genitive) | household (of the household) | Alle Mitglieder des Haushalts dürfen das Konto nutzen. | All members of the household may use the account.
+mediatheken | die Mediathek | noun (f, plural) | (online) media libraries of TV channels | Die Sendung ist eine Woche lang in der Mediathek. | The programme is in the media library for a week.
+sender | der Sender | noun (m) | (TV or radio) channel, station; sender | Welcher Sender zeigt das Fußballspiel? | Which channel is showing the football match?
+verbraucherforum | das Verbraucherforum | noun (n) | consumer forum | Im Verbraucherforum findet man viele Tipps zu Verträgen. | In the consumer forum you find lots of tips about contracts.
+würdet | werden | verb (subjunctive II) | (you, plural) would | Was würdet ihr an meiner Stelle machen? | What would you do in my place?
+öffentlich-rechtlichen | öffentlich-rechtlich | adjective | public-service (broadcasting), under public law | ARD und ZDF sind öffentlich-rechtliche Sender. | ARD and ZDF are public-service broadcasters.

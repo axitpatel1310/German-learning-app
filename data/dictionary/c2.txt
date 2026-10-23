@@ -1944,3 +1944,203 @@ gutartigen | gutartig | adjective | benign, good-natured | Der Tumor war zum Gl�
 anspornt | anspornen | verb | spurs on, motivates | Der Applaus spornt die Läufer an. | The applause spurs the runners on.
 wertvolles | wertvoll | adjective | valuable | Sie hat etwas Wertvolles gelernt. | She has learnt something valuable.
 quälenden | quälend | adjective | agonising, nagging | Er hatte quälende Zweifel. | He had nagging doubts.
+
+# c2-056 Über das Feiern
+abheben | abheben | verb | to stand out (sich abheben von); to withdraw (money); to take off | Ihr Entwurf hebt sich deutlich von den anderen ab. | Her design clearly stands out from the others.
+anlässe | der Anlass | noun (m, pl.) | occasions, reasons | Für Feiern gibt es viele Anlässe. | There are many occasions for celebrating.
+auftragen | auftragen | verb | to serve (food); to apply (paint, cream) | Der Kellner trägt die Suppe auf. | The waiter serves the soup.
+augenblicke | der Augenblick | noun (m, pl.) | moments | Es gab schöne Augenblicke. | There were lovely moments.
+ausnehmen | ausnehmen | verb | to look, appear (sich gut ausnehmen = to look good); to exempt; to gut | Das Bild nimmt sich an dieser Wand gut aus. | The picture looks good on this wall.
+beerdigung | die Beerdigung | noun (f) | funeral, burial | Zur Beerdigung kamen viele Freunde. | Many friends came to the funeral.
+dasein | das Dasein | noun (n) | existence, being | Er führte ein bescheidenes Dasein. | He led a modest existence.
+dauerbespielung | die Dauerbespielung | noun (f) | constant programming, nonstop entertainment | Die Dauerbespielung durch Medien lässt keine Pause. | Constant media entertainment leaves no break.
+eigentümlich | eigentümlich | adjective | peculiar, strange; characteristic | Die Stimmung war eigentümlich still. | The atmosphere was strangely quiet.
+ernte | die Ernte | noun (f) | harvest | Die Ernte war dieses Jahr gut. | The harvest was good this year.
+events | das Event | noun (n, pl.) | events (organised) | Die Firma organisiert Events für Kunden. | The company organises events for clients.
+feierns | das Feiern | noun (n, genitive) | (of) celebrating | Die Kunst des Feierns will gelernt sein. | The art of celebrating has to be learnt.
+festkultur | die Festkultur | noun (f) | culture of festivals, festive culture | Jede Region hat ihre eigene Festkultur. | Every region has its own festive culture.
+gelegenheiten | die Gelegenheit | noun (f, pl.) | opportunities, occasions | Nutze die Gelegenheiten, die sich bieten. | Use the opportunities that arise.
+gleichförmige | gleichförmig | adjective | uniform, monotonous | Der gleichförmige Alltag langweilte ihn. | The monotonous routine bored him.
+gutzuheißen | gutheißen | verb (zu-infinitive) | to approve (of), endorse | Ich kann diese Entscheidung nicht gutheißen. | I cannot approve of this decision.
+haltmacht | haltmachen | verb | stops (vor etwas haltmachen = to stop short of something) | Die Krise macht vor keiner Branche halt. | The crisis spares no sector.
+hervorgebracht | hervorbringen | verb (participle) | produced, brought forth | Die Stadt hat viele Künstler hervorgebracht. | The city has produced many artists.
+institutionalisierte | institutionalisiert | adjective | institutionalised | Das Fest ist eine institutionalisierte Ausnahme. | The festival is an institutionalised exception.
+josef | Josef | proper noun | Josef (first name) | Josef Pieper war ein deutscher Philosoph. | Josef Pieper was a German philosopher.
+leichenschmaus | der Leichenschmaus | noun (m) | funeral meal, wake | Nach der Beerdigung gab es einen Leichenschmaus. | After the funeral there was a funeral meal.
+markieren | markieren | verb | to mark | Markieren Sie die richtige Antwort. | Mark the correct answer.
+partys | die Party | noun (f, pl.) | parties | Am Wochenende gibt es viele Partys. | There are lots of parties at the weekend.
+sommernacht | die Sommernacht | noun (f) | summer night | Es war eine warme Sommernacht. | It was a warm summer night.
+sonnenwende | die Sonnenwende | noun (f) | solstice | Zur Sonnenwende brennen Feuer auf den Bergen. | At the solstice fires burn on the mountains.
+teambildung | die Teambildung | noun (f) | team building | Der Ausflug dient der Teambildung. | The outing serves team building.
+totengedenken | das Totengedenken | noun (n) | commemoration of the dead | Im November gibt es mehrere Tage des Totengedenkens. | In November there are several days commemorating the dead.
+unversehens | unversehens | adverb | suddenly, unexpectedly, before one knows it | Unversehens stand er vor der Tür. | Suddenly he was standing at the door.
+veranstaltung | die Veranstaltung | noun (f) | event, function | Die Veranstaltung beginnt um 19 Uhr. | The event starts at 7 p.m.
+verfügbar | verfügbar | adjective | available | Das Produkt ist sofort verfügbar. | The product is available immediately.
+verwerten | verwerten | verb | to make use of, exploit, recycle | Reste kann man gut verwerten. | Leftovers can be put to good use.
+zweckdenken | das Zweckdenken | noun (n) | utilitarian thinking, thinking in terms of purpose | Reines Zweckdenken lässt keinen Raum für Spiel. | Purely utilitarian thinking leaves no room for play.
+# c2-057 Was ist Geld?
+abgaben | die Abgabe | noun (f, pl.) | taxes, levies, dues | Die Abgaben an den Staat sind hoch. | The levies paid to the state are high.
+anonyme | anonym | adjective | anonymous | Er bekam anonyme Briefe. | He received anonymous letters.
+bargelds | das Bargeld | noun (n, genitive) | (of) cash | Die Zukunft des Bargelds ist umstritten. | The future of cash is disputed.
+baumwollpapier | das Baumwollpapier | noun (n) | cotton paper | Euroscheine bestehen aus Baumwollpapier. | Euro notes are made of cotton paper.
+bedrucktes | bedruckt | adjective | printed (neuter: ein bedrucktes) | Sie trägt ein bedrucktes T-Shirt. | She is wearing a printed T-shirt.
+befreie | befreien | verb (Konjunktiv I) | frees, liberates (reported speech) | Er sagt, die Arbeit befreie ihn von Sorgen. | He says the work frees him from worries.
+bequemlichkeit | die Bequemlichkeit | noun (f) | convenience, comfort; laziness | Aus Bequemlichkeit nimmt er das Auto. | He takes the car out of convenience.
+bewunderer | der Bewunderer | noun (m) | admirer | Er ist ein großer Bewunderer von Goethe. | He is a great admirer of Goethe.
+bürgt | bürgen | verb | vouches (for), guarantees | Der Name bürgt für Qualität. | The name guarantees quality.
+dargelegt | darlegen | verb (participle) | set out, explained | Sie hat ihre Gründe ausführlich dargelegt. | She set out her reasons in detail.
+doppelgesichtigkeit | die Doppelgesichtigkeit | noun (f) | two-sidedness, ambivalence | Die Doppelgesichtigkeit der Technik zeigt sich immer wieder. | The two-sided nature of technology shows again and again.
+eingebüßt | einbüßen | verb (participle) | lost, forfeited | Die Partei hat viel Vertrauen eingebüßt. | The party has lost a lot of trust.
+einzigartigkeit | die Einzigartigkeit | noun (f) | uniqueness | Die Einzigartigkeit der Landschaft zieht Touristen an. | The uniqueness of the landscape attracts tourists.
+endzweck | der Endzweck | noun (m) | ultimate purpose, end in itself | Geld sollte kein Endzweck sein. | Money should not be an end in itself.
+entgegengebracht | entgegenbringen | verb (participle) | shown, extended (trust, respect towards someone) | Man hat ihr großes Vertrauen entgegengebracht. | People showed her great trust.
+entrichtet | entrichten | verb / verb (participle) | pays (a fee, tax: formal) | Die Gebühr ist vorab zu entrichten. | The fee is to be paid in advance.
+flugreisen | die Flugreise | noun (f, pl.) | air travel, flights | Sie verzichtet auf Flugreisen. | She does without air travel.
+frondiensten | der Frondienst | noun (m, dative pl.) | forced labour owed to a feudal lord, corvée | Im Mittelalter mussten Bauern Frondienste leisten. | In the Middle Ages peasants had to perform forced labour.
+geldschein | der Geldschein | noun (m) | banknote | Sie fand einen Geldschein auf der Straße. | She found a banknote in the street.
+geprägte | geprägt | adjective | minted, coined; shaped (by) | Geld ist geprägte Freiheit, heißt es. | Money is minted freedom, as the saying goes.
+grundherrn | der Grundherr | noun (m, dative/accusative) | feudal lord, landlord (historical) | Die Bauern zahlten dem Grundherrn Abgaben. | The peasants paid dues to the feudal lord.
+hyperinflation | die Hyperinflation | noun (f) | hyperinflation | Während der Hyperinflation 1923 war das Geld fast wertlos. | During the hyperinflation of 1923 money was almost worthless.
+kontoauszug | der Kontoauszug | noun (m) | bank statement | Auf dem Kontoauszug sehe ich alle Zahlungen. | On the bank statement I can see all payments.
+leib | der Leib | noun (m) | body (literary); mit Leib und Seele = heart and soul | Sie ist mit Leib und Seele Lehrerin. | She is a teacher heart and soul.
+nachverfolgen | nachverfolgen | verb | to trace, track | Die Polizei konnte die Zahlungen nachverfolgen. | The police were able to trace the payments.
+nüchtern | nüchtern | adjective | sober; matter-of-fact | Nüchtern betrachtet war es ein Fehler. | Viewed soberly, it was a mistake.
+qualitäten | die Qualität | noun (f, pl.) | qualities | Sie hat viele gute Qualitäten. | She has many good qualities.
+quantitäten | die Quantität | noun (f, pl.) | quantities | Es geht um Qualitäten, nicht um Quantitäten. | It's about qualities, not quantities.
+reinste | rein | adjective (superlative) | purest, sheerest | Das war der reinste Zufall. | That was pure coincidence.
+sachlicher | sachlich | adjective (comparative) | more objective, more matter-of-fact | Bitte formulieren Sie das sachlicher. | Please phrase that more objectively.
+scheine | der Schein | noun (m, pl.) | (bank)notes; certificates | Er bezahlte mit zwei Scheinen. | He paid with two notes.
+stillschweigenden | stillschweigend | adjective | tacit, unspoken | Es gab eine stillschweigende Vereinbarung. | There was a tacit agreement.
+vergleichbar | vergleichbar | adjective | comparable | Die beiden Fälle sind nicht vergleichbar. | The two cases are not comparable.
+warnte | warnen | verb (past) | warned | Sie warnte ihn vor der Gefahr. | She warned him of the danger.
+zahlungsverkehrs | der Zahlungsverkehr | noun (m, genitive) | (of) payments, payment transactions | Die Digitalisierung des Zahlungsverkehrs schreitet voran. | The digitalisation of payments is progressing.
+zusagen | die Zusage / zusagen | noun (f, pl.) / verb | promises, commitments; to accept, to promise | Er hielt alle seine Zusagen ein. | He kept all his promises.
+übereinkunft | die Übereinkunft | noun (f) | agreement, convention | Nach langen Gesprächen kam man zu einer Übereinkunft. | After long talks they reached an agreement.
+übersetze | übersetzen | verb (Konjunktiv I) | translates (reported speech) | Er behauptet, er übersetze jeden Tag zehn Seiten. | He claims he translates ten pages every day.
+ableiten | ableiten | verb | to derive, deduce, infer | Aus diesen Zahlen lässt sich wenig ableiten. | Little can be inferred from these figures.
+ablesen | ablesen | verb | to read off (a figure, a meter); to tell from | Am Thermometer kann man die Temperatur ablesen. | You can read the temperature off the thermometer.
+absetzte | absetzen | verb (past / Konjunktiv II) | (sich absetzen von) distinguished oneself from, set oneself apart | Der Adel setzte sich durch feine Sitten vom Volk ab. | The nobility set itself apart from the people through refined manners.
+abstieg | der Abstieg | noun (m) | decline, descent; relegation | Viele fürchten den wirtschaftlichen Abstieg. | Many fear economic decline.
+abstraktes | abstrakt | adjective | abstract | Das ist ein sehr abstraktes Problem. | That is a very abstract problem.
+atmen | atmen | verb | to breathe (aufatmen: to breathe a sigh of relief) | Nach der guten Nachricht atmeten alle auf. | After the good news everyone breathed a sigh of relief.
+aufschlussreicher | aufschlussreich | adjective (comparative) | more revealing, more informative | Das Gespräch war aufschlussreicher als erwartet. | The conversation was more revealing than expected.
+auszudrücken | ausdrücken | verb (zu-infinitive) | to express (separable: auszudrücken) | Es fällt ihm schwer, seine Gefühle auszudrücken. | He finds it hard to express his feelings.
+beklagt | beklagen | verb (past participle / he, she, it) | lamented, deplored; laments | Der Verlust alter Traditionen wird oft beklagt. | The loss of old traditions is often lamented.
+berechnung | die Berechnung | noun (f) | calculation | Die Berechnung war leider fehlerhaft. | Unfortunately the calculation was wrong.
+beschwören | beschwören | verb | to conjure up, invoke; to swear (an oath) | Die Politiker beschwören den Zusammenhalt. | The politicians invoke solidarity.
+bioqualität | die Bioqualität | noun (f) | organic quality | Sie kauft nur Eier in Bioqualität. | She only buys organic eggs.
+brennstoffe | der Brennstoff | noun (m, pl.) | fuels | Fossile Brennstoffe schaden dem Klima. | Fossil fuels harm the climate.
+bruttoinlandsprodukt | das Bruttoinlandsprodukt | noun (n) | gross domestic product (GDP) | Das Bruttoinlandsprodukt ist im letzten Quartal leicht gestiegen. | GDP rose slightly in the last quarter.
+distinktionsmerkmal | das Distinktionsmerkmal | noun (n) | mark of distinction, status marker | Gute Tischsitten waren einst ein Distinktionsmerkmal des Adels. | Good table manners were once a status marker of the nobility.
+drohenden | drohend | adjective (present participle) | threatening, impending | Die Experten warnen vor einer drohenden Krise. | The experts warn of an impending crisis.
+ehrfürchtig | ehrfürchtig | adjective / adverb | reverent(ly), in awe | Die Besucher standen ehrfürchtig vor dem Gemälde. | The visitors stood in awe before the painting.
+entkoppeln | entkoppeln | verb | to decouple | Wachstum und Emissionen müssen entkoppelt werden. | Growth and emissions must be decoupled.
+entkopplung | die Entkopplung | noun (f) | decoupling | Die Entkopplung von Wachstum und Verbrauch geht nur langsam voran. | The decoupling of growth and consumption is progressing only slowly.
+erbitterung | die Erbitterung | noun (f) | bitterness, fierceness | Der Streit wurde mit großer Erbitterung geführt. | The dispute was fought with great bitterness.
+ernährungsdebatten | die Ernährungsdebatte | noun (f, pl.) | debates about diet and food | Ernährungsdebatten werden oft sehr emotional geführt. | Debates about food are often very emotional.
+ernährungsratgeber | der Ernährungsratgeber | noun (m, sg./pl.) | diet guide(s), nutrition advice book(s) | Im Buchladen gibt es ein ganzes Regal mit Ernährungsratgebern. | The bookshop has a whole shelf of nutrition guides.
+feuerbach | Feuerbach | proper noun | Ludwig Feuerbach (1804–1872), German philosopher | Feuerbach kritisierte die Religion und den Idealismus. | Feuerbach criticised religion and idealism.
+feuerbachs | Feuerbach | proper noun (genitive) | Feuerbach's | Feuerbachs berühmtester Satz ist ein Wortspiel. | Feuerbach's most famous sentence is a pun.
+fossile | fossil | adjective | fossil | Fossile Energien sollen bis 2045 ersetzt werden. | Fossil energy is to be replaced by 2045.
+gabel | die Gabel | noun (f) | fork | Das Kind isst schon mit Messer und Gabel. | The child already eats with a knife and fork.
+gegensätzlich | gegensätzlich | adjective / adverb | contradictory, opposing | Die Meinungen dazu sind völlig gegensätzlich. | Opinions on this are completely opposed.
+gemeinen | gemein | adjective | common, ordinary (das gemeine Volk: the common people); mean | Das gemeine Volk aß mit den Händen. | The common people ate with their hands.
+geschmacks | der Geschmack | noun (m, genitive) | (of) taste | Das ist eine Frage des Geschmacks. | That is a matter of taste.
+herausbildeten | herausbilden | verb (past, they) | (sich herausbilden) developed, took shape | Im Mittelalter bildeten sich neue Sitten heraus. | New customs developed in the Middle Ages.
+höfen | der Hof | noun (m, pl., dative) | (royal) courts; farms; courtyards | An den Höfen Europas entstanden feine Tischsitten. | Refined table manners arose at the courts of Europe.
+idealistische | idealistisch | adjective | idealistic; idealist (in philosophy) | Die idealistische Philosophie betonte den Geist. | Idealist philosophy emphasised the mind.
+innovation | die Innovation | noun (f) | innovation | Ohne Innovation gibt es keinen Fortschritt. | There is no progress without innovation.
+kennzahl | die Kennzahl | noun (f) | key figure, indicator, metric | Der Umsatz ist die wichtigste Kennzahl des Unternehmens. | Turnover is the company's most important metric.
+klimaziele | das Klimaziel | noun (n, pl.) | climate targets | Deutschland will seine Klimaziele bis 2045 erreichen. | Germany wants to meet its climate targets by 2045.
+kommentatoren | der Kommentator | noun (m, pl.) | commentators | Die Kommentatoren waren sich nicht einig. | The commentators did not agree.
+kongress | der Kongress | noun (m) | congress, conference | Der Bericht wurde dem Kongress vorgelegt. | The report was presented to Congress.
+kuznets | Kuznets | proper noun | Simon Kuznets (1901–1985), economist who developed national income accounting | Kuznets erhielt 1971 den Wirtschaftsnobelpreis. | Kuznets received the Nobel Prize in Economics in 1971.
+lebenswert | lebenswert | adjective | worth living, liveable | Grünflächen machen eine Stadt lebenswert. | Green spaces make a city liveable.
+messung | die Messung | noun (f) | measurement | Die Messung ergab einen zu hohen Wert. | The measurement showed a value that was too high.
+nachahmte | nachahmen | verb (past) | imitated, copied | Das Bürgertum ahmte die Sitten des Adels nach. | The middle classes imitated the customs of the nobility.
+nation | die Nation | noun (f) | nation | Die Rede richtete sich an die ganze Nation. | The speech was addressed to the whole nation.
+nieder | nieder | adverb (separable prefix) | down (sich niederschlagen in: to be reflected in) | Das schlägt sich in keiner Statistik nieder. | That is not reflected in any statistics.
+norbert | Norbert | proper noun | Norbert (first name); Norbert Elias (1897–1990), sociologist | Norbert Elias schrieb über den Prozess der Zivilisation. | Norbert Elias wrote about the civilising process.
+of | of | English | of (English, in names like "Club of Rome") | Der Club of Rome wurde 1968 gegründet. | The Club of Rome was founded in 1968.
+physiologischen | physiologisch | adjective | physiological | Hunger ist zunächst ein physiologischer Vorgang. | Hunger is first of all a physiological process.
+postwachstumsökonomie | die Postwachstumsökonomie | noun (f) | post-growth economics, degrowth economy | Die Postwachstumsökonomie stellt das Wachstum grundsätzlich infrage. | Post-growth economics questions growth on principle.
+reichsten | reich | adjective (superlative) | richest | Das Essen ist eines der reichsten Felder der Kultur. | Food is one of the richest fields of culture.
+reinen | rein | adjective | pure; mere | Das ist eine Frage der reinen Vernunft. | That is a question of pure reason.
+ressourcenverbrauch | der Ressourcenverbrauch | noun (m) | resource consumption | Der Ressourcenverbrauch muss deutlich sinken. | Resource consumption has to fall significantly.
+rezension | die Rezension | noun (f) | review (of a book, film etc.) | Die Rezension in der Zeitung war sehr positiv. | The review in the newspaper was very positive.
+rome | Rome | proper noun | Rome (English; in "Club of Rome") | Der Club of Rome warnte vor den Grenzen des Wachstums. | The Club of Rome warned of the limits to growth.
+sachlichkeit | die Sachlichkeit | noun (f) | objectivity, matter-of-factness | Die Diskussion verlor schnell an Sachlichkeit. | The discussion quickly lost its objectivity.
+schlachtfeld | das Schlachtfeld | noun (n) | battlefield | Der Esstisch wurde zum Schlachtfeld. | The dinner table became a battlefield.
+selbstverständliche | selbstverständlich | adjective | self-evident, taken for granted | Was heute selbstverständlich ist, war früher ein Privileg. | What is taken for granted today used to be a privilege.
+selbstzweck | der Selbstzweck | noun (m) | end in itself | Sparen darf kein Selbstzweck sein. | Saving must not be an end in itself.
+stagniert | stagnieren | verb | (he/she/it) stagnates | Die Wirtschaft stagniert seit Monaten. | The economy has been stagnating for months.
+steigert | steigern | verb | (he/she/it) increases, raises | Das neue Verfahren steigert die Produktion. | The new process increases production.
+unbegrenztes | unbegrenzt | adjective | unlimited | Unbegrenztes Wachstum ist auf einem begrenzten Planeten unmöglich. | Unlimited growth is impossible on a finite planet.
+urheber | der Urheber | noun (m) | author, originator, creator | Der Urheber des Zitats ist unbekannt. | The author of the quotation is unknown.
+verhandelten | verhandeln | verb (past participle as adjective) | negotiated; discussed, at issue | Die verhandelten Summen waren gering. | The sums at issue were small.
+verkehrsunfall | der Verkehrsunfall | noun (m) | road accident, traffic accident | Bei dem Verkehrsunfall wurde niemand verletzt. | Nobody was injured in the road accident.
+verwunderlich | verwunderlich | adjective | surprising, strange | Es ist nicht verwunderlich, dass er müde ist. | It's not surprising that he is tired.
+vierteljährliche | vierteljährlich | adjective | quarterly | Die vierteljährliche Statistik erscheint morgen. | The quarterly statistics come out tomorrow.
+volkseinkommens | das Volkseinkommen | noun (n, genitive) | (of) national income | Kuznets entwickelte die Messung des Volkseinkommens. | Kuznets developed the measurement of national income.
+volkswirtschaft | die Volkswirtschaft | noun (f) | national economy; economics | Die deutsche Volkswirtschaft ist stark vom Export abhängig. | The German economy depends heavily on exports.
+vollziehe | vollziehen | verb (Konjunktiv I) | (sich vollziehen) takes place, happens (in reported speech) | Kritiker sagen, der Wandel vollziehe sich zu langsam. | Critics say the change is happening too slowly.
+vorlegte | vorlegen | verb (past) | presented, submitted | Die Kommission legte 1972 ihren Bericht vor. | The commission presented its report in 1972.
+wachstumsrate | die Wachstumsrate | noun (f) | growth rate | Die Wachstumsrate lag bei 0,3 Prozent. | The growth rate was 0.3 per cent.
+wachstumszwang | der Wachstumszwang | noun (m) | compulsion to grow, growth imperative | Kritiker wollen den Wachstumszwang überwinden. | Critics want to overcome the growth imperative.
+wegwerfprodukte | das Wegwerfprodukt | noun (n, pl.) | disposable products, throwaway goods | Wegwerfprodukte aus Plastik sind in der EU teilweise verboten. | Some disposable plastic products are banned in the EU.
+werbeplakate | das Werbeplakat | noun (n, pl.) | advertising posters, billboards | In der U-Bahn hängen überall Werbeplakate. | There are advertising posters everywhere in the underground.
+wortspiel | das Wortspiel | noun (n) | pun, play on words | Der Titel ist ein Wortspiel. | The title is a pun.
+zehntelprozent | das Zehntelprozent | noun (n, sg./pl.) | tenth(s) of a per cent | Die Wirtschaft wuchs nur um wenige Zehntelprozent. | The economy grew by only a few tenths of a per cent.
+ziert | zieren | verb | (he/she/it) adorns, decorates | Ein altes Wappen ziert das Tor. | An old coat of arms adorns the gate.
+zulegt | zulegen | verb | (he/she/it) grows, increases, gains (separable: legt … zu) | Die Wirtschaft legt wieder zu. | The economy is growing again.
+angenehm | angenehm | adjective | pleasant, agreeable | Das Wetter ist heute sehr angenehm. | The weather is very pleasant today.
+augenblick | der Augenblick | noun (m) | moment, instant | Im Augenblick habe ich keine Zeit. | At the moment I have no time.
+augustinus | Augustinus | proper noun | Augustine of Hippo (354–430), philosopher and Church Father | Augustinus schrieb die „Bekenntnisse“ um das Jahr 400. | Augustine wrote the "Confessions" around the year 400.
+bekenntnissen | das Bekenntnis | noun (n, pl. dat.) | confessions (here: Augustine's "Confessions") | In seinen Bekenntnissen denkt Augustinus über die Zeit nach. | In his Confessions Augustine reflects on time.
+berges | der Berg | noun (m, gen.) | (of the) mountain | Auf dem Gipfel des Berges lag Schnee. | There was snow on the summit of the mountain.
+bestünde | bestehen | verb (Konjunktiv II) | would consist, would lie (in) | Die Lösung bestünde darin, weniger zu arbeiten. | The solution would be to work less.
+bezweifelt | bezweifeln | verb (participle) | doubted | Das darf bezweifelt werden. | That is open to doubt.
+dehnt | dehnen | verb | stretches, extends | Im Warten dehnt sich jede Minute. | When you wait, every minute stretches out.
+diagramm | das Diagramm | noun (n) | chart, diagram | Das Diagramm zeigt die Entwicklung seit 2010. | The chart shows the development since 2010.
+dingfest | dingfest | adjective | (only in "dingfest machen") to pin down; to arrest | Die Polizei konnte den Täter dingfest machen. | The police were able to arrest the culprit.
+ereignet | ereignen | verb | (sich ereignen) happens, occurs | Hier ereignet sich selten etwas. | Rarely does anything happen here.
+erstmaligkeit | die Erstmaligkeit | noun (f) | the quality of happening for the first time, novelty | Die Kindheit ist eine Zeit der Erstmaligkeit. | Childhood is a time of first experiences.
+exakt | exakt | adjective / adverb | exact; exactly | Der Zug kam exakt um acht Uhr. | The train arrived at exactly eight.
+feineren | fein | adjective (comparative) | finer, more precise | Wir brauchen feinere Methoden. | We need more precise methods.
+fragenden | fragend | adjective (participle as noun) | (to) the one who asks, questioner | Er gab dem Fragenden keine Antwort. | He gave the questioner no answer.
+fremdheit | die Fremdheit | noun (f) | strangeness, foreignness | Sie spürte eine seltsame Fremdheit in der alten Heimat. | She felt a strange sense of alienation in her old home.
+gemessene | messen | verb (participle as adj.) | measured | Die gemessene Temperatur war zu hoch. | The measured temperature was too high.
+gleichförmig | gleichförmig | adjective | uniform, monotonous | Die Tage verliefen gleichförmig. | The days passed uniformly.
+gleichförmigkeit | die Gleichförmigkeit | noun (f) | uniformity, sameness | Die Gleichförmigkeit des Alltags ermüdet ihn. | The sameness of everyday life wears him out.
+gültigkeit | die Gültigkeit | noun (f) | validity | Der Satz hat bis heute nichts von seiner Gültigkeit verloren. | The sentence has lost none of its validity to this day.
+klagt | klagen | verb | complains; (law) sues | Er klagt ständig über das Wetter. | He constantly complains about the weather.
+messungen | die Messung | noun (f, pl.) | measurements | Die Messungen zeigen einen klaren Trend. | The measurements show a clear trend.
+näherbringt | näherbringen | verb | brings closer (to) | Ein guter Lehrer ist einer, der uns die Sprache näherbringt. | A good teacher is one who brings the language closer to us.
+ratlosigkeit | die Ratlosigkeit | noun (f) | perplexity, helplessness | Nach dem Gespräch blieb eine gewisse Ratlosigkeit. | After the conversation a certain perplexity remained.
+sechzehnhundert | sechzehnhundert | number | sixteen hundred | Das Kloster ist über sechzehnhundert Jahre alt. | The monastery is over sixteen hundred years old.
+teilbar | teilbar | adjective | divisible | Zehn ist durch zwei teilbar. | Ten is divisible by two.
+vergehe | vergehen | verb (Konjunktiv I) | passes, goes by (in reported speech) | Sie sagt, die Zeit vergehe zu schnell. | She says time goes by too quickly.
+vermessen | vermessen | verb (infinitive / participle) | to measure (precisely); measured | Das Grundstück wurde neu vermessen. | The plot was measured again.
+vertreiben | vertreiben | verb | to drive away; (sich die Zeit vertreiben) to pass the time | Wir vertreiben uns die Zeit mit Kartenspielen. | We pass the time playing cards.
+währt | währen | verb | lasts (formal) | Ehrlich währt am längsten. | Honesty is the best policy (lit. honesty lasts longest).
+zusammenschnurren | zusammenschnurren | verb | to shrink, dwindle (colloquial, figurative) | Im Rückblick schnurren die Jahre zusammen. | Looking back, the years seem to shrink.
+überdecken | überdecken | verb | to cover up, mask | Der Duft soll den Geruch überdecken. | The scent is meant to mask the smell.
+abhandenkommen | abhandenkommen | verb | to go missing, get lost | Mir ist mein Schlüssel abhandengekommen. | My key has gone missing.
+abschweifen | abschweifen | verb | to wander (attention), digress | Während des Vortrags schweiften meine Gedanken ab. | During the lecture my thoughts wandered.
+angeht | angehen | verb | concerns (was uns angeht = what concerns us); tackles | Das geht dich nichts an. | That's none of your business.
+anmuten | anmuten | verb | to seem, strike as (kühn anmuten = to seem bold) | Die Idee mag heute seltsam anmuten. | The idea may seem strange today.
+beachtung | die Beachtung | noun (f) | attention, notice, regard | Das Buch fand kaum Beachtung. | The book received little attention.
+bewirtschaften | bewirtschaften | verb | to manage (a resource), farm, run | Der Hof wird seit Generationen von derselben Familie bewirtschaftet. | The farm has been run by the same family for generations.
+entsagen | entsagen | verb | to renounce, give up (+ dative) | Er hat dem Alkohol entsagt. | He has given up alcohol.
+fasten | das Fasten | noun (n) | fasting (digitales Fasten = digital detox) | Viele verzichten in der Fastenzeit auf Süßes. | Many people give up sweets during Lent.
+fesselt | fesseln | verb | grips, captivates; ties up | Der Roman fesselt mich von der ersten Seite an. | The novel grips me from the first page.
+festzuhalten | festhalten | verb (zu-infinitive) | to hold (on to), capture | Es ist schwer, die Aufmerksamkeit der Kinder festzuhalten. | It's hard to hold the children's attention.
+franck | Franck | proper noun | Franck (surname; Georg Franck, German architect and urban planner, author of "Ökonomie der Aufmerksamkeit", 1998) | Georg Franck lehrte in Wien. | Georg Franck taught in Vienna.
+offensichtlichen | offensichtlich | adjective | obvious (das Offensichtliche = the obvious) | Manchmal übersieht man das Offensichtliche. | Sometimes you overlook the obvious.
+raffinesse | die Raffinesse | noun (f) | sophistication, ingenuity | Das Gericht ist mit großer Raffinesse zubereitet. | The dish is prepared with great sophistication.
+rationieren | rationieren | verb | to ration | Im Krieg wurden Lebensmittel rationiert. | Food was rationed during the war.
+selbstverständnis | das Selbstverständnis | noun (n) | self-image, sense of identity | Das Selbstverständnis der Partei hat sich verändert. | The party's sense of identity has changed.
+startende | starten | verb (present participle as adjective) | starting (automatisch startende Folge = auto-playing episode) | Die automatisch startenden Videos stören mich. | The auto-playing videos annoy me.
+verschiebung | die Verschiebung | noun (f) | shift; postponement | Es gab eine Verschiebung der Prioritäten. | There was a shift in priorities.
+vierteljahrhundert | das Vierteljahrhundert | noun (n) | quarter of a century | Er lebt seit einem Vierteljahrhundert in Berlin. | He has lived in Berlin for a quarter of a century.
+weiterscrollen | das Weiterscrollen | noun (n) | scrolling on (endloses Weiterscrollen = endless scrolling) | Das endlose Weiterscrollen kostet viel Zeit. | Endless scrolling costs a lot of time.

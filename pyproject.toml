@@ -1,0 +1,44 @@
+[project]
+name = "sprach-up"
+version = "1.0.0"
+description = "Graded German stories from A1 to C2: tap any word to see its meaning and an example."
+requires-python = ">=3.10"
+dependencies = ["flet==1.0.4", "flet-word-wallpaper"]
+
+[tool.flet]
+product = "Sprach Up"
+org = "com.sprachup"
+company = "Sprach Up"
+copyright = "Copyright (C) 2026 Sprach Up"
+
+# The word wallpaper's Android code is a local Flet extension, installed from this folder
+# into the build only (not into your global Python).
+[tool.flet.dev_packages]
+flet-word-wallpaper = "extensions/flet_word_wallpaper"
+
+[tool.flet.app]
+path = "."
+module = "main"
+# Work files that are not part of the app. Hidden folders (.git, .deps, ...) and
+# __pycache__ are left out automatically.
+exclude = [
+    "README.md",
+    "communication.md",
+    "requirements.txt",
+    "tools",
+    "server",
+    "accounts.db",
+    "extensions",
+    "tool.py",
+    "b1_batch1.json", "b1_batch2.json", "b1_batch3.json", "b1_batch4.json",
+    "b1_batch5.json", "b1_batch6.json", "b1_batch7.json", "b1_batch8.json",
+    "d1.txt", "d2.txt", "d3.txt", "d4.txt", "d5.txt", "d6.txt", "d7.txt", "d8.txt",
+]
+
+[tool.flet.splash]
+# Light grey shown by Android/iOS for the moment before the app has loaded.
+color = "#E1E1E1"
+dark_color = "#E1E1E1"
+
+[tool.flet.android]
+adaptive_icon_background = "#ECECEC"

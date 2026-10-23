@@ -1,0 +1,20 @@
+name: flet_word_wallpaper
+description: "Flet extension: an Android live wallpaper and home-screen widget that show German word cards."
+version: 0.1.0
+publish_to: none
+
+environment:
+  sdk: ">=3.1.5 <4.0.0"
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flet: 1.0.4
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.sprachup.flet_word_wallpaper
+        pluginClass: FletWordWallpaperPlugin

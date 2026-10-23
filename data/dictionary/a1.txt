@@ -1404,3 +1404,14 @@ lindenstraße | die Lindenstraße | proper noun | Lindenstraße (street name, li
 geld | das Geld | noun (n) | money | Ich habe kein Geld. | I have no money.
 schachtel | die Schachtel | noun (f) | box (small, cardboard) | Eine Schachtel Pralinen, bitte. | A box of chocolates, please.
 pralinen | die Praline | noun (f, pl.) | chocolates (filled) | Sie isst gern Pralinen. | She likes eating chocolates.
+
+# a1-102 Ein Paket abholen
+abholen | abholen | verb | to pick up, collect | Ich hole dich um acht Uhr ab. | I'll pick you up at eight.
+filiale | die Filiale | noun (f) | branch (of a bank, the post office, a shop) | Die Filiale ist am Samstag geschlossen. | The branch is closed on Saturday.
+hamdan | Hamdan | proper noun | Hamdan (surname) | Herr Hamdan arbeitet in einem Hotel. | Mr Hamdan works in a hotel.
+meldebescheinigung | die Meldebescheinigung | noun (f) | registration certificate (proof of address from the citizens' office) | Für das Konto brauchen Sie eine Meldebescheinigung. | You need a registration certificate for the account.
+pin | die PIN | noun (f) | PIN (personal identification number) | Bitte geben Sie Ihre PIN ein. | Please enter your PIN.
+telefonnummer | die Telefonnummer | noun (f) | telephone number | Wie ist Ihre Telefonnummer? | What is your telephone number?
+nummer | die Nummer | noun (f) | number (e.g. phone number, house number) | Kannst du mir deine Nummer geben? | Can you give me your number?
+klickt | klicken | verb | clicks | Sie klickt auf den Link. | She clicks on the link.
+code | der Code | noun (m) | code | Ich habe den Code per SMS bekommen. | I got the code by text message.

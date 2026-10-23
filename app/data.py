@@ -1,6 +1,7 @@
 """Loading stories and the dictionary from the data/ folder."""
 
 import json
+import math
 import re
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -44,6 +45,7 @@ class Story:
     paragraphs: list[str]
     # Optional per-story overrides, same shape as dictionary entries.
     glossary: dict[str, Entry] = field(default_factory=dict)
+    topics: list[str] = field(default_factory=list)  # keys from app/topics.py
 
     @property
     def word_count(self) -> int:
@@ -124,6 +126,7 @@ def load_stories() -> dict[str, list[Story]]:
                     summary_en=d.get("summary_en", ""),
                     paragraphs=d["paragraphs"],
                     glossary=glossary,
+                    topics=d.get("topics", []),
                 )
             )
     return by_level
@@ -138,6 +141,15 @@ def fold(text: str) -> str:
     return text.lower().translate(_FOLD)
 
 
+KEY_WORD_CLASSES = ("noun", "verb", "adjective")
+_NOTE = re.compile(r"\s*\(.*?\)")
+
+
+def lemma_key(entry: Entry) -> str:
+    """'die Wohnung (WG)', 'Wohnung' and 'wohnung' all group as 'wohnung'."""
+    return _LEMMA_PREFIX.sub("", _NOTE.sub("", entry.lemma or entry.word).strip().lower())
+
+
 class Library:
     def __init__(self):
         self.stories = load_stories()
@@ -145,6 +157,9 @@ class Library:
         self._by_id = {s.id: s for lst in self.stories.values() for s in lst}
         self._search_index: list[tuple[str, str, str, Entry]] | None = None
         self._word_stories: dict[str, list[Story]] | None = None
+        self._story_lemmas: dict[str, dict[str, Entry]] | None = None
+        self._common: set[str] | None = None
+        self._topic_words: dict[tuple[str, str], list[tuple[Entry, list[Story]]]] = {}
 
     def get_story(self, story_id: str) -> Story | None:
         return self._by_id.get(story_id)
@@ -195,3 +210,70 @@ class Library:
                             if not found or found[-1] is not story:
                                 found.append(story)
         return self._word_stories.get(word.lower(), [])
+
+    def topic_stories(self, topic: str, level: str = "ALL") -> list[Story]:
+        levels = LEVELS if level == "ALL" else [level]
+        return [s for lvl in levels for s in self.stories[lvl] if topic in s.topics]
+
+    def _lemmas(self, story: Story) -> dict[str, Entry]:
+        """Content words of a story (nouns, verbs, adjectives), one entry per base form."""
+        if self._story_lemmas is None:
+            self._story_lemmas = {}
+        if story.id not in self._story_lemmas:
+            found: dict[str, Entry] = {}
+            for para in story.paragraphs:
+                for w in WORD_RE.findall(para):
+                    entry = self.lookup(w, story)
+                    if entry is None or not entry.pos.startswith(KEY_WORD_CLASSES):
+                        continue
+                    key = lemma_key(entry)
+                    # Prefer the base form's own entry ("Wohnung" over "Wohnungen").
+                    base = self.dictionary.get(key)
+                    if base is not None and lemma_key(base) == key:
+                        entry = base
+                    found.setdefault(key, entry)
+            self._story_lemmas[story.id] = found
+        return self._story_lemmas[story.id]
+
+    def _common_lemmas(self, share: float = 0.1) -> set[str]:
+        """Base forms used in more than `share` of all stories (machen, gut, die Zeit)."""
+        if self._common is None:
+            stories = list(self._by_id.values())
+            df: dict[str, int] = {}
+            for s in stories:
+                for key in self._lemmas(s):
+                    df[key] = df.get(key, 0) + 1
+            self._common = {k for k, n in df.items() if n > share * len(stories)}
+        return self._common
+
+    def topic_words(
+        self, topic: str, level: str = "ALL", limit: int = 50
+    ) -> list[tuple[Entry, list[Story]]]:
+        """Key words of a topic: base forms that turn up in its stories far more often
+        than in the other stories of the same level(s). Each comes with those stories."""
+        cache_key = (topic, level)
+        if cache_key not in self._topic_words:
+            levels = LEVELS if level == "ALL" else [level]
+            scope = [s for lvl in levels for s in self.stories[lvl]]
+            in_topic = [s for s in scope if topic in s.topics]
+            df: dict[str, int] = {}
+            for s in scope:
+                for key in self._lemmas(s):
+                    df[key] = df.get(key, 0) + 1
+            hits: dict[str, tuple[Entry, list[Story]]] = {}
+            for s in in_topic:
+                for key, entry in self._lemmas(s).items():
+                    hits.setdefault(key, (entry, []))[1].append(s)
+            min_hits = 2 if len(in_topic) >= 6 else 1
+            common = self._common_lemmas()
+            ranked = []
+            for key, (entry, stories) in hits.items():
+                if key in common or "/" in entry.lemma or ";" in entry.lemma:
+                    continue  # everyday words, and entries that bundle two words
+                a = len(stories)
+                lift = (a / len(in_topic)) / (df[key] / len(scope))
+                if a >= min_hits and lift >= 2.5:
+                    ranked.append((a * math.log(lift), key, entry, stories))
+            ranked.sort(key=lambda t: (-t[0], t[1]))
+            self._topic_words[cache_key] = [(e, st) for _, _, e, st in ranked[:limit]]
+        return self._topic_words[cache_key]

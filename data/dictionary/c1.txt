@@ -3763,3 +3763,139 @@ pauschal | pauschal | adjective / adverb | across the board, in general terms; f
 abschlusses | der Abschluss | noun (m), genitive | of the degree/qualification | Nach Erhalt des Abschlusses suchte er eine Stelle. | After receiving his degree he looked for a job.
 prestigegründen | der Prestigegrund | noun (m), dative plural | reasons of prestige | Er kaufte das teure Auto aus Prestigegründen. | He bought the expensive car for reasons of prestige.
 einschreibt | sich einschreiben | verb | enrols, registers | Wer sich bis Ende Juli einschreibt, kann im Oktober anfangen. | Anyone who enrols by the end of July can start in October.
+
+# c1-102 Volksfest oder Großveranstaltung? Das Oktoberfest
+alkoholvergiftungen | die Alkoholvergiftung | noun (f, pl.) | cases of alcohol poisoning | Am Wochenende gab es mehrere Alkoholvergiftungen. | There were several cases of alcohol poisoning at the weekend.
+alljährlichen | alljährlich | adjective | annual, yearly (recurring every year) | Der alljährliche Weihnachtsmarkt öffnet Ende November. | The annual Christmas market opens at the end of November.
+angepasst | anpassen | verb (participle) | adapted, adjusted | Die Preise wurden an die Inflation angepasst. | The prices were adjusted for inflation.
+anwohnerinnen | die Anwohnerin | noun (f, pl.) | (female) residents (of a street or area) | Die Anwohnerinnen beschwerten sich über den Lärm. | The residents complained about the noise.
+ausverkauf | der Ausverkauf | noun (m) | sell-off, clearance sale; selling out (of values) | Kritiker sprechen von einem Ausverkauf der Kultur. | Critics speak of a selling-out of culture.
+bayerische | bayerisch | adjective | Bavarian | Die bayerische Küche ist sehr deftig. | Bavarian cuisine is very hearty.
+besucherinnen | die Besucherin | noun (f, pl.) | (female) visitors | Die Ausstellung lockte viele Besucherinnen und Besucher an. | The exhibition attracted many visitors.
+beziffern | beziffern | verb | to put a figure on, estimate (at) | Den Schaden beziffert die Versicherung auf zwei Millionen Euro. | The insurer puts the damage at two million euros.
+brauchtum | das Brauchtum | noun (n) | customs, traditions (as a whole) | Im Dorf wird das alte Brauchtum gepflegt. | The old customs are kept alive in the village.
+braut | die Braut | noun (f) | bride | Die Braut trug ein langes weißes Kleid. | The bride wore a long white dress.
+einmaligen | einmalig | adjective | one-off, single; unique | Das war eine einmalige Gelegenheit. | That was a unique opportunity.
+fahrgeschäften | das Fahrgeschäft | noun (n, dative pl.) | (fairground) rides | Auf dem Rummel gibt es viele Fahrgeschäfte. | There are lots of rides at the funfair.
+fortführung | die Fortführung | noun (f) | continuation | Die Fortführung des Projekts ist gesichert. | The continuation of the project is secured.
+gastronomie | die Gastronomie | noun (f) | catering and restaurant trade, hospitality | Viele Studierende jobben in der Gastronomie. | Many students have jobs in the restaurant trade.
+globales | global | adjective | global (neuter: ein globales) | Der Klimawandel ist ein globales Problem. | Climate change is a global problem.
+heimatfest | das Heimatfest | noun (n) | local festival, homeland festival | Jeden Sommer feiert die Stadt ihr Heimatfest. | Every summer the town celebrates its local festival.
+hotels | das Hotel | noun (n, pl.) | hotels | In der Messewoche sind alle Hotels ausgebucht. | During the trade-fair week all hotels are fully booked.
+kronprinz | der Kronprinz | noun (m) | crown prince | Der Kronprinz wurde später König. | The crown prince later became king.
+kulisse | die Kulisse | noun (f) | backdrop, scenery; setting | Die Altstadt ist eine schöne Kulisse für Filme. | The old town is a beautiful backdrop for films.
+markenprodukt | das Markenprodukt | noun (n) | branded product, brand | Das Fest ist längst ein Markenprodukt geworden. | The festival has long since become a brand.
+milliarde | die Milliarde | noun (f) | billion (1,000,000,000) | Das Projekt kostet eine Milliarde Euro. | The project costs a billion euros.
+münchens | München | proper noun (genitive) | Munich's, of Munich | Die Innenstadt Münchens ist teuer. | Munich's city centre is expensive.
+oide | oid (Bavarian for alt) | adjective (dialect) | old (Bavarian; die Oide Wiesn = the old-style Oktoberfest area) | Auf der Oiden Wiesn gibt es historische Karussells. | At the Oide Wiesn there are historic carousels.
+oktoberfests | das Oktoberfest | noun (n, genitive) | (of the) Oktoberfest | Die Geschichte des Oktoberfests beginnt 1810. | The history of the Oktoberfest begins in 1810.
+partyschlager | der Partyschlager | noun (m, pl.) | party hits, sing-along pop songs | Im Bierzelt laufen nur Partyschlager. | Only party hits are played in the beer tent.
+pferderennen | das Pferderennen | noun (n) | horse race | Das Pferderennen findet jedes Jahr im Herbst statt. | The horse race takes place every autumn.
+prinzessin | die Prinzessin | noun (f) | princess | Die Prinzessin heiratete einen Kronprinzen. | The princess married a crown prince.
+ranges | der Rang | noun (m, genitive) | (of) rank; ersten Ranges = first-rate, of the first order | Das ist ein Problem ersten Ranges. | That is a problem of the first order.
+sachsen-hildburghausen | Sachsen-Hildburghausen | proper noun | Saxe-Hildburghausen (a former German duchy) | Therese stammte aus Sachsen-Hildburghausen. | Therese came from Saxe-Hildburghausen.
+schützenzug | der Schützenzug | noun (m) | marksmen's parade (part of the Trachten- und Schützenzug) | Der Schützenzug zieht durch die Innenstadt. | The marksmen's parade passes through the city centre.
+spannungsverhältnis | das Spannungsverhältnis | noun (n) | tension, field of tension (between two things) | Es besteht ein Spannungsverhältnis zwischen Freiheit und Sicherheit. | There is a tension between freedom and security.
+strömen | strömen | verb | to stream, flock, pour | Nach dem Spiel strömen die Fans aus dem Stadion. | After the match the fans stream out of the stadium.
+therese | Therese | proper noun | Therese (first name) | Therese heiratete 1810 den Kronprinzen. | Therese married the crown prince in 1810.
+theresienwiese | die Theresienwiese | proper noun (f) | Theresienwiese (the Munich fairground where the Oktoberfest takes place) | Das Oktoberfest findet auf der Theresienwiese statt. | The Oktoberfest takes place on the Theresienwiese.
+toren | das Tor | noun (n, dative pl.) | gates; vor den Toren der Stadt = just outside the city | Das Schloss liegt vor den Toren der Stadt. | The palace lies just outside the city.
+trachten | die Tracht | noun (f, pl.) | traditional costumes (e.g. Dirndl, Lederhose) | Viele Gäste tragen Trachten. | Many guests wear traditional costume.
+unaufhaltsam | unaufhaltsam | adjective / adverb | unstoppable, inexorably | Die Mieten steigen unaufhaltsam. | Rents are rising inexorably.
+unveränderlich | unveränderlich | adjective | unchangeable, fixed | Naturgesetze gelten als unveränderlich. | Laws of nature are considered unchangeable.
+verkehrsbetriebe | die Verkehrsbetriebe | noun (pl.) | public transport company | Die Verkehrsbetriebe setzen mehr Busse ein. | The transport company is putting on more buses.
+verkommen | verkommen | verb | to degenerate, decay, be reduced to | Das Gebäude ist zu einer Ruine verkommen. | The building has decayed into a ruin.
+versandhandel | der Versandhandel | noun (m) | mail-order trade, online retail | Die Schuhe habe ich im Versandhandel bestellt. | I ordered the shoes by mail order.
+volksfest | das Volksfest | noun (n) | funfair, folk festival | Im Sommer gibt es in fast jeder Stadt ein Volksfest. | In summer almost every town has a folk festival.
+wiesn | die Wiesn | proper noun (f) | the Wiesn (Munich nickname for the Oktoberfest) | Gehst du dieses Jahr auf die Wiesn? | Are you going to the Oktoberfest this year?
+wiesnwirte | der Wiesnwirt | noun (m, pl.) | Oktoberfest landlords (who run the beer tents) | Die Wiesnwirte ziehen mit Kutschen ein. | The Oktoberfest landlords arrive in horse-drawn carriages.
+wirtschaftsfaktor | der Wirtschaftsfaktor | noun (m) | economic factor, economic force | Der Tourismus ist ein wichtiger Wirtschaftsfaktor. | Tourism is an important economic factor.
+zeitgemäße | zeitgemäß | adjective | modern, up-to-date, in keeping with the times | Wir brauchen eine zeitgemäße Lösung. | We need an up-to-date solution.
+überlagerten | überlagern | verb (Konjunktiv II / past) | overlay, overshadow, eclipse | Die Probleme überlagern alles andere. | The problems overshadow everything else.
+üblichen | üblich | adjective | usual, customary | Wir treffen uns zur üblichen Zeit. | We'll meet at the usual time.
+annahme | die Annahme | noun (f) | assumption; acceptance | Diese Annahme hat sich als falsch erwiesen. | This assumption turned out to be wrong.
+arme-leute-essen | das Arme-Leute-Essen | noun (n) | poor people's food, peasant food | Früher galt die Steckrübe als Arme-Leute-Essen. | The swede used to be considered poor people's food.
+aufweisen | aufweisen | verb | to show, exhibit, have (a feature) | Das Produkt kann eine bessere Bilanz aufweisen. | The product can show a better balance.
+auskommen | das Auskommen | noun (n) | livelihood, (adequate) income | Die Bauern brauchen ein sicheres Auskommen. | The farmers need a secure livelihood.
+auszeichnungen | die Auszeichnung | noun (f, pl.) | awards, distinctions | Das Restaurant hat mehrere Auszeichnungen erhalten. | The restaurant has received several awards.
+bedacht | bedenken | verb (past participle) | (mit etwas bedacht werden) to be awarded/given something; considered | Die Köchin wurde mit einem Preis bedacht. | The chef was given an award.
+beständigkeit | die Beständigkeit | noun (f) | constancy, stability, permanence | In unsicheren Zeiten sehnen sich viele nach Beständigkeit. | In uncertain times many people long for stability.
+beweggründe | der Beweggrund | noun (m, pl.) | motives, reasons | Die Beweggründe für seine Entscheidung sind unklar. | The motives behind his decision are unclear.
+erzeugung | die Erzeugung | noun (f) | production, generation | Die Erzeugung von Fleisch verbraucht viel Wasser. | The production of meat uses a lot of water.
+gehobener | gehoben | adjective | upscale, high-end; elevated | Sie arbeitet als Köchin in der gehobenen Gastronomie. | She works as a chef in upscale restaurants.
+hinzusehen | hinsehen | verb (zu-infinitive) | to look (closely) (separable: hinzusehen) | Man muss genau hinsehen, um den Unterschied zu erkennen. | You have to look closely to see the difference.
+kartoffelsorten | die Kartoffelsorte | noun (f, pl.) | potato varieties | Auf dem Markt gibt es viele alte Kartoffelsorten. | There are many old potato varieties at the market.
+klangvollen | klangvoll | adjective | sonorous, melodious, evocative | Die Sorten tragen klangvolle Namen. | The varieties have evocative names.
+kühlhaus | das Kühlhaus | noun (n) | cold store, refrigerated warehouse | Die Äpfel lagern bis zum Frühjahr im Kühlhaus. | The apples are stored in a cold store until spring.
+lebensmittels | das Lebensmittel | noun (n, genitive) | (of a) food, foodstuff | Die Klimabilanz eines Lebensmittels hängt von vielen Faktoren ab. | The carbon footprint of a food depends on many factors.
+pflanzlich | pflanzlich | adjective / adverb | plant-based, vegetable | Sie ernährt sich überwiegend pflanzlich. | She eats a mainly plant-based diet.
+pflanzliche | pflanzlich | adjective | plant-based, vegetable | Pflanzliche Produkte haben meist eine bessere Klimabilanz. | Plant-based products usually have a better carbon footprint.
+regionalküche | die Regionalküche | noun (f) | regional cuisine | Die Regionalküche erlebt gerade ein Comeback. | Regional cuisine is currently making a comeback.
+saisonal | saisonal | adjective / adverb | seasonal(ly) | Wer saisonal kocht, nutzt, was gerade wächst. | People who cook seasonally use what is growing at the moment.
+schlechtere | schlecht | adjective (comparative) | worse | Der Apfel aus dem Kühlhaus hat eine schlechtere Bilanz. | The apple from the cold store has a worse balance.
+schonten | schonen | verb (Konjunktiv II / past, they) | (would) protect, spare | Kurze Wege, so heißt es, schonten das Klima. | Short distances, it is said, protect the climate.
+schwarzwurzeln | die Schwarzwurzel | noun (f, pl.) | black salsify (winter root vegetable) | Schwarzwurzeln schmecken ein bisschen wie Spargel. | Black salsify tastes a bit like asparagus.
+sichert | sichern | verb | (he/she/it) secures, safeguards | Der Vertrag sichert den Bauern ein festes Einkommen. | The contract secures a fixed income for the farmers.
+sortenvielfalt | die Sortenvielfalt | noun (f) | variety of cultivars, crop diversity | Alte Gärten erhalten die Sortenvielfalt. | Old gardens preserve the diversity of varieties.
+speisekarten | die Speisekarte | noun (f, pl.) | menus | Viele Speisekarten bieten jetzt vegane Gerichte an. | Many menus now offer vegan dishes.
+steckrüben | die Steckrübe | noun (f, pl.) | swedes, rutabagas | Im Winter gibt es auf dem Markt Steckrüben. | In winter there are swedes at the market.
+transportwege | der Transportweg | noun (m, pl.) | transport routes, distances travelled | Kurze Transportwege sparen Treibstoff. | Short transport distances save fuel.
+unübersichtlich | unübersichtlich | adjective | confusing, hard to keep track of, complex | Die Lage ist sehr unübersichtlich geworden. | The situation has become very confusing.
+wochenmärkten | der Wochenmarkt | noun (m, pl., dative) | weekly markets, farmers' markets | Auf Wochenmärkten kaufen viele Leute frisches Gemüse. | Many people buy fresh vegetables at weekly markets.
+übersee | (aus/nach) Übersee | noun (no article) | overseas | Die Bananen kommen per Schiff aus Übersee. | The bananas come by ship from overseas.
+abfangen | abfangen | verb | to intercept | Die Betrüger wollen die Codes abfangen. | The fraudsters want to intercept the codes.
+bestätigungscode | der Bestätigungscode | noun (m) | confirmation code, verification code | Geben Sie den Bestätigungscode aus der SMS ein. | Enter the verification code from the text message.
+codes | der Code | noun (m, pl.) | codes | Die Codes sind nur zehn Minuten gültig. | The codes are only valid for ten minutes.
+diensten | der Dienst | noun (m, pl. dat.) | services | Viele Menschen sind von digitalen Diensten abhängig. | Many people depend on digital services.
+digitalem | digital | adjective | digital | Die Nummer ist zu einer Art digitalem Ausweis geworden. | The number has become a kind of digital ID.
+entfällt | entfallen | verb | is dropped, no longer applies | Für Mitglieder entfällt die Gebühr. | For members the fee no longer applies.
+faktisch | faktisch | adjective / adverb | de facto, in effect | Ohne Smartphone ist man faktisch ausgeschlossen. | Without a smartphone you are in effect excluded.
+finanziellen | finanziell | adjective | financial | Er hat aus finanziellen Gründen abgesagt. | He cancelled for financial reasons.
+genutzte | nutzen | verb (participle as adj.) | used | Nicht genutzte Nummern werden neu vergeben. | Unused numbers are reassigned.
+handynummer | die Handynummer | noun (f) | mobile phone number | Kannst du mir deine Handynummer schicken? | Can you send me your mobile number?
+konten | das Konto | noun (n, pl.) | accounts | Er hat Konten bei zwei Banken. | He has accounts at two banks.
+lern-app | die Lern-App | noun (f) | learning app | Die Lern-App erinnert mich jeden Abend ans Üben. | The learning app reminds me to practise every evening.
+messenger | der Messenger | noun (m) | messaging app | Wir schreiben uns meistens über den Messenger. | We mostly write to each other via the messaging app.
+messengerdienst | der Messengerdienst | noun (m) | messaging service | Der Code kommt über einen Messengerdienst. | The code arrives via a messaging service.
+mobilfunkanbieter | der Mobilfunkanbieter | noun (m) | mobile network provider | Ich habe meinen Mobilfunkanbieter gewechselt. | I have changed my mobile network provider.
+nummern | die Nummer | noun (f, pl.) | numbers | Alte Nummern werden nach einiger Zeit neu vergeben. | Old numbers are reassigned after a while.
+onlinebanking | das Onlinebanking | noun (n) | online banking | Für das Onlinebanking braucht man eine App. | You need an app for online banking.
+opfers | das Opfer | noun (n, gen.) | (of the) victim | Die Daten des Opfers wurden gestohlen. | The victim's data were stolen.
+passwörtern | das Passwort | noun (n, pl. dat.) | passwords | Mit so vielen Passwörtern verliert man den Überblick. | With so many passwords you lose track.
+praktischer | praktisch | adjective | practical, handy | Das ist ein praktischer Trick. | That is a handy trick.
+senkt | senken | verb | lowers, reduces | Die neue Regel senkt die Kosten. | The new rule lowers the costs.
+sicherheitsexperten | der Sicherheitsexperte | noun (m, pl.) | security experts | Sicherheitsexperten raten zu langen Passwörtern. | Security experts advise using long passwords.
+sim-swapping | das SIM-Swapping | noun (n) | SIM swapping (fraud in which a phone number is moved to a criminal's SIM card) | Beim SIM-Swapping übernehmen Betrüger die Telefonnummer. | In SIM swapping, fraudsters take over the phone number.
+sms | die SMS | noun (f) | text message (SMS) | Ich schicke dir gleich eine SMS. | I'll send you a text in a moment.
+teilhabe | die Teilhabe | noun (f) | participation, inclusion (in society) | Digitale Teilhabe ist heute eine soziale Frage. | Digital inclusion is a social issue today.
+testphasen | die Testphase | noun (f, pl.) | trial periods | Kostenlose Testphasen enden oft unbemerkt. | Free trial periods often end without people noticing.
+vervielfältigen | vervielfältigen | verb | to duplicate, multiply, copy | Ausweise lassen sich nicht einfach vervielfältigen. | ID cards can't simply be duplicated.
+zugestellt | zustellen | verb (participle) | delivered | Der Brief wurde gestern zugestellt. | The letter was delivered yesterday.
+aktivieren | aktivieren | verb | to activate, turn on | Du solltest die automatischen Updates aktivieren. | You should turn on automatic updates.
+anfällig | anfällig | adjective | vulnerable, susceptible (für = to) | Alte Software ist anfällig für Angriffe. | Old software is vulnerable to attacks.
+angreifer | der Angreifer | noun (m, also plural) | attacker | Der Angreifer kannte das Passwort. | The attacker knew the password.
+anmeldeseiten | die Anmeldeseite | noun (f, plural) | login pages, sign-in pages | Gefälschte Anmeldeseiten sehen oft echt aus. | Fake login pages often look real.
+authentifizierungs-apps | die Authentifizierungs-App | noun (f, plural) | authenticator apps | Authentifizierungs-Apps erzeugen alle 30 Sekunden einen neuen Code. | Authenticator apps generate a new code every 30 seconds.
+datenlecks | das Datenleck | noun (n, plural) | data leaks, data breaches | Nach mehreren Datenlecks hat das Unternehmen Kunden verloren. | After several data breaches the company lost customers.
+e-mail-konto | das E-Mail-Konto | noun (n) | email account | Ich habe mein altes E-Mail-Konto gelöscht. | I deleted my old email account.
+erbeutet | erbeuten | verb (past participle) | captured, stolen (as loot) | Die Täter haben Millionen von Passwörtern erbeutet. | The criminals stole millions of passwords.
+fingerabdruck | der Fingerabdruck | noun (m) | fingerprint | Das Handy entsperrt man mit dem Fingerabdruck. | You unlock the phone with your fingerprint.
+gestohlene | stehlen | verb (past participle as adjective) | stolen | Die Polizei hat das gestohlene Fahrrad gefunden. | The police found the stolen bike.
+kundenauthentifizierung | die Kundenauthentifizierung | noun (f) | customer authentication (starke Kundenauthentifizierung = strong customer authentication) | Für Online-Zahlungen ist eine starke Kundenauthentifizierung nötig. | Strong customer authentication is required for online payments.
+kundendaten | die Kundendaten | noun (pl.) | customer data | Kundendaten dürfen nicht ohne Erlaubnis weitergegeben werden. | Customer data may not be passed on without permission.
+leck | das Leck | noun (n) | leak | Das Schiff hatte ein Leck. | The ship had a leak.
+millionenfach | millionenfach | adverb | millions of times, by the million | Das Video wurde millionenfach angeklickt. | The video was clicked millions of times.
+missbrauch | der Missbrauch | noun (m) | misuse, abuse | Die Bank schützt ihre Kunden vor dem Missbrauch ihrer Karten. | The bank protects its customers against misuse of their cards.
+online-zahlungen | die Online-Zahlung | noun (f, plural) | online payments | Für Online-Zahlungen brauche ich eine Bestätigung in der App. | For online payments I need a confirmation in the app.
+phishing-mails | die Phishing-Mail | noun (f, plural) | phishing emails | Klicken Sie nie auf Links in Phishing-Mails. | Never click on links in phishing emails.
+physische | physisch | adjective | physical | Neben dem Passwort braucht man einen physischen Schlüssel. | Besides the password you need a physical key.
+psd | PSD2 | abbreviation | PSD2 (the EU's second Payment Services Directive) | Die PSD2 gilt seit 2019 für Online-Zahlungen in der EU. | PSD2 has applied to online payments in the EU since 2019.
+rufnummer | die Rufnummer | noun (f) | phone number (formal) | Bitte geben Sie Ihre Rufnummer an. | Please give your phone number.
+schikane | die Schikane | noun (f) | harassment, needless hassle | Die vielen Formulare empfinde ich als Schikane. | I find all these forms a needless hassle.
+sicherheitsschlüssel | der Sicherheitsschlüssel | noun (m, also plural) | security key | Für das Firmenkonto braucht man einen Sicherheitsschlüssel. | For the company account you need a security key.
+sim-karte | die SIM-Karte | noun (f) | SIM card | Ich brauche eine neue SIM-Karte für mein Handy. | I need a new SIM card for my phone.
+verlässlich | verlässlich | adjective | reliable, dependable | Der Bus kommt leider nicht verlässlich. | Unfortunately the bus doesn't come reliably.
+wertlos | wertlos | adjective | worthless | Ohne den Schlüssel ist die Karte wertlos. | Without the key the card is worthless.
+wochenlangen | wochenlang | adjective | weeks-long, lasting for weeks | Nach wochenlangen Verhandlungen gab es eine Einigung. | After weeks of negotiations there was an agreement.
+zahlungsdiensterichtlinie | die Zahlungsdiensterichtlinie | noun (f) | Payment Services Directive (EU) | Die Zahlungsdiensterichtlinie regelt Zahlungen in Europa. | The Payment Services Directive regulates payments in Europe.
+zurücksetzen | zurücksetzen | verb | to reset | Ich muss mein Passwort zurücksetzen. | I have to reset my password.

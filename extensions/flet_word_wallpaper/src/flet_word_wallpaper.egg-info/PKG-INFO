@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: flet-word-wallpaper
+Version: 0.1.0
+Summary: Android live wallpaper and home-screen widget that show German word cards.
+Requires-Python: >=3.10
+Requires-Dist: flet==1.0.4

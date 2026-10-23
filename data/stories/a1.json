@@ -1,1117 +1,1526 @@
 [
-  {
-    "id": "a1-001",
-    "title": "Mein Name ist Anna",
-    "title_en": "My name is Anna",
-    "summary_en": "Anna introduces herself and describes her normal day: breakfast, work in a café, dinner with her mother and reading before bed.",
-    "paragraphs": [
-      "Mein Name ist Anna. Ich bin zwanzig Jahre alt und wohne in Berlin. Ich habe einen Bruder. Er heißt Tom. Tom ist zwölf.",
-      "Jeden Morgen trinke ich Kaffee und esse ein Brot mit Käse. Dann fahre ich mit dem Bus zur Arbeit. Ich arbeite in einem Café. Die Arbeit macht Spaß, aber sie ist auch anstrengend.",
-      "Am Abend koche ich mit meiner Mutter. Wir essen zusammen und sprechen über den Tag. Danach lese ich ein Buch. Um zehn Uhr gehe ich ins Bett."
-    ]
-  },
-  {
-    "id": "a1-002",
-    "title": "Im Supermarkt",
-    "title_en": "At the supermarket",
-    "summary_en": "Peter goes shopping on Saturday, can't find the milk, asks a shop assistant for help and pays at the checkout.",
-    "paragraphs": [
-      "Heute ist Samstag. Peter geht in den Supermarkt. Er braucht Milch, Eier, Äpfel und Brot. Der Supermarkt ist nicht weit. Peter geht zu Fuß.",
-      "Im Supermarkt ist es voll. Viele Leute kaufen ein. Peter nimmt einen Korb. Die Äpfel sind rot und frisch. Ein Kilo kostet zwei Euro.",
-      "Peter findet die Milch nicht. Er fragt eine Verkäuferin: „Entschuldigung, wo ist die Milch?“ Die Verkäuferin lächelt: „Dort hinten, links.“ „Danke schön!“, sagt Peter.",
-      "An der Kasse bezahlt er zwölf Euro. Dann geht er nach Hause."
-    ]
-  },
-  {
-    "id": "a1-003",
-    "title": "Meine Familie",
-    "title_en": "My family",
-    "summary_en": "Lukas describes his family: his parents, his little sister Mia, his grandmother and the family dog.",
-    "paragraphs": [
-      "Ich heiße Lukas und ich bin acht Jahre alt. Ich wohne mit meiner Familie in Hamburg. Meine Familie ist nicht groß.",
-      "Mein Vater heißt Jan. Er ist Arzt und arbeitet im Krankenhaus. Meine Mutter heißt Sabine. Sie ist Lehrerin. Ich habe eine Schwester. Sie heißt Mia und ist vier Jahre alt. Mia ist klein, aber sehr laut.",
-      "Meine Oma wohnt auch bei uns. Sie kocht sehr gut. Am Sonntag backt sie immer einen Kuchen. Wir haben auch einen Hund. Er heißt Bello. Ich liebe meine Familie!"
-    ]
-  },
-  {
-    "id": "a1-004",
-    "title": "Die neue Wohnung",
-    "title_en": "The new flat",
-    "summary_en": "Sara has a new flat in Cologne with two rooms, a small kitchen and a balcony. She likes it, although it is on the fourth floor without a lift.",
-    "paragraphs": [
-      "Sara hat eine neue Wohnung in Köln. Die Wohnung hat zwei Zimmer, eine Küche und ein Bad. Sie ist nicht sehr groß, aber hell und schön.",
-      "Im Wohnzimmer stehen ein Sofa, ein Tisch und zwei Stühle. Im Schlafzimmer steht ein Bett. Die Küche ist klein. Dort gibt es einen Kühlschrank und einen Herd.",
-      "Die Wohnung hat auch einen Balkon. Sara trinkt dort gern Tee. Die Wohnung ist im vierten Stock, und es gibt keinen Aufzug. Das ist ein Problem. Aber die Miete ist nicht teuer. Sara ist glücklich."
-    ]
-  },
-  {
-    "id": "a1-005",
-    "title": "Im Café",
-    "title_en": "In the café",
-    "summary_en": "Maria and Paul meet in a café. They order coffee, tea, cake and a sandwich, and Paul pays.",
-    "paragraphs": [
-      "Maria und Paul sind Freunde. Heute treffen sie sich im Café. Das Café ist klein und gemütlich.",
-      "Der Kellner kommt und fragt: „Was möchten Sie trinken?“ Maria sagt: „Ich nehme einen Kaffee mit Milch, bitte.“ Paul möchte einen Tee. „Und möchten Sie auch etwas essen?“ Maria bestellt ein Stück Kuchen. Paul nimmt ein Sandwich mit Schinken.",
-      "Der Kuchen ist sehr lecker. Maria und Paul sprechen lange über die Arbeit und den Urlaub. Dann ruft Paul: „Die Rechnung, bitte!“ Alles kostet vierzehn Euro. Paul bezahlt heute."
-    ]
-  },
-  {
-    "id": "a1-006",
-    "title": "Mein Tag",
-    "title_en": "My day",
-    "summary_en": "Ahmet describes his daily routine as a student: getting up, breakfast, university, lunch in the canteen, the library, football and bed.",
-    "paragraphs": [
-      "Ich heiße Ahmet und bin Student. Ich stehe jeden Tag um sieben Uhr auf. Zuerst dusche ich. Dann frühstücke ich. Ich esse Müsli und trinke Orangensaft.",
-      "Um acht Uhr fahre ich mit der U-Bahn zur Universität. Ich studiere Informatik. Um zwölf Uhr esse ich in der Mensa. Das Essen ist billig.",
-      "Am Nachmittag lerne ich in der Bibliothek. Um fünf Uhr spiele ich mit Freunden Fußball. Am Abend sehe ich fern oder telefoniere mit meiner Familie in der Türkei. Um elf Uhr schlafe ich."
-    ]
-  },
-  {
-    "id": "a1-007",
-    "title": "Das Wetter",
-    "title_en": "The weather",
-    "summary_en": "Emma talks about the weather in each season in Germany and what she likes to do in it. Today it is raining, so she stays at home.",
-    "paragraphs": [
-      "In Deutschland ist das Wetter oft anders. Im Frühling ist es warm, aber es regnet viel. Im Sommer ist es heiß und die Sonne scheint. Dann geht Emma gern schwimmen.",
-      "Im Herbst ist es kühl und windig. Die Blätter sind rot und gelb. Im Winter ist es kalt. Manchmal schneit es. Emma mag den Winter, denn sie fährt gern Ski.",
-      "Heute ist Montag. Es ist grau und es regnet. Emma bleibt zu Hause. Sie trinkt eine heiße Schokolade und liest ein Buch. Morgen kommt vielleicht die Sonne."
-    ]
-  },
-  {
-    "id": "a1-008",
-    "title": "Beim Arzt",
-    "title_en": "At the doctor's",
-    "summary_en": "Mr Weber has a headache, a sore throat and a fever. The doctor says he has a cold, gives him a prescription and tells him to stay at home for three days.",
-    "paragraphs": [
-      "Herr Weber ist krank. Er hat Kopfschmerzen und Halsschmerzen. Er hat auch Fieber. Er ruft beim Arzt an und bekommt einen Termin um zehn Uhr.",
-      "Im Wartezimmer sitzen viele Leute. Herr Weber wartet zwanzig Minuten. Dann sagt die Ärztin: „Herr Weber, bitte!“",
-      "Die Ärztin fragt: „Was fehlt Ihnen?“ Herr Weber sagt: „Mein Kopf tut weh und ich bin sehr müde.“ Die Ärztin sagt: „Sie haben eine Erkältung. Trinken Sie viel Tee und bleiben Sie drei Tage im Bett.“ Sie gibt ihm ein Rezept. Herr Weber geht zur Apotheke."
-    ]
-  },
-  {
-    "id": "a1-009",
-    "title": "Mein Hobby",
-    "title_en": "My hobby",
-    "summary_en": "Lena's hobby is music: she plays the guitar, practises every day and plays in a small band with friends. Her brother prefers computer games.",
-    "paragraphs": [
-      "Lena ist sechzehn Jahre alt. Ihr Hobby ist Musik. Sie spielt Gitarre. Sie übt jeden Tag eine Stunde.",
-      "Am Freitag spielt Lena in einer Band. Die Band hat vier Leute: Lena, Max, Sofia und Jonas. Max spielt Schlagzeug und Sofia singt. Die Band ist nicht berühmt, aber sie spielt manchmal in der Schule.",
-      "Lenas Bruder findet Musik langweilig. Sein Hobby sind Computerspiele. Lena sagt: „Spielen ist okay, aber Musik ist besser!“"
-    ]
-  },
-  {
-    "id": "a1-010",
-    "title": "Der Geburtstag",
-    "title_en": "The birthday",
-    "summary_en": "It is Julia's 30th birthday. She invites friends to a party at home, gets presents and everyone sings and dances until midnight.",
-    "paragraphs": [
-      "Heute hat Julia Geburtstag. Sie wird dreißig Jahre alt. Am Abend macht sie eine Party. Sie lädt zehn Freunde ein.",
-      "Julia kauft Getränke und macht einen Salat. Ihre Freundin Nina bringt eine Torte mit. Um sieben Uhr klingelt es. Die Gäste kommen.",
-      "„Alles Gute zum Geburtstag!“, sagen alle. Julia bekommt viele Geschenke: ein Buch, Blumen und eine Tasche. Sie freut sich sehr. Alle essen, trinken, singen und tanzen. Die Party endet um Mitternacht."
-    ]
-  },
-  {
-    "id": "a1-011",
-    "title": "Mit dem Zug nach München",
-    "title_en": "By train to Munich",
-    "summary_en": "Tim buys a ticket and takes the train from Nuremberg to Munich to visit his friend. The train is ten minutes late, but the journey is pleasant.",
-    "paragraphs": [
-      "Tim wohnt in Nürnberg. Am Wochenende fährt er nach München. Dort wohnt sein Freund Felix.",
-      "Am Bahnhof kauft Tim eine Fahrkarte am Automaten. Die Fahrkarte kostet dreißig Euro. Der Zug fährt um neun Uhr von Gleis vier. Aber heute hat der Zug zehn Minuten Verspätung.",
-      "Im Zug ist es ruhig. Tim sitzt am Fenster und hört Musik. Draußen sieht er Felder, Wälder und kleine Dörfer. Nach einer Stunde ist er in München. Felix wartet schon am Bahnsteig."
-    ]
-  },
-  {
-    "id": "a1-012",
-    "title": "Einkaufen auf dem Markt",
-    "title_en": "Shopping at the market",
-    "summary_en": "On Saturday Mrs Schulz buys fruit, vegetables and flowers at the weekly market. She chats with the seller and gets a free apple.",
-    "paragraphs": [
-      "Jeden Samstag ist Markt in der Stadt. Frau Schulz geht gern dorthin. Das Obst und das Gemüse sind frisch und kommen aus der Region.",
-      "Sie kauft Tomaten, Kartoffeln und eine Gurke. Dann geht sie zum Obststand. „Guten Morgen! Ich hätte gern ein Kilo Äpfel und drei Bananen.“ Der Verkäufer sagt: „Das macht vier Euro fünfzig.“",
-      "Frau Schulz kauft auch Blumen für den Tisch. Der Verkäufer kennt sie gut. Er schenkt ihr einen Apfel. „Schönes Wochenende!“, sagt er. Frau Schulz lacht und geht nach Hause."
-    ]
-  },
-  {
-    "id": "a1-013",
-    "title": "Der erste Schultag",
-    "title_en": "The first day of school",
-    "summary_en": "Six-year-old Ben starts school. He has a school cone full of sweets, meets his teacher and sits next to a boy called Ali, who becomes his friend.",
-    "paragraphs": [
-      "Heute ist ein besonderer Tag. Ben ist sechs Jahre alt und geht zum ersten Mal in die Schule. Er hat einen neuen Rucksack und eine große Schultüte. In der Schultüte sind Süßigkeiten und Stifte.",
-      "Bens Eltern bringen ihn zur Schule. Die Lehrerin heißt Frau Braun. Sie ist sehr nett. Im Klassenzimmer sind zwanzig Kinder.",
-      "Ben sitzt neben einem Jungen. Er heißt Ali. Ali hat auch eine Schultüte. Die beiden Jungen lachen und malen zusammen. Am Mittag sagt Ben: „Mama, Ali ist mein neuer Freund!“"
-    ]
-  },
-  {
-    "id": "a1-014",
-    "title": "Im Restaurant",
-    "title_en": "At the restaurant",
-    "summary_en": "Mr and Mrs Klein eat at an Italian restaurant. They order pizza, pasta and wine, enjoy the food and leave a tip.",
-    "paragraphs": [
-      "Herr und Frau Klein gehen heute Abend ins Restaurant. Es ist ein italienisches Restaurant in der Nähe. Sie haben einen Tisch für zwei Personen reserviert.",
-      "Die Kellnerin bringt die Speisekarte. Frau Klein bestellt eine Pizza mit Pilzen. Herr Klein nimmt Spaghetti mit Tomatensoße. Sie trinken ein Glas Rotwein und eine Flasche Wasser.",
-      "Das Essen schmeckt sehr gut. Zum Nachtisch essen sie ein Eis. Die Rechnung ist achtundvierzig Euro. Herr Klein bezahlt mit Karte und gibt zwei Euro Trinkgeld."
-    ]
-  },
-  {
-    "id": "a1-015",
-    "title": "Wie spät ist es?",
-    "title_en": "What time is it?",
-    "summary_en": "Nora has an appointment at the hairdresser's at half past three, but her phone is dead. She asks a man in the street for the time and arrives just in time.",
-    "paragraphs": [
-      "Nora hat heute um halb vier einen Termin beim Friseur. Sie ist in der Stadt und kauft ein. Aber ihr Handy ist leer, und sie hat keine Uhr.",
-      "Sie fragt einen Mann: „Entschuldigung, wie spät ist es?“ Der Mann sieht auf seine Uhr. „Es ist Viertel nach drei.“ „Oh nein! Vielen Dank!“",
-      "Nora geht schnell. Der Friseur ist zehn Minuten entfernt. Um fünf vor halb vier ist sie da. Die Friseurin lächelt: „Sie sind pünktlich, sehr gut!“"
-    ]
-  },
-  {
-    "id": "a1-016",
-    "title": "Eine neue Jacke",
-    "title_en": "A new jacket",
-    "summary_en": "Leon needs a warm jacket for winter. In the shop the black jacket is too small, so he buys a blue one in size L, which is on sale.",
-    "paragraphs": [
-      "Es ist Oktober und es ist schon kalt. Leon braucht eine warme Jacke. Er geht in ein Kleidergeschäft im Zentrum.",
-      "Eine Verkäuferin hilft ihm. „Welche Größe haben Sie?“ „Ich glaube, M.“ Leon probiert eine schwarze Jacke an. Aber sie ist zu klein. „Haben Sie die Jacke auch in L?“ „Leider nein. Aber wir haben eine blaue Jacke in L.“",
-      "Die blaue Jacke passt gut. Sie kostet neunzig Euro, aber heute gibt es zwanzig Prozent Rabatt. Leon ist zufrieden und kauft die Jacke."
-    ]
-  },
-  {
-    "id": "a1-017",
-    "title": "Eine Postkarte aus Spanien",
-    "title_en": "A postcard from Spain",
-    "summary_en": "Clara writes a postcard to her grandmother from her holiday in Spain, describing the hotel, the sea, the food and the weather.",
-    "paragraphs": [
-      "Liebe Oma,",
-      "viele Grüße aus Spanien! Ich bin mit Papa und Mama in Valencia. Das Hotel ist schön und liegt direkt am Meer. Jeden Tag schwimmen wir und spielen am Strand.",
-      "Das Essen hier ist super. Ich esse jeden Tag Paella und Eis. Das Wetter ist toll: Es ist sonnig und dreißig Grad warm. Am Freitag fliegen wir zurück nach Frankfurt. Dann erzähle ich dir alles.",
-      "Bis bald! Deine Clara"
-    ]
-  },
-  {
-    "id": "a1-018",
-    "title": "Am Wochenende",
-    "title_en": "At the weekend",
-    "summary_en": "Daniel and Hannah have no work at the weekend. On Saturday they clean the flat, go shopping and visit friends; on Sunday they sleep late and go for a walk.",
-    "paragraphs": [
-      "Daniel und Hannah arbeiten von Montag bis Freitag. Am Wochenende haben sie frei.",
-      "Am Samstag putzen sie zuerst die Wohnung. Dann gehen sie einkaufen. Am Abend besuchen sie Freunde. Sie kochen zusammen und spielen Karten.",
-      "Am Sonntag schlafen Daniel und Hannah lange. Sie frühstücken erst um zehn Uhr: Brötchen, Eier und Marmelade. Am Nachmittag machen sie einen Spaziergang im Park. Am Abend sind sie müde, aber zufrieden. Morgen beginnt die Woche wieder."
-    ]
-  },
-  {
-    "id": "a1-019",
-    "title": "Wo ist der Bahnhof?",
-    "title_en": "Where is the station?",
-    "summary_en": "A tourist asks a woman for the way to the station. She explains the route: straight on, right at the traffic lights, past the church; it takes about five minutes.",
-    "paragraphs": [
-      "Ein Tourist steht auf der Straße. Er sucht den Bahnhof. Er fragt eine Frau: „Entschuldigung, wie komme ich zum Bahnhof?“",
-      "Die Frau sagt: „Gehen Sie hier geradeaus bis zur Ampel. Dann gehen Sie nach rechts. Sie sehen dann eine Kirche. Gehen Sie an der Kirche vorbei. Der Bahnhof ist dann links.“",
-      "„Ist es weit?“, fragt der Tourist. „Nein, nur fünf Minuten zu Fuß.“ „Vielen Dank!“ „Gern geschehen. Gute Reise!“"
-    ]
-  },
-  {
-    "id": "a1-020",
-    "title": "In der Bäckerei",
-    "title_en": "At the bakery",
-    "summary_en": "Mr Fischer buys bread rolls and a pretzel at the bakery every morning. Today the pretzels are sold out, so he takes a croissant.",
-    "paragraphs": [
-      "Herr Fischer geht jeden Morgen in die Bäckerei. Die Bäckerei ist an der Ecke, direkt neben seinem Haus. Dort riecht es immer gut.",
-      "„Guten Morgen, Herr Fischer! Was darf es sein?“, fragt die Bäckerin. „Sechs Brötchen und eine Brezel, bitte.“ „Die Brötchen haben wir. Aber Brezeln sind leider schon weg.“",
-      "„Schade. Dann nehme ich ein Croissant.“ „Gern. Das macht drei Euro zwanzig.“ Herr Fischer bezahlt und sagt: „Bis morgen!“"
-    ]
-  },
-  {
-    "id": "a1-021",
-    "title": "Im Büro",
-    "title_en": "At the office",
-    "summary_en": "Katrin works in an office as a secretary. She answers emails and phone calls, has a meeting, eats lunch with a colleague and goes home at five.",
-    "paragraphs": [
-      "Katrin ist Sekretärin. Sie arbeitet in einem Büro in Stuttgart. Ihr Büro ist im zweiten Stock. Sie hat einen Computer, ein Telefon und viele Papiere auf dem Schreibtisch.",
-      "Am Morgen liest sie ihre E-Mails und schreibt Antworten. Das Telefon klingelt oft. Um elf Uhr hat sie eine Besprechung mit ihrem Chef.",
-      "Um halb eins macht Katrin Mittagspause. Sie isst mit ihrer Kollegin Petra in der Kantine. Am Nachmittag arbeitet sie wieder am Computer. Um fünf Uhr hat sie Feierabend."
-    ]
-  },
-  {
-    "id": "a1-022",
-    "title": "Sport im Park",
-    "title_en": "Sport in the park",
-    "summary_en": "Every Tuesday and Thursday Murat goes jogging in the park before work. Today he meets his neighbour, and they run together.",
-    "paragraphs": [
-      "Murat ist fünfunddreißig. Er macht gern Sport. Jeden Dienstag und Donnerstag joggt er im Park. Er läuft immer am Morgen, vor der Arbeit.",
-      "Heute ist Dienstag. Es ist sechs Uhr. Der Park ist ruhig, nur ein paar Leute sind da. Murat läuft fünf Kilometer.",
-      "Plötzlich sieht er seine Nachbarin Frau Lang. Sie joggt auch! „Hallo, Frau Lang! Laufen wir zusammen?“ „Gern!“ Jetzt laufen sie jede Woche zusammen. Das macht mehr Spaß."
-    ]
-  },
-  {
-    "id": "a1-023",
-    "title": "Pfannkuchen",
-    "title_en": "Pancakes",
-    "summary_en": "Marie makes pancakes with her children: flour, milk, eggs and a little sugar. The children eat them with apple sauce and want more.",
-    "paragraphs": [
-      "Es ist Sonntag. Marie kocht mit ihren Kindern Paul und Lisa. Heute gibt es Pfannkuchen.",
-      "Sie brauchen Mehl, Milch, Eier, ein bisschen Zucker und ein bisschen Salz. Paul gibt das Mehl in eine Schüssel. Lisa macht die Eier auf. Dann rühren sie alles gut.",
-      "Marie macht die Pfanne heiß und backt die Pfannkuchen. Sie riechen super! Die Kinder essen die Pfannkuchen mit Apfelmus. „Mama, noch einen, bitte!“, ruft Lisa. Am Ende ist kein Pfannkuchen mehr da."
-    ]
-  },
-  {
-    "id": "a1-024",
-    "title": "Ein Tag am See",
-    "title_en": "A day at the lake",
-    "summary_en": "On a hot Sunday Tom and his friends cycle to a lake. They swim, have a picnic and play volleyball, and cycle home in the evening.",
-    "paragraphs": [
-      "Es ist Juli und sehr heiß. Tom und seine Freunde fahren mit dem Fahrrad zum See. Der See ist fünfzehn Kilometer von der Stadt entfernt.",
-      "Am See ist es wunderbar. Das Wasser ist klar und nicht zu kalt. Die Freunde schwimmen und liegen in der Sonne. Zum Mittagessen machen sie ein Picknick. Es gibt Brot, Käse, Obst und Limonade.",
-      "Am Nachmittag spielen sie Volleyball. Um sieben Uhr fahren sie zurück. Sie sind müde, aber glücklich. „Nächsten Sonntag kommen wir wieder!“, sagt Tom."
-    ]
-  },
-  {
-    "id": "a1-025",
-    "title": "Das Hotelzimmer",
-    "title_en": "The hotel room",
-    "summary_en": "Mrs Meyer checks in to a hotel in Dresden. Her room is on the third floor and has a view of the river. Breakfast is from seven to ten.",
-    "paragraphs": [
-      "Frau Meyer ist für zwei Tage in Dresden. Sie geht zur Rezeption von ihrem Hotel. „Guten Tag. Ich habe ein Zimmer reserviert. Mein Name ist Meyer.“",
-      "Der Mann an der Rezeption sucht im Computer. „Ja, Frau Meyer, ein Einzelzimmer für zwei Nächte. Hier ist Ihr Schlüssel. Sie haben Zimmer dreihundertzwölf im dritten Stock.“",
-      "„Wann gibt es Frühstück?“ „Von sieben bis zehn Uhr im Restaurant.“ Das Zimmer ist klein, aber sauber. Vom Fenster sieht Frau Meyer den Fluss. Sie ist sehr zufrieden."
-    ]
-  },
-  {
-    "id": "a1-026",
-    "title": "Mein Freund Kofi",
-    "title_en": "My friend Kofi",
-    "summary_en": "Kofi from Ghana lives in Leipzig and learns German. He works in a restaurant, plays basketball and wants to study medicine later.",
-    "paragraphs": [
-      "Das ist mein Freund Kofi. Er kommt aus Ghana und wohnt seit einem Jahr in Leipzig. Kofi spricht Englisch und ein bisschen Französisch. Jetzt lernt er Deutsch.",
-      "Kofi arbeitet in einem Restaurant. Er ist Koch. Die Arbeit ist hart, aber er mag seine Kollegen. Am Wochenende spielt er Basketball. Er ist sehr groß und spielt gut.",
-      "Kofi hat einen Plan: Er möchte später Medizin studieren. Deshalb lernt er jeden Abend Deutsch. Ich helfe ihm manchmal. Er lernt schnell!"
-    ]
-  },
-  {
-    "id": "a1-027",
-    "title": "Der Umzug",
-    "title_en": "The move",
-    "summary_en": "Eva moves from a small village to Frankfurt for a new job. Her brothers help her carry the boxes, and in the evening they eat pizza in the empty flat.",
-    "paragraphs": [
-      "Eva zieht um. Sie hat eine neue Stelle in Frankfurt. Bis jetzt wohnt sie in einem kleinen Dorf. Jetzt braucht sie eine Wohnung in der Stadt.",
-      "Am Samstag ist der Umzug. Ihre zwei Brüder helfen ihr. Sie tragen viele Kartons, einen Schrank, ein Bett und einen Tisch. Die Kartons sind schwer. Zum Glück gibt es in dem Haus einen Aufzug.",
-      "Am Abend ist alles in der Wohnung. Aber nichts ist an seinem Platz. Eva und ihre Brüder sitzen auf dem Boden und essen Pizza. „Danke für eure Hilfe!“, sagt Eva."
-    ]
-  },
-  {
-    "id": "a1-028",
-    "title": "Die neuen Nachbarn",
-    "title_en": "The new neighbours",
-    "summary_en": "A new family moves in next door to Mr Hoffmann. He says hello, they introduce themselves, and the next day the family brings him a cake.",
-    "paragraphs": [
-      "Herr Hoffmann ist siebzig Jahre alt und wohnt allein. Neben ihm ist eine Wohnung frei. Heute kommen neue Nachbarn.",
-      "Herr Hoffmann klingelt bei den Nachbarn. Eine junge Frau öffnet die Tür. „Guten Tag, ich bin Ihr Nachbar. Ich heiße Hoffmann.“ „Ah, hallo! Ich bin Ayşe Yılmaz. Das ist mein Mann Emre, und das sind unsere Kinder.“",
-      "Am nächsten Tag klingelt es bei Herrn Hoffmann. Frau Yılmaz und die Kinder stehen vor der Tür. Sie haben einen Kuchen für ihn. Herr Hoffmann freut sich. Er macht Kaffee, und alle essen zusammen Kuchen."
-    ]
-  },
-  {
-    "id": "a1-029",
-    "title": "Im Deutschkurs",
-    "title_en": "In the German course",
-    "summary_en": "Fatima goes to a German course three times a week. The students come from many countries. Today they learn the numbers and play a game.",
-    "paragraphs": [
-      "Fatima kommt aus Syrien. Sie macht einen Deutschkurs an der Volkshochschule. Der Kurs ist am Montag, Mittwoch und Freitag von neun bis zwölf Uhr.",
-      "Im Kurs sind fünfzehn Leute. Sie kommen aus vielen Ländern: aus Polen, aus Brasilien, aus China und aus Italien. Der Lehrer heißt Herr Wolf. Er erklärt alles sehr gut.",
-      "Heute lernen sie die Zahlen. Sie spielen ein Spiel: Herr Wolf sagt eine Zahl, und die Leute schreiben sie an die Tafel. Fatima gewinnt. Sie sagt: „Deutsch ist schwer, aber es macht Spaß!“"
-    ]
-  },
-  {
-    "id": "a1-030",
-    "title": "Ein Anruf",
-    "title_en": "A phone call",
-    "summary_en": "Jonas calls his friend Mehmet to invite him to the cinema on Saturday. Mehmet can't on Saturday, so they agree on Sunday at six.",
-    "paragraphs": [
-      "Das Telefon klingelt. „Hallo, hier ist Mehmet.“ „Hallo Mehmet, hier ist Jonas. Wie geht es dir?“ „Gut, danke. Und dir?“ „Auch gut.“",
-      "„Hast du am Samstag Zeit? Ich möchte ins Kino gehen. Kommst du mit?“ „Am Samstag? Tut mir leid, da kann ich nicht. Ich muss arbeiten. Geht es am Sonntag?“",
-      "„Ja, Sonntag ist auch gut. Um wie viel Uhr?“ „Um sechs Uhr?“ „Perfekt. Wir treffen uns vor dem Kino.“ „Okay, bis Sonntag! Tschüss!“ „Tschüss!“"
-    ]
-  },
-  {
-    "id": "a1-031",
-    "title": "Das Fahrrad",
-    "title_en": "The bicycle",
-    "summary_en": "Mila rides her bike to work every day. One morning the tyre is flat, so she takes the tram. In the evening her father helps her repair the bike.",
-    "paragraphs": [
-      "Mila fährt jeden Tag mit dem Fahrrad zur Arbeit. Das ist gesund und billig. Der Weg ist sechs Kilometer lang.",
-      "Aber heute Morgen hat das Fahrrad ein Problem: Der Reifen ist kaputt. Mila hat keine Zeit. Sie nimmt die Straßenbahn. Die Straßenbahn ist voll, und Mila muss stehen.",
-      "Am Abend ruft Mila ihren Vater an. Er kommt und hilft ihr. Zusammen reparieren sie den Reifen. Das dauert nur eine halbe Stunde. „Danke, Papa!“ Morgen fährt Mila wieder mit dem Fahrrad."
-    ]
-  },
-  {
-    "id": "a1-032",
-    "title": "Der leere Kühlschrank",
-    "title_en": "The empty fridge",
-    "summary_en": "Felix is hungry, but his fridge is empty. The shops are already closed, so he orders food from a Turkish restaurant and decides to make a shopping list.",
-    "paragraphs": [
-      "Es ist Sonntagabend. Felix hat Hunger. Er öffnet den Kühlschrank. Aber der Kühlschrank ist leer! Es gibt nur eine Flasche Wasser und ein altes Ei.",
-      "Am Sonntag sind die Geschäfte in Deutschland geschlossen. Was macht Felix jetzt? Er bestellt Essen bei einem türkischen Restaurant: einen Döner und einen Salat. Nach dreißig Minuten klingelt es. Das Essen ist da.",
-      "Felix isst und denkt: „Morgen schreibe ich eine Einkaufsliste.“ Er schreibt: Milch, Brot, Butter, Käse, Nudeln, Tomaten, Obst. Am Montag geht er sofort nach der Arbeit einkaufen."
-    ]
-  },
-  {
-    "id": "a1-033",
-    "title": "Bei der Zahnärztin",
-    "title_en": "At the dentist's",
-    "summary_en": "Max has toothache and is afraid of the dentist. The dentist is friendly, finds a small hole and fills it. It doesn't hurt and Max is relieved.",
-    "paragraphs": [
-      "Max hat Zahnschmerzen. Er hat Angst vor dem Zahnarzt. Aber die Schmerzen sind stark. Er muss gehen.",
-      "Die Zahnärztin heißt Dr. Neumann. Sie ist freundlich. „Bitte machen Sie den Mund auf.“ Sie schaut die Zähne an. „Hier ist ein kleines Loch. Das ist kein Problem.“",
-      "Die Behandlung dauert zwanzig Minuten. Es tut nicht weh. Max ist froh. Die Zahnärztin sagt: „Putzen Sie zweimal am Tag die Zähne, und essen Sie nicht so viel Schokolade!“ Max lacht. „Okay, ich versuche es.“"
-    ]
-  },
-  {
-    "id": "a1-034",
-    "title": "Im Zoo",
-    "title_en": "At the zoo",
-    "summary_en": "Mr Becker takes his two children to the zoo. They see elephants, lions, monkeys and penguins. The monkeys are the children's favourite.",
-    "paragraphs": [
-      "Am Samstag geht Herr Becker mit seinen Kindern in den Zoo. Die Kinder heißen Anna und Leo. Sie sind sehr aufgeregt.",
-      "Zuerst sehen sie die Elefanten. Sie sind riesig! Dann gehen sie zu den Löwen. Ein Löwe schläft in der Sonne. Bei den Pinguinen ist es lustig. Die Pinguine schwimmen sehr schnell.",
-      "Am besten finden die Kinder die Affen. Die Affen springen und spielen. Ein Affe isst eine Banane. Leo lacht laut. Um vier Uhr sind alle müde. Im Auto schlafen die Kinder sofort ein."
-    ]
-  },
-  {
-    "id": "a1-035",
-    "title": "Weihnachten",
-    "title_en": "Christmas",
-    "summary_en": "The Schmidt family celebrates Christmas: a Christmas tree, presents on Christmas Eve, a big dinner and a visit from the grandparents.",
-    "paragraphs": [
-      "Es ist Dezember. Bald ist Weihnachten. Familie Schmidt kauft einen Weihnachtsbaum. Die Kinder schmücken den Baum mit Kugeln und Sternen.",
-      "Am vierundzwanzigsten Dezember ist Heiligabend. Am Abend kommen die Großeltern. Alle essen zusammen. Es gibt Gans mit Kartoffeln und Rotkohl. Danach singen sie Lieder.",
-      "Dann gibt es die Geschenke. Die Kinder bekommen Bücher, Spiele und warme Socken. Die Großeltern bekommen ein Foto von der Familie. Alle sind glücklich. „Frohe Weihnachten!“"
-    ]
-  },
-  {
-    "id": "a1-036",
-    "title": "Silvester",
-    "title_en": "New Year's Eve",
-    "summary_en": "Igor celebrates New Year's Eve with friends. They eat, play games, count down to midnight, watch the fireworks and make New Year's resolutions.",
-    "paragraphs": [
-      "Heute ist der einunddreißigste Dezember, Silvester. Igor feiert mit Freunden bei Sarah. Sie essen Raclette und spielen Spiele.",
-      "Kurz vor Mitternacht gehen alle auf den Balkon. Sie zählen: „Zehn, neun, acht … drei, zwei, eins! Frohes neues Jahr!“ Draußen gibt es ein Feuerwerk. Der Himmel ist bunt.",
-      "Dann fragt Sarah: „Was sind eure Pläne für das neue Jahr?“ Igor sagt: „Ich will mehr Sport machen.“ Sarah sagt: „Und ich möchte Spanisch lernen.“ Alle lachen. Jedes Jahr haben sie die gleichen Pläne."
-    ]
-  },
-  {
-    "id": "a1-037",
-    "title": "Die Katze Minka",
-    "title_en": "Minka the cat",
-    "summary_en": "Mrs Roth's cat Minka is missing. She searches everywhere and puts up notes. In the evening Minka is sitting in the neighbour's garage.",
-    "paragraphs": [
-      "Frau Roth hat eine Katze. Sie heißt Minka. Minka ist grau und weiß und sehr süß. Sie schläft gern auf dem Sofa.",
-      "Aber heute ist Minka weg. Frau Roth sucht sie überall: in der Wohnung, im Garten, auf der Straße. Sie ruft: „Minka! Minka!“ Aber die Katze kommt nicht. Frau Roth ist traurig. Sie schreibt Zettel und hängt sie an die Bäume.",
-      "Am Abend klingelt der Nachbar. „Frau Roth, ich glaube, Ihre Katze ist in meiner Garage!“ Wirklich: Minka sitzt in der Garage und schläft. Frau Roth ist sehr froh."
-    ]
-  },
-  {
-    "id": "a1-038",
-    "title": "Am Flughafen",
-    "title_en": "At the airport",
-    "summary_en": "Olga flies from Berlin to Rome. She checks in her suitcase, goes through security and waits at the gate. The flight is on time.",
-    "paragraphs": [
-      "Olga fliegt heute nach Rom. Sie fährt mit dem Taxi zum Flughafen. Der Flug ist um vierzehn Uhr. Sie ist schon um zwölf Uhr da.",
-      "Zuerst geht sie zum Schalter. Sie zeigt ihren Pass und gibt ihren Koffer ab. Der Koffer wiegt achtzehn Kilo. Dann geht sie zur Sicherheitskontrolle. Das dauert ein bisschen.",
-      "Am Gate wartet sie. Sie kauft eine Zeitung und einen Kaffee. Um halb zwei kann sie einsteigen. Das Flugzeug fliegt pünktlich. Olga sitzt am Fenster und freut sich auf Rom."
-    ]
-  },
-  {
-    "id": "a1-039",
-    "title": "In der Bibliothek",
-    "title_en": "At the library",
-    "summary_en": "Tina wants to borrow books at the city library. She gets a library card, finds a German book for beginners and a DVD, and must return them in four weeks.",
-    "paragraphs": [
-      "Tina liest gern. Aber Bücher sind teuer. Deshalb geht sie heute in die Stadtbibliothek.",
-      "Sie fragt an der Information: „Guten Tag, ich möchte Bücher ausleihen. Was brauche ich?“ „Sie brauchen einen Bibliotheksausweis. Haben Sie Ihren Ausweis dabei?“ Tina zeigt ihren Ausweis. Der Bibliotheksausweis kostet zehn Euro für ein Jahr.",
-      "Tina findet ein Buch auf Deutsch für Anfänger und eine DVD. „Wie lange kann ich die Sachen behalten?“ „Vier Wochen. Dann bringen Sie sie bitte zurück.“ Tina ist zufrieden. Jetzt hat sie viel zu lesen."
-    ]
-  },
-  {
-    "id": "a1-040",
-    "title": "Der Bus kommt nicht",
-    "title_en": "The bus doesn't come",
-    "summary_en": "Simon waits at the bus stop in the rain, but the bus doesn't come because of a strike. A colleague drives past and gives him a lift to work.",
-    "paragraphs": [
-      "Simon steht an der Bushaltestelle. Es ist sieben Uhr fünfzehn, und es regnet. Der Bus kommt normalerweise um sieben Uhr zehn. Aber heute kommt er nicht.",
-      "Simon wartet und wartet. Andere Leute warten auch. Eine Frau liest auf ihrem Handy: „Heute fahren keine Busse. Die Fahrer streiken.“ Simon ist nass und ärgerlich. Er muss um acht Uhr im Büro sein.",
-      "Da hält ein Auto. Es ist seine Kollegin Laura. „Simon! Steig ein, ich fahre dich!“ Simon ist sehr froh. „Vielen Dank, Laura! Du bist super.“ Sie sind pünktlich im Büro."
-    ]
-  },
-  {
-    "id": "a1-041",
-    "title": "Ein Picknick",
-    "title_en": "A picnic",
-    "summary_en": "Sophie and Moritz have a picnic in the park. Everything is lovely until ants arrive and then it starts to rain, so they run to a café.",
-    "paragraphs": [
-      "Das Wetter ist schön. Sophie und Moritz machen ein Picknick im Park. Sie haben eine Decke, einen Korb mit Brötchen, Käse, Wurst, Erdbeeren und eine Flasche Saft.",
-      "Sie sitzen unter einem großen Baum. Die Vögel singen. Moritz sagt: „Das ist perfekt!“ Aber dann kommen die Ameisen. Viele Ameisen! Sie sind auf der Decke und im Korb.",
-      "Und dann kommen dunkle Wolken. Es beginnt zu regnen. Sophie und Moritz packen schnell alles ein und laufen in ein Café. Dort trinken sie heiße Schokolade und lachen. „Ein Picknick im Café ist auch schön“, sagt Sophie."
-    ]
-  },
-  {
-    "id": "a1-042",
-    "title": "Mein bester Freund",
-    "title_en": "My best friend",
-    "summary_en": "Finn describes his best friend Noah, whom he has known since kindergarten. They go to the same school, play football together and help each other.",
-    "paragraphs": [
-      "Mein bester Freund heißt Noah. Wir kennen uns seit dem Kindergarten. Jetzt sind wir zehn Jahre alt und gehen in die gleiche Klasse.",
-      "Noah hat braune Haare und blaue Augen. Er ist ein bisschen kleiner als ich. Er ist sehr lustig und erzählt immer Witze. Er kann gut rechnen. Ich kann gut schreiben. Deshalb machen wir die Hausaufgaben oft zusammen.",
-      "Am Nachmittag spielen wir Fußball oder fahren Fahrrad. Manchmal schläft Noah bei mir. Dann sehen wir zusammen einen Film. Ein guter Freund ist sehr wichtig."
-    ]
-  },
-  {
-    "id": "a1-043",
-    "title": "Das Frühstück",
-    "title_en": "Breakfast",
-    "summary_en": "Different people in the Wagner family have different breakfasts: the father eats bread with sausage, the mother yoghurt with fruit, and the daughter only drinks cocoa.",
-    "paragraphs": [
-      "Bei Familie Wagner ist das Frühstück jeden Tag gleich und doch verschieden. Alle sitzen um sieben Uhr am Tisch.",
-      "Herr Wagner isst immer zwei Brötchen mit Wurst und trinkt schwarzen Kaffee. Frau Wagner mag es gesund. Sie isst Joghurt mit Obst und trinkt grünen Tee.",
-      "Die Tochter Lea ist vierzehn. Sie hat am Morgen keinen Hunger. Sie trinkt nur einen Kakao. Ihre Mutter sagt: „Lea, du musst etwas essen!“ Lea nimmt einen Apfel und sagt: „Okay, ich esse den Apfel in der Schule.“"
-    ]
-  },
-  {
-    "id": "a1-044",
-    "title": "Die Anmeldung",
-    "title_en": "Registering an address",
-    "summary_en": "Raj has just moved to Germany and must register his address at the citizens' office. He fills in a form, shows his passport and rental contract and gets a certificate.",
-    "paragraphs": [
-      "Raj kommt aus Indien. Er wohnt seit einer Woche in Bonn. In Deutschland muss man die Adresse anmelden. Deshalb geht Raj zum Bürgeramt.",
-      "Er hat einen Termin um neun Uhr. Eine Frau gibt ihm ein Formular. Raj schreibt seinen Namen, sein Geburtsdatum und seine neue Adresse. Er zeigt seinen Pass und den Mietvertrag.",
-      "Die Frau tippt alles in den Computer. Dann gibt sie ihm ein Papier. „Das ist Ihre Meldebestätigung. Bitte gut aufheben!“ Nach fünfzehn Minuten ist Raj fertig. Er denkt: „Das war einfach.“"
-    ]
-  },
-  {
-    "id": "a1-045",
-    "title": "Auf der Post",
-    "title_en": "At the post office",
-    "summary_en": "Ms Kraus sends a parcel to her son in Austria. She pays the postage, buys stamps for postcards and asks how long the parcel will take.",
-    "paragraphs": [
-      "Frau Kraus geht zur Post. Sie hat ein Paket für ihren Sohn. Er wohnt in Österreich, in Graz.",
-      "Am Schalter sagt sie: „Ich möchte dieses Paket nach Österreich schicken.“ Der Mann wiegt das Paket. „Drei Kilo. Das kostet sechzehn Euro neunundneunzig.“",
-      "„Wie lange dauert das?“ „Drei bis fünf Tage.“ „Gut. Und ich brauche noch fünf Briefmarken für Postkarten.“ Frau Kraus bezahlt alles. Sie hofft, dass ihr Sohn das Paket vor seinem Geburtstag bekommt."
-    ]
-  },
-  {
-    "id": "a1-046",
-    "title": "Putzen am Samstag",
-    "title_en": "Cleaning on Saturday",
-    "summary_en": "Three flatmates share the housework on Saturday: one cleans the kitchen, one the bathroom, one vacuums. Afterwards they reward themselves with ice cream.",
-    "paragraphs": [
-      "Jana, Kemal und Lisa wohnen zusammen in einer WG. Am Samstag putzen sie die Wohnung. Jeder hat eine Aufgabe.",
-      "Jana putzt die Küche. Sie spült das Geschirr und macht den Herd sauber. Kemal putzt das Bad. Das findet er nicht schön, aber es muss sein. Lisa saugt Staub im Flur und im Wohnzimmer. Dann bringt sie den Müll raus.",
-      "Nach zwei Stunden ist die Wohnung sauber. Alles glänzt. „Jetzt haben wir eine Pause verdient!“, sagt Kemal. Die drei gehen zusammen Eis essen."
-    ]
-  },
-  {
-    "id": "a1-047",
-    "title": "Im Schwimmbad",
-    "title_en": "At the swimming pool",
-    "summary_en": "Elif goes to the swimming pool with her little brother. She swims twenty lengths while he plays in the children's pool, and then they eat chips.",
-    "paragraphs": [
-      "Am Mittwochnachmittag geht Elif ins Schwimmbad. Ihr kleiner Bruder Can kommt mit. Er ist sieben Jahre alt und kann noch nicht gut schwimmen.",
-      "An der Kasse kaufen sie zwei Karten. Dann ziehen sie sich um. Elif schwimmt im großen Becken. Sie schwimmt zwanzig Bahnen. Can spielt im Kinderbecken mit einem Ball.",
-      "Nach einer Stunde haben beide Hunger. Sie kaufen Pommes am Kiosk. Can sagt: „Elif, kannst du mir das Schwimmen beibringen?“ „Klar! Nächste Woche fangen wir an.“"
-    ]
-  },
-  {
-    "id": "a1-048",
-    "title": "Eine E-Mail an Marco",
-    "title_en": "An email to Marco",
-    "summary_en": "Julia writes an email to her Italian friend Marco, telling him about her new job and inviting him to visit her in Hamburg in May.",
-    "paragraphs": [
-      "Lieber Marco,",
-      "wie geht es dir? Mir geht es gut. Ich habe eine neue Arbeit! Ich arbeite jetzt in einem Hotel in Hamburg. Die Arbeit ist interessant, und meine Kollegen sind nett.",
-      "Hamburg ist eine schöne Stadt. Es gibt einen großen Hafen und viele Brücken. Möchtest du mich besuchen? Im Mai habe ich eine Woche Urlaub. Dann zeige ich dir die Stadt. Du kannst bei mir schlafen.",
-      "Schreib mir bald! Viele Grüße, deine Julia"
-    ]
-  },
-  {
-    "id": "a1-049",
-    "title": "Im Kindergarten",
-    "title_en": "At kindergarten",
-    "summary_en": "Four-year-old Emil spends the day at kindergarten: he plays with blocks, sings songs, eats lunch, sleeps and plays outside until his mother picks him up.",
-    "paragraphs": [
-      "Emil ist vier Jahre alt. Jeden Morgen bringt ihn seine Mutter um acht Uhr in den Kindergarten. Seine Erzieherin heißt Steffi.",
-      "Am Morgen spielt Emil mit Bausteinen. Er baut einen hohen Turm. Dann sitzen alle Kinder im Kreis und singen Lieder. Um zwölf Uhr gibt es Mittagessen: Nudeln mit Gemüse. Danach schlafen die kleinen Kinder eine Stunde.",
-      "Am Nachmittag spielen die Kinder draußen im Garten. Emil rutscht und schaukelt. Um vier Uhr holt seine Mutter ihn ab. „Wie war dein Tag?“ „Toll! Morgen baue ich einen noch höheren Turm!“"
-    ]
-  },
-  {
-    "id": "a1-050",
-    "title": "Ein Konto eröffnen",
-    "title_en": "Opening a bank account",
-    "summary_en": "Ana from Portugal opens a bank account for her salary. The bank employee asks for her passport and address, and she gets a bank card in a week.",
-    "paragraphs": [
-      "Ana kommt aus Portugal und arbeitet jetzt in Düsseldorf. Ihre Firma braucht ein deutsches Konto für das Gehalt. Ana geht zur Bank.",
-      "Ein Bankangestellter hilft ihr. „Sie möchten ein Konto eröffnen? Gern. Ich brauche Ihren Pass und Ihre Adresse.“ Ana gibt ihm den Pass und die Meldebestätigung. Sie unterschreibt einige Papiere.",
-      "„Kostet das Konto etwas?“, fragt Ana. „Fünf Euro im Monat.“ „Und wann bekomme ich meine Karte?“ „In einer Woche mit der Post.“ Ana sagt danke und geht. Jetzt hat sie ein Konto in Deutschland."
-    ]
-  },
-  {
-    "id": "a1-051",
-    "title": "Im Bus",
-    "title_en": "On the bus",
-    "summary_en": "Mrs Albrecht takes the bus into town. She buys a ticket from the driver, offers her seat to a pregnant woman and gets off at the town hall.",
-    "paragraphs": [
-      "Frau Albrecht fährt mit dem Bus in die Stadt. Sie steigt vorne ein und kauft beim Busfahrer eine Fahrkarte. „Einmal in die Stadt, bitte.“ „Zwei Euro achtzig.“",
-      "Der Bus ist voll. Frau Albrecht findet noch einen Platz. An der nächsten Haltestelle steigt eine schwangere Frau ein. Frau Albrecht steht auf. „Bitte, setzen Sie sich.“ „Oh, danke, das ist sehr nett!“",
-      "Nach zehn Minuten hört Frau Albrecht: „Nächste Haltestelle: Rathaus.“ Sie drückt auf den Knopf. Der Bus hält, und sie steigt aus."
-    ]
-  },
-  {
-    "id": "a1-052",
-    "title": "Der Garten",
-    "title_en": "The garden",
-    "summary_en": "Mr Peters loves his garden. In spring he plants vegetables and flowers, in summer he waters everything, and in autumn he harvests and shares with his neighbours.",
-    "paragraphs": [
-      "Herr Peters hat einen Garten hinter dem Haus. Der Garten ist sein Hobby. Er ist jeden Tag dort.",
-      "Im Frühling pflanzt er Tomaten, Salat, Karotten und Blumen. Im Sommer gießt er alles am Morgen und am Abend. Das ist viel Arbeit, besonders wenn es heiß ist.",
-      "Im Herbst ist alles reif. Herr Peters hat sehr viele Tomaten. Er kann nicht alles allein essen. Deshalb schenkt er seinen Nachbarn Tomaten und Salat. Die Nachbarn freuen sich. Sie sagen: „Ihr Gemüse schmeckt viel besser als im Supermarkt!“"
-    ]
-  },
-  {
-    "id": "a1-053",
-    "title": "Meine Stadt",
-    "title_en": "My town",
-    "summary_en": "Paula describes her small town: the old market square, the church, a river, a cinema and a swimming pool. It is quiet, but she likes living there.",
-    "paragraphs": [
-      "Ich wohne in Bamberg. Das ist eine kleine Stadt in Bayern. Sie hat ungefähr siebzigtausend Einwohner.",
-      "In der Altstadt gibt es viele alte Häuser und einen schönen Marktplatz. Dort ist auch der Dom, eine große, alte Kirche. Durch die Stadt fließt ein Fluss. Im Sommer sitzen die Leute am Fluss und trinken Bier.",
-      "Es gibt ein Kino, ein Schwimmbad und viele kleine Geschäfte. Bamberg ist nicht so groß wie München. Es ist ruhig. Aber ich wohne gern hier. Die Stadt ist schön, und die Menschen sind freundlich."
-    ]
-  },
-  {
-    "id": "a1-054",
-    "title": "Das Handy ist kaputt",
-    "title_en": "The phone is broken",
-    "summary_en": "David drops his phone and the screen breaks. At the repair shop they say it will take two days and cost eighty euros, and David enjoys a weekend without a phone.",
-    "paragraphs": [
-      "David steigt aus der Straßenbahn. Plötzlich fällt sein Handy auf den Boden. Oh nein! Der Bildschirm ist kaputt. David kann nichts mehr lesen.",
-      "Er geht in einen Handyladen. Der Verkäufer schaut das Handy an. „Wir können den Bildschirm reparieren. Das kostet achtzig Euro und dauert zwei Tage.“ David seufzt. „Okay, machen Sie das bitte.“",
-      "Zwei Tage ohne Handy! Zuerst ist das schwer für David. Aber dann liest er ein Buch, geht spazieren und spricht mit seiner Mitbewohnerin. Am Montag holt er das Handy ab. Er denkt: „Ohne Handy war es eigentlich auch schön.“"
-    ]
-  },
-  {
-    "id": "a1-055",
-    "title": "Die Hochzeit",
-    "title_en": "The wedding",
-    "summary_en": "Lisa's sister Anja gets married. There is a ceremony at the registry office, a party with a hundred guests, a big cake and dancing all night.",
-    "paragraphs": [
-      "Heute ist ein großer Tag. Lisas Schwester Anja heiratet. Ihr Mann heißt Stefan. Die beiden sind seit fünf Jahren ein Paar.",
-      "Um elf Uhr sind alle im Standesamt. Anja trägt ein weißes Kleid. Stefan trägt einen dunklen Anzug. Sie sagen „Ja“, und alle klatschen. Anjas Mutter weint ein bisschen.",
-      "Am Abend gibt es eine Feier in einem Restaurant. Hundert Gäste sind da. Es gibt ein großes Essen und eine Hochzeitstorte mit drei Etagen. Dann tanzen alle bis drei Uhr morgens. Lisa sagt: „Das war die schönste Party des Jahres!“"
-    ]
-  },
-  {
-    "id": "a1-056",
-    "title": "Ein Ausflug in die Berge",
-    "title_en": "A trip to the mountains",
-    "summary_en": "Markus and his friends hike up a mountain in the Alps. The way is long and steep, but at the top they have a great view and eat in a mountain hut.",
-    "paragraphs": [
-      "Markus und seine Freunde machen einen Ausflug in die Alpen. Sie fahren früh am Morgen mit dem Auto los. Um acht Uhr sind sie am Berg.",
-      "Sie wandern drei Stunden nach oben. Der Weg ist lang und steil. Sie machen viele Pausen und trinken viel Wasser. Unterwegs sehen sie Kühe und Ziegen.",
-      "Endlich sind sie oben. Die Aussicht ist fantastisch! Sie sehen Seen, Wälder und andere Berge. Oben gibt es eine Hütte. Dort essen sie Suppe und Apfelstrudel. Am Abend sind ihre Beine sehr müde."
-    ]
-  },
-  {
-    "id": "a1-057",
-    "title": "Die Mittagspause",
-    "title_en": "The lunch break",
-    "summary_en": "Office workers Tobias and Miriam discuss where to have lunch. They choose a new Vietnamese restaurant and like it so much that they want to go again.",
-    "paragraphs": [
-      "Es ist zwölf Uhr. Tobias hat Hunger. Er fragt seine Kollegin Miriam: „Gehen wir zusammen essen?“ „Gern! Aber wohin? Die Kantine ist heute geschlossen.“",
-      "„In der Goethestraße gibt es ein neues vietnamesisches Restaurant. Kennst du das?“ „Nein, aber ich esse gern asiatisch. Gehen wir!“",
-      "Das Restaurant ist klein, aber voll. Tobias bestellt eine Nudelsuppe, und Miriam nimmt Reis mit Hähnchen und Gemüse. Das Essen ist frisch und schmeckt toll. Es ist auch nicht teuer. „Hier essen wir jetzt öfter!“, sagt Miriam."
-    ]
-  },
-  {
-    "id": "a1-058",
-    "title": "Mit dem Taxi",
-    "title_en": "By taxi",
-    "summary_en": "Mr Lehmann arrives late at night at the station. He takes a taxi to his hotel, chats with the driver about the city and pays twenty-two euros.",
-    "paragraphs": [
-      "Es ist dreiundzwanzig Uhr. Herr Lehmann kommt mit dem Zug in Hannover an. Es fahren keine Busse mehr. Er nimmt ein Taxi.",
-      "„Guten Abend. Zum Hotel Park, bitte. Das ist in der Bergstraße.“ „Kein Problem.“ Der Taxifahrer ist freundlich. Er fragt: „Sind Sie zum ersten Mal in Hannover?“ „Ja, ich habe hier morgen eine Konferenz.“",
-      "Nach fünfzehn Minuten ist das Taxi am Hotel. „Das macht zweiundzwanzig Euro.“ Herr Lehmann gibt ihm fünfundzwanzig Euro. „Stimmt so.“ „Danke! Viel Erfolg bei der Konferenz!“"
-    ]
-  },
-  {
-    "id": "a1-059",
-    "title": "Neue Schuhe",
-    "title_en": "New shoes",
-    "summary_en": "Greta needs new shoes for a party. In the department store she tries on many pairs and finally finds red shoes that are comfortable and not expensive.",
-    "paragraphs": [
-      "Greta hat am Samstag eine Party. Sie hat ein schönes Kleid, aber keine passenden Schuhe. Sie geht ins Kaufhaus.",
-      "Die Schuhabteilung ist im ersten Stock. Es gibt sehr viele Schuhe. Greta probiert schwarze Schuhe an. Sie sind schön, aber zu eng. Dann probiert sie braune Schuhe an. Sie sind bequem, aber nicht elegant.",
-      "Dann sieht sie rote Schuhe. Sie haben Größe achtunddreißig, genau ihre Größe. Sie sind bequem und schön. Und sie kosten nur fünfzig Euro! Greta kauft die Schuhe sofort."
-    ]
-  },
-  {
-    "id": "a1-060",
-    "title": "Die Ferien",
-    "title_en": "The holidays",
-    "summary_en": "School is over and the summer holidays begin. Jakob visits his grandparents in the countryside, helps on their farm and plays with the animals.",
-    "paragraphs": [
-      "Endlich sind Sommerferien! Sechs Wochen keine Schule. Jakob ist elf Jahre alt. Er fährt allein mit dem Zug zu seinen Großeltern.",
-      "Die Großeltern wohnen auf dem Land. Sie haben einen Bauernhof mit Kühen, Hühnern und einem Pferd. Jeden Morgen hilft Jakob seinem Opa. Sie füttern die Tiere. Jakob sammelt auch die Eier.",
-      "Am Nachmittag reitet Jakob auf dem Pferd oder schwimmt im Bach. Am Abend erzählt seine Oma Geschichten. Jakob findet die Ferien wunderbar. Er möchte am liebsten für immer bleiben."
-    ]
-  },
-  {
-    "id": "a1-061",
-    "title": "Grillen im Garten",
-    "title_en": "A barbecue in the garden",
-    "summary_en": "The Krüger family has a barbecue for friends. Everyone brings something: sausages, salads, bread and drinks. For the vegetarian guest there are vegetables and grilling cheese, and in the end everyone tries them.",
-    "paragraphs": [
-      "Es ist Samstag und das Wetter ist schön. Familie Krüger grillt im Garten. Sie laden Freunde und Nachbarn ein.",
-      "Jeder bringt etwas mit: Würstchen, Fleisch, Kartoffelsalat, Nudelsalat, Brot und Getränke. Herr Krüger steht am Grill. Er grillt die Würstchen und das Fleisch.",
-      "Eine Freundin, Sandra, isst kein Fleisch. Sie ist Vegetarierin. Für sie gibt es Gemüse und Grillkäse. „Das sieht ja lecker aus!“, sagt Herr Krüger. Am Ende probieren alle Sandras Gemüse."
-    ]
-  },
-  {
-    "id": "a1-062",
-    "title": "Das Fußballspiel",
-    "title_en": "The football match",
-    "summary_en": "Ole goes to his first Bundesliga match with his father. The stadium is full and loud, their team is losing 0:1, but then scores twice and wins.",
-    "paragraphs": [
-      "Ole ist neun Jahre alt. Heute geht er mit seinem Vater zum ersten Mal ins Stadion. Ihre Mannschaft spielt gegen Bremen.",
-      "Das Stadion ist riesig. Fünfzigtausend Menschen sind da. Alle singen und rufen. Ole trägt einen Schal in den Farben seiner Mannschaft. Nach zwanzig Minuten schießt Bremen ein Tor. Null zu eins. Ole ist traurig.",
-      "Aber in der zweiten Halbzeit schießt seine Mannschaft zwei Tore! Zwei zu eins! Alle springen und jubeln. Ole umarmt seinen Vater. „Papa, das war der beste Tag in meinem Leben!“"
-    ]
-  },
-  {
-    "id": "a1-063",
-    "title": "Krank in der Schule",
-    "title_en": "Ill at school",
-    "summary_en": "Mira feels ill at school with a stomach ache. The teacher sends her to the office, the secretary calls her father, and he takes her home to rest.",
-    "paragraphs": [
-      "Mira ist in der Schule. Es ist die dritte Stunde, Mathe. Plötzlich hat sie Bauchschmerzen. Ihr ist auch schlecht.",
-      "Sie sagt zur Lehrerin: „Frau Seidel, mir geht es nicht gut.“ Die Lehrerin sieht Mira an. „Du bist ja ganz blass! Geh bitte ins Sekretariat.“",
-      "Die Sekretärin ruft Miras Vater an. Er arbeitet nicht weit von der Schule. Nach zwanzig Minuten ist er da und holt Mira ab. Zu Hause legt sie sich ins Bett. Ihr Vater macht ihr einen Tee. Am nächsten Tag geht es Mira schon besser."
-    ]
-  },
-  {
-    "id": "a1-064",
-    "title": "Eine Reise nach Wien",
-    "title_en": "A trip to Vienna",
-    "summary_en": "Nadine and her mother spend a weekend in Vienna. They visit a palace, eat Sachertorte in a famous café and ride the big Ferris wheel.",
-    "paragraphs": [
-      "Nadine und ihre Mutter machen eine Reise nach Wien. Sie fahren am Freitag mit dem Zug. Die Fahrt dauert vier Stunden.",
-      "Am Samstag besuchen sie das Schloss Schönbrunn. Das Schloss ist sehr groß und hat einen wunderschönen Park. Am Nachmittag gehen sie in ein berühmtes Kaffeehaus. Dort essen sie Sachertorte, einen Schokoladenkuchen aus Wien.",
-      "Am Sonntag fahren sie mit dem Riesenrad im Prater. Von oben sehen sie die ganze Stadt. Am Abend fahren sie zurück. Nadine sagt: „Mama, Wien ist toll. Ich möchte bald wiederkommen!“"
-    ]
-  },
-  {
-    "id": "a1-065",
-    "title": "Yoga",
-    "title_en": "Yoga",
-    "summary_en": "Mr Schröder has back pain from sitting at the computer. A friend recommends yoga. At first it is difficult, but after a few weeks his back feels much better.",
-    "paragraphs": [
-      "Herr Schröder arbeitet den ganzen Tag am Computer. Er sitzt sehr viel. Deshalb hat er oft Rückenschmerzen.",
-      "Seine Freundin Ines sagt: „Mach doch Yoga! Das hilft.“ Herr Schröder findet die Idee komisch. „Yoga? Das ist doch nichts für mich.“ Aber er probiert es. Er geht zu einem Kurs am Dienstagabend.",
-      "Die erste Stunde ist schwer. Herr Schröder ist nicht sehr beweglich. Aber die Lehrerin ist geduldig. Nach sechs Wochen ist es leichter. Sein Rücken tut nicht mehr so weh. Jetzt macht er auch zu Hause jeden Morgen zehn Minuten Yoga."
-    ]
-  },
-  {
-    "id": "a1-066",
-    "title": "Die Großeltern",
-    "title_en": "The grandparents",
-    "summary_en": "Mona visits her grandparents every Sunday. Her grandfather tells stories about the past, her grandmother cooks, and Mona shows them how to make video calls.",
-    "paragraphs": [
-      "Mona besucht jeden Sonntag ihre Großeltern. Sie wohnen in einem kleinen Haus am Stadtrand. Opa ist achtzig und Oma ist achtundsiebzig.",
-      "Oma kocht immer etwas Leckeres, zum Beispiel Rouladen mit Klößen. Nach dem Essen trinken sie Kaffee. Opa erzählt Geschichten von früher. Er war Lehrer, und er hat viele lustige Geschichten von seinen Schülern.",
-      "Heute hat Mona eine Idee. Sie zeigt Oma und Opa, wie man mit dem Handy Videoanrufe macht. Das ist neu für sie. „Jetzt können wir dich jeden Tag sehen!“, sagt Oma. Sie lacht."
-    ]
-  },
-  {
-    "id": "a1-067",
-    "title": "Ein Tag als Verkäufer",
-    "title_en": "A day as a shop assistant",
-    "summary_en": "Yusuf works in a clothes shop. He opens the shop, arranges clothes, helps customers find sizes and works at the till until the shop closes at eight.",
-    "paragraphs": [
-      "Yusuf ist Verkäufer in einem Kleidergeschäft. Der Laden öffnet um zehn Uhr. Yusuf ist schon um halb zehn da.",
-      "Zuerst legt er neue T-Shirts und Hosen in die Regale. Dann kommen die ersten Kunden. Eine Frau sucht einen Pullover in Größe S. Ein Mann möchte eine Hose umtauschen. Yusuf hilft allen.",
-      "Am Nachmittag arbeitet er an der Kasse. Es gibt viele Kunden, denn heute ist Samstag. Um zwanzig Uhr schließt der Laden. Yusuf ist müde. Seine Füße tun weh. Aber er mag seine Arbeit, denn er spricht gern mit Menschen."
-    ]
-  },
-  {
-    "id": "a1-068",
-    "title": "Wohnung gesucht",
-    "title_en": "Flat wanted",
-    "summary_en": "Student Clara looks for a flat in Munich. Rents are very high. After many viewings she finds a room in a shared flat with three friendly people.",
-    "paragraphs": [
-      "Clara studiert in München. Sie sucht eine Wohnung. Aber in München sind die Wohnungen sehr teuer. Eine kleine Wohnung kostet oft tausend Euro oder mehr.",
-      "Clara liest jeden Tag Anzeigen im Internet. Sie schreibt viele E-Mails. Sie besichtigt zehn Wohnungen und Zimmer. Manche sind zu teuer, manche sind zu weit weg, und eine ist sehr dunkel.",
-      "Dann findet sie ein Zimmer in einer WG. Das Zimmer kostet fünfhundert Euro. Die drei Mitbewohner sind nett und studieren auch. Clara zieht am ersten Mai ein. Endlich hat sie ein Zuhause in München."
-    ]
-  },
-  {
-    "id": "a1-069",
-    "title": "Im Hotel gibt es ein Problem",
-    "title_en": "There's a problem at the hotel",
-    "summary_en": "Mr and Mrs Jung arrive at their hotel room, but the heating doesn't work and the shower is cold. Reception gives them a different, bigger room.",
-    "paragraphs": [
-      "Herr und Frau Jung sind im Urlaub in Hamburg. Sie kommen am Abend ins Hotel. Ihr Zimmer ist im fünften Stock.",
-      "Aber im Zimmer ist es sehr kalt. Die Heizung funktioniert nicht. Frau Jung will duschen, aber das Wasser ist auch kalt. „So geht das nicht!“, sagt Herr Jung. Er ruft die Rezeption an.",
-      "„Entschuldigen Sie bitte. Wir haben ein anderes Zimmer für Sie, im sechsten Stock.“ Das neue Zimmer ist warm und größer. Es hat sogar einen Balkon. Frau Jung lacht: „Jetzt ist alles gut.“"
-    ]
-  },
-  {
-    "id": "a1-070",
-    "title": "Information am Bahnhof",
-    "title_en": "Information at the station",
-    "summary_en": "Mrs Novak wants to travel to Leipzig but her train is cancelled. At the information desk she learns about the next train and that she has to change in Halle.",
-    "paragraphs": [
-      "Frau Novak ist am Bahnhof in Erfurt. Sie will nach Leipzig fahren. Aber auf der Anzeigetafel steht: „Zug fällt aus.“",
-      "Sie geht zur Information. „Guten Tag. Mein Zug nach Leipzig fällt aus. Wann fährt der nächste Zug?“ Der Mann schaut im Computer nach. „Der nächste Zug fährt um vierzehn Uhr zwölf von Gleis drei. Aber Sie müssen in Halle umsteigen.“",
-      "„Und wann bin ich in Leipzig?“ „Um fünfzehn Uhr vierzig.“ „Ist meine Fahrkarte noch gültig?“ „Ja, natürlich.“ Frau Novak bedankt sich und kauft sich einen Kaffee. Sie muss noch eine Stunde warten."
-    ]
-  },
-  {
-    "id": "a1-071",
-    "title": "Das Konzert",
-    "title_en": "The concert",
-    "summary_en": "Leonie gets two concert tickets for her favourite band as a present. She goes with her friend Pia. The music is loud and great, and they sing every song.",
-    "paragraphs": [
-      "Leonie hat Geburtstag. Ihr Bruder schenkt ihr zwei Karten für ein Konzert. Es ist ihre Lieblingsband! Leonie ist total glücklich.",
-      "Sie geht mit ihrer Freundin Pia. Das Konzert ist in einer großen Halle. Es beginnt um zwanzig Uhr. Schon um achtzehn Uhr stehen viele Leute vor der Halle.",
-      "Dann kommt die Band auf die Bühne. Alle schreien. Die Musik ist sehr laut und super. Leonie und Pia kennen jedes Lied und singen mit. Nach zwei Stunden ist das Konzert vorbei. Leonie hat keine Stimme mehr, aber sie ist sehr glücklich."
-    ]
-  },
-  {
-    "id": "a1-072",
-    "title": "Die Waschmaschine",
-    "title_en": "The washing machine",
-    "summary_en": "Tom washes his white shirts together with a new red T-shirt. Now all his shirts are pink. His neighbour Lina laughs, gives him a special detergent, and by evening the shirts are almost white again.",
-    "paragraphs": [
-      "Tom wohnt zum ersten Mal allein. Heute will er Wäsche waschen. Er hat viele weiße Hemden und ein neues, rotes T-Shirt. Er steckt alles zusammen in die Waschmaschine.",
-      "Nach zwei Stunden öffnet er die Maschine. Oh nein! Alle Hemden sind jetzt rosa! Tom ist geschockt. Morgen hat er ein wichtiges Gespräch im Büro.",
-      "Seine Nachbarin Lina lacht. „Tom, man wäscht weiße und rote Sachen nicht zusammen!“ Sie gibt ihm ein spezielles Waschmittel. Zum Glück sind die Hemden am Abend wieder fast weiß. Tom sagt: „Das mache ich nie wieder!“"
-    ]
-  },
-  {
-    "id": "a1-073",
-    "title": "Zum ersten Mal Schnee",
-    "title_en": "Snow for the first time",
-    "summary_en": "Priya from India sees snow for the first time in Germany. She is amazed, goes outside, builds a small snowman and buys warm boots.",
-    "paragraphs": [
-      "Priya kommt aus Chennai in Indien. Dort ist es immer warm. Seit September studiert sie in Göttingen.",
-      "Eines Morgens im Dezember sieht Priya aus dem Fenster. Alles ist weiß! Es schneit. Priya sieht zum ersten Mal Schnee. Sie zieht schnell ihre Jacke an und läuft nach draußen.",
-      "Der Schnee ist kalt und weich. Priya macht ein Foto für ihre Familie. Dann baut sie mit ihrer Mitbewohnerin einen kleinen Schneemann. Aber ihre Schuhe sind nass. Am Nachmittag kauft sie warme Winterstiefel."
-    ]
-  },
-  {
-    "id": "a1-074",
-    "title": "Beim Friseur",
-    "title_en": "At the hairdresser's",
-    "summary_en": "Robert wants a short haircut. He shows the hairdresser a photo, she washes and cuts his hair, and he is happy with the result.",
-    "paragraphs": [
-      "Roberts Haare sind zu lang. Er ruft beim Friseur an und macht einen Termin für Donnerstag um vier Uhr.",
-      "Die Friseurin fragt: „Wie möchten Sie die Haare?“ Robert zeigt ihr ein Foto auf seinem Handy. „So, bitte. Kurz an den Seiten und oben ein bisschen länger.“ „Kein Problem.“",
-      "Zuerst wäscht sie seine Haare. Dann schneidet sie. Sie sprechen über das Wetter und den Urlaub. Nach dreißig Minuten ist sie fertig. Robert sieht in den Spiegel. „Super, vielen Dank!“ Der Haarschnitt kostet fünfundzwanzig Euro."
-    ]
-  },
-  {
-    "id": "a1-075",
-    "title": "Mein Lieblingsessen",
-    "title_en": "My favourite food",
-    "summary_en": "Three people talk about their favourite food: Ali loves his mother's rice dish, Sophie loves pasta, and Mr Frank loves a traditional German meal.",
-    "paragraphs": [
-      "Ali: „Mein Lieblingsessen ist Reis mit Hähnchen und Gemüse. Meine Mutter kocht das sehr gut. Es ist ein Rezept aus Afghanistan. Ich esse es am liebsten am Freitag mit der ganzen Familie.“",
-      "Sophie: „Ich liebe Nudeln! Ich esse Nudeln mit Tomatensoße, mit Käse oder mit Pesto. Ich kann jeden Tag Nudeln essen. Mein Freund sagt, das ist langweilig. Aber ich finde Nudeln nie langweilig.“",
-      "Herr Frank: „Ich esse am liebsten Schweinebraten mit Knödeln und Sauerkraut. Das ist ein typisches Essen aus Bayern. Am Sonntag gehe ich oft mit meiner Frau in ein Gasthaus. Dort gibt es den besten Schweinebraten.“"
-    ]
-  },
-  {
-    "id": "a1-076",
-    "title": "Der Wochenplan",
-    "title_en": "The weekly plan",
-    "summary_en": "Busy mother Karin writes her family's plan for the week: football training, piano lessons, a parents' evening, a doctor's appointment and a free Sunday.",
-    "paragraphs": [
-      "Karin hat zwei Kinder und arbeitet halbtags. Ihre Woche ist immer voll. Deshalb schreibt sie jeden Sonntag einen Plan.",
-      "Am Montag hat ihr Sohn Fußballtraining. Am Dienstag hat ihre Tochter Klavierunterricht. Am Mittwoch ist Elternabend in der Schule. Am Donnerstag hat Karin einen Termin beim Arzt. Am Freitag kommen die Großeltern zum Abendessen.",
-      "Am Samstag macht die Familie den Einkauf für die Woche. Und am Sonntag? Am Sonntag steht im Plan nur ein Wort: „Frei!“ Dann bleiben alle lange im Bett."
-    ]
-  },
-  {
-    "id": "a1-077",
-    "title": "Der Flohmarkt",
-    "title_en": "The flea market",
-    "summary_en": "Sven and his daughter sell old toys, books and clothes at the flea market. They earn sixty euros, but then the daughter buys a doll with the money.",
-    "paragraphs": [
-      "Am Sonntag ist Flohmarkt auf dem Parkplatz am Stadion. Sven und seine Tochter Emma verkaufen dort alte Sachen. Sie haben einen Tisch und drei Kisten.",
-      "In den Kisten sind alte Spielsachen, Bücher, Kleidung und Teller. Viele Leute kommen und schauen. Eine Frau fragt: „Was kostet das Buch?“ „Ein Euro.“ „Nehmen Sie fünfzig Cent?“ „Okay.“",
-      "Am Ende haben Sven und Emma sechzig Euro. Aber dann sieht Emma an einem anderen Tisch eine schöne, alte Puppe. Sie kostet fünfzehn Euro. „Papa, bitte!“ Sven lacht. Am Ende kaufen sie die Puppe."
-    ]
-  },
-  {
-    "id": "a1-078",
-    "title": "Eine Fahrradtour",
-    "title_en": "A bike tour",
-    "summary_en": "Four friends cycle along the river Rhine for three days. They stay in youth hostels, see castles and vineyards, and once get lost.",
-    "paragraphs": [
-      "Vier Freunde machen eine Fahrradtour am Rhein. Sie fahren von Mainz nach Koblenz. Die Tour dauert drei Tage. Jeden Tag fahren sie ungefähr dreißig Kilometer.",
-      "Der Weg ist sehr schön. Sie sehen Burgen, kleine Dörfer und viele Weinberge. In der Nacht schlafen sie in Jugendherbergen. Das ist billig und lustig.",
-      "Am zweiten Tag fahren sie in die falsche Richtung. Nach einer Stunde merken sie das. Sie fragen einen alten Mann nach dem Weg. Er zeigt ihnen den richtigen Weg und lacht. Am dritten Tag kommen sie müde, aber glücklich in Koblenz an."
-    ]
-  },
-  {
-    "id": "a1-079",
-    "title": "Neu in Deutschland",
-    "title_en": "New in Germany",
-    "summary_en": "Lucas from Brazil has lived in Germany for a month. He finds many things different: shops closed on Sundays, punctuality, recycling and cold weather.",
-    "paragraphs": [
-      "Lucas kommt aus Brasilien. Er wohnt seit einem Monat in Deutschland. Er arbeitet als Ingenieur in Wolfsburg. Vieles ist neu für ihn.",
-      "Am Sonntag sind die Geschäfte geschlossen. Das findet Lucas komisch. In Brasilien kann man jeden Tag einkaufen. Die Deutschen sind auch sehr pünktlich. Ein Termin um neun Uhr ist um neun Uhr, nicht um Viertel nach neun!",
-      "Und der Müll! Es gibt Papier, Plastik, Glas und Biomüll. Lucas lernt das langsam. Das Wetter ist kalt und grau. Aber die Kollegen sind nett, und das Bier ist gut. Lucas sagt: „Ich bin gern hier.“"
-    ]
-  },
-  {
-    "id": "a1-080",
-    "title": "Ein Geschenk für Mama",
-    "title_en": "A present for Mum",
-    "summary_en": "It's Mother's Day soon. Siblings Tim and Ella have little money, so they make breakfast for their mother and give her a picture they painted.",
-    "paragraphs": [
-      "Am Sonntag ist Muttertag. Tim ist zehn und Ella ist acht. Sie möchten ihrer Mutter etwas schenken. Aber sie haben nur sieben Euro.",
-      "Ella hat eine Idee: „Wir machen ein Frühstück für Mama!“ Tim findet die Idee gut. Sie kaufen Brötchen und eine Rose. Ella malt auch ein Bild: Mama, Tim, Ella und die Katze.",
-      "Am Sonntag stehen die Kinder um sieben Uhr auf. Sie machen Kaffee und bringen alles ins Schlafzimmer. Die Mutter ist überrascht und sehr glücklich. „Das ist das schönste Geschenk!“, sagt sie. Das Bild hängt jetzt in der Küche."
-    ]
-  },
-  {
-    "id": "a1-081",
-    "title": "Im Museum",
-    "title_en": "At the museum",
-    "summary_en": "On a rainy day the Özdemir family visits a natural history museum. The children are excited by the dinosaur skeletons and buy a toy dinosaur in the shop.",
-    "paragraphs": [
-      "Es ist Samstag und es regnet. Familie Özdemir möchte nicht zu Hause bleiben. Sie gehen ins Naturkundemuseum.",
-      "Der Eintritt kostet für Erwachsene acht Euro, für Kinder ist er frei. Im ersten Saal stehen große Dinosaurier. Die Kinder, Deniz und Selin, staunen. „Der ist so groß wie ein Haus!“, ruft Deniz.",
-      "Sie sehen auch Steine, Vögel und Fische aus der ganzen Welt. Nach zwei Stunden gehen sie in den Museumsladen. Deniz kauft einen kleinen Dinosaurier aus Plastik. Er nennt ihn Rex."
-    ]
-  },
-  {
-    "id": "a1-082",
-    "title": "Pünktlich sein",
-    "title_en": "Being on time",
-    "summary_en": "Kai has a job interview at nine. He gets up too late, misses the bus and runs, but arrives exactly on time — and gets the job.",
-    "paragraphs": [
-      "Heute hat Kai ein Vorstellungsgespräch. Es ist um neun Uhr. Aber Kai wacht erst um acht Uhr auf. Sein Wecker hat nicht geklingelt!",
-      "Er duscht schnell, zieht sein Hemd an und läuft aus dem Haus. Kein Frühstück, kein Kaffee. Der Bus fährt gerade weg. Kai läuft zur Firma. Es sind zwei Kilometer.",
-      "Um acht Uhr neunundfünfzig steht er vor der Tür. Er ist rot und ein bisschen nass, aber pünktlich. Das Gespräch geht gut. Eine Woche später bekommt er einen Anruf: Er hat die Stelle! Kai kauft sofort einen neuen Wecker."
-    ]
-  },
-  {
-    "id": "a1-083",
-    "title": "Ein Abend zu Hause",
-    "title_en": "An evening at home",
-    "summary_en": "After a long week, Nele spends a quiet Friday evening at home: she takes a bath, cooks soup, watches a film on the sofa and goes to bed early.",
-    "paragraphs": [
-      "Die Woche war lang und anstrengend. Am Freitagabend möchte Nele nicht ausgehen. Ihre Freunde gehen in eine Bar, aber Nele bleibt zu Hause.",
-      "Zuerst nimmt sie ein warmes Bad. Dann kocht sie eine Gemüsesuppe. Sie isst die Suppe auf dem Sofa. Draußen regnet es. Drinnen ist es warm und gemütlich.",
-      "Nele sieht einen alten Film im Fernsehen. Ihre Katze liegt neben ihr. Um zehn Uhr ist sie schon sehr müde. Sie geht ins Bett und schläft sofort ein. Am Samstagmorgen fühlt sie sich wunderbar."
-    ]
-  },
-  {
-    "id": "a1-084",
-    "title": "Auf dem Bauernhof",
-    "title_en": "On the farm",
-    "summary_en": "A school class visits a farm. The farmer shows them cows, pigs and chickens. The children milk a cow, collect eggs and drink fresh milk.",
-    "paragraphs": [
-      "Die Klasse 2b macht einen Ausflug. Sie besuchen einen Bauernhof. Die Bäuerin heißt Frau Hartmann. Sie zeigt den Kindern den Hof.",
-      "Es gibt viele Tiere: Kühe, Schweine, Hühner, Schafe und zwei Katzen. Die Schweine sind schmutzig. Die Kinder finden sie lustig. Dann dürfen die Kinder eine Kuh melken. Das ist nicht leicht!",
-      "Danach sammeln sie Eier bei den Hühnern. Zum Schluss trinken alle frische Milch. „Die Milch ist warm!“, sagt ein Junge überrascht. Frau Hartmann lacht. „Ja, sie kommt ja direkt aus der Kuh.“"
-    ]
-  },
-  {
-    "id": "a1-085",
-    "title": "Die Kinder spielen",
-    "title_en": "The children are playing",
-    "summary_en": "On a sunny afternoon children play at the playground: hide-and-seek, football and on the swings. When it gets dark their parents call them home.",
-    "paragraphs": [
-      "Es ist ein sonniger Nachmittag. Auf dem Spielplatz sind viele Kinder. Sie haben Zeit, denn die Hausaufgaben sind fertig.",
-      "Ein paar Kinder spielen Verstecken. Ein Mädchen zählt bis zwanzig. Die anderen verstecken sich hinter Bäumen und Büschen. Zwei Jungen spielen Fußball. Ein kleiner Junge sitzt auf der Schaukel. Seine Schwester schaukelt ihn.",
-      "Die Eltern sitzen auf einer Bank und sprechen. Um sechs Uhr wird es dunkel. Eine Mutter ruft: „Kinder, nach Hause! Es gibt Abendessen!“ Die Kinder sagen: „Noch fünf Minuten, bitte!“"
-    ]
-  },
-  {
-    "id": "a1-086",
-    "title": "Ein Kurs an der Volkshochschule",
-    "title_en": "A course at the adult education centre",
-    "summary_en": "Retired Mrs Graf wants to learn something new. She takes a photography course at the adult education centre, learns a lot and makes new friends.",
-    "paragraphs": [
-      "Frau Graf ist pensioniert. Sie hat jetzt viel Zeit. Sie möchte etwas Neues lernen. Im Programm von der Volkshochschule findet sie einen Fotokurs.",
-      "Der Kurs ist jeden Mittwoch von achtzehn bis zwanzig Uhr. Er kostet neunzig Euro für zehn Termine. Im Kurs sind zwölf Leute. Der Lehrer erklärt die Kamera und das Licht.",
-      "Am Wochenende geht der Kurs zusammen in den Park und fotografiert. Frau Graf macht schöne Fotos von Blumen und Vögeln. Sie findet auch neue Freunde. Nach dem Kurs trinken sie oft zusammen ein Glas Wein."
-    ]
-  },
-  {
-    "id": "a1-087",
-    "title": "Die Fotos",
-    "title_en": "The photos",
-    "summary_en": "Grandma shows Luisa an old photo album. They look at photos of Grandma as a child, her wedding and Luisa's mother as a baby.",
-    "paragraphs": [
-      "Es regnet. Luisa ist bei ihrer Oma. Oma holt ein altes Fotoalbum aus dem Schrank. „Komm, wir schauen Fotos an.“",
-      "Das erste Foto ist schwarz-weiß. Ein kleines Mädchen steht vor einem Haus. „Das bin ich. Da war ich fünf Jahre alt.“ Luisa lacht. „Du siehst aus wie ich!“",
-      "Dann sehen sie die Hochzeit von Oma und Opa. Oma trägt ein langes Kleid. Opa hat noch viele Haare. Auf einem anderen Foto ist ein Baby. „Und wer ist das?“ „Das ist deine Mama!“ Luisa kann es nicht glauben."
-    ]
-  },
-  {
-    "id": "a1-088",
-    "title": "Erdbeeren pflücken",
-    "title_en": "Picking strawberries",
-    "summary_en": "In June Mrs Berg and her son pick strawberries on a field outside town. They eat almost as many as they pick, and at home they make jam.",
-    "paragraphs": [
-      "Es ist Juni. Jetzt ist Erdbeerzeit! Frau Berg und ihr Sohn Julian fahren zu einem Erdbeerfeld außerhalb der Stadt. Dort darf man selbst pflücken.",
-      "Das Feld ist groß, und die Erdbeeren sind rot und süß. Julian pflückt eine Erdbeere und isst sie sofort. Dann noch eine und noch eine. „Julian, die Erdbeeren sind für den Korb!“, sagt seine Mutter.",
-      "Nach einer Stunde haben sie drei Kilo Erdbeeren. Ein Kilo kostet vier Euro. Zu Hause machen sie Marmelade. Die Küche riecht wunderbar. Julian sagt: „Morgen essen wir Brot mit Marmelade!“"
-    ]
-  },
-  {
-    "id": "a1-089",
-    "title": "Der Abschied",
-    "title_en": "The farewell",
-    "summary_en": "After a year in Germany, exchange student Hana goes back to Japan. Her host family brings her to the airport; everyone is sad, and she promises to come back.",
-    "paragraphs": [
-      "Hana kommt aus Japan. Sie war ein Jahr als Austauschschülerin in Deutschland. Sie hat bei Familie Weiß gewohnt. Heute fliegt sie zurück nach Tokio.",
-      "Die ganze Familie bringt sie zum Flughafen. Hanas Koffer ist sehr schwer. Darin sind viele Geschenke für ihre Familie: Schokolade, Bücher und ein Fußballtrikot.",
-      "Am Gate weinen alle. Hana sagt: „Danke für alles. Ihr seid jetzt auch meine Familie.“ Frau Weiß umarmt sie. „Komm bald wieder!“ „Ja, ich verspreche es!“ Dann geht Hana zum Flugzeug."
-    ]
-  },
-  {
-    "id": "a1-090",
-    "title": "Im Kaufhaus",
-    "title_en": "In the department store",
-    "summary_en": "Mr Wolff looks for a present for his wife. A shop assistant helps him; he chooses a scarf and has it gift-wrapped.",
-    "paragraphs": [
-      "Herr Wolff sucht ein Geschenk für seine Frau. Sie hat nächste Woche Geburtstag. Er geht ins Kaufhaus, aber er hat keine Idee.",
-      "Eine Verkäuferin fragt: „Kann ich Ihnen helfen?“ „Ja, bitte. Ich suche ein Geschenk für meine Frau.“ „Was mag Ihre Frau denn?“ „Sie mag Blau, und ihr ist oft kalt.“ „Wie wäre es mit einem Schal?“",
-      "Die Verkäuferin zeigt ihm einen blauen Schal aus Wolle. Er ist weich und warm. „Perfekt! Den nehme ich.“ „Möchten Sie den Schal als Geschenk verpackt?“ „Ja, gern.“ Herr Wolff ist froh. Das war einfach."
-    ]
-  },
-  {
-    "id": "a1-091",
-    "title": "Der Hausmeister",
-    "title_en": "The caretaker",
-    "summary_en": "Mr Kowalski is the caretaker of a big apartment building. He fixes lights, cleans the stairs, helps tenants and knows everybody.",
-    "paragraphs": [
-      "Herr Kowalski ist Hausmeister in einem großen Haus. Im Haus wohnen dreißig Familien. Herr Kowalski kennt alle.",
-      "Er hat viel Arbeit. Er repariert Lampen und Türen. Er putzt die Treppe und den Hof. Im Winter räumt er den Schnee weg. Im Herbst sammelt er die Blätter.",
-      "Heute klingelt Frau Lorenz. „Herr Kowalski, in meinem Bad tropft der Wasserhahn.“ „Ich komme gleich.“ Nach zehn Minuten ist der Wasserhahn repariert. Frau Lorenz gibt ihm ein Stück Kuchen. „Sie sind der beste Hausmeister!“"
-    ]
-  },
-  {
-    "id": "a1-092",
-    "title": "Einkaufsliste",
-    "title_en": "The shopping list",
-    "summary_en": "Martin goes shopping with a list from his wife but forgets the list at home. He tries to remember and buys the wrong things.",
-    "paragraphs": [
-      "Martins Frau schreibt eine Einkaufsliste: Milch, Reis, Zwiebeln, Joghurt, Toilettenpapier und Kaffee. Martin nimmt die Liste und fährt zum Supermarkt.",
-      "Im Supermarkt sucht er die Liste. Sie ist nicht in seiner Tasche! Sie liegt noch zu Hause auf dem Tisch. Martin denkt nach: „Milch … Kaffee … und … Kartoffeln? Ja, Kartoffeln.“ Er kauft Milch, Kaffee, Kartoffeln, Bananen und Kekse.",
-      "Zu Hause schaut seine Frau in die Tüte. „Wo sind der Reis und der Joghurt? Und kein Toilettenpapier!“ Martin lacht verlegen. „Aber ich habe Kekse!“ Dann fährt er noch einmal zum Supermarkt."
-    ]
-  },
-  {
-    "id": "a1-093",
-    "title": "Der Sprachpartner",
-    "title_en": "The language partner",
-    "summary_en": "Spanish student Pablo has a language exchange with German student Jana. They meet weekly: one hour German, one hour Spanish, and they become friends.",
-    "paragraphs": [
-      "Pablo kommt aus Spanien und studiert in Heidelberg. Er möchte besser Deutsch sprechen. Jana ist Deutsche und lernt Spanisch. Sie machen ein Tandem.",
-      "Sie treffen sich jeden Donnerstag in einem Café. Eine Stunde sprechen sie Deutsch, eine Stunde Spanisch. Jana hilft Pablo mit der Aussprache. Pablo erklärt Jana die spanische Grammatik.",
-      "Manchmal machen sie Fehler und lachen viel. Nach drei Monaten spricht Pablo viel besser Deutsch. Und Jana kann jetzt auf Spanisch einen Kaffee bestellen. Sie sind auch gute Freunde geworden."
-    ]
-  },
-  {
-    "id": "a1-094",
-    "title": "Der Regenschirm",
-    "title_en": "The umbrella",
-    "summary_en": "Ida forgets her umbrella in a café. When she comes back, it is gone. A young man who had taken it by mistake brings it back, and they go for a coffee.",
-    "paragraphs": [
-      "Ida trinkt einen Tee im Café. Draußen regnet es. Nach einer Stunde bezahlt sie und geht. Aber sie vergisst ihren Regenschirm. Ihr Regenschirm ist gelb mit weißen Punkten.",
-      "Auf der Straße merkt Ida: „Mein Schirm!“ Sie geht zurück ins Café. Aber der Schirm ist weg. Ida ist nass und traurig.",
-      "Dann kommt ein junger Mann ins Café. Er hat einen gelben Schirm mit weißen Punkten. „Entschuldigung, ist das Ihr Schirm? Ich habe ihn falsch genommen. Mein Schirm ist auch gelb.“ Ida lacht. Der Mann lädt sie zu einem Kaffee ein."
-    ]
-  },
-  {
-    "id": "a1-095",
-    "title": "Die Sprachschule",
-    "title_en": "The language school",
-    "summary_en": "Ms Petrova teaches German at a language school. She describes her students, her lessons with games and songs, and why she loves her job.",
-    "paragraphs": [
-      "Frau Petrova ist Deutschlehrerin. Sie kommt aus Bulgarien und lebt seit zwanzig Jahren in Deutschland. Sie unterrichtet an einer Sprachschule in Mannheim.",
-      "Ihre Schüler sind Erwachsene aus vielen Ländern. Manche sind Ärzte, manche Studenten, manche Hausfrauen. Im Unterricht spielen sie oft Spiele und singen Lieder. So lernen sie die Wörter schneller.",
-      "Frau Petrova liebt ihren Beruf. Sie sagt: „Ich habe auch Deutsch gelernt. Ich weiß, wie schwer das ist. Aber jeder kann es lernen. Man braucht nur Zeit und Geduld.“"
-    ]
-  },
-  {
-    "id": "a1-096",
-    "title": "Der Nachtzug",
-    "title_en": "The night train",
-    "summary_en": "Elias takes the night train from Munich to Rome. He shares a compartment with an Italian family, sleeps in a bunk and wakes up in Italy.",
-    "paragraphs": [
-      "Elias fliegt nicht gern. Er fährt mit dem Nachtzug von München nach Rom. Der Zug fährt um acht Uhr abends ab.",
-      "Im Abteil sind sechs Betten. Elias teilt das Abteil mit einer Familie aus Italien. Die Kinder sind sehr nett. Die Mutter gibt Elias ein Stück Pizza. Sie sprechen ein bisschen Englisch und ein bisschen Deutsch.",
-      "Um zehn Uhr machen alle das Licht aus. Der Zug fährt durch die Nacht. Elias schläft gut. Am Morgen sieht er aus dem Fenster: Sonne, Berge und Meer. Er ist in Italien!"
-    ]
-  },
-  {
-    "id": "a1-097",
-    "title": "Ein Brief vom Vermieter",
-    "title_en": "A letter from the landlord",
-    "summary_en": "Mrs Baumann gets a letter from her landlord: the water will be turned off on Tuesday from 8 to 12 because of repairs. She fills bottles with water the evening before.",
-    "paragraphs": [
-      "Frau Baumann findet einen Brief im Briefkasten. Der Brief ist von ihrem Vermieter. Sie öffnet ihn und liest:",
-      "„Liebe Mieterinnen und Mieter, am Dienstag, den vierzehnten März, gibt es Reparaturen im Keller. Von acht bis zwölf Uhr gibt es kein Wasser. Bitte entschuldigen Sie. Mit freundlichen Grüßen, Klaus Weber, Hausverwaltung.“",
-      "Am Montagabend füllt Frau Baumann ein paar Flaschen mit Wasser. Sie duscht schon am Abend. Am Dienstag macht sie Kaffee mit dem Wasser aus der Flasche. Um zwölf Uhr kommt das Wasser zurück."
-    ]
-  },
-  {
-    "id": "a1-098",
-    "title": "Der Sonntagsspaziergang",
-    "title_en": "The Sunday walk",
-    "summary_en": "Every Sunday the Lange family goes for a walk in the forest. Today the children find mushrooms, see a deer, and they stop for cake at a café.",
-    "paragraphs": [
-      "Familie Lange macht jeden Sonntag einen Spaziergang. Sie gehen in den Wald. Der Wald beginnt direkt hinter ihrem Dorf.",
-      "Heute ist es kühl, aber sonnig. Die Kinder laufen voraus. Plötzlich bleibt die Tochter stehen. „Pst! Da ist ein Reh!“ Alle sind still. Das Reh schaut sie an und läuft dann weg.",
-      "Der Sohn findet Pilze unter einem Baum. „Können wir die essen?“ „Nein, lieber nicht“, sagt der Vater. „Manche Pilze sind giftig.“ Nach zwei Stunden gehen sie in ein Café und essen Apfelkuchen mit Sahne."
-    ]
-  },
-  {
-    "id": "a1-099",
-    "title": "Mein Zimmer",
-    "title_en": "My room",
-    "summary_en": "Twelve-year-old Mila describes her room: the bed, desk, shelves full of books, posters, her plants, and the window with a view of the garden.",
-    "paragraphs": [
-      "Das ist mein Zimmer. Es ist nicht groß, aber ich finde es sehr schön. Die Wände sind hellgrün. Grün ist meine Lieblingsfarbe.",
-      "Links steht mein Bett. Auf dem Bett liegen viele Kissen. Rechts ist mein Schreibtisch. Dort mache ich meine Hausaufgaben. Über dem Schreibtisch ist ein Regal mit Büchern. Ich lese sehr gern. An der Wand hängen Poster von meinen Lieblingssängern.",
-      "Am Fenster stehen drei Pflanzen. Ich gieße sie jeden Tag. Vom Fenster sehe ich in den Garten. Mein Zimmer ist nicht immer ordentlich. Aber es ist mein Lieblingsort."
-    ]
-  },
-  {
-    "id": "a1-100",
-    "title": "Im Supermarkt an der Kasse",
-    "title_en": "At the supermarket checkout",
-    "summary_en": "Mr Klein is at the checkout when he notices he has forgotten his wallet. The woman behind him pays for his milk and bread, and the next day he pays her back.",
-    "paragraphs": [
-      "Herr Klein steht an der Kasse im Supermarkt. Er hat Milch und Brot. „Das macht drei Euro fünfzig“, sagt die Kassiererin. Herr Klein sucht sein Portemonnaie. Aber es ist nicht da!",
-      "„Oh nein, ich habe mein Portemonnaie zu Hause vergessen!“ Hinter ihm steht eine Frau. Sie lächelt und sagt: „Kein Problem, ich bezahle für Sie.“ „Wirklich? Vielen Dank! Wohnen Sie hier in der Nähe?“ „Ja, in der Lindenstraße zwölf.“",
-      "Am nächsten Tag klingelt Herr Klein in der Lindenstraße zwölf. Er gibt der Frau das Geld zurück und schenkt ihr eine Schachtel Pralinen. „Danke für Ihre Hilfe!“"
-    ]
-  },
-  {
-    "id": "a1-101",
-    "title": "Der neue Kollege",
-    "title_en": "The new colleague",
-    "summary_en": "Tom starts a new job in an office. His colleague Sara shows him the kitchen, the printer and his desk, and they eat lunch together. Tom is tired in the evening but happy.",
-    "paragraphs": [
-      "Heute ist Montag. Tom hat eine neue Arbeit. Er arbeitet jetzt in einem Büro in Köln. Er ist ein bisschen nervös.",
-      "Seine Kollegin heißt Sara. Sie ist sehr nett. Sie zeigt Tom die Küche, den Drucker und seinen Schreibtisch. „Hier ist dein Computer“, sagt sie. „Das Passwort bekommst du vom Chef.“",
-      "Um zwölf Uhr essen Tom und Sara zusammen in der Kantine. Es gibt Nudeln mit Gemüse. Sara fragt: „Woher kommst du?“ Tom sagt: „Ich komme aus Hamburg. Und du?“ „Ich bin aus Köln“, sagt Sara.",
-      "Am Abend ist Tom müde, aber glücklich. Die Arbeit ist interessant und die Kollegen sind freundlich."
-    ]
-  }
+ {
+  "id": "a1-001",
+  "title": "Mein Name ist Anna",
+  "title_en": "My name is Anna",
+  "summary_en": "Anna introduces herself and describes her normal day: breakfast, work in a café, dinner with her mother and reading before bed.",
+  "topics": [
+   "familie",
+   "arbeit"
+  ],
+  "paragraphs": [
+   "Mein Name ist Anna. Ich bin zwanzig Jahre alt und wohne in Berlin. Ich habe einen Bruder. Er heißt Tom. Tom ist zwölf.",
+   "Jeden Morgen trinke ich Kaffee und esse ein Brot mit Käse. Dann fahre ich mit dem Bus zur Arbeit. Ich arbeite in einem Café. Die Arbeit macht Spaß, aber sie ist auch anstrengend.",
+   "Am Abend koche ich mit meiner Mutter. Wir essen zusammen und sprechen über den Tag. Danach lese ich ein Buch. Um zehn Uhr gehe ich ins Bett."
+  ]
+ },
+ {
+  "id": "a1-002",
+  "title": "Im Supermarkt",
+  "title_en": "At the supermarket",
+  "summary_en": "Peter goes shopping on Saturday, can't find the milk, asks a shop assistant for help and pays at the checkout.",
+  "topics": [
+   "einkaufen",
+   "essen"
+  ],
+  "paragraphs": [
+   "Heute ist Samstag. Peter geht in den Supermarkt. Er braucht Milch, Eier, Äpfel und Brot. Der Supermarkt ist nicht weit. Peter geht zu Fuß.",
+   "Im Supermarkt ist es voll. Viele Leute kaufen ein. Peter nimmt einen Korb. Die Äpfel sind rot und frisch. Ein Kilo kostet zwei Euro.",
+   "Peter findet die Milch nicht. Er fragt eine Verkäuferin: „Entschuldigung, wo ist die Milch?“ Die Verkäuferin lächelt: „Dort hinten, links.“ „Danke schön!“, sagt Peter.",
+   "An der Kasse bezahlt er zwölf Euro. Dann geht er nach Hause."
+  ]
+ },
+ {
+  "id": "a1-003",
+  "title": "Meine Familie",
+  "title_en": "My family",
+  "summary_en": "Lukas describes his family: his parents, his little sister Mia, his grandmother and the family dog.",
+  "topics": [
+   "familie"
+  ],
+  "paragraphs": [
+   "Ich heiße Lukas und ich bin acht Jahre alt. Ich wohne mit meiner Familie in Hamburg. Meine Familie ist nicht groß.",
+   "Mein Vater heißt Jan. Er ist Arzt und arbeitet im Krankenhaus. Meine Mutter heißt Sabine. Sie ist Lehrerin. Ich habe eine Schwester. Sie heißt Mia und ist vier Jahre alt. Mia ist klein, aber sehr laut.",
+   "Meine Oma wohnt auch bei uns. Sie kocht sehr gut. Am Sonntag backt sie immer einen Kuchen. Wir haben auch einen Hund. Er heißt Bello. Ich liebe meine Familie!"
+  ]
+ },
+ {
+  "id": "a1-004",
+  "title": "Die neue Wohnung",
+  "title_en": "The new flat",
+  "summary_en": "Sara has a new flat in Cologne with two rooms, a small kitchen and a balcony. She likes it, although it is on the fourth floor without a lift.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Sara hat eine neue Wohnung in Köln. Die Wohnung hat zwei Zimmer, eine Küche und ein Bad. Sie ist nicht sehr groß, aber hell und schön.",
+   "Im Wohnzimmer stehen ein Sofa, ein Tisch und zwei Stühle. Im Schlafzimmer steht ein Bett. Die Küche ist klein. Dort gibt es einen Kühlschrank und einen Herd.",
+   "Die Wohnung hat auch einen Balkon. Sara trinkt dort gern Tee. Die Wohnung ist im vierten Stock, und es gibt keinen Aufzug. Das ist ein Problem. Aber die Miete ist nicht teuer. Sara ist glücklich."
+  ]
+ },
+ {
+  "id": "a1-005",
+  "title": "Im Café",
+  "title_en": "In the café",
+  "summary_en": "Maria and Paul meet in a café. They order coffee, tea, cake and a sandwich, and Paul pays.",
+  "topics": [
+   "essen"
+  ],
+  "paragraphs": [
+   "Maria und Paul sind Freunde. Heute treffen sie sich im Café. Das Café ist klein und gemütlich.",
+   "Der Kellner kommt und fragt: „Was möchten Sie trinken?“ Maria sagt: „Ich nehme einen Kaffee mit Milch, bitte.“ Paul möchte einen Tee. „Und möchten Sie auch etwas essen?“ Maria bestellt ein Stück Kuchen. Paul nimmt ein Sandwich mit Schinken.",
+   "Der Kuchen ist sehr lecker. Maria und Paul sprechen lange über die Arbeit und den Urlaub. Dann ruft Paul: „Die Rechnung, bitte!“ Alles kostet vierzehn Euro. Paul bezahlt heute."
+  ]
+ },
+ {
+  "id": "a1-006",
+  "title": "Mein Tag",
+  "title_en": "My day",
+  "summary_en": "Ahmet describes his daily routine as a student: getting up, breakfast, university, lunch in the canteen, the library, football and bed.",
+  "topics": [
+   "bildung",
+   "essen"
+  ],
+  "paragraphs": [
+   "Ich heiße Ahmet und bin Student. Ich stehe jeden Tag um sieben Uhr auf. Zuerst dusche ich. Dann frühstücke ich. Ich esse Müsli und trinke Orangensaft.",
+   "Um acht Uhr fahre ich mit der U-Bahn zur Universität. Ich studiere Informatik. Um zwölf Uhr esse ich in der Mensa. Das Essen ist billig.",
+   "Am Nachmittag lerne ich in der Bibliothek. Um fünf Uhr spiele ich mit Freunden Fußball. Am Abend sehe ich fern oder telefoniere mit meiner Familie in der Türkei. Um elf Uhr schlafe ich."
+  ]
+ },
+ {
+  "id": "a1-007",
+  "title": "Das Wetter",
+  "title_en": "The weather",
+  "summary_en": "Emma talks about the weather in each season in Germany and what she likes to do in it. Today it is raining, so she stays at home.",
+  "topics": [
+   "umwelt"
+  ],
+  "paragraphs": [
+   "In Deutschland ist das Wetter oft anders. Im Frühling ist es warm, aber es regnet viel. Im Sommer ist es heiß und die Sonne scheint. Dann geht Emma gern schwimmen.",
+   "Im Herbst ist es kühl und windig. Die Blätter sind rot und gelb. Im Winter ist es kalt. Manchmal schneit es. Emma mag den Winter, denn sie fährt gern Ski.",
+   "Heute ist Montag. Es ist grau und es regnet. Emma bleibt zu Hause. Sie trinkt eine heiße Schokolade und liest ein Buch. Morgen kommt vielleicht die Sonne."
+  ]
+ },
+ {
+  "id": "a1-008",
+  "title": "Beim Arzt",
+  "title_en": "At the doctor's",
+  "summary_en": "Mr Weber has a headache, a sore throat and a fever. The doctor says he has a cold, gives him a prescription and tells him to stay at home for three days.",
+  "topics": [
+   "gesundheit"
+  ],
+  "paragraphs": [
+   "Herr Weber ist krank. Er hat Kopfschmerzen und Halsschmerzen. Er hat auch Fieber. Er ruft beim Arzt an und bekommt einen Termin um zehn Uhr.",
+   "Im Wartezimmer sitzen viele Leute. Herr Weber wartet zwanzig Minuten. Dann sagt die Ärztin: „Herr Weber, bitte!“",
+   "Die Ärztin fragt: „Was fehlt Ihnen?“ Herr Weber sagt: „Mein Kopf tut weh und ich bin sehr müde.“ Die Ärztin sagt: „Sie haben eine Erkältung. Trinken Sie viel Tee und bleiben Sie drei Tage im Bett.“ Sie gibt ihm ein Rezept. Herr Weber geht zur Apotheke."
+  ]
+ },
+ {
+  "id": "a1-009",
+  "title": "Mein Hobby",
+  "title_en": "My hobby",
+  "summary_en": "Lena's hobby is music: she plays the guitar, practises every day and plays in a small band with friends. Her brother prefers computer games.",
+  "topics": [
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Lena ist sechzehn Jahre alt. Ihr Hobby ist Musik. Sie spielt Gitarre. Sie übt jeden Tag eine Stunde.",
+   "Am Freitag spielt Lena in einer Band. Die Band hat vier Leute: Lena, Max, Sofia und Jonas. Max spielt Schlagzeug und Sofia singt. Die Band ist nicht berühmt, aber sie spielt manchmal in der Schule.",
+   "Lenas Bruder findet Musik langweilig. Sein Hobby sind Computerspiele. Lena sagt: „Spielen ist okay, aber Musik ist besser!“"
+  ]
+ },
+ {
+  "id": "a1-010",
+  "title": "Der Geburtstag",
+  "title_en": "The birthday",
+  "summary_en": "It is Julia's 30th birthday. She invites friends to a party at home, gets presents and everyone sings and dances until midnight.",
+  "topics": [
+   "feste",
+   "familie"
+  ],
+  "paragraphs": [
+   "Heute hat Julia Geburtstag. Sie wird dreißig Jahre alt. Am Abend macht sie eine Party. Sie lädt zehn Freunde ein.",
+   "Julia kauft Getränke und macht einen Salat. Ihre Freundin Nina bringt eine Torte mit. Um sieben Uhr klingelt es. Die Gäste kommen.",
+   "„Alles Gute zum Geburtstag!“, sagen alle. Julia bekommt viele Geschenke: ein Buch, Blumen und eine Tasche. Sie freut sich sehr. Alle essen, trinken, singen und tanzen. Die Party endet um Mitternacht."
+  ]
+ },
+ {
+  "id": "a1-011",
+  "title": "Mit dem Zug nach München",
+  "title_en": "By train to Munich",
+  "summary_en": "Tim buys a ticket and takes the train from Nuremberg to Munich to visit his friend. The train is ten minutes late, but the journey is pleasant.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Tim wohnt in Nürnberg. Am Wochenende fährt er nach München. Dort wohnt sein Freund Felix.",
+   "Am Bahnhof kauft Tim eine Fahrkarte am Automaten. Die Fahrkarte kostet dreißig Euro. Der Zug fährt um neun Uhr von Gleis vier. Aber heute hat der Zug zehn Minuten Verspätung.",
+   "Im Zug ist es ruhig. Tim sitzt am Fenster und hört Musik. Draußen sieht er Felder, Wälder und kleine Dörfer. Nach einer Stunde ist er in München. Felix wartet schon am Bahnsteig."
+  ]
+ },
+ {
+  "id": "a1-012",
+  "title": "Einkaufen auf dem Markt",
+  "title_en": "Shopping at the market",
+  "summary_en": "On Saturday Mrs Schulz buys fruit, vegetables and flowers at the weekly market. She chats with the seller and gets a free apple.",
+  "topics": [
+   "einkaufen",
+   "essen"
+  ],
+  "paragraphs": [
+   "Jeden Samstag ist Markt in der Stadt. Frau Schulz geht gern dorthin. Das Obst und das Gemüse sind frisch und kommen aus der Region.",
+   "Sie kauft Tomaten, Kartoffeln und eine Gurke. Dann geht sie zum Obststand. „Guten Morgen! Ich hätte gern ein Kilo Äpfel und drei Bananen.“ Der Verkäufer sagt: „Das macht vier Euro fünfzig.“",
+   "Frau Schulz kauft auch Blumen für den Tisch. Der Verkäufer kennt sie gut. Er schenkt ihr einen Apfel. „Schönes Wochenende!“, sagt er. Frau Schulz lacht und geht nach Hause."
+  ]
+ },
+ {
+  "id": "a1-013",
+  "title": "Der erste Schultag",
+  "title_en": "The first day of school",
+  "summary_en": "Six-year-old Ben starts school. He has a school cone full of sweets, meets his teacher and sits next to a boy called Ali, who becomes his friend.",
+  "topics": [
+   "bildung",
+   "familie"
+  ],
+  "paragraphs": [
+   "Heute ist ein besonderer Tag. Ben ist sechs Jahre alt und geht zum ersten Mal in die Schule. Er hat einen neuen Rucksack und eine große Schultüte. In der Schultüte sind Süßigkeiten und Stifte.",
+   "Bens Eltern bringen ihn zur Schule. Die Lehrerin heißt Frau Braun. Sie ist sehr nett. Im Klassenzimmer sind zwanzig Kinder.",
+   "Ben sitzt neben einem Jungen. Er heißt Ali. Ali hat auch eine Schultüte. Die beiden Jungen lachen und malen zusammen. Am Mittag sagt Ben: „Mama, Ali ist mein neuer Freund!“"
+  ]
+ },
+ {
+  "id": "a1-014",
+  "title": "Im Restaurant",
+  "title_en": "At the restaurant",
+  "summary_en": "Mr and Mrs Klein eat at an Italian restaurant. They order pizza, pasta and wine, enjoy the food and leave a tip.",
+  "topics": [
+   "essen"
+  ],
+  "paragraphs": [
+   "Herr und Frau Klein gehen heute Abend ins Restaurant. Es ist ein italienisches Restaurant in der Nähe. Sie haben einen Tisch für zwei Personen reserviert.",
+   "Die Kellnerin bringt die Speisekarte. Frau Klein bestellt eine Pizza mit Pilzen. Herr Klein nimmt Spaghetti mit Tomatensoße. Sie trinken ein Glas Rotwein und eine Flasche Wasser.",
+   "Das Essen schmeckt sehr gut. Zum Nachtisch essen sie ein Eis. Die Rechnung ist achtundvierzig Euro. Herr Klein bezahlt mit Karte und gibt zwei Euro Trinkgeld."
+  ]
+ },
+ {
+  "id": "a1-015",
+  "title": "Wie spät ist es?",
+  "title_en": "What time is it?",
+  "summary_en": "Nora has an appointment at the hairdresser's at half past three, but her phone is dead. She asks a man in the street for the time and arrives just in time.",
+  "topics": [
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Nora hat heute um halb vier einen Termin beim Friseur. Sie ist in der Stadt und kauft ein. Aber ihr Handy ist leer, und sie hat keine Uhr.",
+   "Sie fragt einen Mann: „Entschuldigung, wie spät ist es?“ Der Mann sieht auf seine Uhr. „Es ist Viertel nach drei.“ „Oh nein! Vielen Dank!“",
+   "Nora geht schnell. Der Friseur ist zehn Minuten entfernt. Um fünf vor halb vier ist sie da. Die Friseurin lächelt: „Sie sind pünktlich, sehr gut!“"
+  ]
+ },
+ {
+  "id": "a1-016",
+  "title": "Eine neue Jacke",
+  "title_en": "A new jacket",
+  "summary_en": "Leon needs a warm jacket for winter. In the shop the black jacket is too small, so he buys a blue one in size L, which is on sale.",
+  "topics": [
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "Es ist Oktober und es ist schon kalt. Leon braucht eine warme Jacke. Er geht in ein Kleidergeschäft im Zentrum.",
+   "Eine Verkäuferin hilft ihm. „Welche Größe haben Sie?“ „Ich glaube, M.“ Leon probiert eine schwarze Jacke an. Aber sie ist zu klein. „Haben Sie die Jacke auch in L?“ „Leider nein. Aber wir haben eine blaue Jacke in L.“",
+   "Die blaue Jacke passt gut. Sie kostet neunzig Euro, aber heute gibt es zwanzig Prozent Rabatt. Leon ist zufrieden und kauft die Jacke."
+  ]
+ },
+ {
+  "id": "a1-017",
+  "title": "Eine Postkarte aus Spanien",
+  "title_en": "A postcard from Spain",
+  "summary_en": "Clara writes a postcard to her grandmother from her holiday in Spain, describing the hotel, the sea, the food and the weather.",
+  "topics": [
+   "reisen",
+   "sprache"
+  ],
+  "paragraphs": [
+   "Liebe Oma,",
+   "viele Grüße aus Spanien! Ich bin mit Papa und Mama in Valencia. Das Hotel ist schön und liegt direkt am Meer. Jeden Tag schwimmen wir und spielen am Strand.",
+   "Das Essen hier ist super. Ich esse jeden Tag Paella und Eis. Das Wetter ist toll: Es ist sonnig und dreißig Grad warm. Am Freitag fliegen wir zurück nach Frankfurt. Dann erzähle ich dir alles.",
+   "Bis bald! Deine Clara"
+  ]
+ },
+ {
+  "id": "a1-018",
+  "title": "Am Wochenende",
+  "title_en": "At the weekend",
+  "summary_en": "Daniel and Hannah have no work at the weekend. On Saturday they clean the flat, go shopping and visit friends; on Sunday they sleep late and go for a walk.",
+  "topics": [
+   "freizeit",
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Daniel und Hannah arbeiten von Montag bis Freitag. Am Wochenende haben sie frei.",
+   "Am Samstag putzen sie zuerst die Wohnung. Dann gehen sie einkaufen. Am Abend besuchen sie Freunde. Sie kochen zusammen und spielen Karten.",
+   "Am Sonntag schlafen Daniel und Hannah lange. Sie frühstücken erst um zehn Uhr: Brötchen, Eier und Marmelade. Am Nachmittag machen sie einen Spaziergang im Park. Am Abend sind sie müde, aber zufrieden. Morgen beginnt die Woche wieder."
+  ]
+ },
+ {
+  "id": "a1-019",
+  "title": "Wo ist der Bahnhof?",
+  "title_en": "Where is the station?",
+  "summary_en": "A tourist asks a woman for the way to the station. She explains the route: straight on, right at the traffic lights, past the church; it takes about five minutes.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Ein Tourist steht auf der Straße. Er sucht den Bahnhof. Er fragt eine Frau: „Entschuldigung, wie komme ich zum Bahnhof?“",
+   "Die Frau sagt: „Gehen Sie hier geradeaus bis zur Ampel. Dann gehen Sie nach rechts. Sie sehen dann eine Kirche. Gehen Sie an der Kirche vorbei. Der Bahnhof ist dann links.“",
+   "„Ist es weit?“, fragt der Tourist. „Nein, nur fünf Minuten zu Fuß.“ „Vielen Dank!“ „Gern geschehen. Gute Reise!“"
+  ]
+ },
+ {
+  "id": "a1-020",
+  "title": "In der Bäckerei",
+  "title_en": "At the bakery",
+  "summary_en": "Mr Fischer buys bread rolls and a pretzel at the bakery every morning. Today the pretzels are sold out, so he takes a croissant.",
+  "topics": [
+   "essen",
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "Herr Fischer geht jeden Morgen in die Bäckerei. Die Bäckerei ist an der Ecke, direkt neben seinem Haus. Dort riecht es immer gut.",
+   "„Guten Morgen, Herr Fischer! Was darf es sein?“, fragt die Bäckerin. „Sechs Brötchen und eine Brezel, bitte.“ „Die Brötchen haben wir. Aber Brezeln sind leider schon weg.“",
+   "„Schade. Dann nehme ich ein Croissant.“ „Gern. Das macht drei Euro zwanzig.“ Herr Fischer bezahlt und sagt: „Bis morgen!“"
+  ]
+ },
+ {
+  "id": "a1-021",
+  "title": "Im Büro",
+  "title_en": "At the office",
+  "summary_en": "Katrin works in an office as a secretary. She answers emails and phone calls, has a meeting, eats lunch with a colleague and goes home at five.",
+  "topics": [
+   "arbeit"
+  ],
+  "paragraphs": [
+   "Katrin ist Sekretärin. Sie arbeitet in einem Büro in Stuttgart. Ihr Büro ist im zweiten Stock. Sie hat einen Computer, ein Telefon und viele Papiere auf dem Schreibtisch.",
+   "Am Morgen liest sie ihre E-Mails und schreibt Antworten. Das Telefon klingelt oft. Um elf Uhr hat sie eine Besprechung mit ihrem Chef.",
+   "Um halb eins macht Katrin Mittagspause. Sie isst mit ihrer Kollegin Petra in der Kantine. Am Nachmittag arbeitet sie wieder am Computer. Um fünf Uhr hat sie Feierabend."
+  ]
+ },
+ {
+  "id": "a1-022",
+  "title": "Sport im Park",
+  "title_en": "Sport in the park",
+  "summary_en": "Every Tuesday and Thursday Murat goes jogging in the park before work. Today he meets his neighbour, and they run together.",
+  "topics": [
+   "freizeit",
+   "gesundheit"
+  ],
+  "paragraphs": [
+   "Murat ist fünfunddreißig. Er macht gern Sport. Jeden Dienstag und Donnerstag joggt er im Park. Er läuft immer am Morgen, vor der Arbeit.",
+   "Heute ist Dienstag. Es ist sechs Uhr. Der Park ist ruhig, nur ein paar Leute sind da. Murat läuft fünf Kilometer.",
+   "Plötzlich sieht er seine Nachbarin Frau Lang. Sie joggt auch! „Hallo, Frau Lang! Laufen wir zusammen?“ „Gern!“ Jetzt laufen sie jede Woche zusammen. Das macht mehr Spaß."
+  ]
+ },
+ {
+  "id": "a1-023",
+  "title": "Pfannkuchen",
+  "title_en": "Pancakes",
+  "summary_en": "Marie makes pancakes with her children: flour, milk, eggs and a little sugar. The children eat them with apple sauce and want more.",
+  "topics": [
+   "essen",
+   "familie"
+  ],
+  "paragraphs": [
+   "Es ist Sonntag. Marie kocht mit ihren Kindern Paul und Lisa. Heute gibt es Pfannkuchen.",
+   "Sie brauchen Mehl, Milch, Eier, ein bisschen Zucker und ein bisschen Salz. Paul gibt das Mehl in eine Schüssel. Lisa macht die Eier auf. Dann rühren sie alles gut.",
+   "Marie macht die Pfanne heiß und backt die Pfannkuchen. Sie riechen super! Die Kinder essen die Pfannkuchen mit Apfelmus. „Mama, noch einen, bitte!“, ruft Lisa. Am Ende ist kein Pfannkuchen mehr da."
+  ]
+ },
+ {
+  "id": "a1-024",
+  "title": "Ein Tag am See",
+  "title_en": "A day at the lake",
+  "summary_en": "On a hot Sunday Tom and his friends cycle to a lake. They swim, have a picnic and play volleyball, and cycle home in the evening.",
+  "topics": [
+   "freizeit",
+   "umwelt"
+  ],
+  "paragraphs": [
+   "Es ist Juli und sehr heiß. Tom und seine Freunde fahren mit dem Fahrrad zum See. Der See ist fünfzehn Kilometer von der Stadt entfernt.",
+   "Am See ist es wunderbar. Das Wasser ist klar und nicht zu kalt. Die Freunde schwimmen und liegen in der Sonne. Zum Mittagessen machen sie ein Picknick. Es gibt Brot, Käse, Obst und Limonade.",
+   "Am Nachmittag spielen sie Volleyball. Um sieben Uhr fahren sie zurück. Sie sind müde, aber glücklich. „Nächsten Sonntag kommen wir wieder!“, sagt Tom."
+  ]
+ },
+ {
+  "id": "a1-025",
+  "title": "Das Hotelzimmer",
+  "title_en": "The hotel room",
+  "summary_en": "Mrs Meyer checks in to a hotel in Dresden. Her room is on the third floor and has a view of the river. Breakfast is from seven to ten.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Frau Meyer ist für zwei Tage in Dresden. Sie geht zur Rezeption von ihrem Hotel. „Guten Tag. Ich habe ein Zimmer reserviert. Mein Name ist Meyer.“",
+   "Der Mann an der Rezeption sucht im Computer. „Ja, Frau Meyer, ein Einzelzimmer für zwei Nächte. Hier ist Ihr Schlüssel. Sie haben Zimmer dreihundertzwölf im dritten Stock.“",
+   "„Wann gibt es Frühstück?“ „Von sieben bis zehn Uhr im Restaurant.“ Das Zimmer ist klein, aber sauber. Vom Fenster sieht Frau Meyer den Fluss. Sie ist sehr zufrieden."
+  ]
+ },
+ {
+  "id": "a1-026",
+  "title": "Mein Freund Kofi",
+  "title_en": "My friend Kofi",
+  "summary_en": "Kofi from Ghana lives in Leipzig and learns German. He works in a restaurant, plays basketball and wants to study medicine later.",
+  "topics": [
+   "familie"
+  ],
+  "paragraphs": [
+   "Das ist mein Freund Kofi. Er kommt aus Ghana und wohnt seit einem Jahr in Leipzig. Kofi spricht Englisch und ein bisschen Französisch. Jetzt lernt er Deutsch.",
+   "Kofi arbeitet in einem Restaurant. Er ist Koch. Die Arbeit ist hart, aber er mag seine Kollegen. Am Wochenende spielt er Basketball. Er ist sehr groß und spielt gut.",
+   "Kofi hat einen Plan: Er möchte später Medizin studieren. Deshalb lernt er jeden Abend Deutsch. Ich helfe ihm manchmal. Er lernt schnell!"
+  ]
+ },
+ {
+  "id": "a1-027",
+  "title": "Der Umzug",
+  "title_en": "The move",
+  "summary_en": "Eva moves from a small village to Frankfurt for a new job. Her brothers help her carry the boxes, and in the evening they eat pizza in the empty flat.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Eva zieht um. Sie hat eine neue Stelle in Frankfurt. Bis jetzt wohnt sie in einem kleinen Dorf. Jetzt braucht sie eine Wohnung in der Stadt.",
+   "Am Samstag ist der Umzug. Ihre zwei Brüder helfen ihr. Sie tragen viele Kartons, einen Schrank, ein Bett und einen Tisch. Die Kartons sind schwer. Zum Glück gibt es in dem Haus einen Aufzug.",
+   "Am Abend ist alles in der Wohnung. Aber nichts ist an seinem Platz. Eva und ihre Brüder sitzen auf dem Boden und essen Pizza. „Danke für eure Hilfe!“, sagt Eva."
+  ]
+ },
+ {
+  "id": "a1-028",
+  "title": "Die neuen Nachbarn",
+  "title_en": "The new neighbours",
+  "summary_en": "A new family moves in next door to Mr Hoffmann. He says hello, they introduce themselves, and the next day the family brings him a cake.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Herr Hoffmann ist siebzig Jahre alt und wohnt allein. Neben ihm ist eine Wohnung frei. Heute kommen neue Nachbarn.",
+   "Herr Hoffmann klingelt bei den Nachbarn. Eine junge Frau öffnet die Tür. „Guten Tag, ich bin Ihr Nachbar. Ich heiße Hoffmann.“ „Ah, hallo! Ich bin Ayşe Yılmaz. Das ist mein Mann Emre, und das sind unsere Kinder.“",
+   "Am nächsten Tag klingelt es bei Herrn Hoffmann. Frau Yılmaz und die Kinder stehen vor der Tür. Sie haben einen Kuchen für ihn. Herr Hoffmann freut sich. Er macht Kaffee, und alle essen zusammen Kuchen."
+  ]
+ },
+ {
+  "id": "a1-029",
+  "title": "Im Deutschkurs",
+  "title_en": "In the German course",
+  "summary_en": "Fatima goes to a German course three times a week. The students come from many countries. Today they learn the numbers and play a game.",
+  "topics": [
+   "bildung",
+   "sprache"
+  ],
+  "paragraphs": [
+   "Fatima kommt aus Syrien. Sie macht einen Deutschkurs an der Volkshochschule. Der Kurs ist am Montag, Mittwoch und Freitag von neun bis zwölf Uhr.",
+   "Im Kurs sind fünfzehn Leute. Sie kommen aus vielen Ländern: aus Polen, aus Brasilien, aus China und aus Italien. Der Lehrer heißt Herr Wolf. Er erklärt alles sehr gut.",
+   "Heute lernen sie die Zahlen. Sie spielen ein Spiel: Herr Wolf sagt eine Zahl, und die Leute schreiben sie an die Tafel. Fatima gewinnt. Sie sagt: „Deutsch ist schwer, aber es macht Spaß!“"
+  ]
+ },
+ {
+  "id": "a1-030",
+  "title": "Ein Anruf",
+  "title_en": "A phone call",
+  "summary_en": "Jonas calls his friend Mehmet to invite him to the cinema on Saturday. Mehmet can't on Saturday, so they agree on Sunday at six.",
+  "topics": [
+   "medien",
+   "sprache"
+  ],
+  "paragraphs": [
+   "Das Telefon klingelt. „Hallo, hier ist Mehmet.“ „Hallo Mehmet, hier ist Jonas. Wie geht es dir?“ „Gut, danke. Und dir?“ „Auch gut.“",
+   "„Hast du am Samstag Zeit? Ich möchte ins Kino gehen. Kommst du mit?“ „Am Samstag? Tut mir leid, da kann ich nicht. Ich muss arbeiten. Geht es am Sonntag?“",
+   "„Ja, Sonntag ist auch gut. Um wie viel Uhr?“ „Um sechs Uhr?“ „Perfekt. Wir treffen uns vor dem Kino.“ „Okay, bis Sonntag! Tschüss!“ „Tschüss!“"
+  ]
+ },
+ {
+  "id": "a1-031",
+  "title": "Das Fahrrad",
+  "title_en": "The bicycle",
+  "summary_en": "Mila rides her bike to work every day. One morning the tyre is flat, so she takes the tram. In the evening her father helps her repair the bike.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Mila fährt jeden Tag mit dem Fahrrad zur Arbeit. Das ist gesund und billig. Der Weg ist sechs Kilometer lang.",
+   "Aber heute Morgen hat das Fahrrad ein Problem: Der Reifen ist kaputt. Mila hat keine Zeit. Sie nimmt die Straßenbahn. Die Straßenbahn ist voll, und Mila muss stehen.",
+   "Am Abend ruft Mila ihren Vater an. Er kommt und hilft ihr. Zusammen reparieren sie den Reifen. Das dauert nur eine halbe Stunde. „Danke, Papa!“ Morgen fährt Mila wieder mit dem Fahrrad."
+  ]
+ },
+ {
+  "id": "a1-032",
+  "title": "Der leere Kühlschrank",
+  "title_en": "The empty fridge",
+  "summary_en": "Felix is hungry, but his fridge is empty. The shops are already closed, so he orders food from a Turkish restaurant and decides to make a shopping list.",
+  "topics": [
+   "essen",
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "Es ist Sonntagabend. Felix hat Hunger. Er öffnet den Kühlschrank. Aber der Kühlschrank ist leer! Es gibt nur eine Flasche Wasser und ein altes Ei.",
+   "Am Sonntag sind die Geschäfte in Deutschland geschlossen. Was macht Felix jetzt? Er bestellt Essen bei einem türkischen Restaurant: einen Döner und einen Salat. Nach dreißig Minuten klingelt es. Das Essen ist da.",
+   "Felix isst und denkt: „Morgen schreibe ich eine Einkaufsliste.“ Er schreibt: Milch, Brot, Butter, Käse, Nudeln, Tomaten, Obst. Am Montag geht er sofort nach der Arbeit einkaufen."
+  ]
+ },
+ {
+  "id": "a1-033",
+  "title": "Bei der Zahnärztin",
+  "title_en": "At the dentist's",
+  "summary_en": "Max has toothache and is afraid of the dentist. The dentist is friendly, finds a small hole and fills it. It doesn't hurt and Max is relieved.",
+  "topics": [
+   "gesundheit"
+  ],
+  "paragraphs": [
+   "Max hat Zahnschmerzen. Er hat Angst vor dem Zahnarzt. Aber die Schmerzen sind stark. Er muss gehen.",
+   "Die Zahnärztin heißt Dr. Neumann. Sie ist freundlich. „Bitte machen Sie den Mund auf.“ Sie schaut die Zähne an. „Hier ist ein kleines Loch. Das ist kein Problem.“",
+   "Die Behandlung dauert zwanzig Minuten. Es tut nicht weh. Max ist froh. Die Zahnärztin sagt: „Putzen Sie zweimal am Tag die Zähne, und essen Sie nicht so viel Schokolade!“ Max lacht. „Okay, ich versuche es.“"
+  ]
+ },
+ {
+  "id": "a1-034",
+  "title": "Im Zoo",
+  "title_en": "At the zoo",
+  "summary_en": "Mr Becker takes his two children to the zoo. They see elephants, lions, monkeys and penguins. The monkeys are the children's favourite.",
+  "topics": [
+   "familie",
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Am Samstag geht Herr Becker mit seinen Kindern in den Zoo. Die Kinder heißen Anna und Leo. Sie sind sehr aufgeregt.",
+   "Zuerst sehen sie die Elefanten. Sie sind riesig! Dann gehen sie zu den Löwen. Ein Löwe schläft in der Sonne. Bei den Pinguinen ist es lustig. Die Pinguine schwimmen sehr schnell.",
+   "Am besten finden die Kinder die Affen. Die Affen springen und spielen. Ein Affe isst eine Banane. Leo lacht laut. Um vier Uhr sind alle müde. Im Auto schlafen die Kinder sofort ein."
+  ]
+ },
+ {
+  "id": "a1-035",
+  "title": "Weihnachten",
+  "title_en": "Christmas",
+  "summary_en": "The Schmidt family celebrates Christmas: a Christmas tree, presents on Christmas Eve, a big dinner and a visit from the grandparents.",
+  "topics": [
+   "feste",
+   "familie"
+  ],
+  "paragraphs": [
+   "Es ist Dezember. Bald ist Weihnachten. Familie Schmidt kauft einen Weihnachtsbaum. Die Kinder schmücken den Baum mit Kugeln und Sternen.",
+   "Am vierundzwanzigsten Dezember ist Heiligabend. Am Abend kommen die Großeltern. Alle essen zusammen. Es gibt Gans mit Kartoffeln und Rotkohl. Danach singen sie Lieder.",
+   "Dann gibt es die Geschenke. Die Kinder bekommen Bücher, Spiele und warme Socken. Die Großeltern bekommen ein Foto von der Familie. Alle sind glücklich. „Frohe Weihnachten!“"
+  ]
+ },
+ {
+  "id": "a1-036",
+  "title": "Silvester",
+  "title_en": "New Year's Eve",
+  "summary_en": "Igor celebrates New Year's Eve with friends. They eat, play games, count down to midnight, watch the fireworks and make New Year's resolutions.",
+  "topics": [
+   "feste"
+  ],
+  "paragraphs": [
+   "Heute ist der einunddreißigste Dezember, Silvester. Igor feiert mit Freunden bei Sarah. Sie essen Raclette und spielen Spiele.",
+   "Kurz vor Mitternacht gehen alle auf den Balkon. Sie zählen: „Zehn, neun, acht … drei, zwei, eins! Frohes neues Jahr!“ Draußen gibt es ein Feuerwerk. Der Himmel ist bunt.",
+   "Dann fragt Sarah: „Was sind eure Pläne für das neue Jahr?“ Igor sagt: „Ich will mehr Sport machen.“ Sarah sagt: „Und ich möchte Spanisch lernen.“ Alle lachen. Jedes Jahr haben sie die gleichen Pläne."
+  ]
+ },
+ {
+  "id": "a1-037",
+  "title": "Die Katze Minka",
+  "title_en": "Minka the cat",
+  "summary_en": "Mrs Roth's cat Minka is missing. She searches everywhere and puts up notes. In the evening Minka is sitting in the neighbour's garage.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Frau Roth hat eine Katze. Sie heißt Minka. Minka ist grau und weiß und sehr süß. Sie schläft gern auf dem Sofa.",
+   "Aber heute ist Minka weg. Frau Roth sucht sie überall: in der Wohnung, im Garten, auf der Straße. Sie ruft: „Minka! Minka!“ Aber die Katze kommt nicht. Frau Roth ist traurig. Sie schreibt Zettel und hängt sie an die Bäume.",
+   "Am Abend klingelt der Nachbar. „Frau Roth, ich glaube, Ihre Katze ist in meiner Garage!“ Wirklich: Minka sitzt in der Garage und schläft. Frau Roth ist sehr froh."
+  ]
+ },
+ {
+  "id": "a1-038",
+  "title": "Am Flughafen",
+  "title_en": "At the airport",
+  "summary_en": "Olga flies from Berlin to Rome. She checks in her suitcase, goes through security and waits at the gate. The flight is on time.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Olga fliegt heute nach Rom. Sie fährt mit dem Taxi zum Flughafen. Der Flug ist um vierzehn Uhr. Sie ist schon um zwölf Uhr da.",
+   "Zuerst geht sie zum Schalter. Sie zeigt ihren Pass und gibt ihren Koffer ab. Der Koffer wiegt achtzehn Kilo. Dann geht sie zur Sicherheitskontrolle. Das dauert ein bisschen.",
+   "Am Gate wartet sie. Sie kauft eine Zeitung und einen Kaffee. Um halb zwei kann sie einsteigen. Das Flugzeug fliegt pünktlich. Olga sitzt am Fenster und freut sich auf Rom."
+  ]
+ },
+ {
+  "id": "a1-039",
+  "title": "In der Bibliothek",
+  "title_en": "At the library",
+  "summary_en": "Tina wants to borrow books at the city library. She gets a library card, finds a German book for beginners and a DVD, and must return them in four weeks.",
+  "topics": [
+   "bildung"
+  ],
+  "paragraphs": [
+   "Tina liest gern. Aber Bücher sind teuer. Deshalb geht sie heute in die Stadtbibliothek.",
+   "Sie fragt an der Information: „Guten Tag, ich möchte Bücher ausleihen. Was brauche ich?“ „Sie brauchen einen Bibliotheksausweis. Haben Sie Ihren Ausweis dabei?“ Tina zeigt ihren Ausweis. Der Bibliotheksausweis kostet zehn Euro für ein Jahr.",
+   "Tina findet ein Buch auf Deutsch für Anfänger und eine DVD. „Wie lange kann ich die Sachen behalten?“ „Vier Wochen. Dann bringen Sie sie bitte zurück.“ Tina ist zufrieden. Jetzt hat sie viel zu lesen."
+  ]
+ },
+ {
+  "id": "a1-040",
+  "title": "Der Bus kommt nicht",
+  "title_en": "The bus doesn't come",
+  "summary_en": "Simon waits at the bus stop in the rain, but the bus doesn't come because of a strike. A colleague drives past and gives him a lift to work.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Simon steht an der Bushaltestelle. Es ist sieben Uhr fünfzehn, und es regnet. Der Bus kommt normalerweise um sieben Uhr zehn. Aber heute kommt er nicht.",
+   "Simon wartet und wartet. Andere Leute warten auch. Eine Frau liest auf ihrem Handy: „Heute fahren keine Busse. Die Fahrer streiken.“ Simon ist nass und ärgerlich. Er muss um acht Uhr im Büro sein.",
+   "Da hält ein Auto. Es ist seine Kollegin Laura. „Simon! Steig ein, ich fahre dich!“ Simon ist sehr froh. „Vielen Dank, Laura! Du bist super.“ Sie sind pünktlich im Büro."
+  ]
+ },
+ {
+  "id": "a1-041",
+  "title": "Ein Picknick",
+  "title_en": "A picnic",
+  "summary_en": "Sophie and Moritz have a picnic in the park. Everything is lovely until ants arrive and then it starts to rain, so they run to a café.",
+  "topics": [
+   "essen",
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Das Wetter ist schön. Sophie und Moritz machen ein Picknick im Park. Sie haben eine Decke, einen Korb mit Brötchen, Käse, Wurst, Erdbeeren und eine Flasche Saft.",
+   "Sie sitzen unter einem großen Baum. Die Vögel singen. Moritz sagt: „Das ist perfekt!“ Aber dann kommen die Ameisen. Viele Ameisen! Sie sind auf der Decke und im Korb.",
+   "Und dann kommen dunkle Wolken. Es beginnt zu regnen. Sophie und Moritz packen schnell alles ein und laufen in ein Café. Dort trinken sie heiße Schokolade und lachen. „Ein Picknick im Café ist auch schön“, sagt Sophie."
+  ]
+ },
+ {
+  "id": "a1-042",
+  "title": "Mein bester Freund",
+  "title_en": "My best friend",
+  "summary_en": "Finn describes his best friend Noah, whom he has known since kindergarten. They go to the same school, play football together and help each other.",
+  "topics": [
+   "familie"
+  ],
+  "paragraphs": [
+   "Mein bester Freund heißt Noah. Wir kennen uns seit dem Kindergarten. Jetzt sind wir zehn Jahre alt und gehen in die gleiche Klasse.",
+   "Noah hat braune Haare und blaue Augen. Er ist ein bisschen kleiner als ich. Er ist sehr lustig und erzählt immer Witze. Er kann gut rechnen. Ich kann gut schreiben. Deshalb machen wir die Hausaufgaben oft zusammen.",
+   "Am Nachmittag spielen wir Fußball oder fahren Fahrrad. Manchmal schläft Noah bei mir. Dann sehen wir zusammen einen Film. Ein guter Freund ist sehr wichtig."
+  ]
+ },
+ {
+  "id": "a1-043",
+  "title": "Das Frühstück",
+  "title_en": "Breakfast",
+  "summary_en": "Different people in the Wagner family have different breakfasts: the father eats bread with sausage, the mother yoghurt with fruit, and the daughter only drinks cocoa.",
+  "topics": [
+   "essen"
+  ],
+  "paragraphs": [
+   "Bei Familie Wagner ist das Frühstück jeden Tag gleich und doch verschieden. Alle sitzen um sieben Uhr am Tisch.",
+   "Herr Wagner isst immer zwei Brötchen mit Wurst und trinkt schwarzen Kaffee. Frau Wagner mag es gesund. Sie isst Joghurt mit Obst und trinkt grünen Tee.",
+   "Die Tochter Lea ist vierzehn. Sie hat am Morgen keinen Hunger. Sie trinkt nur einen Kakao. Ihre Mutter sagt: „Lea, du musst etwas essen!“ Lea nimmt einen Apfel und sagt: „Okay, ich esse den Apfel in der Schule.“"
+  ]
+ },
+ {
+  "id": "a1-044",
+  "title": "Die Anmeldung",
+  "title_en": "Registering an address",
+  "summary_en": "Raj has just moved to Germany and must register his address at the citizens' office. He fills in a form, shows his passport and rental contract and gets a certificate.",
+  "topics": [
+   "aemter",
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Raj kommt aus Indien. Er wohnt seit einer Woche in Bonn. In Deutschland muss man die Adresse anmelden. Deshalb geht Raj zum Bürgeramt.",
+   "Er hat einen Termin um neun Uhr. Eine Frau gibt ihm ein Formular. Raj schreibt seinen Namen, sein Geburtsdatum und seine neue Adresse. Er zeigt seinen Pass und den Mietvertrag.",
+   "Die Frau tippt alles in den Computer. Dann gibt sie ihm ein Papier. „Das ist Ihre Meldebestätigung. Bitte gut aufheben!“ Nach fünfzehn Minuten ist Raj fertig. Er denkt: „Das war einfach.“"
+  ]
+ },
+ {
+  "id": "a1-045",
+  "title": "Auf der Post",
+  "title_en": "At the post office",
+  "summary_en": "Ms Kraus sends a parcel to her son in Austria. She pays the postage, buys stamps for postcards and asks how long the parcel will take.",
+  "topics": [
+   "aemter"
+  ],
+  "paragraphs": [
+   "Frau Kraus geht zur Post. Sie hat ein Paket für ihren Sohn. Er wohnt in Österreich, in Graz.",
+   "Am Schalter sagt sie: „Ich möchte dieses Paket nach Österreich schicken.“ Der Mann wiegt das Paket. „Drei Kilo. Das kostet sechzehn Euro neunundneunzig.“",
+   "„Wie lange dauert das?“ „Drei bis fünf Tage.“ „Gut. Und ich brauche noch fünf Briefmarken für Postkarten.“ Frau Kraus bezahlt alles. Sie hofft, dass ihr Sohn das Paket vor seinem Geburtstag bekommt."
+  ]
+ },
+ {
+  "id": "a1-046",
+  "title": "Putzen am Samstag",
+  "title_en": "Cleaning on Saturday",
+  "summary_en": "Three flatmates share the housework on Saturday: one cleans the kitchen, one the bathroom, one vacuums. Afterwards they reward themselves with ice cream.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Jana, Kemal und Lisa wohnen zusammen in einer WG. Am Samstag putzen sie die Wohnung. Jeder hat eine Aufgabe.",
+   "Jana putzt die Küche. Sie spült das Geschirr und macht den Herd sauber. Kemal putzt das Bad. Das findet er nicht schön, aber es muss sein. Lisa saugt Staub im Flur und im Wohnzimmer. Dann bringt sie den Müll raus.",
+   "Nach zwei Stunden ist die Wohnung sauber. Alles glänzt. „Jetzt haben wir eine Pause verdient!“, sagt Kemal. Die drei gehen zusammen Eis essen."
+  ]
+ },
+ {
+  "id": "a1-047",
+  "title": "Im Schwimmbad",
+  "title_en": "At the swimming pool",
+  "summary_en": "Elif goes to the swimming pool with her little brother. She swims twenty lengths while he plays in the children's pool, and then they eat chips.",
+  "topics": [
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Am Mittwochnachmittag geht Elif ins Schwimmbad. Ihr kleiner Bruder Can kommt mit. Er ist sieben Jahre alt und kann noch nicht gut schwimmen.",
+   "An der Kasse kaufen sie zwei Karten. Dann ziehen sie sich um. Elif schwimmt im großen Becken. Sie schwimmt zwanzig Bahnen. Can spielt im Kinderbecken mit einem Ball.",
+   "Nach einer Stunde haben beide Hunger. Sie kaufen Pommes am Kiosk. Can sagt: „Elif, kannst du mir das Schwimmen beibringen?“ „Klar! Nächste Woche fangen wir an.“"
+  ]
+ },
+ {
+  "id": "a1-048",
+  "title": "Eine E-Mail an Marco",
+  "title_en": "An email to Marco",
+  "summary_en": "Julia writes an email to her Italian friend Marco, telling him about her new job and inviting him to visit her in Hamburg in May.",
+  "topics": [
+   "sprache"
+  ],
+  "paragraphs": [
+   "Lieber Marco,",
+   "wie geht es dir? Mir geht es gut. Ich habe eine neue Arbeit! Ich arbeite jetzt in einem Hotel in Hamburg. Die Arbeit ist interessant, und meine Kollegen sind nett.",
+   "Hamburg ist eine schöne Stadt. Es gibt einen großen Hafen und viele Brücken. Möchtest du mich besuchen? Im Mai habe ich eine Woche Urlaub. Dann zeige ich dir die Stadt. Du kannst bei mir schlafen.",
+   "Schreib mir bald! Viele Grüße, deine Julia"
+  ]
+ },
+ {
+  "id": "a1-049",
+  "title": "Im Kindergarten",
+  "title_en": "At kindergarten",
+  "summary_en": "Four-year-old Emil spends the day at kindergarten: he plays with blocks, sings songs, eats lunch, sleeps and plays outside until his mother picks him up.",
+  "topics": [
+   "familie",
+   "bildung"
+  ],
+  "paragraphs": [
+   "Emil ist vier Jahre alt. Jeden Morgen bringt ihn seine Mutter um acht Uhr in den Kindergarten. Seine Erzieherin heißt Steffi.",
+   "Am Morgen spielt Emil mit Bausteinen. Er baut einen hohen Turm. Dann sitzen alle Kinder im Kreis und singen Lieder. Um zwölf Uhr gibt es Mittagessen: Nudeln mit Gemüse. Danach schlafen die kleinen Kinder eine Stunde.",
+   "Am Nachmittag spielen die Kinder draußen im Garten. Emil rutscht und schaukelt. Um vier Uhr holt seine Mutter ihn ab. „Wie war dein Tag?“ „Toll! Morgen baue ich einen noch höheren Turm!“"
+  ]
+ },
+ {
+  "id": "a1-050",
+  "title": "Ein Konto eröffnen",
+  "title_en": "Opening a bank account",
+  "summary_en": "Ana from Portugal opens a bank account for her salary. The bank employee asks for her passport and address, and she gets a bank card in a week.",
+  "topics": [
+   "aemter",
+   "wirtschaft"
+  ],
+  "paragraphs": [
+   "Ana kommt aus Portugal und arbeitet jetzt in Düsseldorf. Ihre Firma braucht ein deutsches Konto für das Gehalt. Ana geht zur Bank.",
+   "Ein Bankangestellter hilft ihr. „Sie möchten ein Konto eröffnen? Gern. Ich brauche Ihren Pass und Ihre Adresse.“ Ana gibt ihm den Pass und die Meldebestätigung. Sie unterschreibt einige Papiere.",
+   "„Kostet das Konto etwas?“, fragt Ana. „Fünf Euro im Monat.“ „Und wann bekomme ich meine Karte?“ „In einer Woche mit der Post.“ Ana sagt danke und geht. Jetzt hat sie ein Konto in Deutschland."
+  ]
+ },
+ {
+  "id": "a1-051",
+  "title": "Im Bus",
+  "title_en": "On the bus",
+  "summary_en": "Mrs Albrecht takes the bus into town. She buys a ticket from the driver, offers her seat to a pregnant woman and gets off at the town hall.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Frau Albrecht fährt mit dem Bus in die Stadt. Sie steigt vorne ein und kauft beim Busfahrer eine Fahrkarte. „Einmal in die Stadt, bitte.“ „Zwei Euro achtzig.“",
+   "Der Bus ist voll. Frau Albrecht findet noch einen Platz. An der nächsten Haltestelle steigt eine schwangere Frau ein. Frau Albrecht steht auf. „Bitte, setzen Sie sich.“ „Oh, danke, das ist sehr nett!“",
+   "Nach zehn Minuten hört Frau Albrecht: „Nächste Haltestelle: Rathaus.“ Sie drückt auf den Knopf. Der Bus hält, und sie steigt aus."
+  ]
+ },
+ {
+  "id": "a1-052",
+  "title": "Der Garten",
+  "title_en": "The garden",
+  "summary_en": "Mr Peters loves his garden. In spring he plants vegetables and flowers, in summer he waters everything, and in autumn he harvests and shares with his neighbours.",
+  "topics": [
+   "wohnen",
+   "umwelt"
+  ],
+  "paragraphs": [
+   "Herr Peters hat einen Garten hinter dem Haus. Der Garten ist sein Hobby. Er ist jeden Tag dort.",
+   "Im Frühling pflanzt er Tomaten, Salat, Karotten und Blumen. Im Sommer gießt er alles am Morgen und am Abend. Das ist viel Arbeit, besonders wenn es heiß ist.",
+   "Im Herbst ist alles reif. Herr Peters hat sehr viele Tomaten. Er kann nicht alles allein essen. Deshalb schenkt er seinen Nachbarn Tomaten und Salat. Die Nachbarn freuen sich. Sie sagen: „Ihr Gemüse schmeckt viel besser als im Supermarkt!“"
+  ]
+ },
+ {
+  "id": "a1-053",
+  "title": "Meine Stadt",
+  "title_en": "My town",
+  "summary_en": "Paula describes her small town: the old market square, the church, a river, a cinema and a swimming pool. It is quiet, but she likes living there.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Ich wohne in Bamberg. Das ist eine kleine Stadt in Bayern. Sie hat ungefähr siebzigtausend Einwohner.",
+   "In der Altstadt gibt es viele alte Häuser und einen schönen Marktplatz. Dort ist auch der Dom, eine große, alte Kirche. Durch die Stadt fließt ein Fluss. Im Sommer sitzen die Leute am Fluss und trinken Bier.",
+   "Es gibt ein Kino, ein Schwimmbad und viele kleine Geschäfte. Bamberg ist nicht so groß wie München. Es ist ruhig. Aber ich wohne gern hier. Die Stadt ist schön, und die Menschen sind freundlich."
+  ]
+ },
+ {
+  "id": "a1-054",
+  "title": "Das Handy ist kaputt",
+  "title_en": "The phone is broken",
+  "summary_en": "David drops his phone and the screen breaks. At the repair shop they say it will take two days and cost eighty euros, and David enjoys a weekend without a phone.",
+  "topics": [
+   "medien",
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "David steigt aus der Straßenbahn. Plötzlich fällt sein Handy auf den Boden. Oh nein! Der Bildschirm ist kaputt. David kann nichts mehr lesen.",
+   "Er geht in einen Handyladen. Der Verkäufer schaut das Handy an. „Wir können den Bildschirm reparieren. Das kostet achtzig Euro und dauert zwei Tage.“ David seufzt. „Okay, machen Sie das bitte.“",
+   "Zwei Tage ohne Handy! Zuerst ist das schwer für David. Aber dann liest er ein Buch, geht spazieren und spricht mit seiner Mitbewohnerin. Am Montag holt er das Handy ab. Er denkt: „Ohne Handy war es eigentlich auch schön.“"
+  ]
+ },
+ {
+  "id": "a1-055",
+  "title": "Die Hochzeit",
+  "title_en": "The wedding",
+  "summary_en": "Lisa's sister Anja gets married. There is a ceremony at the registry office, a party with a hundred guests, a big cake and dancing all night.",
+  "topics": [
+   "familie",
+   "feste"
+  ],
+  "paragraphs": [
+   "Heute ist ein großer Tag. Lisas Schwester Anja heiratet. Ihr Mann heißt Stefan. Die beiden sind seit fünf Jahren ein Paar.",
+   "Um elf Uhr sind alle im Standesamt. Anja trägt ein weißes Kleid. Stefan trägt einen dunklen Anzug. Sie sagen „Ja“, und alle klatschen. Anjas Mutter weint ein bisschen.",
+   "Am Abend gibt es eine Feier in einem Restaurant. Hundert Gäste sind da. Es gibt ein großes Essen und eine Hochzeitstorte mit drei Etagen. Dann tanzen alle bis drei Uhr morgens. Lisa sagt: „Das war die schönste Party des Jahres!“"
+  ]
+ },
+ {
+  "id": "a1-056",
+  "title": "Ein Ausflug in die Berge",
+  "title_en": "A trip to the mountains",
+  "summary_en": "Markus and his friends hike up a mountain in the Alps. The way is long and steep, but at the top they have a great view and eat in a mountain hut.",
+  "topics": [
+   "reisen",
+   "umwelt"
+  ],
+  "paragraphs": [
+   "Markus und seine Freunde machen einen Ausflug in die Alpen. Sie fahren früh am Morgen mit dem Auto los. Um acht Uhr sind sie am Berg.",
+   "Sie wandern drei Stunden nach oben. Der Weg ist lang und steil. Sie machen viele Pausen und trinken viel Wasser. Unterwegs sehen sie Kühe und Ziegen.",
+   "Endlich sind sie oben. Die Aussicht ist fantastisch! Sie sehen Seen, Wälder und andere Berge. Oben gibt es eine Hütte. Dort essen sie Suppe und Apfelstrudel. Am Abend sind ihre Beine sehr müde."
+  ]
+ },
+ {
+  "id": "a1-057",
+  "title": "Die Mittagspause",
+  "title_en": "The lunch break",
+  "summary_en": "Office workers Tobias and Miriam discuss where to have lunch. They choose a new Vietnamese restaurant and like it so much that they want to go again.",
+  "topics": [
+   "essen",
+   "arbeit"
+  ],
+  "paragraphs": [
+   "Es ist zwölf Uhr. Tobias hat Hunger. Er fragt seine Kollegin Miriam: „Gehen wir zusammen essen?“ „Gern! Aber wohin? Die Kantine ist heute geschlossen.“",
+   "„In der Goethestraße gibt es ein neues vietnamesisches Restaurant. Kennst du das?“ „Nein, aber ich esse gern asiatisch. Gehen wir!“",
+   "Das Restaurant ist klein, aber voll. Tobias bestellt eine Nudelsuppe, und Miriam nimmt Reis mit Hähnchen und Gemüse. Das Essen ist frisch und schmeckt toll. Es ist auch nicht teuer. „Hier essen wir jetzt öfter!“, sagt Miriam."
+  ]
+ },
+ {
+  "id": "a1-058",
+  "title": "Mit dem Taxi",
+  "title_en": "By taxi",
+  "summary_en": "Mr Lehmann arrives late at night at the station. He takes a taxi to his hotel, chats with the driver about the city and pays twenty-two euros.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Es ist dreiundzwanzig Uhr. Herr Lehmann kommt mit dem Zug in Hannover an. Es fahren keine Busse mehr. Er nimmt ein Taxi.",
+   "„Guten Abend. Zum Hotel Park, bitte. Das ist in der Bergstraße.“ „Kein Problem.“ Der Taxifahrer ist freundlich. Er fragt: „Sind Sie zum ersten Mal in Hannover?“ „Ja, ich habe hier morgen eine Konferenz.“",
+   "Nach fünfzehn Minuten ist das Taxi am Hotel. „Das macht zweiundzwanzig Euro.“ Herr Lehmann gibt ihm fünfundzwanzig Euro. „Stimmt so.“ „Danke! Viel Erfolg bei der Konferenz!“"
+  ]
+ },
+ {
+  "id": "a1-059",
+  "title": "Neue Schuhe",
+  "title_en": "New shoes",
+  "summary_en": "Greta needs new shoes for a party. In the department store she tries on many pairs and finally finds red shoes that are comfortable and not expensive.",
+  "topics": [
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "Greta hat am Samstag eine Party. Sie hat ein schönes Kleid, aber keine passenden Schuhe. Sie geht ins Kaufhaus.",
+   "Die Schuhabteilung ist im ersten Stock. Es gibt sehr viele Schuhe. Greta probiert schwarze Schuhe an. Sie sind schön, aber zu eng. Dann probiert sie braune Schuhe an. Sie sind bequem, aber nicht elegant.",
+   "Dann sieht sie rote Schuhe. Sie haben Größe achtunddreißig, genau ihre Größe. Sie sind bequem und schön. Und sie kosten nur fünfzig Euro! Greta kauft die Schuhe sofort."
+  ]
+ },
+ {
+  "id": "a1-060",
+  "title": "Die Ferien",
+  "title_en": "The holidays",
+  "summary_en": "School is over and the summer holidays begin. Jakob visits his grandparents in the countryside, helps on their farm and plays with the animals.",
+  "topics": [
+   "reisen",
+   "familie"
+  ],
+  "paragraphs": [
+   "Endlich sind Sommerferien! Sechs Wochen keine Schule. Jakob ist elf Jahre alt. Er fährt allein mit dem Zug zu seinen Großeltern.",
+   "Die Großeltern wohnen auf dem Land. Sie haben einen Bauernhof mit Kühen, Hühnern und einem Pferd. Jeden Morgen hilft Jakob seinem Opa. Sie füttern die Tiere. Jakob sammelt auch die Eier.",
+   "Am Nachmittag reitet Jakob auf dem Pferd oder schwimmt im Bach. Am Abend erzählt seine Oma Geschichten. Jakob findet die Ferien wunderbar. Er möchte am liebsten für immer bleiben."
+  ]
+ },
+ {
+  "id": "a1-061",
+  "title": "Grillen im Garten",
+  "title_en": "A barbecue in the garden",
+  "summary_en": "The Krüger family has a barbecue for friends. Everyone brings something: sausages, salads, bread and drinks. For the vegetarian guest there are vegetables and grilling cheese, and in the end everyone tries them.",
+  "topics": [
+   "essen",
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Es ist Samstag und das Wetter ist schön. Familie Krüger grillt im Garten. Sie laden Freunde und Nachbarn ein.",
+   "Jeder bringt etwas mit: Würstchen, Fleisch, Kartoffelsalat, Nudelsalat, Brot und Getränke. Herr Krüger steht am Grill. Er grillt die Würstchen und das Fleisch.",
+   "Eine Freundin, Sandra, isst kein Fleisch. Sie ist Vegetarierin. Für sie gibt es Gemüse und Grillkäse. „Das sieht ja lecker aus!“, sagt Herr Krüger. Am Ende probieren alle Sandras Gemüse."
+  ]
+ },
+ {
+  "id": "a1-062",
+  "title": "Das Fußballspiel",
+  "title_en": "The football match",
+  "summary_en": "Ole goes to his first Bundesliga match with his father. The stadium is full and loud, their team is losing 0:1, but then scores twice and wins.",
+  "topics": [
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Ole ist neun Jahre alt. Heute geht er mit seinem Vater zum ersten Mal ins Stadion. Ihre Mannschaft spielt gegen Bremen.",
+   "Das Stadion ist riesig. Fünfzigtausend Menschen sind da. Alle singen und rufen. Ole trägt einen Schal in den Farben seiner Mannschaft. Nach zwanzig Minuten schießt Bremen ein Tor. Null zu eins. Ole ist traurig.",
+   "Aber in der zweiten Halbzeit schießt seine Mannschaft zwei Tore! Zwei zu eins! Alle springen und jubeln. Ole umarmt seinen Vater. „Papa, das war der beste Tag in meinem Leben!“"
+  ]
+ },
+ {
+  "id": "a1-063",
+  "title": "Krank in der Schule",
+  "title_en": "Ill at school",
+  "summary_en": "Mira feels ill at school with a stomach ache. The teacher sends her to the office, the secretary calls her father, and he takes her home to rest.",
+  "topics": [
+   "bildung",
+   "gesundheit"
+  ],
+  "paragraphs": [
+   "Mira ist in der Schule. Es ist die dritte Stunde, Mathe. Plötzlich hat sie Bauchschmerzen. Ihr ist auch schlecht.",
+   "Sie sagt zur Lehrerin: „Frau Seidel, mir geht es nicht gut.“ Die Lehrerin sieht Mira an. „Du bist ja ganz blass! Geh bitte ins Sekretariat.“",
+   "Die Sekretärin ruft Miras Vater an. Er arbeitet nicht weit von der Schule. Nach zwanzig Minuten ist er da und holt Mira ab. Zu Hause legt sie sich ins Bett. Ihr Vater macht ihr einen Tee. Am nächsten Tag geht es Mira schon besser."
+  ]
+ },
+ {
+  "id": "a1-064",
+  "title": "Eine Reise nach Wien",
+  "title_en": "A trip to Vienna",
+  "summary_en": "Nadine and her mother spend a weekend in Vienna. They visit a palace, eat Sachertorte in a famous café and ride the big Ferris wheel.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Nadine und ihre Mutter machen eine Reise nach Wien. Sie fahren am Freitag mit dem Zug. Die Fahrt dauert vier Stunden.",
+   "Am Samstag besuchen sie das Schloss Schönbrunn. Das Schloss ist sehr groß und hat einen wunderschönen Park. Am Nachmittag gehen sie in ein berühmtes Kaffeehaus. Dort essen sie Sachertorte, einen Schokoladenkuchen aus Wien.",
+   "Am Sonntag fahren sie mit dem Riesenrad im Prater. Von oben sehen sie die ganze Stadt. Am Abend fahren sie zurück. Nadine sagt: „Mama, Wien ist toll. Ich möchte bald wiederkommen!“"
+  ]
+ },
+ {
+  "id": "a1-065",
+  "title": "Yoga",
+  "title_en": "Yoga",
+  "summary_en": "Mr Schröder has back pain from sitting at the computer. A friend recommends yoga. At first it is difficult, but after a few weeks his back feels much better.",
+  "topics": [
+   "gesundheit",
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Herr Schröder arbeitet den ganzen Tag am Computer. Er sitzt sehr viel. Deshalb hat er oft Rückenschmerzen.",
+   "Seine Freundin Ines sagt: „Mach doch Yoga! Das hilft.“ Herr Schröder findet die Idee komisch. „Yoga? Das ist doch nichts für mich.“ Aber er probiert es. Er geht zu einem Kurs am Dienstagabend.",
+   "Die erste Stunde ist schwer. Herr Schröder ist nicht sehr beweglich. Aber die Lehrerin ist geduldig. Nach sechs Wochen ist es leichter. Sein Rücken tut nicht mehr so weh. Jetzt macht er auch zu Hause jeden Morgen zehn Minuten Yoga."
+  ]
+ },
+ {
+  "id": "a1-066",
+  "title": "Die Großeltern",
+  "title_en": "The grandparents",
+  "summary_en": "Mona visits her grandparents every Sunday. Her grandfather tells stories about the past, her grandmother cooks, and Mona shows them how to make video calls.",
+  "topics": [
+   "familie"
+  ],
+  "paragraphs": [
+   "Mona besucht jeden Sonntag ihre Großeltern. Sie wohnen in einem kleinen Haus am Stadtrand. Opa ist achtzig und Oma ist achtundsiebzig.",
+   "Oma kocht immer etwas Leckeres, zum Beispiel Rouladen mit Klößen. Nach dem Essen trinken sie Kaffee. Opa erzählt Geschichten von früher. Er war Lehrer, und er hat viele lustige Geschichten von seinen Schülern.",
+   "Heute hat Mona eine Idee. Sie zeigt Oma und Opa, wie man mit dem Handy Videoanrufe macht. Das ist neu für sie. „Jetzt können wir dich jeden Tag sehen!“, sagt Oma. Sie lacht."
+  ]
+ },
+ {
+  "id": "a1-067",
+  "title": "Ein Tag als Verkäufer",
+  "title_en": "A day as a shop assistant",
+  "summary_en": "Yusuf works in a clothes shop. He opens the shop, arranges clothes, helps customers find sizes and works at the till until the shop closes at eight.",
+  "topics": [
+   "einkaufen",
+   "arbeit"
+  ],
+  "paragraphs": [
+   "Yusuf ist Verkäufer in einem Kleidergeschäft. Der Laden öffnet um zehn Uhr. Yusuf ist schon um halb zehn da.",
+   "Zuerst legt er neue T-Shirts und Hosen in die Regale. Dann kommen die ersten Kunden. Eine Frau sucht einen Pullover in Größe S. Ein Mann möchte eine Hose umtauschen. Yusuf hilft allen.",
+   "Am Nachmittag arbeitet er an der Kasse. Es gibt viele Kunden, denn heute ist Samstag. Um zwanzig Uhr schließt der Laden. Yusuf ist müde. Seine Füße tun weh. Aber er mag seine Arbeit, denn er spricht gern mit Menschen."
+  ]
+ },
+ {
+  "id": "a1-068",
+  "title": "Wohnung gesucht",
+  "title_en": "Flat wanted",
+  "summary_en": "Student Clara looks for a flat in Munich. Rents are very high. After many viewings she finds a room in a shared flat with three friendly people.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Clara studiert in München. Sie sucht eine Wohnung. Aber in München sind die Wohnungen sehr teuer. Eine kleine Wohnung kostet oft tausend Euro oder mehr.",
+   "Clara liest jeden Tag Anzeigen im Internet. Sie schreibt viele E-Mails. Sie besichtigt zehn Wohnungen und Zimmer. Manche sind zu teuer, manche sind zu weit weg, und eine ist sehr dunkel.",
+   "Dann findet sie ein Zimmer in einer WG. Das Zimmer kostet fünfhundert Euro. Die drei Mitbewohner sind nett und studieren auch. Clara zieht am ersten Mai ein. Endlich hat sie ein Zuhause in München."
+  ]
+ },
+ {
+  "id": "a1-069",
+  "title": "Im Hotel gibt es ein Problem",
+  "title_en": "There's a problem at the hotel",
+  "summary_en": "Mr and Mrs Jung arrive at their hotel room, but the heating doesn't work and the shower is cold. Reception gives them a different, bigger room.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Herr und Frau Jung sind im Urlaub in Hamburg. Sie kommen am Abend ins Hotel. Ihr Zimmer ist im fünften Stock.",
+   "Aber im Zimmer ist es sehr kalt. Die Heizung funktioniert nicht. Frau Jung will duschen, aber das Wasser ist auch kalt. „So geht das nicht!“, sagt Herr Jung. Er ruft die Rezeption an.",
+   "„Entschuldigen Sie bitte. Wir haben ein anderes Zimmer für Sie, im sechsten Stock.“ Das neue Zimmer ist warm und größer. Es hat sogar einen Balkon. Frau Jung lacht: „Jetzt ist alles gut.“"
+  ]
+ },
+ {
+  "id": "a1-070",
+  "title": "Information am Bahnhof",
+  "title_en": "Information at the station",
+  "summary_en": "Mrs Novak wants to travel to Leipzig but her train is cancelled. At the information desk she learns about the next train and that she has to change in Halle.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Frau Novak ist am Bahnhof in Erfurt. Sie will nach Leipzig fahren. Aber auf der Anzeigetafel steht: „Zug fällt aus.“",
+   "Sie geht zur Information. „Guten Tag. Mein Zug nach Leipzig fällt aus. Wann fährt der nächste Zug?“ Der Mann schaut im Computer nach. „Der nächste Zug fährt um vierzehn Uhr zwölf von Gleis drei. Aber Sie müssen in Halle umsteigen.“",
+   "„Und wann bin ich in Leipzig?“ „Um fünfzehn Uhr vierzig.“ „Ist meine Fahrkarte noch gültig?“ „Ja, natürlich.“ Frau Novak bedankt sich und kauft sich einen Kaffee. Sie muss noch eine Stunde warten."
+  ]
+ },
+ {
+  "id": "a1-071",
+  "title": "Das Konzert",
+  "title_en": "The concert",
+  "summary_en": "Leonie gets two concert tickets for her favourite band as a present. She goes with her friend Pia. The music is loud and great, and they sing every song.",
+  "topics": [
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Leonie hat Geburtstag. Ihr Bruder schenkt ihr zwei Karten für ein Konzert. Es ist ihre Lieblingsband! Leonie ist total glücklich.",
+   "Sie geht mit ihrer Freundin Pia. Das Konzert ist in einer großen Halle. Es beginnt um zwanzig Uhr. Schon um achtzehn Uhr stehen viele Leute vor der Halle.",
+   "Dann kommt die Band auf die Bühne. Alle schreien. Die Musik ist sehr laut und super. Leonie und Pia kennen jedes Lied und singen mit. Nach zwei Stunden ist das Konzert vorbei. Leonie hat keine Stimme mehr, aber sie ist sehr glücklich."
+  ]
+ },
+ {
+  "id": "a1-072",
+  "title": "Die Waschmaschine",
+  "title_en": "The washing machine",
+  "summary_en": "Tom washes his white shirts together with a new red T-shirt. Now all his shirts are pink. His neighbour Lina laughs, gives him a special detergent, and by evening the shirts are almost white again.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Tom wohnt zum ersten Mal allein. Heute will er Wäsche waschen. Er hat viele weiße Hemden und ein neues, rotes T-Shirt. Er steckt alles zusammen in die Waschmaschine.",
+   "Nach zwei Stunden öffnet er die Maschine. Oh nein! Alle Hemden sind jetzt rosa! Tom ist geschockt. Morgen hat er ein wichtiges Gespräch im Büro.",
+   "Seine Nachbarin Lina lacht. „Tom, man wäscht weiße und rote Sachen nicht zusammen!“ Sie gibt ihm ein spezielles Waschmittel. Zum Glück sind die Hemden am Abend wieder fast weiß. Tom sagt: „Das mache ich nie wieder!“"
+  ]
+ },
+ {
+  "id": "a1-073",
+  "title": "Zum ersten Mal Schnee",
+  "title_en": "Snow for the first time",
+  "summary_en": "Priya from India sees snow for the first time in Germany. She is amazed, goes outside, builds a small snowman and buys warm boots.",
+  "topics": [
+   "umwelt",
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Priya kommt aus Chennai in Indien. Dort ist es immer warm. Seit September studiert sie in Göttingen.",
+   "Eines Morgens im Dezember sieht Priya aus dem Fenster. Alles ist weiß! Es schneit. Priya sieht zum ersten Mal Schnee. Sie zieht schnell ihre Jacke an und läuft nach draußen.",
+   "Der Schnee ist kalt und weich. Priya macht ein Foto für ihre Familie. Dann baut sie mit ihrer Mitbewohnerin einen kleinen Schneemann. Aber ihre Schuhe sind nass. Am Nachmittag kauft sie warme Winterstiefel."
+  ]
+ },
+ {
+  "id": "a1-074",
+  "title": "Beim Friseur",
+  "title_en": "At the hairdresser's",
+  "summary_en": "Robert wants a short haircut. He shows the hairdresser a photo, she washes and cuts his hair, and he is happy with the result.",
+  "topics": [
+   "aemter"
+  ],
+  "paragraphs": [
+   "Roberts Haare sind zu lang. Er ruft beim Friseur an und macht einen Termin für Donnerstag um vier Uhr.",
+   "Die Friseurin fragt: „Wie möchten Sie die Haare?“ Robert zeigt ihr ein Foto auf seinem Handy. „So, bitte. Kurz an den Seiten und oben ein bisschen länger.“ „Kein Problem.“",
+   "Zuerst wäscht sie seine Haare. Dann schneidet sie. Sie sprechen über das Wetter und den Urlaub. Nach dreißig Minuten ist sie fertig. Robert sieht in den Spiegel. „Super, vielen Dank!“ Der Haarschnitt kostet fünfundzwanzig Euro."
+  ]
+ },
+ {
+  "id": "a1-075",
+  "title": "Mein Lieblingsessen",
+  "title_en": "My favourite food",
+  "summary_en": "Three people talk about their favourite food: Ali loves his mother's rice dish, Sophie loves pasta, and Mr Frank loves a traditional German meal.",
+  "topics": [
+   "essen"
+  ],
+  "paragraphs": [
+   "Ali: „Mein Lieblingsessen ist Reis mit Hähnchen und Gemüse. Meine Mutter kocht das sehr gut. Es ist ein Rezept aus Afghanistan. Ich esse es am liebsten am Freitag mit der ganzen Familie.“",
+   "Sophie: „Ich liebe Nudeln! Ich esse Nudeln mit Tomatensoße, mit Käse oder mit Pesto. Ich kann jeden Tag Nudeln essen. Mein Freund sagt, das ist langweilig. Aber ich finde Nudeln nie langweilig.“",
+   "Herr Frank: „Ich esse am liebsten Schweinebraten mit Knödeln und Sauerkraut. Das ist ein typisches Essen aus Bayern. Am Sonntag gehe ich oft mit meiner Frau in ein Gasthaus. Dort gibt es den besten Schweinebraten.“"
+  ]
+ },
+ {
+  "id": "a1-076",
+  "title": "Der Wochenplan",
+  "title_en": "The weekly plan",
+  "summary_en": "Busy mother Karin writes her family's plan for the week: football training, piano lessons, a parents' evening, a doctor's appointment and a free Sunday.",
+  "topics": [
+   "familie"
+  ],
+  "paragraphs": [
+   "Karin hat zwei Kinder und arbeitet halbtags. Ihre Woche ist immer voll. Deshalb schreibt sie jeden Sonntag einen Plan.",
+   "Am Montag hat ihr Sohn Fußballtraining. Am Dienstag hat ihre Tochter Klavierunterricht. Am Mittwoch ist Elternabend in der Schule. Am Donnerstag hat Karin einen Termin beim Arzt. Am Freitag kommen die Großeltern zum Abendessen.",
+   "Am Samstag macht die Familie den Einkauf für die Woche. Und am Sonntag? Am Sonntag steht im Plan nur ein Wort: „Frei!“ Dann bleiben alle lange im Bett."
+  ]
+ },
+ {
+  "id": "a1-077",
+  "title": "Der Flohmarkt",
+  "title_en": "The flea market",
+  "summary_en": "Sven and his daughter sell old toys, books and clothes at the flea market. They earn sixty euros, but then the daughter buys a doll with the money.",
+  "topics": [
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "Am Sonntag ist Flohmarkt auf dem Parkplatz am Stadion. Sven und seine Tochter Emma verkaufen dort alte Sachen. Sie haben einen Tisch und drei Kisten.",
+   "In den Kisten sind alte Spielsachen, Bücher, Kleidung und Teller. Viele Leute kommen und schauen. Eine Frau fragt: „Was kostet das Buch?“ „Ein Euro.“ „Nehmen Sie fünfzig Cent?“ „Okay.“",
+   "Am Ende haben Sven und Emma sechzig Euro. Aber dann sieht Emma an einem anderen Tisch eine schöne, alte Puppe. Sie kostet fünfzehn Euro. „Papa, bitte!“ Sven lacht. Am Ende kaufen sie die Puppe."
+  ]
+ },
+ {
+  "id": "a1-078",
+  "title": "Eine Fahrradtour",
+  "title_en": "A bike tour",
+  "summary_en": "Four friends cycle along the river Rhine for three days. They stay in youth hostels, see castles and vineyards, and once get lost.",
+  "topics": [
+   "reisen",
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Vier Freunde machen eine Fahrradtour am Rhein. Sie fahren von Mainz nach Koblenz. Die Tour dauert drei Tage. Jeden Tag fahren sie ungefähr dreißig Kilometer.",
+   "Der Weg ist sehr schön. Sie sehen Burgen, kleine Dörfer und viele Weinberge. In der Nacht schlafen sie in Jugendherbergen. Das ist billig und lustig.",
+   "Am zweiten Tag fahren sie in die falsche Richtung. Nach einer Stunde merken sie das. Sie fragen einen alten Mann nach dem Weg. Er zeigt ihnen den richtigen Weg und lacht. Am dritten Tag kommen sie müde, aber glücklich in Koblenz an."
+  ]
+ },
+ {
+  "id": "a1-079",
+  "title": "Neu in Deutschland",
+  "title_en": "New in Germany",
+  "summary_en": "Lucas from Brazil has lived in Germany for a month. He finds many things different: shops closed on Sundays, punctuality, recycling and cold weather.",
+  "topics": [
+   "gesellschaft"
+  ],
+  "paragraphs": [
+   "Lucas kommt aus Brasilien. Er wohnt seit einem Monat in Deutschland. Er arbeitet als Ingenieur in Wolfsburg. Vieles ist neu für ihn.",
+   "Am Sonntag sind die Geschäfte geschlossen. Das findet Lucas komisch. In Brasilien kann man jeden Tag einkaufen. Die Deutschen sind auch sehr pünktlich. Ein Termin um neun Uhr ist um neun Uhr, nicht um Viertel nach neun!",
+   "Und der Müll! Es gibt Papier, Plastik, Glas und Biomüll. Lucas lernt das langsam. Das Wetter ist kalt und grau. Aber die Kollegen sind nett, und das Bier ist gut. Lucas sagt: „Ich bin gern hier.“"
+  ]
+ },
+ {
+  "id": "a1-080",
+  "title": "Ein Geschenk für Mama",
+  "title_en": "A present for Mum",
+  "summary_en": "It's Mother's Day soon. Siblings Tim and Ella have little money, so they make breakfast for their mother and give her a picture they painted.",
+  "topics": [
+   "familie",
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "Am Sonntag ist Muttertag. Tim ist zehn und Ella ist acht. Sie möchten ihrer Mutter etwas schenken. Aber sie haben nur sieben Euro.",
+   "Ella hat eine Idee: „Wir machen ein Frühstück für Mama!“ Tim findet die Idee gut. Sie kaufen Brötchen und eine Rose. Ella malt auch ein Bild: Mama, Tim, Ella und die Katze.",
+   "Am Sonntag stehen die Kinder um sieben Uhr auf. Sie machen Kaffee und bringen alles ins Schlafzimmer. Die Mutter ist überrascht und sehr glücklich. „Das ist das schönste Geschenk!“, sagt sie. Das Bild hängt jetzt in der Küche."
+  ]
+ },
+ {
+  "id": "a1-081",
+  "title": "Im Museum",
+  "title_en": "At the museum",
+  "summary_en": "On a rainy day the Özdemir family visits a natural history museum. The children are excited by the dinosaur skeletons and buy a toy dinosaur in the shop.",
+  "topics": [
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Es ist Samstag und es regnet. Familie Özdemir möchte nicht zu Hause bleiben. Sie gehen ins Naturkundemuseum.",
+   "Der Eintritt kostet für Erwachsene acht Euro, für Kinder ist er frei. Im ersten Saal stehen große Dinosaurier. Die Kinder, Deniz und Selin, staunen. „Der ist so groß wie ein Haus!“, ruft Deniz.",
+   "Sie sehen auch Steine, Vögel und Fische aus der ganzen Welt. Nach zwei Stunden gehen sie in den Museumsladen. Deniz kauft einen kleinen Dinosaurier aus Plastik. Er nennt ihn Rex."
+  ]
+ },
+ {
+  "id": "a1-082",
+  "title": "Pünktlich sein",
+  "title_en": "Being on time",
+  "summary_en": "Kai has a job interview at nine. He gets up too late, misses the bus and runs, but arrives exactly on time — and gets the job.",
+  "topics": [
+   "arbeit"
+  ],
+  "paragraphs": [
+   "Heute hat Kai ein Vorstellungsgespräch. Es ist um neun Uhr. Aber Kai wacht erst um acht Uhr auf. Sein Wecker hat nicht geklingelt!",
+   "Er duscht schnell, zieht sein Hemd an und läuft aus dem Haus. Kein Frühstück, kein Kaffee. Der Bus fährt gerade weg. Kai läuft zur Firma. Es sind zwei Kilometer.",
+   "Um acht Uhr neunundfünfzig steht er vor der Tür. Er ist rot und ein bisschen nass, aber pünktlich. Das Gespräch geht gut. Eine Woche später bekommt er einen Anruf: Er hat die Stelle! Kai kauft sofort einen neuen Wecker."
+  ]
+ },
+ {
+  "id": "a1-083",
+  "title": "Ein Abend zu Hause",
+  "title_en": "An evening at home",
+  "summary_en": "After a long week, Nele spends a quiet Friday evening at home: she takes a bath, cooks soup, watches a film on the sofa and goes to bed early.",
+  "topics": [
+   "wohnen",
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Die Woche war lang und anstrengend. Am Freitagabend möchte Nele nicht ausgehen. Ihre Freunde gehen in eine Bar, aber Nele bleibt zu Hause.",
+   "Zuerst nimmt sie ein warmes Bad. Dann kocht sie eine Gemüsesuppe. Sie isst die Suppe auf dem Sofa. Draußen regnet es. Drinnen ist es warm und gemütlich.",
+   "Nele sieht einen alten Film im Fernsehen. Ihre Katze liegt neben ihr. Um zehn Uhr ist sie schon sehr müde. Sie geht ins Bett und schläft sofort ein. Am Samstagmorgen fühlt sie sich wunderbar."
+  ]
+ },
+ {
+  "id": "a1-084",
+  "title": "Auf dem Bauernhof",
+  "title_en": "On the farm",
+  "summary_en": "A school class visits a farm. The farmer shows them cows, pigs and chickens. The children milk a cow, collect eggs and drink fresh milk.",
+  "topics": [
+   "bildung",
+   "umwelt"
+  ],
+  "paragraphs": [
+   "Die Klasse 2b macht einen Ausflug. Sie besuchen einen Bauernhof. Die Bäuerin heißt Frau Hartmann. Sie zeigt den Kindern den Hof.",
+   "Es gibt viele Tiere: Kühe, Schweine, Hühner, Schafe und zwei Katzen. Die Schweine sind schmutzig. Die Kinder finden sie lustig. Dann dürfen die Kinder eine Kuh melken. Das ist nicht leicht!",
+   "Danach sammeln sie Eier bei den Hühnern. Zum Schluss trinken alle frische Milch. „Die Milch ist warm!“, sagt ein Junge überrascht. Frau Hartmann lacht. „Ja, sie kommt ja direkt aus der Kuh.“"
+  ]
+ },
+ {
+  "id": "a1-085",
+  "title": "Die Kinder spielen",
+  "title_en": "The children are playing",
+  "summary_en": "On a sunny afternoon children play at the playground: hide-and-seek, football and on the swings. When it gets dark their parents call them home.",
+  "topics": [
+   "familie",
+   "freizeit"
+  ],
+  "paragraphs": [
+   "Es ist ein sonniger Nachmittag. Auf dem Spielplatz sind viele Kinder. Sie haben Zeit, denn die Hausaufgaben sind fertig.",
+   "Ein paar Kinder spielen Verstecken. Ein Mädchen zählt bis zwanzig. Die anderen verstecken sich hinter Bäumen und Büschen. Zwei Jungen spielen Fußball. Ein kleiner Junge sitzt auf der Schaukel. Seine Schwester schaukelt ihn.",
+   "Die Eltern sitzen auf einer Bank und sprechen. Um sechs Uhr wird es dunkel. Eine Mutter ruft: „Kinder, nach Hause! Es gibt Abendessen!“ Die Kinder sagen: „Noch fünf Minuten, bitte!“"
+  ]
+ },
+ {
+  "id": "a1-086",
+  "title": "Ein Kurs an der Volkshochschule",
+  "title_en": "A course at the adult education centre",
+  "summary_en": "Retired Mrs Graf wants to learn something new. She takes a photography course at the adult education centre, learns a lot and makes new friends.",
+  "topics": [
+   "bildung"
+  ],
+  "paragraphs": [
+   "Frau Graf ist pensioniert. Sie hat jetzt viel Zeit. Sie möchte etwas Neues lernen. Im Programm von der Volkshochschule findet sie einen Fotokurs.",
+   "Der Kurs ist jeden Mittwoch von achtzehn bis zwanzig Uhr. Er kostet neunzig Euro für zehn Termine. Im Kurs sind zwölf Leute. Der Lehrer erklärt die Kamera und das Licht.",
+   "Am Wochenende geht der Kurs zusammen in den Park und fotografiert. Frau Graf macht schöne Fotos von Blumen und Vögeln. Sie findet auch neue Freunde. Nach dem Kurs trinken sie oft zusammen ein Glas Wein."
+  ]
+ },
+ {
+  "id": "a1-087",
+  "title": "Die Fotos",
+  "title_en": "The photos",
+  "summary_en": "Grandma shows Luisa an old photo album. They look at photos of Grandma as a child, her wedding and Luisa's mother as a baby.",
+  "topics": [
+   "familie"
+  ],
+  "paragraphs": [
+   "Es regnet. Luisa ist bei ihrer Oma. Oma holt ein altes Fotoalbum aus dem Schrank. „Komm, wir schauen Fotos an.“",
+   "Das erste Foto ist schwarz-weiß. Ein kleines Mädchen steht vor einem Haus. „Das bin ich. Da war ich fünf Jahre alt.“ Luisa lacht. „Du siehst aus wie ich!“",
+   "Dann sehen sie die Hochzeit von Oma und Opa. Oma trägt ein langes Kleid. Opa hat noch viele Haare. Auf einem anderen Foto ist ein Baby. „Und wer ist das?“ „Das ist deine Mama!“ Luisa kann es nicht glauben."
+  ]
+ },
+ {
+  "id": "a1-088",
+  "title": "Erdbeeren pflücken",
+  "title_en": "Picking strawberries",
+  "summary_en": "In June Mrs Berg and her son pick strawberries on a field outside town. They eat almost as many as they pick, and at home they make jam.",
+  "topics": [
+   "essen",
+   "familie"
+  ],
+  "paragraphs": [
+   "Es ist Juni. Jetzt ist Erdbeerzeit! Frau Berg und ihr Sohn Julian fahren zu einem Erdbeerfeld außerhalb der Stadt. Dort darf man selbst pflücken.",
+   "Das Feld ist groß, und die Erdbeeren sind rot und süß. Julian pflückt eine Erdbeere und isst sie sofort. Dann noch eine und noch eine. „Julian, die Erdbeeren sind für den Korb!“, sagt seine Mutter.",
+   "Nach einer Stunde haben sie drei Kilo Erdbeeren. Ein Kilo kostet vier Euro. Zu Hause machen sie Marmelade. Die Küche riecht wunderbar. Julian sagt: „Morgen essen wir Brot mit Marmelade!“"
+  ]
+ },
+ {
+  "id": "a1-089",
+  "title": "Der Abschied",
+  "title_en": "The farewell",
+  "summary_en": "After a year in Germany, exchange student Hana goes back to Japan. Her host family brings her to the airport; everyone is sad, and she promises to come back.",
+  "topics": [
+   "familie",
+   "reisen"
+  ],
+  "paragraphs": [
+   "Hana kommt aus Japan. Sie war ein Jahr als Austauschschülerin in Deutschland. Sie hat bei Familie Weiß gewohnt. Heute fliegt sie zurück nach Tokio.",
+   "Die ganze Familie bringt sie zum Flughafen. Hanas Koffer ist sehr schwer. Darin sind viele Geschenke für ihre Familie: Schokolade, Bücher und ein Fußballtrikot.",
+   "Am Gate weinen alle. Hana sagt: „Danke für alles. Ihr seid jetzt auch meine Familie.“ Frau Weiß umarmt sie. „Komm bald wieder!“ „Ja, ich verspreche es!“ Dann geht Hana zum Flugzeug."
+  ]
+ },
+ {
+  "id": "a1-090",
+  "title": "Im Kaufhaus",
+  "title_en": "In the department store",
+  "summary_en": "Mr Wolff looks for a present for his wife. A shop assistant helps him; he chooses a scarf and has it gift-wrapped.",
+  "topics": [
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "Herr Wolff sucht ein Geschenk für seine Frau. Sie hat nächste Woche Geburtstag. Er geht ins Kaufhaus, aber er hat keine Idee.",
+   "Eine Verkäuferin fragt: „Kann ich Ihnen helfen?“ „Ja, bitte. Ich suche ein Geschenk für meine Frau.“ „Was mag Ihre Frau denn?“ „Sie mag Blau, und ihr ist oft kalt.“ „Wie wäre es mit einem Schal?“",
+   "Die Verkäuferin zeigt ihm einen blauen Schal aus Wolle. Er ist weich und warm. „Perfekt! Den nehme ich.“ „Möchten Sie den Schal als Geschenk verpackt?“ „Ja, gern.“ Herr Wolff ist froh. Das war einfach."
+  ]
+ },
+ {
+  "id": "a1-091",
+  "title": "Der Hausmeister",
+  "title_en": "The caretaker",
+  "summary_en": "Mr Kowalski is the caretaker of a big apartment building. He fixes lights, cleans the stairs, helps tenants and knows everybody.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Herr Kowalski ist Hausmeister in einem großen Haus. Im Haus wohnen dreißig Familien. Herr Kowalski kennt alle.",
+   "Er hat viel Arbeit. Er repariert Lampen und Türen. Er putzt die Treppe und den Hof. Im Winter räumt er den Schnee weg. Im Herbst sammelt er die Blätter.",
+   "Heute klingelt Frau Lorenz. „Herr Kowalski, in meinem Bad tropft der Wasserhahn.“ „Ich komme gleich.“ Nach zehn Minuten ist der Wasserhahn repariert. Frau Lorenz gibt ihm ein Stück Kuchen. „Sie sind der beste Hausmeister!“"
+  ]
+ },
+ {
+  "id": "a1-092",
+  "title": "Einkaufsliste",
+  "title_en": "The shopping list",
+  "summary_en": "Martin goes shopping with a list from his wife but forgets the list at home. He tries to remember and buys the wrong things.",
+  "topics": [
+   "einkaufen",
+   "essen"
+  ],
+  "paragraphs": [
+   "Martins Frau schreibt eine Einkaufsliste: Milch, Reis, Zwiebeln, Joghurt, Toilettenpapier und Kaffee. Martin nimmt die Liste und fährt zum Supermarkt.",
+   "Im Supermarkt sucht er die Liste. Sie ist nicht in seiner Tasche! Sie liegt noch zu Hause auf dem Tisch. Martin denkt nach: „Milch … Kaffee … und … Kartoffeln? Ja, Kartoffeln.“ Er kauft Milch, Kaffee, Kartoffeln, Bananen und Kekse.",
+   "Zu Hause schaut seine Frau in die Tüte. „Wo sind der Reis und der Joghurt? Und kein Toilettenpapier!“ Martin lacht verlegen. „Aber ich habe Kekse!“ Dann fährt er noch einmal zum Supermarkt."
+  ]
+ },
+ {
+  "id": "a1-093",
+  "title": "Der Sprachpartner",
+  "title_en": "The language partner",
+  "summary_en": "Spanish student Pablo has a language exchange with German student Jana. They meet weekly: one hour German, one hour Spanish, and they become friends.",
+  "topics": [
+   "sprache"
+  ],
+  "paragraphs": [
+   "Pablo kommt aus Spanien und studiert in Heidelberg. Er möchte besser Deutsch sprechen. Jana ist Deutsche und lernt Spanisch. Sie machen ein Tandem.",
+   "Sie treffen sich jeden Donnerstag in einem Café. Eine Stunde sprechen sie Deutsch, eine Stunde Spanisch. Jana hilft Pablo mit der Aussprache. Pablo erklärt Jana die spanische Grammatik.",
+   "Manchmal machen sie Fehler und lachen viel. Nach drei Monaten spricht Pablo viel besser Deutsch. Und Jana kann jetzt auf Spanisch einen Kaffee bestellen. Sie sind auch gute Freunde geworden."
+  ]
+ },
+ {
+  "id": "a1-094",
+  "title": "Der Regenschirm",
+  "title_en": "The umbrella",
+  "summary_en": "Ida forgets her umbrella in a café. When she comes back, it is gone. A young man who had taken it by mistake brings it back, and they go for a coffee.",
+  "topics": [
+   "familie"
+  ],
+  "paragraphs": [
+   "Ida trinkt einen Tee im Café. Draußen regnet es. Nach einer Stunde bezahlt sie und geht. Aber sie vergisst ihren Regenschirm. Ihr Regenschirm ist gelb mit weißen Punkten.",
+   "Auf der Straße merkt Ida: „Mein Schirm!“ Sie geht zurück ins Café. Aber der Schirm ist weg. Ida ist nass und traurig.",
+   "Dann kommt ein junger Mann ins Café. Er hat einen gelben Schirm mit weißen Punkten. „Entschuldigung, ist das Ihr Schirm? Ich habe ihn falsch genommen. Mein Schirm ist auch gelb.“ Ida lacht. Der Mann lädt sie zu einem Kaffee ein."
+  ]
+ },
+ {
+  "id": "a1-095",
+  "title": "Die Sprachschule",
+  "title_en": "The language school",
+  "summary_en": "Ms Petrova teaches German at a language school. She describes her students, her lessons with games and songs, and why she loves her job.",
+  "topics": [
+   "bildung",
+   "sprache"
+  ],
+  "paragraphs": [
+   "Frau Petrova ist Deutschlehrerin. Sie kommt aus Bulgarien und lebt seit zwanzig Jahren in Deutschland. Sie unterrichtet an einer Sprachschule in Mannheim.",
+   "Ihre Schüler sind Erwachsene aus vielen Ländern. Manche sind Ärzte, manche Studenten, manche Hausfrauen. Im Unterricht spielen sie oft Spiele und singen Lieder. So lernen sie die Wörter schneller.",
+   "Frau Petrova liebt ihren Beruf. Sie sagt: „Ich habe auch Deutsch gelernt. Ich weiß, wie schwer das ist. Aber jeder kann es lernen. Man braucht nur Zeit und Geduld.“"
+  ]
+ },
+ {
+  "id": "a1-096",
+  "title": "Der Nachtzug",
+  "title_en": "The night train",
+  "summary_en": "Elias takes the night train from Munich to Rome. He shares a compartment with an Italian family, sleeps in a bunk and wakes up in Italy.",
+  "topics": [
+   "reisen"
+  ],
+  "paragraphs": [
+   "Elias fliegt nicht gern. Er fährt mit dem Nachtzug von München nach Rom. Der Zug fährt um acht Uhr abends ab.",
+   "Im Abteil sind sechs Betten. Elias teilt das Abteil mit einer Familie aus Italien. Die Kinder sind sehr nett. Die Mutter gibt Elias ein Stück Pizza. Sie sprechen ein bisschen Englisch und ein bisschen Deutsch.",
+   "Um zehn Uhr machen alle das Licht aus. Der Zug fährt durch die Nacht. Elias schläft gut. Am Morgen sieht er aus dem Fenster: Sonne, Berge und Meer. Er ist in Italien!"
+  ]
+ },
+ {
+  "id": "a1-097",
+  "title": "Ein Brief vom Vermieter",
+  "title_en": "A letter from the landlord",
+  "summary_en": "Mrs Baumann gets a letter from her landlord: the water will be turned off on Tuesday from 8 to 12 because of repairs. She fills bottles with water the evening before.",
+  "topics": [
+   "wohnen",
+   "sprache"
+  ],
+  "paragraphs": [
+   "Frau Baumann findet einen Brief im Briefkasten. Der Brief ist von ihrem Vermieter. Sie öffnet ihn und liest:",
+   "„Liebe Mieterinnen und Mieter, am Dienstag, den vierzehnten März, gibt es Reparaturen im Keller. Von acht bis zwölf Uhr gibt es kein Wasser. Bitte entschuldigen Sie. Mit freundlichen Grüßen, Klaus Weber, Hausverwaltung.“",
+   "Am Montagabend füllt Frau Baumann ein paar Flaschen mit Wasser. Sie duscht schon am Abend. Am Dienstag macht sie Kaffee mit dem Wasser aus der Flasche. Um zwölf Uhr kommt das Wasser zurück."
+  ]
+ },
+ {
+  "id": "a1-098",
+  "title": "Der Sonntagsspaziergang",
+  "title_en": "The Sunday walk",
+  "summary_en": "Every Sunday the Lange family goes for a walk in the forest. Today the children find mushrooms, see a deer, and they stop for cake at a café.",
+  "topics": [
+   "umwelt",
+   "familie"
+  ],
+  "paragraphs": [
+   "Familie Lange macht jeden Sonntag einen Spaziergang. Sie gehen in den Wald. Der Wald beginnt direkt hinter ihrem Dorf.",
+   "Heute ist es kühl, aber sonnig. Die Kinder laufen voraus. Plötzlich bleibt die Tochter stehen. „Pst! Da ist ein Reh!“ Alle sind still. Das Reh schaut sie an und läuft dann weg.",
+   "Der Sohn findet Pilze unter einem Baum. „Können wir die essen?“ „Nein, lieber nicht“, sagt der Vater. „Manche Pilze sind giftig.“ Nach zwei Stunden gehen sie in ein Café und essen Apfelkuchen mit Sahne."
+  ]
+ },
+ {
+  "id": "a1-099",
+  "title": "Mein Zimmer",
+  "title_en": "My room",
+  "summary_en": "Twelve-year-old Mila describes her room: the bed, desk, shelves full of books, posters, her plants, and the window with a view of the garden.",
+  "topics": [
+   "wohnen"
+  ],
+  "paragraphs": [
+   "Das ist mein Zimmer. Es ist nicht groß, aber ich finde es sehr schön. Die Wände sind hellgrün. Grün ist meine Lieblingsfarbe.",
+   "Links steht mein Bett. Auf dem Bett liegen viele Kissen. Rechts ist mein Schreibtisch. Dort mache ich meine Hausaufgaben. Über dem Schreibtisch ist ein Regal mit Büchern. Ich lese sehr gern. An der Wand hängen Poster von meinen Lieblingssängern.",
+   "Am Fenster stehen drei Pflanzen. Ich gieße sie jeden Tag. Vom Fenster sehe ich in den Garten. Mein Zimmer ist nicht immer ordentlich. Aber es ist mein Lieblingsort."
+  ]
+ },
+ {
+  "id": "a1-100",
+  "title": "Im Supermarkt an der Kasse",
+  "title_en": "At the supermarket checkout",
+  "summary_en": "Mr Klein is at the checkout when he notices he has forgotten his wallet. The woman behind him pays for his milk and bread, and the next day he pays her back.",
+  "topics": [
+   "einkaufen"
+  ],
+  "paragraphs": [
+   "Herr Klein steht an der Kasse im Supermarkt. Er hat Milch und Brot. „Das macht drei Euro fünfzig“, sagt die Kassiererin. Herr Klein sucht sein Portemonnaie. Aber es ist nicht da!",
+   "„Oh nein, ich habe mein Portemonnaie zu Hause vergessen!“ Hinter ihm steht eine Frau. Sie lächelt und sagt: „Kein Problem, ich bezahle für Sie.“ „Wirklich? Vielen Dank! Wohnen Sie hier in der Nähe?“ „Ja, in der Lindenstraße zwölf.“",
+   "Am nächsten Tag klingelt Herr Klein in der Lindenstraße zwölf. Er gibt der Frau das Geld zurück und schenkt ihr eine Schachtel Pralinen. „Danke für Ihre Hilfe!“"
+  ]
+ },
+ {
+  "id": "a1-101",
+  "title": "Der neue Kollege",
+  "title_en": "The new colleague",
+  "summary_en": "Tom starts a new job in an office. His colleague Sara shows him the kitchen, the printer and his desk, and they eat lunch together. Tom is tired in the evening but happy.",
+  "topics": [
+   "arbeit"
+  ],
+  "paragraphs": [
+   "Heute ist Montag. Tom hat eine neue Arbeit. Er arbeitet jetzt in einem Büro in Köln. Er ist ein bisschen nervös.",
+   "Seine Kollegin heißt Sara. Sie ist sehr nett. Sie zeigt Tom die Küche, den Drucker und seinen Schreibtisch. „Hier ist dein Computer“, sagt sie. „Das Passwort bekommst du vom Chef.“",
+   "Um zwölf Uhr essen Tom und Sara zusammen in der Kantine. Es gibt Nudeln mit Gemüse. Sara fragt: „Woher kommst du?“ Tom sagt: „Ich komme aus Hamburg. Und du?“ „Ich bin aus Köln“, sagt Sara.",
+   "Am Abend ist Tom müde, aber glücklich. Die Arbeit ist interessant und die Kollegen sind freundlich."
+  ]
+ },
+ {
+  "id": "a1-102",
+  "title": "Ein Paket abholen",
+  "title_en": "Picking up a parcel",
+  "summary_en": "Jana is not at home when a parcel arrives. She finds a card in her letterbox, goes to the post office the next day with her ID card and picks up a present from her mother.",
+  "topics": [
+   "aemter"
+  ],
+  "paragraphs": [
+   "Jana kommt am Abend nach Hause. Im Briefkasten ist eine Karte von der Post: „Wir waren heute um elf Uhr hier. Leider waren Sie nicht da. Ihr Paket liegt in der Filiale in der Goethestraße.“",
+   "Am nächsten Morgen geht Jana zur Post. Dort warten schon fünf Leute. Nach zehn Minuten ist sie dran. „Guten Tag, ich möchte ein Paket abholen“, sagt sie und gibt dem Mann die Karte.",
+   "„Haben Sie einen Ausweis?“, fragt der Mann. Jana zeigt ihren Personalausweis. Er bringt ein großes Paket. Jana muss noch unterschreiben, dann ist alles fertig.",
+   "Zu Hause öffnet sie das Paket. Es ist von ihrer Mutter: Schokolade, ein Buch und ein warmer Schal. Jana ruft sofort ihre Mutter an und sagt: „Danke, Mama!“"
+  ]
+ },
+ {
+  "id": "a1-103",
+  "title": "Ein Konto eröffnen",
+  "title_en": "Opening a bank account",
+  "summary_en": "Ali is new in Leipzig and needs a bank account for his salary. He makes an appointment, brings his passport and registration certificate, and gets his card a week later.",
+  "topics": [
+   "aemter",
+   "wirtschaft"
+  ],
+  "paragraphs": [
+   "Ali kommt aus Syrien und wohnt seit Mai in Leipzig. Er hat eine neue Arbeit in einem Hotel. Sein Chef sagt: „Für Ihr Gehalt brauchen Sie ein Konto bei einer Bank.“",
+   "Ali ruft bei der Bank an und macht einen Termin. Am Montag um zehn Uhr ist er da. Eine Frau sagt: „Guten Tag, Herr Hamdan. Haben Sie Ihren Pass und Ihre Meldebescheinigung dabei?“ Ali gibt ihr die Papiere.",
+   "Die Frau fragt nach seiner Adresse, seiner Telefonnummer und seinem Arbeitgeber. Das Konto kostet vier Euro im Monat. Ali unterschreibt zwei Formulare.",
+   "Eine Woche später bekommt Ali einen Brief mit seiner Karte. Dann kommt noch ein Brief mit der PIN. Jetzt kann er Geld abheben und im Supermarkt mit Karte bezahlen."
+  ]
+ },
+ {
+  "id": "a1-104",
+  "title": "Im Handyladen",
+  "title_en": "In the phone shop",
+  "summary_en": "Lina is new in Bremen and needs a German phone number. In a phone shop she chooses a prepaid card for ten euros a month, shows her passport and gets her new number straight away.",
+  "topics": [
+   "einkaufen",
+   "medien"
+  ],
+  "paragraphs": [
+   "Lina kommt aus Polen und wohnt seit zwei Wochen in Bremen. Sie hat ein Handy, aber keine deutsche Nummer. Heute geht sie in einen Handyladen am Bahnhof.",
+   "Ein junger Mann fragt: „Guten Tag, kann ich Ihnen helfen?“ Lina sagt: „Ja, bitte. Ich brauche eine Karte für mein Handy. Was kostet das?“ Der Mann zeigt ihr zwei Angebote. Eine Karte kostet zehn Euro im Monat, die andere zwanzig Euro.",
+   "Lina nimmt die Karte für zehn Euro. Der Mann sagt: „Ich brauche Ihren Pass, bitte.“ Lina gibt ihm den Pass. Dann bezahlt sie mit Karte.",
+   "Nach zehn Minuten ist alles fertig. Lina hat jetzt eine deutsche Nummer. Sie schreibt sofort eine Nachricht an ihre Mutter: „Hallo Mama, das ist meine neue Nummer!“"
+  ]
+ },
+ {
+  "id": "a1-105",
+  "title": "Ich habe mein Passwort vergessen",
+  "title_en": "I forgot my password",
+  "summary_en": "Mr Wagner, 68, has a new tablet but can't read his emails because he has forgotten his password. His daughter Lena comes over in the evening, and with a code sent to his phone he chooses a new password.",
+  "topics": [
+   "medien",
+   "familie"
+  ],
+  "paragraphs": [
+   "Herr Wagner ist 68 Jahre alt. Er hat ein neues Tablet. Er möchte seine E-Mails lesen, aber das geht nicht. Er hat sein Passwort vergessen.",
+   "Er ruft seine Tochter Lena an. „Lena, kannst du mir helfen? Mein Passwort ist weg.“ Lena sagt: „Kein Problem, Papa. Ich komme heute Abend.“",
+   "Am Abend sitzen sie zusammen am Tisch. Lena klickt auf „Passwort vergessen“. Dann bekommt Herr Wagner einen Code auf sein Handy. Er gibt den Code ein und wählt ein neues Passwort.",
+   "„Aber bitte schreib das Passwort nicht auf einen Zettel am Tablet“, sagt Lena und lacht. Herr Wagner lacht auch. Jetzt kann er wieder E-Mails lesen."
+  ]
+ }
 ]

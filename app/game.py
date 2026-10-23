@@ -4,7 +4,7 @@ import random
 import re
 from dataclasses import dataclass
 
-from app.data import LEVELS, Entry, Library
+from app.data import LEVELS, Entry, Library, lemma_key
 
 GAP = "_____"
 WORD_CLASSES = ("noun", "verb", "adjective", "adverb")
@@ -29,29 +29,39 @@ class GapGame:
     def __init__(self, lib: Library, rng: random.Random | None = None):
         self.lib = lib
         self.rng = rng or random.Random()
-        self._pools: dict[str, list[tuple[Entry, re.Match]]] = {}
+        self._pools: dict[tuple[str, str], list[tuple[Entry, re.Match]]] = {}
 
-    def pool(self, level: str) -> list[tuple[Entry, re.Match]]:
-        if level not in self._pools:
+    def pool(self, level: str, topic: str = "") -> list[tuple[Entry, re.Match]]:
+        """Playable sentences for a level; with a topic, every form of that topic's
+        key words at that level (the level then comes from the stories, not the file)."""
+        if (level, topic) not in self._pools:
+            keys = {lemma_key(e) for e, _ in self.lib.topic_words(topic, level)} if topic else None
             items = []
             for e in self.lib.dictionary.values():
-                if level != "ALL" and e.level != level:
+                if keys is not None:
+                    if lemma_key(e) not in keys:
+                        continue
+                elif level != "ALL" and e.level != level:
                     continue
                 if _word_class(e) not in WORD_CLASSES or len(e.word) < 3 or "-" in e.word:
                     continue
                 matches = list(re.finditer(rf"\b{re.escape(e.word)}\b", e.example_de, re.I))
                 if len(matches) == 1:
                     items.append((e, matches[0]))
-            self._pools[level] = items
-        return self._pools[level]
+            self._pools[(level, topic)] = items
+        return self._pools[(level, topic)]
 
-    def question(self, level: str = "ALL") -> Question | None:
-        items = self.pool(level)
+    def question(self, level: str = "ALL", topic: str = "") -> Question | None:
+        items = self.pool(level, topic)
         if not items:
             return None
         entry, m = self.rng.choice(items)
         answer = m.group()
-        options = self._distractors(entry, items, answer) + [answer]
+        # Wrong options from the same topic where possible, so they look plausible too.
+        options = self._distractors(entry, items, answer)
+        if len(options) < 3:
+            options = self._distractors(entry, items + self.pool("ALL"), answer)
+        options.append(answer)
         self.rng.shuffle(options)
         return Question(
             entry, entry.example_de[: m.start()], entry.example_de[m.end() :], options, answer
@@ -73,7 +83,7 @@ class GapGame:
         for other in exact + loose:
             # Match the answer's capital letter (sentence start), so case gives nothing away.
             form = other.word[:1].upper() + other.word[1:] if answer[:1].isupper() else other.display
-            if form.lower() not in taken:
+            if form.lower() not in taken and other.lemma.lower() not in taken:
                 taken.add(form.lower())
                 taken.add(other.lemma.lower())
                 picks.append(form)

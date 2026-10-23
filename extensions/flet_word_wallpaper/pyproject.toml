@@ -1,0 +1,17 @@
+[project]
+name = "flet-word-wallpaper"
+version = "0.1.0"
+description = "Android live wallpaper and home-screen widget that show German word cards."
+requires-python = ">=3.10"
+dependencies = ["flet==1.0.4"]
+
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+namespaces = true
+
+[tool.setuptools.package-data]
+"flutter.flet_word_wallpaper" = ["**/*"]
