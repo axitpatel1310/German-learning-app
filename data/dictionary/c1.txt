@@ -3953,3 +3953,83 @@ wanderschuhen | der Wanderschuh | noun (pl., dative) | hiking boots (after nach,
 werbefinanzierung | die Werbefinanzierung | noun (f) | funding through advertising | Viele Websites leben von Werbefinanzierung. | Many websites live on advertising revenue.
 werbenetzwerke | das Werbenetzwerk | noun (pl.) | advertising networks, ad networks | Werbenetzwerke verteilen Anzeigen auf viele Websites. | Ad networks distribute ads across many websites.
 werbeplatz | der Werbeplatz | noun (m) | advertising space, ad slot | Der Werbeplatz auf der Startseite ist teuer. | The ad slot on the home page is expensive.
+
+zeitschrift | die Zeitschrift | noun (f) | magazine, journal | Sie liest jeden Monat eine Zeitschrift über Gärten. | She reads a magazine about gardens every month.
+bergsport | der Bergsport | noun (m) | mountain sports (hiking, climbing) | Bergsport ist in den Alpen sehr beliebt. | Mountain sports are very popular in the Alps.
+blättert | blättern | verb | leafs, flicks (through) (in etwas blättern) | Er blättert im Wartezimmer in einer Zeitschrift. | In the waiting room he flicks through a magazine.
+gedruckten | gedruckt / drucken | adjective (participle) | printed (die gedruckte Presse = the print press) | Die gedruckten Zeitungen verlieren Leser. | Printed newspapers are losing readers.
+comeback | das Comeback | noun (n) | comeback | Die Schallplatte erlebt ein Comeback. | The vinyl record is making a comeback.
+verhaltensbasierte | verhaltensbasiert | adjective | behaviour-based, behavioural (verhaltensbasierte Werbung = behavioural advertising) | Verhaltensbasierte Werbung nutzt Daten über das Surfverhalten. | Behavioural advertising uses data on browsing behaviour.
+websites | die Website | noun (f, pl.) | websites | Viele Websites verwenden Cookies. | Many websites use cookies.
+profilen | das Profil | noun (n, pl., dative) | profiles | Die Daten werden in Profilen gespeichert. | The data is stored in profiles.
+ausgespielt | ausspielen | verb (participle) | served, delivered (of ads); also: played out | Die Anzeige wird nur Nutzern in Berlin ausgespielt. | The ad is only served to users in Berlin.
+trackings | das Tracking | noun (n, genitive) | (of) tracking, monitoring users online | Für viele Formen des Trackings braucht man eine Einwilligung. | Many forms of tracking require consent.
+ausdrückliche | ausdrücklich | adjective | explicit, express | Dafür ist eine ausdrückliche Zustimmung nötig. | Explicit agreement is needed for that.
+einwilligung | die Einwilligung | noun (f) | consent | Ohne Ihre Einwilligung dürfen wir die Daten nicht weitergeben. | We may not pass on the data without your consent.
+browser | der Browser | noun (m, also pl.) | (web) browser(s) | Mehrere Browser blockieren solche Cookies. | Several browsers block such cookies.
+drittanbietern | der Drittanbieter | noun (m, pl., dative) | third-party providers (Cookies von Drittanbietern = third-party cookies) | Daten werden oft an Drittanbieter weitergegeben. | Data is often passed on to third parties.
+standardmäßig | standardmäßig | adverb | by default, as standard | Die Funktion ist standardmäßig ausgeschaltet. | The feature is switched off by default.
+überwachung | die Überwachung | noun (f) | surveillance, monitoring | Viele Menschen lehnen die Überwachung im Netz ab. | Many people reject surveillance online.
+personenbezogenen | personenbezogen | adjective | personal (personenbezogene Daten = personal data) | Personenbezogene Daten müssen geschützt werden. | Personal data must be protected.
+rechtliche | rechtlich | adjective | legal | Das hat auch rechtliche Folgen. | That also has legal consequences.
+aufdringlich | aufdringlich | adjective | intrusive, pushy | Der Verkäufer war ziemlich aufdringlich. | The salesman was rather pushy.
+vorbereitungskurse | der Vorbereitungskurs | noun (m, pl.) | preparation courses | Die Schule bietet Vorbereitungskurse für die Prüfung an. | The school offers preparation courses for the exam.
+automatische | automatisch | adjective | automatic | Die automatische Übersetzung war fehlerhaft. | The automatic translation contained mistakes.
+textanalysen | die Textanalyse | noun (f, pl.) | text analyses | Die Software erstellt automatische Textanalysen. | The software produces automatic text analyses.
+flugzeugabsturz | der Flugzeugabsturz | noun (m) | plane crash | Bei dem Flugzeugabsturz gab es keine Überlebenden. | There were no survivors of the plane crash.
+pauschalreisen | die Pauschalreise | noun (f, pl.) | package holidays | Pauschalreisen sind in diesem Jahr teurer geworden. | Package holidays have become more expensive this year.
+geworben | werben | verb (participle) | advertised (für etwas werben = to advertise sth.) | Im Fernsehen wird viel für Süßigkeiten geworben. | There is a lot of advertising for sweets on TV.
+abzugeben | abgeben | verb (separable, zu-infinitive) | to submit, hand in | Sie vergaß, die Steuererklärung rechtzeitig abzugeben. | She forgot to submit the tax return on time.
+anreizproblem | das Anreizproblem | noun (n) | incentive problem | Hohe Grenzen schaffen ein Anreizproblem. | High limits create an incentive problem.
+anschaffungen | die Anschaffung | noun (f, pl.) | purchases, acquisitions (larger items) | Größere Anschaffungen plane ich lange im Voraus. | I plan larger purchases well in advance.
+aufgeschlagen | aufschlagen | verb (past participle) | added on (to a price); opened (a book) | Auf den Preis wird die Steuer aufgeschlagen. | The tax is added on to the price.
+aufwands | der Aufwand | noun (m, genitive) | effort, expense (des Aufwands = of the effort) | Ein Teil des Aufwands lässt sich vermeiden. | Part of the effort can be avoided.
+auszuweisen | ausweisen | verb (separable, zu-infinitive) | to show, state separately (on an invoice); to expel | Die Firma ist verpflichtet, die Steuer gesondert auszuweisen. | The company is obliged to state the tax separately.
+bemerkbar | bemerkbar | adjective | noticeable (sich bemerkbar machen = to make itself felt) | Die Preiserhöhung macht sich deutlich bemerkbar. | The price rise is clearly making itself felt.
+einkäufen | der Einkauf | noun (m, dative pl.) | purchases | Von den Einkäufen bleibt kaum etwas übrig. | Hardly anything is left of the purchases.
+fehlenden | fehlend | adjective | missing, lacking | Wegen der fehlenden Unterlagen wurde der Antrag abgelehnt. | The application was rejected because of the missing documents.
+formsache | die Formsache | noun (f) | formality | Die Unterschrift ist nur noch eine Formsache. | The signature is only a formality now.
+geschäftskunden | der Geschäftskunde | noun (m, pl.) | business customers | Für Geschäftskunden gelten andere Preise. | Different prices apply to business customers.
+gleichem | gleich | adjective | same, equal (bei gleichem Preis = at the same price) | Bei gleichem Gehalt würde ich die kürzere Fahrt wählen. | For the same salary I'd choose the shorter commute.
+grafikerin | die Grafikerin | noun (f) | graphic designer (woman) | Die Grafikerin hat das neue Logo entworfen. | The graphic designer designed the new logo.
+gründer | der Gründer | noun (m, sg./pl.) | founder(s) | Die Gründer des Start-ups sind erst Mitte zwanzig. | The founders of the start-up are only in their mid-twenties.
+gründungsberatungen | die Gründungsberatung | noun (f, pl.) | start-up advice services (for people founding a business) | Viele Kammern bieten kostenlose Gründungsberatungen an. | Many chambers of commerce offer free advice for founders.
+kleinunternehmer | der Kleinunternehmer | noun (m) | small trader, small business owner (under the VAT small-business rule) | Als Kleinunternehmer stellt er Rechnungen ohne Umsatzsteuer aus. | As a small business owner he issues invoices without VAT.
+laufenden | laufend | adjective | current, ongoing (im laufenden Jahr = in the current year) | Im laufenden Jahr wurden schon drei Filialen eröffnet. | Three branches have already opened in the current year.
+nebenberuflich | nebenberuflich | adverb / adjective | as a sideline, on the side (in addition to a main job) | Sie arbeitet nebenberuflich als Fotografin. | She works as a photographer on the side.
+nettopreis | der Nettopreis | noun (m) | net price (before VAT) | Im Katalog stehen nur die Nettopreise. | The catalogue only shows net prices.
+offensichtlich | offensichtlich | adjective / adverb | obvious; obviously | Der Fehler war offensichtlich. | The mistake was obvious.
+preisvorteil | der Preisvorteil | noun (m) | price advantage | Online-Händler haben oft einen Preisvorteil. | Online retailers often have a price advantage.
+regelbesteuerung | die Regelbesteuerung | noun (f) | standard VAT taxation (as opposed to the small-business rule) | Ab dem nächsten Jahr gilt für sie die Regelbesteuerung. | From next year she will be subject to standard VAT taxation.
+restauriert | restaurieren | verb | restores (old furniture, buildings, art) | Mein Onkel restauriert in seiner Freizeit alte Möbel. | My uncle restores old furniture in his free time.
+steuerausweis | der Steuerausweis | noun (m) | stating the tax (separately) on an invoice | Ohne Steuerausweis kann der Kunde keine Vorsteuer abziehen. | Without the tax being stated, the customer can't deduct input tax.
+steuertechnik | die Steuertechnik | noun (f) | tax technicalities | Das klingt nach trockener Steuertechnik, ist aber wichtig. | It sounds like dry tax technicalities, but it matters.
+strategische | strategisch | adjective | strategic | Das war eine strategische Entscheidung. | That was a strategic decision.
+umsatzsteuervoranmeldungen | die Umsatzsteuervoranmeldung | noun (f, pl.) | advance VAT returns (monthly or quarterly) | Die Umsatzsteuervoranmeldungen schickt sie jedes Quartal ans Finanzamt. | She sends the advance VAT returns to the tax office every quarter.
+verschont | verschonen | verb (past participle) | spared (von etwas verschont bleiben = to be spared sth.) | Unser Dorf blieb vom Hochwasser verschont. | Our village was spared by the flood.
+voraussichtlich | voraussichtlich | adverb / adjective | probably, expected (to) | Der Zug kommt voraussichtlich zehn Minuten später. | The train is expected to arrive ten minutes late.
+vorsteuer | die Vorsteuer | noun (f) | input tax (VAT paid on purchases that a business can reclaim) | Die Vorsteuer bekommt die Firma vom Finanzamt zurück. | The company gets the input tax back from the tax office.
+yogalehrer | der Yogalehrer | noun (m) | yoga teacher | Der Yogalehrer gibt seine Kurse im Park. | The yoga teacher holds his classes in the park.
+überschreiten | überschreiten | verb | to exceed; to cross | Die Kosten dürfen das Budget nicht überschreiten. | The costs must not exceed the budget.
+überschritten | überschreiten | verb (past participle) | exceeded; crossed | Er hat die Geschwindigkeit deutlich überschritten. | He clearly exceeded the speed limit.
+ausstattung | die Ausstattung | noun (f) | equipment, furnishing | Die technische Ausstattung der Schule ist veraltet. | The school's technical equipment is outdated.
+beidem | beides | pronoun (dative) | both (things) | Ich trinke Kaffee und Tee, von beidem aber nur wenig. | I drink coffee and tea, but only a little of both.
+darauffolgenden | darauffolgend | adjective | following, subsequent | Am darauffolgenden Tag rief sie zurück. | She called back the following day.
+finanzsektor | der Finanzsektor | noun (m) | financial sector | Im Finanzsektor wird viel digital gearbeitet. | A lot of work in the financial sector is done digitally.
+gesundheitswesen | das Gesundheitswesen | noun (n) | health care system, health sector | Im Gesundheitswesen fehlen Pflegekräfte. | There is a shortage of nurses in the health sector.
+gewonnene | gewinnen | participle (adjective) | gained, won | Die gewonnene Zeit nutzt sie für Sport. | She uses the time she has gained for sport.
+missen | missen | verb | to do without, to miss | Diesen Urlaub möchte ich nicht missen. | I wouldn't want to have missed this holiday.
+musterlösung | die Musterlösung | noun (f) | model answer, sample solution | Nach dem Test bekommen alle eine Musterlösung. | After the test everyone gets a model answer.
+pendelte | einpendeln (sich) / pendeln | verb (past) | levelled off (sich einpendeln); commuted (pendeln) | Der Preis pendelte sich bei zwei Euro ein. | The price levelled off at two euros.
+pendelzeiten | die Pendelzeit | noun (f), plural | commuting times | Lange Pendelzeiten machen viele Menschen müde. | Long commuting times make many people tired.
+sinnvollste | sinnvoll | adjective (superlative) | most sensible | Das ist die sinnvollste Lösung. | That is the most sensible solution.
+sprunghafte | sprunghaft | adjective | sudden, sharp (increase); erratic | Der sprunghafte Anstieg der Preise überraschte alle. | The sharp rise in prices surprised everyone.
+säulendiagramm | das Säulendiagramm | noun (n) | bar chart (vertical bars) | Das Säulendiagramm zeigt die Einwohnerzahl pro Jahr. | The bar chart shows the population per year.
+umstellen | umstellen | verb (separable) | to switch over, to change (to a new system) | Die Firma will auf Ökostrom umstellen. | The company wants to switch to green electricity.
+verdreifachte | verdreifachen | verb (past) | tripled | Die Zahl der Nutzer verdreifachte sich in einem Jahr. | The number of users tripled in one year.
+vereinbarkeit | die Vereinbarkeit | noun (f) | compatibility; (von Familie und Beruf) balancing family and work | Die Vereinbarkeit von Familie und Beruf ist vielen Eltern wichtig. | Balancing family and work is important to many parents.
+vorliegende | vorliegend | adjective | present, at hand (this) | Der vorliegende Bericht fasst die Ergebnisse zusammen. | The present report summarises the results.
+wohingegen | wohingegen | conjunction | whereas | Er liebt den Sommer, wohingegen sie den Winter vorzieht. | He loves summer, whereas she prefers winter.
+zurückzuführen | zurückführen | verb (zu-infinitive) | (auf etwas zurückzuführen sein) to be due to, attributable to | Der Unfall ist auf Glätte zurückzuführen. | The accident is due to ice on the road.
+überdies | überdies | adverb | moreover, besides | Die Wohnung ist zu klein und überdies zu teuer. | The flat is too small and moreover too expensive.
+übungsaufgabe | die Übungsaufgabe | noun (f) | practice task, exercise | Zu jedem Kapitel gibt es eine Übungsaufgabe. | There is a practice task for every chapter.

@@ -4,7 +4,9 @@ A Flet app for German exam prep: graded stories from A1 to C2. Tap any word to s
 meaning and an example sentence, and save words to **My Words** to review later. **Word
 search** looks up any dictionary word, and the **Gap game** hides one word in an example
 sentence for you to pick from four options. **Word scroll** shows one word card at a time:
-swipe up (or use the mouse wheel or arrow keys) for the next word and double-tap to save it. **Topics** groups the stories by exam theme
+swipe up (or use the mouse wheel or arrow keys) for the next word and double-tap to save it.
+The **Sentence builder** is a deck of cards: draw one, rewrite its sentence with the given
+connector or structure (*sowohl … als auch*, *obwohl*, Passiv …) and check the answer. **Topics** groups the stories by exam theme
 (Wohnen, Arbeit, Gesundheit …), with each topic's key words and a gap game for them. On
 Android, the **Word widget** puts a glass word card on the home screen (a new word every 30
 minutes, or tap its arrow), and the **Word wallpaper** shows a word card on the lock and home
@@ -58,8 +60,9 @@ each payment; see [server/README.md](server/README.md#setting-up-payments).
 `server/` is a small backend (standard library + SQLite). With it, the server sends and checks
 the WhatsApp codes, keeps one account per phone number, stores the Premium plan, and keeps your
 time stats across devices. It also sells ads: businesses book and pay on `/ads`, you approve
-them on `/ads/admin`, and free users see them in the app until the booked views are reached
-(see [server/README.md](server/README.md#ads)). Start it, then point the app at it with
+them on `/ads/admin`, and free users see them in the app until the booked views are reached.
+An ad can be aimed at some levels only, using the level of the stories the learner reads
+(see [server/README.md](server/README.md#ads)), and advertisers can download a PDF invoice. Start it, then point the app at it with
 `DMG_API_URL` (PowerShell):
 
 ```bash
@@ -87,6 +90,8 @@ app/api.py              JSON client for the accounts server
 app/billing.py          buying Premium: which provider on this device, and the Google Play bridge
 app/feed.py             word scroll: the deck of word cards, unseen words first
 app/feed_view.py        word scroll screen (swipe, wheel, keys, double-tap to save)
+app/structures.py       sentence builder: the card deck, filters and answer checking
+app/structures_view.py  sentence builder screen (deck on top, drawn card below)
 app/account_view.py     sign-in, Premium, locked-story and profile screens
 app/theme.py            level names and colours
 app/wallpaper.py        word wallpaper and widget: settings, the word cards, the bridge to Android
@@ -98,8 +103,9 @@ extensions/flet_word_wallpaper/
 extensions/flet_play_billing/
                         Flet extension for Google Play Billing (Flutter in_app_purchase)
 server/                 accounts server: sign-in, one account per number, plan, payments
-                        (Stripe, Google Play), time stats, ads sold per view (SQLite)
+                        (Stripe, Google Play), time stats, ads sold per view, invoices (SQLite)
 data/stories/*.json     stories, one file per level
+data/structures.json    sentence builder cards: level, kind, cue, prompt, answer, alt, en, tip
 data/dictionary/*.txt   dictionary entries: word | lemma | pos | english | example_de | example_en
 tools/check_coverage.py lists story words that have no dictionary entry
 tools/test_server.py    end-to-end check of the accounts server
@@ -126,6 +132,14 @@ in the Android app's private files.
 2. Run `python tools/check_coverage.py` to list the words that still need entries.
 3. Add those words to `data/dictionary/<level>.txt`. The file decides the word's level in
    the gap game (`00_core.txt` counts as A1), so put new words in the story's level file.
+
+## Adding a sentence builder card
+
+Add a line to `cards` in `data/structures.json`: `level` (A1 … C2), `kind` (a key from
+`kinds`), `cue` (the connector or structure to use), `prompt` (the sentence to rewrite),
+`answer`, optional `alt` (other correct answers), `en` (the answer in English) and `tip` (a
+short rule). A typed answer counts as right if it matches `answer` or an `alt`, ignoring
+punctuation and the case of the first letter.
 
 A topic's key words are not stored anywhere: the app picks the base forms that occur much
 more often in that topic's stories than in the others, so tagging a story is all it takes.

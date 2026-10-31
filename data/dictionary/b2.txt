@@ -3312,3 +3312,44 @@ verleiten | verleiten | verb | to tempt, lead (someone) into (doing something) |
 verstöße | der Verstoß | noun (pl.) | violations, breaches, infringements | Verstöße gegen die Regeln werden bestraft. | Violations of the rules are punished.
 werbespot | der Werbespot | noun (m) | commercial, advert (on TV or radio) | Der Werbespot läuft vor jedem Film. | The commercial runs before every film.
 youtube | YouTube | proper noun | YouTube (video platform) | Er lernt Gitarre mit Videos auf YouTube. | He is learning guitar with videos on YouTube.
+
+latein | das Latein | noun (n) | Latin (the language) | Mein Bruder lernt in der Schule Latein. | My brother is learning Latin at school.
+weiterführende | weiterführend | adjective | continuing, further (eine weiterführende Schule = a secondary school after primary school) | Nach der vierten Klasse wechseln die Kinder auf eine weiterführende Schule. | After year four the children move on to a secondary school.
+lücken | die Lücke | noun (f, pl.) | gaps | Die Nachhilfe soll Lücken in Mathe schließen. | The tutoring is meant to close gaps in maths.
+nachhilfelehrerin | die Nachhilfelehrerin | noun (f) | (female) private tutor | Meine Nachhilfelehrerin erklärt alles sehr geduldig. | My tutor explains everything very patiently.
+ansetzen | ansetzen | verb | to start (at a point), to tackle (an etwas ansetzen = to tackle sth. at that point) | Wir müssen dort ansetzen, wo die Probleme liegen. | We have to start where the problems are.
+einzelstunde | die Einzelstunde | noun (f) | one-to-one lesson | Eine Einzelstunde kostet vierzig Euro. | A one-to-one lesson costs forty euros.
+hänge | hängen | verb (Konjunktiv I) | depends (reported speech: hänge … ab = depends on) | Sie sagt, der Erfolg hänge vom Einsatz ab. | She says success depends on effort.
+herauszufinden | herausfinden | verb (zu-infinitive) | to find out | Es ist nicht leicht, die Ursache herauszufinden. | It isn't easy to find out the cause.
+lerngewohnheiten | die Lerngewohnheit | noun (f, pl.) | study habits | Gute Lerngewohnheiten helfen mehr als lange Nächte. | Good study habits help more than long nights.
+klares | klar | adjective | clear (neuter form: ein klares Ziel) | Wir brauchen ein klares Ziel. | We need a clear goal.
+lernhilfe | die Lernhilfe | noun (f) | learning support, study help | Die Stadt bietet kostenlose Lernhilfe für Schüler an. | The city offers free learning support for pupils.
+lernpaten | der Lernpate / die Lernpatin | noun (m, pl.) | learning mentors (volunteers who help children learn) | Ehrenamtliche Lernpaten helfen bei den Hausaufgaben. | Volunteer learning mentors help with homework.
+abtippen | abtippen | verb (separable) | to type out, copy by typing | Ich musste den ganzen Text noch einmal abtippen. | I had to type out the whole text again.
+ausstellen | ausstellen | verb (separable) | to issue (an invoice, a document); to exhibit | Das Amt kann den Ausweis sofort ausstellen. | The office can issue the ID card straight away.
+buchhaltungsprogramm | das Buchhaltungsprogramm | noun (n) | accounting software | Mit dem Buchhaltungsprogramm schreibt sie ihre Rechnungen. | She writes her invoices with the accounting software.
+dachten | denken | verb (past, pl.) | (they/we) thought | Wir dachten, der Laden sei schon geschlossen. | We thought the shop was already closed.
+datenformat | das Datenformat | noun (n) | data format | Das Programm kann dieses Datenformat nicht öffnen. | The program can't open this data format.
+e-rechnung | die E-Rechnung | noun (f) | e-invoice (structured electronic invoice) | Eine E-Rechnung kann der Computer automatisch lesen. | A computer can read an e-invoice automatically.
+e-rechnungen | die E-Rechnung | noun (f, pl.) | e-invoices | Ab 2028 müssen alle Firmen E-Rechnungen schreiben. | From 2028 all businesses must issue e-invoices.
+empfangen | empfangen | verb | to receive; to welcome | Kannst du diesen Sender hier empfangen? | Can you receive this station here?
+erhofft | erhoffen | verb | (sich etwas erhoffen) hopes for, expects | Die Stadt erhofft sich mehr Touristen. | The city is hoping for more tourists.
+handgeschriebenen | handgeschrieben | adjective | handwritten | Sie hat sich über den handgeschriebenen Brief gefreut. | She was pleased about the handwritten letter.
+häkchen | das Häkchen | noun (n) | tick, check mark | Setzen Sie ein Häkchen, wenn Sie zustimmen. | Put a tick if you agree.
+jahresumsatz | der Jahresumsatz | noun (m) | annual turnover | Der Jahresumsatz der Firma ist gestiegen. | The company's annual turnover has gone up.
+pdf | das PDF | noun (n) | PDF (file) | Ich schicke Ihnen den Vertrag als PDF. | I'll send you the contract as a PDF.
+pdf-rechnungen | die PDF-Rechnung | noun (f, pl.) | PDF invoices | Viele Firmen verschicken PDF-Rechnungen per E-Mail. | Many companies send PDF invoices by email.
+privatkunden | der Privatkunde | noun (m, pl.) | private customers, consumers | Die Bank hat neue Angebote für Privatkunden. | The bank has new offers for private customers.
+programmen | das Programm | noun (n, dative pl.) | programs, software; programmes | Mit alten Programmen funktioniert das nicht. | That doesn't work with old programs.
+steuerberaterin | die Steuerberaterin | noun (f) | tax adviser (woman) | Unsere Steuerberaterin macht die Steuererklärung für uns. | Our tax adviser does the tax return for us.
+steuerbetrug | der Steuerbetrug | noun (m) | tax fraud | Wegen Steuerbetrugs muss er eine hohe Strafe zahlen. | He has to pay a heavy fine for tax fraud.
+strukturiertes | strukturiert | adjective | structured | Das ist ein gut strukturiertes Gespräch. | That is a well-structured conversation.
+tischler | der Tischler | noun (m) | carpenter, joiner | Der Tischler hat den Tisch selbst gebaut. | The carpenter built the table himself.
+verarbeiten | verarbeiten | verb | to process; to deal with | Das Gehirn muss viele Informationen verarbeiten. | The brain has to process a lot of information.
+verschicken | verschicken | verb | to send (out) | Wir verschicken die Einladungen morgen. | We'll send out the invitations tomorrow.
+xrechnung | die XRechnung | noun (f) | XRechnung (German standard format for e-invoices) | Die Behörde nimmt nur Rechnungen im Format XRechnung an. | The authority only accepts invoices in the XRechnung format.
+zugferd | ZUGFeRD | proper noun | ZUGFeRD (a German e-invoice format: PDF with embedded data) | ZUGFeRD verbindet ein PDF mit maschinenlesbaren Daten. | ZUGFeRD combines a PDF with machine-readable data.
+übergangsfristen | die Übergangsfrist | noun (f, pl.) | transition periods | Für die neue Regel gibt es lange Übergangsfristen. | There are long transition periods for the new rule.
+ausflugsziel | das Ausflugsziel | noun (n) | destination for a day trip | Der See ist ein beliebtes Ausflugsziel. | The lake is a popular destination for day trips.
+bezweifle | bezweifeln | verb (1st person sg.) | (I) doubt | Ich bezweifle, dass der Zug pünktlich kommt. | I doubt that the train will be on time.
+zusammenrechnet | zusammenrechnen | verb (separable) | adds up | Wenn man alles zusammenrechnet, war der Urlaub teuer. | If you add everything up, the holiday was expensive.

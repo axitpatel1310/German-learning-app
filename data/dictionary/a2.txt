@@ -1413,3 +1413,14 @@ nützlich | nützlich | adjective | useful | Dieses Wörterbuch ist sehr nützli
 scrollt | scrollen | verb | scrolls (through something on a screen) | Er scrollt durch die Nachrichten auf seinem Handy. | He scrolls through the news on his phone.
 amir | Amir | proper noun | Amir (male first name) | Amir kommt aus dem Irak. | Amir comes from Iraq.
 brett | das Brett | noun (n) | board, plank (das schwarze Brett = noticeboard) | Die Anzeige hängt am schwarzen Brett. | The notice is on the noticeboard.
+
+prüfungstag | der Prüfungstag | noun (m) | exam day | Am Prüfungstag bin ich früh aufgestanden. | On exam day I got up early.
+durchsagen | die Durchsage | noun (f, pl.) | announcements (at a station, in a shop, on the radio) | Am Bahnhof gibt es viele Durchsagen. | There are lots of announcements at the station.
+mündliche | mündlich | adjective | oral, spoken (die mündliche Prüfung = the speaking exam) | Die mündliche Prüfung dauert fünfzehn Minuten. | The speaking exam lasts fifteen minutes.
+prüferinnen | die Prüferin | noun (f, pl.) | (female) examiners | Die Prüferinnen waren sehr freundlich. | The examiners were very friendly.
+bremse | die Bremse | noun (f) | brake | Die Bremse am Fahrrad ist kaputt. | The brake on the bike is broken.
+dreihundertsechzig | dreihundertsechzig | number | three hundred and sixty | Das Jahr hat mehr als dreihundertsechzig Tage. | The year has more than three hundred and sixty days.
+geräusche | das Geräusch | noun (n, pl.) | noises, sounds | In der Nacht höre ich komische Geräusche. | At night I hear strange noises.
+mechaniker | der Mechaniker | noun (m) | mechanic | Der Mechaniker repariert das Auto. | The mechanic is repairing the car.
+übe | üben | verb (1st person sg.) | (I) practise | Ich übe jeden Abend zehn Minuten Vokabeln. | I practise vocabulary for ten minutes every evening.
+interessanter | interessant | adjective (comparative) | more interesting | Das Buch ist interessanter als der Film. | The book is more interesting than the film.

@@ -20,7 +20,7 @@ from app.otp import (
     normalize_phone,
     otp_provider,
 )
-from server import ads
+from server import admin, ads, invoice
 from server.billing import BillingError, GooglePlay, Stripe
 from server.db import Store
 from server.mail import Mailer
@@ -48,6 +48,7 @@ class Config:
         self.play_key_file = env.get("GOOGLE_PLAY_KEY_FILE", "")
         self.admin_key = env.get("DMG_ADMIN_KEY", "")
         self.ad_prices = ads.prices(env)
+        self.seller = invoice.Seller(env)
         self.mail_env = env
 
     @property
@@ -197,11 +198,13 @@ class Server:
 
     # ads
 
-    def next_ad(self, user) -> dict:
-        """An ad for free users; Premium is ad-free."""
+    def next_ad(self, user, body: dict | None = None) -> dict:
+        """An ad for free users; Premium is ad-free. The app sends the level the learner is
+        reading at, for ads aimed at some levels only."""
         if user["premium_until"] > time.time():
             return {"ad": None}
-        c = self.store.next_ad(user["id"])
+        level = str((body or {}).get("level", "")).upper()
+        c = self.store.next_ad(user["id"], level if level in ads.LEVELS else "")
         return {"ad": ads.public_ad(c) if c else None}
 
     def ad_seen(self, user, body: dict) -> dict:
@@ -271,6 +274,24 @@ class Server:
             return 303, b"", {"Location": f"/ads/c/{c['token']}?paid=1"}
         return 400, ads.campaign_page(c, self.ad_payments, "This payment method isn't available."), {}
 
+    def can_invoice(self, c) -> bool:
+        """Paid bookings, and unpaid ones on a server without online payment (paid by transfer)."""
+        return c["status"] in ("paid", "active", "paused", "completed") or (
+            c["status"] == "unpaid" and not self.ad_payments)
+
+    def invoice_number(self, c) -> str:
+        inv = self.store.invoice(c["id"])
+        return invoice.number(inv["number"], inv["issued_at"]) if inv else ""
+
+    def invoice_pdf(self, c) -> tuple[int, bytes, dict]:
+        inv = self.store.invoice(c["id"])
+        if not inv:
+            return 303, b"", {"Location": f"/ads/c/{c['token']}"}
+        no = invoice.number(inv["number"], inv["issued_at"])
+        return 200, invoice.render(c, inv, self.config.seller), {
+            "Content-Type": "application/pdf",
+            "Content-Disposition": f'inline; filename="Rechnung-{no}.pdf"'}
+
     def admin_action(self, form: dict) -> str:
         if not hmac_equal(form.get("csrf", ""), ads.csrf_token(self.config.admin_key)):
             return "That form has expired. Please reload the page."
@@ -294,7 +315,8 @@ class Server:
     def ads_page(self, method: str, path: str, query: str, raw: bytes, auth: str,
                  ip: str) -> tuple[int, bytes, dict]:
         """The HTML pages for advertisers and for you. Answers (status, page, extra headers)."""
-        form = {k: v[0] for k, v in urllib.parse.parse_qs(raw.decode("utf-8", "replace")).items()}
+        form = {k: ",".join(v) if k == "levels" else v[0]  # one checkbox per level
+                for k, v in urllib.parse.parse_qs(raw.decode("utf-8", "replace")).items()}
         if (method, path) == ("GET", "/ads"):
             return 200, ads.request_page(self.config.ad_prices), {}
         if (method, path) == ("POST", "/ads/request"):
@@ -304,23 +326,95 @@ class Server:
             c = self.store.campaign_by_token(token)
             if c and method == "POST" and action == "pay":
                 return self.pay(c, form.get("provider", ""))
+            if c and method == "POST" and action == "invoice" and self.can_invoice(c):
+                self.store.issue_invoice(c["id"], invoice.clean_address(form.get("address", "")))
+                return 303, b"", {"Location": f"/ads/c/{c['token']}/invoice.pdf"}
+            if c and method == "GET" and action == "invoice.pdf":
+                return self.invoice_pdf(c)
             if c and method == "GET" and not action:
                 message = ""
                 if "paid=1" in query and c["status"] == "unpaid":
                     message = "Thank you! Stripe confirms the payment within seconds. Reload this page to check."
                 elif "paid=1" in query and c["status"] == "paid":
                     message = "Payment received. We'll check your ad and email you when it goes live."
-                return 200, ads.campaign_page(c, self.ad_payments, message), {}
+                return 200, ads.campaign_page(c, self.ad_payments, message, self.invoice_number(c),
+                                              self.can_invoice(c)), {}
         if path == "/ads/admin" and self.config.admin_key:
             if not ads.admin_ok(auth, self.config.admin_key):
-                return 401, ads.page("Sign in", "<p>Admin password needed.</p>"), {
-                    "WWW-Authenticate": 'Basic realm="ads", charset="UTF-8"'}
+                return ADMIN_SIGN_IN
             message = self.admin_action(form) if method == "POST" else ""
             campaigns = self.store.campaigns()
             notes = {c["id"]: self.store.notifications(c["id"]) for c in campaigns}
+            numbers = {c["id"]: self.invoice_number(c) for c in campaigns}
             return 200, ads.admin_page(campaigns, ads.csrf_token(self.config.admin_key), notes,
-                                       self.mailer.enabled, message), {}
+                                       self.mailer.enabled, message,
+                                       {k: v for k, v in numbers.items() if v},
+                                       self.config.seller.complete), {}
         return 404, ads.page("Not found", "<p>Not found.</p>"), {}
+
+    def admin_pages(self, method: str, path: str, query: str, raw: bytes,
+                    auth: str) -> tuple[int, bytes, dict]:
+        """The admin dashboard (server/admin.py). Answers (status, page, extra headers)."""
+        if not self.config.admin_key:
+            return 404, ads.page("Not found", "<p>Set DMG_ADMIN_KEY to open the admin pages.</p>"), {}
+        if not ads.admin_ok(auth, self.config.admin_key):
+            return ADMIN_SIGN_IN
+        args = {k: v[0] for k, v in urllib.parse.parse_qs(query).items()}
+        store = self.store
+        if path == "/admin":
+            return 200, admin.overview(store.stats(), store.signups_since(time.time() - 31 * 86400),
+                                       store.purchases(limit=100_000), store.paid_campaigns()), {}
+        if path == "/admin/users":
+            status = args.get("status", "") if args.get("status") in admin.STATUSES else ""
+            offset = int(args["from"]) if args.get("from", "").isdigit() else 0
+            users = store.find_users(args.get("q", ""), status, admin.PAGE_SIZE, offset)
+            return 200, admin.users_page(users, args.get("q", ""), status, offset), {}
+        if path == "/admin/purchases":
+            return 200, admin.purchases_page(store.purchases()), {}
+        if path == "/admin/purchases.csv":
+            day = time.strftime("%Y-%m-%d")
+            return 200, admin.purchases_csv(store.purchases(limit=1_000_000)), {
+                "Content-Type": "text/csv; charset=utf-8",
+                "Content-Disposition": f'attachment; filename="payments-{day}.csv"'}
+        m = re.fullmatch(r"/admin/users/(\d+)", path)
+        user = store.user(int(m.group(1))) if m else None
+        if not user:
+            return 404, admin.page("Not found", "<p>No such account.</p>"), {}
+        if method == "POST":
+            form = {k: v[0] for k, v in urllib.parse.parse_qs(raw.decode("utf-8", "replace")).items()}
+            message = self.admin_user_action(user, form)
+            return 303, b"", {"Location": f"{path}?{urllib.parse.urlencode({'msg': message})}"}
+        uid = user["id"]
+        since = time.strftime("%Y-%m-%d", time.localtime(time.time() - 30 * 86400))
+        return 200, admin.user_page(
+            user, store.sessions(uid), store.purchases(uid), store.admin_log(uid),
+            store.usage_seconds(uid, since) / 60, store.usage_seconds(uid) / 60,
+            ads.csrf_token(self.config.admin_key), args.get("msg", "")[:200]), {}
+
+    def admin_user_action(self, user, form: dict) -> str:
+        if not hmac_equal(form.get("csrf", ""), ads.csrf_token(self.config.admin_key)):
+            return "That form has expired. Please reload the page."
+        note = form.get("note", "").strip()[:200]
+        action = form.get("action", "")
+        if action == "add_days":
+            days = int(form["days"]) if form.get("days", "").isdigit() else 0
+            if not 1 <= days <= 3650:
+                return "Enter between 1 and 3650 days."
+            self.store.add_days(user["id"], days, note)
+            return f"Added {days} days of Premium."
+        if action == "end_premium":
+            self.store.end_premium(user["id"], note)
+            return "Premium ended."
+        if action == "refund":
+            purchase = int(form["purchase"]) if form.get("purchase", "").isdigit() else 0
+            mine = any(p["id"] == purchase for p in self.store.purchases(user["id"]))
+            if not mine or not self.store.refund(purchase, note):
+                return "That payment was already marked refunded."
+            return "Payment marked refunded and its days taken off the plan."
+        if action == "sign_out":
+            self.store.sign_out_everywhere(user["id"], note)
+            return "Signed out on all devices."
+        return "Unknown action."
 
     def handle(self, method: str, path: str, body: dict, token: str, ip: str) -> dict:
         if (method, path) == ("GET", "/health"):
@@ -339,6 +433,7 @@ class Server:
             ("POST", "/v1/billing/checkout"): lambda u: self.checkout(u, body),
             ("POST", "/v1/billing/google/verify"): lambda u: self.play_verify(u, body),
             ("GET", "/v1/ads/next"): lambda u: self.next_ad(u),
+            ("POST", "/v1/ads/next"): lambda u: self.next_ad(u, body),
             ("POST", "/v1/ads/seen"): lambda u: self.ad_seen(u, body),
             ("POST", "/v1/ads/click"): lambda u: self.ad_click(body),
         }
@@ -359,6 +454,10 @@ def billing_ref(user) -> str:
     """The account id the payment providers see, instead of the phone number."""
     return f"u{user['id']}"
 
+
+# One realm for /admin and /ads/admin, so the browser asks for the password only once.
+ADMIN_SIGN_IN = (401, ads.page("Sign in", "<p>Admin password needed.</p>"),
+                 {"WWW-Authenticate": 'Basic realm="Sprach Up admin", charset="UTF-8"'})
 
 PAGES = {  # where Stripe sends the browser after paying
     "/billing/done": ("Payment received", "Thank you! Go back to the app: Premium turns on within a few seconds."),
@@ -393,12 +492,15 @@ def make_handler(server: Server):
             ).encode())
 
         def _html(self, status: int, body: bytes, headers: dict | None = None):
+            headers = dict(headers or {})
+            kind = headers.pop("Content-Type", "text/html; charset=utf-8")
             self.send_response(status)
-            self.send_header("Content-Type", "text/html; charset=utf-8")
+            self.send_header("Content-Type", kind)
             self.send_header("Content-Length", str(len(body)))
             self.send_header("Cache-Control", "no-store")
-            self.send_header("Content-Security-Policy", "default-src 'none'; style-src 'unsafe-inline'")
-            for k, v in (headers or {}).items():
+            if kind.startswith("text/html"):  # a PDF is shown by the browser's own viewer
+                self.send_header("Content-Security-Policy", "default-src 'none'; style-src 'unsafe-inline'")
+            for k, v in headers.items():
                 self.send_header(k, v)
             self.end_headers()
             self.wfile.write(body)
@@ -415,6 +517,9 @@ def make_handler(server: Server):
                 if path == "/ads" or path.startswith("/ads/"):
                     auth = self.headers.get("Authorization", "")
                     return self._html(*server.ads_page(method, path, query, raw, auth, self._ip()))
+                if path == "/admin" or path.startswith("/admin/"):
+                    auth = self.headers.get("Authorization", "")
+                    return self._html(*server.admin_pages(method, path, query, raw, auth))
                 if (method, path) == ("POST", "/v1/billing/stripe/webhook"):
                     # Stripe signs the raw bytes, so this one is checked before any JSON parsing.
                     signature = self.headers.get("Stripe-Signature", "")
@@ -453,7 +558,7 @@ def serve(host: str = "127.0.0.1", port: int = 8600, config: Config | None = Non
         print("WARNING: TWILIO_* not set, so sign-in codes are returned to the app (demo mode).")
     print(f"Payments: {', '.join(app.payments) or 'none (Get Premium says coming soon)'}")
     if not app.config.admin_key:
-        print("Ads: set DMG_ADMIN_KEY to open /ads/admin and approve booked ads.")
+        print("Admin: set DMG_ADMIN_KEY to open /admin (users, Premium, revenue) and /ads/admin.")
     httpd = ThreadingHTTPServer((host, port), make_handler(app))
     httpd.app = app
     return httpd

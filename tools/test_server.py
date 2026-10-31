@@ -127,7 +127,70 @@ def main():
 
     billing_checks(tmp, phone)
     ads_checks(tmp)
+    admin_checks(tmp, phone)
     print("Server OK.")
+
+
+def admin_checks(tmp: Path, phone: str):
+    """The admin dashboard: password, search, adding days, refunds, history and the CSV."""
+    key = "admin-dash-key"
+    url, httpd = start(tmp, DMG_ADMIN_KEY=key, DMG_TEST_PAYMENTS="1", DMG_DB=str(tmp / "admin.db"))
+    store = httpd.app.store
+    acc = sign_in(url, tmp / "admin-dev", phone)
+    assert acc.signed_in
+    user = store.find_users(phone[-6:])[0]
+    uid = user["id"]
+    assert store.find_users(f"u{uid}")[0]["phone"] == phone, "search by account id"
+    assert store.find_users("", "free")[0]["id"] == uid
+
+    for path in ("/admin", "/admin/users", f"/admin/users/{uid}", "/admin/purchases", "/admin/purchases.csv"):
+        assert web(url, path)[0] == 401, f"{path} needs the password"
+        assert web(url, path, password="wrong")[0] == 401
+    status, _, page = web(url, "/admin", password=key)
+    assert status == 200 and "Overview" in page and "No revenue yet" in page
+
+    # A Stripe payment shows up as revenue; a refund takes its 90 days back off.
+    now = time.time()
+    store.grant(uid, "stripe", "cs_test_1", 90, "10.00 EUR")
+    until = store.user(uid)["premium_until"]
+    assert until > now + 89 * 86400
+    page = web(url, "/admin", password=key)[2]
+    assert "€10" in page and "Premium now" in page
+    assert phone in web(url, "/admin/users?status=premium", password=key)[2]
+    assert phone not in web(url, "/admin/users?status=free", password=key)[2]
+
+    csrf = srv.ads.csrf_token(key)
+    status, headers, _ = web(url, f"/admin/users/{uid}", {"action": "add_days", "days": "30",
+                                                         "note": "beta tester", "csrf": "bad"}, key)
+    assert status == 303 and "expired" in urllib.parse.unquote_plus(headers["Location"])
+    assert store.user(uid)["premium_until"] == until, "a bad form token changes nothing"
+    status, headers, _ = web(url, f"/admin/users/{uid}", {"action": "add_days", "days": "30",
+                                                         "note": "beta tester", "csrf": csrf}, key)
+    assert status == 303 and abs(store.user(uid)["premium_until"] - (until + 30 * 86400)) < 5
+    page = web(url, headers["Location"], password=key)[2]
+    assert "Added 30 days" in page and "beta tester" in page and "Given by admin" in page
+
+    paid = next(p for p in store.purchases(uid) if p["provider"] == "stripe")
+    web(url, f"/admin/users/{uid}", {"action": "refund", "purchase": str(paid["id"]), "csrf": csrf}, key)
+    assert abs(store.user(uid)["premium_until"] - (until + 30 * 86400 - 90 * 86400)) < 5
+    _, headers, _ = web(url, f"/admin/users/{uid}",
+                        {"action": "refund", "purchase": str(paid["id"]), "csrf": csrf}, key)
+    assert "already" in urllib.parse.unquote_plus(headers["Location"]), "a payment is refunded once"
+    assert "No revenue yet" in web(url, "/admin", password=key)[2], "refunds are not revenue"
+
+    web(url, f"/admin/users/{uid}", {"action": "end_premium", "csrf": csrf}, key)
+    assert store.user(uid)["premium_until"] <= time.time() + 1
+    web(url, f"/admin/users/{uid}", {"action": "sign_out", "csrf": csrf}, key)
+    assert not store.sessions(uid)
+    page = web(url, f"/admin/users/{uid}", password=key)[2]
+    for change in ("Ended Premium", "Signed out on all devices", "refunded"):
+        assert change in page, change
+
+    status, headers, body = web(url, "/admin/purchases.csv", password=key)
+    assert status == 200 and headers["Content-Type"].startswith("text/csv")
+    assert "cs_test_1" in body and "10.00" in body
+    assert web(url, "/admin/users/99999", password=key)[0] == 404
+    httpd.shutdown()
 
 
 class NoRedirect(urllib.request.HTTPRedirectHandler):
@@ -135,7 +198,7 @@ class NoRedirect(urllib.request.HTTPRedirectHandler):
         return None
 
 
-def web(url: str, path: str, form: dict | None = None, password: str = "") -> tuple[int, dict, str]:
+def web(url: str, path: str, form: dict | list | None = None, password: str = "") -> tuple[int, dict, str]:
     """A browser-style request to the ads pages: (status, headers, page), without following redirects."""
     data = urllib.parse.urlencode(form).encode() if form is not None else None
     req = urllib.request.Request(url + path, data=data, method="POST" if data is not None else "GET")
@@ -211,6 +274,45 @@ def ads_checks(tmp: Path):
     assert note["subject"] == "Your ad run is complete" and "1,000 views" in note["body"]
     assert note["email"] == AD["email"] and token in note["body"]
     assert "1,000 of 1,000 views" in web(url, f"/ads/c/{token}")[2]
+
+    # The invoice: made out once with the billing address, numbered in order, never changed.
+    assert "Billing address for the invoice" in web(url, f"/ads/c/{token}")[2]
+    assert web(url, f"/ads/c/{token}/invoice.pdf")[0] == 303, "nothing issued yet"
+    status, headers, _ = web(url, f"/ads/c/{token}/invoice", {"address": "Hafenstraße 3\n20457 Hamburg"})
+    assert status == 303 and headers["Location"].endswith("/invoice.pdf")
+    status, headers, pdf = fetch(url, f"/ads/c/{token}/invoice.pdf")
+    year = time.localtime().tm_year
+    assert status == 200 and headers["Content-Type"] == "application/pdf" and pdf.startswith(b"%PDF-1.4")
+    assert f"DMG-{year}-0001".encode() in pdf and "Hafenstraße".encode("cp1252") in pdf
+    assert b"MUSTER" in pdf, "a test payment and no seller details make it a sample"
+    assert b"10,00 \x80" in pdf and b"1,60 \x80" in pdf, "€10 incl. 19 % VAT = 8.40 + 1.60"
+    web(url, f"/ads/c/{token}/invoice", {"address": "Anderswo 1"})
+    assert store.invoice(c["id"])["address"] == "Hafenstraße 3\n20457 Hamburg", "no changes after issue"
+    assert f"DMG-{year}-0001" in web(url, f"/ads/c/{token}")[2]
+    assert f"DMG-{year}-0001" in web(url, "/ads/admin", password=admin)[2]
+
+    # An ad aimed at B1 and B2 only reaches learners reading at those levels.
+    form = [*AD.items(), ("views", "1000"), ("levels", "B1"), ("levels", "B2")]
+    _, headers, _ = web(url, "/ads/request", form)
+    token = headers["Location"].rsplit("/", 1)[1]
+    t = store.campaign_by_token(token)
+    assert t["levels"] == "B1,B2" and "Shown to: Learners at B1, B2" in web(url, f"/ads/c/{token}")[2]
+    web(url, f"/ads/c/{token}/pay", {"provider": "test"})
+    web(url, "/ads/admin", {"id": str(t["id"]), "action": "start", "csrf": csrf}, admin)
+    assert "Learners at B1, B2" in store.notifications(t["id"])[-1]["body"]
+    assert a.next_ad() is None, "level not known yet"
+    a.set_reading_level("A1")
+    assert a.next_ad() is None, "aimed at other levels"
+    a.set_reading_level("B2")
+    ad = a.next_ad()
+    assert ad and ad["id"] == t["id"] and ad["levels"] == ["B1", "B2"]
+    every = [*AD.items(), ("views", "1000"), *(("levels", lv) for lv in srv.ads.LEVELS)]
+    _, headers, _ = web(url, "/ads/request", every)
+    assert store.campaign_by_token(headers["Location"].rsplit("/", 1)[1])["levels"] == "", "all ticked = all"
+    web(url, f"/ads/c/{token}/invoice", {"address": "Ring 5"})
+    assert store.invoice(t["id"])["number"] == 2
+    unpaid = headers["Location"].rsplit("/", 1)[1]
+    assert web(url, f"/ads/c/{unpaid}/invoice", {"address": "x"})[0] == 404, "unpaid with online payment"
     httpd.shutdown()
 
     # Stripe: the booking opens Checkout, and only a signed, paid, full-price event counts.
@@ -252,7 +354,29 @@ def ads_checks(tmp: Path):
     web(url, "/ads/admin", {"id": str(c["id"]), "action": "decline", "csrf": csrf}, admin)
     assert httpd.app.store.campaign(c["id"])["status"] == "declined"
     assert httpd.app.store.notifications(c["id"])[-1]["subject"] == "Your ad was not approved"
+    assert "Billing address" not in web(url, f"/ads/c/{token}")[2], "no invoice for a declined ad"
     httpd.shutdown()
+
+    # Without online payment, the invoice asks for a bank transfer and shows your details.
+    url, httpd = start(tmp, DMG_ADMIN_KEY=admin, DMG_INVOICE_NAME="Lernverlag Patel",
+                       DMG_INVOICE_ADDRESS="Hauptstraße 1|10115 Berlin", DMG_INVOICE_TAX_ID="DE123456789",
+                       DMG_INVOICE_BANK="IBAN DE00 1234 5678 9012 3456 78", DMG_INVOICE_VAT="0")
+    _, headers, _ = web(url, "/ads/request", {**AD, "views": "1000"})
+    token = headers["Location"].rsplit("/", 1)[1]
+    web(url, f"/ads/c/{token}/invoice", {"address": "Ring 5"})
+    _, _, pdf = fetch(url, f"/ads/c/{token}/invoice.pdf")
+    assert b"MUSTER" not in pdf and b"Lernverlag Patel" in pdf and b"IBAN DE00" in pdf
+    assert b"\xa7 19 UStG" in pdf and b"/ VAT)" not in pdf and b"Bitte \xfcberweisen" in pdf
+    httpd.shutdown()
+
+
+def fetch(url: str, path: str) -> tuple[int, dict, bytes]:
+    """Like web(), for a file rather than a page."""
+    try:
+        with urllib.request.build_opener(NoRedirect).open(url + path) as resp:
+            return resp.status, dict(resp.headers), resp.read()
+    except urllib.error.HTTPError as e:
+        return e.code, dict(e.headers), e.read()
 
 
 def post_webhook(url: str, payload: bytes, signature: str) -> int:

@@ -236,6 +236,9 @@ def home_view(
             _list_panel([
                 _menu_row(ft.Icons.SWIPE_UP_OUTLINED, ft.Colors.RED_400, "Word scroll",
                           "New words one by one: swipe up for the next, double-tap to save.", nav("/feed")),
+                _menu_row(ft.Icons.STYLE_OUTLINED, ft.Colors.DEEP_PURPLE_400, "Sentence builder",
+                          "Draw a card and rewrite the sentence: sowohl … als auch, obwohl, Passiv …",
+                          nav("/structures")),
                 _menu_row(ft.Icons.CATEGORY_OUTLINED, ft.Colors.INDIGO_400, "Topics",
                           f"{len(TOPICS)} exam topics: stories and key words for each.", nav("/topics")),
                 _menu_row(ft.Icons.EXTENSION_OUTLINED, ft.Colors.TEAL_400, "Gap game",

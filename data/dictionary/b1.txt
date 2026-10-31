@@ -2456,3 +2456,35 @@ mitspielen | mitspielen | verb | to play along, join in (a game) | Darf ich heut
 schalten | schalten | verb | to switch; to place (an ad: eine Anzeige schalten) | Wir wollen eine Anzeige in der Zeitung schalten. | We want to place an ad in the newspaper.
 tischtennisverein | der Tischtennisverein | noun (m) | table-tennis club | Mein Sohn spielt im Tischtennisverein. | My son plays in the table-tennis club.
 widersprach | widersprechen | verb (past) | contradicted, objected | Niemand widersprach dem Chef. | Nobody contradicted the boss.
+
+abendkurs | der Abendkurs | noun (m) | evening class | Sie besucht zweimal pro Woche einen Abendkurs. | She goes to an evening class twice a week.
+intensivkurs | der Intensivkurs | noun (m) | intensive course | Im Sommer mache ich einen Intensivkurs in Berlin. | In the summer I'm doing an intensive course in Berlin.
+irgendwie | irgendwie | adverb | somehow, in some way | Wir finden irgendwie eine Lösung. | We'll find a solution somehow.
+schichtarbeiter | der Schichtarbeiter | noun (m, also pl.) | shift worker(s) | Für Schichtarbeiter ist ein fester Kurstermin schwierig. | A fixed class time is difficult for shift workers.
+onlinekurse | der Onlinekurs | noun (m, pl.) | online courses | Onlinekurse sind oft günstiger als Kurse vor Ort. | Online courses are often cheaper than courses in person.
+onlinekurs | der Onlinekurs | noun (m) | online course | Ich habe mich für einen Onlinekurs angemeldet. | I've signed up for an online course.
+teilnimmt | teilnehmen | verb | takes part (in the clause: dass er teilnimmt) | Ich weiß nicht, ob er an dem Treffen teilnimmt. | I don't know whether he is taking part in the meeting.
+privatunterricht | der Privatunterricht | noun (m) | private lessons, private tuition | Sie gibt Privatunterricht in Mathematik. | She gives private lessons in maths.
+nimm | nehmen | verb (imperative) | take! (informal, to one person) | Nimm doch den Bus, er ist schneller. | Why don't you take the bus, it's faster.
+einzelunterricht | der Einzelunterricht | noun (m) | one-to-one lessons | Im Einzelunterricht kann der Lehrer genau auf dich eingehen. | In one-to-one lessons the teacher can focus exactly on you.
+schichtplan | der Schichtplan | noun (m) | shift schedule, rota | Der neue Schichtplan hängt an der Tür. | The new rota is on the door.
+frag | fragen | verb (imperative) | ask! (informal, to one person) | Frag doch die Lehrerin! | Why don't you ask the teacher!
+kursanbieter | der Kursanbieter | noun (m, also pl.) | course provider(s) | Viele Kursanbieter bieten eine kostenlose Probestunde an. | Many course providers offer a free trial lesson.
+probestunde | die Probestunde | noun (f) | trial lesson | Die erste Probestunde ist kostenlos. | The first trial lesson is free.
+anmeldest | anmelden | verb | (you) register, sign up (sich anmelden; here in the clause: bevor du dich anmeldest) | Lies die Bedingungen, bevor du dich anmeldest. | Read the terms before you sign up.
+berechnen | berechnen | verb | to calculate; to charge (a price, a tax) | Die Werkstatt berechnet 80 Euro pro Stunde. | The garage charges 80 euros an hour.
+fortlaufende | fortlaufend | adjective | consecutive, continuous (fortlaufende Nummer = sequential number) | Jede Seite hat eine fortlaufende Nummer. | Every page has a consecutive number.
+freiberuflerin | die Freiberuflerin | noun (f) | freelancer (woman), self-employed professional | Als Freiberuflerin arbeitet sie für mehrere Verlage. | As a freelancer she works for several publishers.
+gesamtbetrag | der Gesamtbetrag | noun (m) | total amount | Der Gesamtbetrag steht unten auf der Rechnung. | The total amount is at the bottom of the invoice.
+kleinunternehmerregelung | die Kleinunternehmerregelung | noun (f) | small-business rule (no VAT charged below a turnover limit) | Mit der Kleinunternehmerregelung muss sie keine Umsatzsteuer berechnen. | Under the small-business rule she doesn't have to charge VAT.
+lege | legen | verb | (I) put, lay (Geld zur Seite legen = to put money aside) | Ich lege jeden Monat fünfzig Euro zur Seite. | I put fifty euros aside every month.
+nettobetrag | der Nettobetrag | noun (m) | net amount (before tax) | Auf den Nettobetrag kommen noch 19 Prozent Steuer. | 19 per cent tax is added to the net amount.
+papierkram | der Papierkram | noun (m) | paperwork (informal) | Am Wochenende mache ich meinen Papierkram. | At the weekend I do my paperwork.
+rechnungsnummer | die Rechnungsnummer | noun (f) | invoice number | Bitte geben Sie bei der Überweisung die Rechnungsnummer an. | Please quote the invoice number with your transfer.
+steuernummer | die Steuernummer | noun (f) | tax number (from the tax office) | Die Steuernummer muss auf jeder Rechnung stehen. | The tax number has to be on every invoice.
+umsatzsteuer | die Umsatzsteuer | noun (f) | VAT, value added tax | In Deutschland beträgt die Umsatzsteuer meistens 19 Prozent. | In Germany VAT is usually 19 per cent.
+vorlage | die Vorlage | noun (f) | template; (also) submission | Für den Brief gibt es eine Vorlage im Internet. | There is a template for the letter online.
+übersetzungsbüro | das Übersetzungsbüro | noun (n) | translation agency | Sie arbeitet in einem Übersetzungsbüro in Bonn. | She works in a translation agency in Bonn.
+hochtragen | hochtragen | verb (separable) | to carry up (stairs) | Kannst du mir helfen, die Kisten hochzutragen? | Can you help me carry the boxes upstairs?
+stockwerke | das Stockwerk | noun (n), plural | floors, storeys | Das Hochhaus hat zwanzig Stockwerke. | The tower block has twenty floors.
+zurzeit | zurzeit | adverb | at the moment, currently | Die Bibliothek ist zurzeit geschlossen. | The library is closed at the moment.

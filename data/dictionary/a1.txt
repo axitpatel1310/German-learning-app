@@ -1418,3 +1418,10 @@ code | der Code | noun (m) | code | Ich habe den Code per SMS bekommen. | I got 
 piep | piep | interjection | beep (the sound a device makes) | Piep! Die Zahlung hat funktioniert. | Beep! The payment went through.
 gartenstraße | die Gartenstraße | proper noun | Gartenstraße (street name; literally "Garden Street") | Das Café ist in der Gartenstraße. | The café is on Gartenstraße.
 gratis | gratis | adverb | free, free of charge | Der Kaffee ist heute gratis. | The coffee is free today.
+
+iran | (der) Iran | proper noun | Iran (used with the article: aus dem Iran, in den Iran) | Meine Kollegin kommt aus dem Iran. | My colleague comes from Iran.
+dialoge | der Dialog | noun (m, pl.) | dialogues, conversations | Wir hören zwei kurze Dialoge. | We listen to two short dialogues.
+rollenspiele | das Rollenspiel | noun (n, pl.) | role plays | Im Kurs machen wir oft Rollenspiele. | In class we often do role plays.
+cola | die Cola | noun (f) | cola | Ich trinke eine Cola mit Eis. | I'm drinking a cola with ice.
+jun | Jun | proper noun | Jun (a first name) | Jun kommt aus Korea. | Jun comes from Korea.
+zwanzig-euro-schein | der Zwanzig-Euro-Schein | noun (m) | twenty-euro note | Hast du einen Zwanzig-Euro-Schein? | Do you have a twenty-euro note?

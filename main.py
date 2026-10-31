@@ -17,6 +17,8 @@ from app.feed import WordFeed
 from app.feed_view import feed_view
 from app.game import GapGame
 from app.storage import MyWords
+from app.structures import StructureDeck
+from app.structures_view import structures_view
 from app.topics import TOPIC_BY_KEY
 from app.views import (
     StoryReader,
@@ -55,6 +57,8 @@ def main(page: ft.Page):
     search_state = {"query": ""}
     game = GapGame(lib)
     feed: list[WordFeed] = []  # the word scroll deck, built on first visit
+    structures: list[StructureDeck] = []  # the sentence builder deck, built on first visit
+    structures_state = {"revealed": False, "attempt": ""}
     game_state = {"level": "ALL", "answered": 0, "correct": 0, "streak": 0}
     topic_states: dict[str, dict] = {}  # per topic: level, tab and its own game score
     wallpaper_settings = WallpaperSettings()
@@ -136,6 +140,8 @@ def main(page: ft.Page):
         ad = current_ad["ad"]
         if not ad or account.premium:
             return None
+        if ad.get("levels") and account.reading_level not in ad["levels"]:
+            return None  # aimed at other levels; a fitting ad is on its way (fetch_ad)
         page.run_task(asyncio.to_thread, account.ad_seen, ad["id"])  # the server counts once per 30 min
         return ad_card(page, ad, lambda: page.run_task(asyncio.to_thread, account.ad_click, ad["id"]),
                        nav("/premium"))
@@ -143,6 +149,8 @@ def main(page: ft.Page):
     def reader(story) -> ft.View:
         if locked(story):
             return locked_view(story, lib.stories[story.level].index(story) + 1, nav)
+        if account.set_reading_level(story.level) and account.server:
+            page.run_task(fetch_ad)  # ads aimed at this level show from the next screen on
         return StoryReader(page, lib, story, my_words, nav, ad_control()).build()
 
     async def signed_in():
@@ -189,6 +197,7 @@ def main(page: ft.Page):
         #   /search          -> home, word search
         #   /game            -> home, gap game
         #   /feed            -> home, word scroll
+        #   /structures      -> home, sentence builder
         #   /wallpaper       -> home, word wallpaper
         #   /widget          -> home, word widget
         #   /topics          -> home, topics
@@ -218,6 +227,10 @@ def main(page: ft.Page):
             if not feed:
                 feed.append(WordFeed(lib, my_words))
             page.views.append(feed_view(page, lib, my_words, feed[0], nav))
+        elif parts == ["structures"]:
+            if not structures:
+                structures.append(StructureDeck())
+            page.views.append(structures_view(page, structures[0], structures_state))
         elif parts == ["game"]:
             page.views.append(game_view(page, game, my_words, game_state))
         elif parts == ["wallpaper"]:

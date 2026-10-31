@@ -142,6 +142,20 @@ class Account:
         """The first FREE_STORIES of each level are free; the rest need Premium."""
         return not self.premium and lib.stories[story.level].index(story) >= FREE_STORIES
 
+    # the level of the last story opened, so ads aimed at a level reach the right learners
+
+    @property
+    def reading_level(self) -> str:
+        return self.data.get("reading_level", "")
+
+    def set_reading_level(self, level: str) -> bool:
+        """True if it changed."""
+        if level == self.reading_level:
+            return False
+        self.data["reading_level"] = level
+        _save(self.path, self.data)
+        return True
+
 
 class ServerAccount(Account):
     """An account on the accounts server. account.json only keeps the session token and the
@@ -243,7 +257,7 @@ class ServerAccount(Account):
         if not self.signed_in or self.premium:
             return None
         try:
-            return self.api.get("/v1/ads/next").get("ad")
+            return self.api.post("/v1/ads/next", {"level": self.reading_level}).get("ad")
         except ApiError:
             return None
 

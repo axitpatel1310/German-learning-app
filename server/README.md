@@ -39,6 +39,37 @@ What it does:
   ad stops by itself and the advertiser gets an email ("Your ad run is complete"). Premium users
   never see ads. Each advertiser has a private page (`/ads/c/<token>`) with views, taps and the
   state.
+- **Ads aimed at levels:** an advertiser can tick the CEFR levels the ad is for (e.g. B1 and
+  B2 for a B2 exam course; none or all ticked = every learner). The app sends the level of the
+  last story the learner opened, and an aimed ad only goes to learners at one of its levels.
+  Learners whose level isn't known yet (no story opened) only get ads for every learner.
+  Older databases get the new `levels` column automatically on start.
+- **Invoices** (`server/invoice.py`): on their page, advertisers enter a billing address and
+  get a one-page PDF invoice (Rechnung), numbered in order (`DMG-2026-0001`, …). It's made out
+  once and never changes afterwards. Paid bookings show "Bezahlt am …"; on a server without
+  online payment it asks for a bank transfer within 14 days. Your admin page links each one.
+
+## Admin dashboard
+
+Open `https://<your server>/admin` and sign in with `DMG_ADMIN_KEY` (any user name). The same
+sign-in also opens `/ads/admin`. Without `DMG_ADMIN_KEY` the admin pages don't exist.
+
+- **Overview** (`/admin`): users and new sign-ups this week, Premium accounts (and how many end in
+  the next 7 days), learners active this week, revenue this month and in total, a sign-up chart for
+  the last 30 days, revenue per month split into Stripe, Google Play and ads, and the latest
+  payments. Amounts are gross: Google Play and Stripe take their fees before paying you out.
+- **Users** (`/admin/users`): search by part of a phone number or by account id (`u12`, the id
+  Stripe and Google Play see), and filter by Premium, expired or never had Premium.
+- **One account** (`/admin/users/<id>`): plan, payments, signed-in devices, learning time, and:
+  - **Add days of Premium**: for testers, prizes or support cases. Listed as "Given by admin".
+  - **End Premium now.**
+  - **Mark refunded**: after you refund a payment in the Stripe dashboard or the Play Console,
+    record it here. Its days come off the plan, and it no longer counts as revenue. For days you
+    gave by hand the button is called **Take back**.
+  - **Sign out on all devices**: for example when someone has lost their phone.
+
+  Every change is kept in the account's **admin history**, with the note you typed.
+- **Payments** (`/admin/purchases`): every payment, and **Download all as CSV** for your accountant.
 
 ## Ads
 
@@ -54,7 +85,14 @@ What it does:
    admin page, so you can forward them by hand.
 5. **Declining a paid ad doesn't refund it automatically.** Refund it in the Stripe dashboard;
    the advertiser gets an email saying the money will be refunded.
-6. Link the ads page from your website, e.g. `https://<your server>/ads`. The app shows it in
+6. Invoices: set `DMG_INVOICE_NAME`, `DMG_INVOICE_ADDRESS` (lines separated by `|`, e.g.
+   `Hauptstraße 1|10115 Berlin`) and `DMG_INVOICE_TAX_ID` (Steuernummer or USt-IdNr.).
+   Optional: `DMG_INVOICE_EMAIL`, `DMG_INVOICE_BANK` (shown on unpaid invoices) and
+   `DMG_INVOICE_VAT` (default 19). Package prices count as the **total incl. VAT**, so €10 is
+   €8.40 + €1.60. With `DMG_INVOICE_VAT=0` the invoice has the small-business note
+   (§ 19 UStG) instead. Until name, address and tax number are set, and for test payments,
+   the PDF is marked "MUSTER / SAMPLE". Please have your tax adviser check the layout once.
+7. Link the ads page from your website, e.g. `https://<your server>/ads`. The app shows it in
    Profile → "Advertise your business".
 
 ## Setting up payments
@@ -107,8 +145,10 @@ Settings (environment variables):
 | `GOOGLE_PLAY_PRODUCT_ID` | The Play product (default `premium_3_months`). |
 | `DMG_MAX_DEVICES` | Devices signed in at once per account (default 3). |
 | `DMG_TRUST_PROXY=1` | Use `X-Forwarded-For` for the IP limit (only behind your own proxy). |
-| `DMG_ADMIN_KEY` | Password for `/ads/admin`, where you approve, pause and decline ads. |
+| `DMG_ADMIN_KEY` | Password for the admin dashboard (`/admin`) and `/ads/admin`. |
 | `DMG_AD_PRICES` | Ad prices in euros (default `1000=10,10000=80,100000=600`). |
+| `DMG_INVOICE_NAME`, `DMG_INVOICE_ADDRESS`, `DMG_INVOICE_TAX_ID` | Your details on ad invoices (address lines separated by `|`). |
+| `DMG_INVOICE_EMAIL`, `DMG_INVOICE_BANK`, `DMG_INVOICE_VAT` | Optional invoice details; VAT rate in % (default 19, `0` = small business, § 19 UStG). |
 | `DMG_SMTP_HOST`, `DMG_SMTP_PORT`, `DMG_SMTP_USER`, `DMG_SMTP_PASSWORD`, `DMG_MAIL_FROM` | Emails to advertisers. Without them, emails are kept on the admin page. |
 
 For a public server, put it behind HTTPS (for example Caddy or nginx, or a host such as
@@ -130,12 +170,15 @@ All bodies are JSON. Signed-in calls send `Authorization: Bearer <token>`.
 | `POST /v1/billing/stripe/webhook` | Stripe event (signed) | `{received}`; grants Premium for paid sessions |
 | `POST /v1/billing/google/verify` | `{purchase_token, product_id}` | `{account}` after Google confirms |
 | `GET /billing/done`, `GET /billing/cancel` | | small pages Stripe returns to |
-| `GET /v1/ads/next` | | `{ad}`: an ad for a free user (`null` for Premium or when none runs) |
+| `GET /v1/ads/next` | | `{ad}`: an ad for every learner (`null` for Premium or when none runs) |
+| `POST /v1/ads/next` | `{level}` | `{ad}`: the same, including ads aimed at that level; `ad.levels` lists its levels (`[]` = all) |
 | `POST /v1/ads/seen` | `{id}` | `{counted}`; once per person per ad every 30 minutes |
 | `POST /v1/ads/click` | `{id}` | `{ok}` |
 | `GET /ads`, `POST /ads/request` | form | booking page for advertisers |
 | `GET /ads/c/<token>`, `POST /ads/c/<token>/pay` | form | the advertiser's page and payment |
+| `POST /ads/c/<token>/invoice`, `GET /ads/c/<token>/invoice.pdf` | form `{address}` | makes out the invoice once, then serves the PDF |
 | `GET`/`POST /ads/admin` | form, Basic auth | your page for approving ads |
+| `GET /admin`, `/admin/users`, `/admin/users/<id>`, `/admin/purchases(.csv)` | form, Basic auth | the admin dashboard |
 | `GET /v1/config`, `GET /health` | | server info |
 
 ## Test

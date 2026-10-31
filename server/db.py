@@ -1,5 +1,5 @@
-"""SQLite storage for the accounts server: users, sessions, purchases, time stats and ad
-campaigns."""
+"""SQLite storage for the accounts server: users, sessions, purchases, time stats, ad
+campaigns and the admin history."""
 
 import hashlib
 import secrets
@@ -51,6 +51,7 @@ CREATE TABLE IF NOT EXISTS campaigns (
     headline TEXT NOT NULL,
     body TEXT NOT NULL,
     link TEXT NOT NULL,
+    levels TEXT NOT NULL DEFAULT '',
     views_target INTEGER NOT NULL,
     price_cents INTEGER NOT NULL,
     views INTEGER NOT NULL DEFAULT 0,
@@ -77,6 +78,19 @@ CREATE TABLE IF NOT EXISTS notifications (
     at REAL NOT NULL,
     sent INTEGER NOT NULL DEFAULT 0
 );
+CREATE TABLE IF NOT EXISTS admin_log (
+    id INTEGER PRIMARY KEY,
+    user_id INTEGER NOT NULL REFERENCES users(id),
+    action TEXT NOT NULL,
+    note TEXT NOT NULL DEFAULT '',
+    at REAL NOT NULL
+);
+CREATE TABLE IF NOT EXISTS invoices (
+    number INTEGER PRIMARY KEY,
+    campaign_id INTEGER NOT NULL UNIQUE REFERENCES campaigns(id),
+    address TEXT NOT NULL,
+    issued_at REAL NOT NULL
+);
 """
 
 VIEW_GAP = 30 * 60  # the same person counts as a new view of an ad after 30 minutes
@@ -96,6 +110,12 @@ class Store:
         self.conn.row_factory = sqlite3.Row
         self.conn.execute("PRAGMA journal_mode=WAL")
         self.conn.executescript(SCHEMA)
+        columns = {r["name"] for r in self.conn.execute("PRAGMA table_info(campaigns)")}
+        if "levels" not in columns:  # databases from before level targeting
+            self.conn.execute("ALTER TABLE campaigns ADD COLUMN levels TEXT NOT NULL DEFAULT ''")
+        columns = {r["name"] for r in self.conn.execute("PRAGMA table_info(purchases)")}
+        if "refunded_at" not in columns:  # databases from before the admin dashboard
+            self.conn.execute("ALTER TABLE purchases ADD COLUMN refunded_at REAL")
 
     def _one(self, sql: str, *args) -> sqlite3.Row | None:
         return self.conn.execute(sql, args).fetchone()
@@ -196,13 +216,14 @@ class Store:
     # or paused / declined on the way
 
     def add_campaign(self, business: str, email: str, headline: str, body: str, link: str,
-                     views_target: int, price_cents: int) -> sqlite3.Row:
+                     views_target: int, price_cents: int, levels: str = "") -> sqlite3.Row:
+        """levels: comma-separated CEFR levels the ad is shown to, or "" for every learner."""
         with self.lock:
             cur = self.conn.execute(
-                "INSERT INTO campaigns (token, business, email, headline, body, link, views_target, "
-                "price_cents, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)",
-                (secrets.token_urlsafe(18), business, email, headline, body, link, views_target,
-                 price_cents, time.time()),
+                "INSERT INTO campaigns (token, business, email, headline, body, link, levels, "
+                "views_target, price_cents, created_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+                (secrets.token_urlsafe(18), business, email, headline, body, link, levels,
+                 views_target, price_cents, time.time()),
             )
             return self._one("SELECT * FROM campaigns WHERE id = ?", cur.lastrowid)
 
@@ -240,16 +261,19 @@ class Store:
             )
         return bool(cur.rowcount)
 
-    def next_ad(self, user_id: int) -> sqlite3.Row | None:
+    def next_ad(self, user_id: int, level: str = "") -> sqlite3.Row | None:
         """A running ad for this person: one they haven't seen lately first, then the one
-        furthest behind its target, so all campaigns move forward at a similar pace."""
+        furthest behind its target, so all campaigns move forward at a similar pace.
+        Ads aimed at some levels only go to learners reading at one of them; when the
+        level isn't known, only ads for every learner qualify."""
         with self.lock:
             return self._one(
                 "SELECT c.* FROM campaigns c "
                 "LEFT JOIN ad_views v ON v.campaign_id = c.id AND v.user_id = ? "
-                "WHERE c.status = 'active' "
+                "WHERE c.status = 'active' AND (c.levels = '' OR "
+                "(? != '' AND instr(',' || c.levels || ',', ',' || ? || ',') > 0)) "
                 "ORDER BY COALESCE(v.at, 0) > ?, CAST(c.views AS REAL) / c.views_target, RANDOM() LIMIT 1",
-                user_id, time.time() - VIEW_GAP,
+                user_id, level, level, time.time() - VIEW_GAP,
             )
 
     def count_view(self, campaign_id: int, user_id: int) -> str:
@@ -306,4 +330,154 @@ class Store:
         with self.lock:
             return self.conn.execute(
                 "SELECT * FROM notifications WHERE campaign_id = ? ORDER BY id", (campaign_id,)
+            ).fetchall()
+
+    # invoices: numbered in order, one per campaign, never changed once issued
+
+    def issue_invoice(self, campaign_id: int, address: str) -> sqlite3.Row:
+        with self.lock:
+            self.conn.execute(
+                "INSERT OR IGNORE INTO invoices (campaign_id, address, issued_at) VALUES (?, ?, ?)",
+                (campaign_id, address, time.time()),
+            )
+            return self._one("SELECT * FROM invoices WHERE campaign_id = ?", campaign_id)
+
+    def invoice(self, campaign_id: int) -> sqlite3.Row | None:
+        with self.lock:
+            return self._one("SELECT * FROM invoices WHERE campaign_id = ?", campaign_id)
+
+    # admin dashboard: look up accounts, change Premium by hand, keep a history of every change
+
+    def stats(self) -> dict:
+        now = time.time()
+
+        def one(sql: str, *args):
+            return self._one(sql, *args)[0]
+
+        with self.lock:
+            return {
+                "users": one("SELECT COUNT(*) FROM users"),
+                "new_7d": one("SELECT COUNT(*) FROM users WHERE created_at > ?", now - 7 * 86400),
+                "premium": one("SELECT COUNT(*) FROM users WHERE premium_until > ?", now),
+                "expiring_7d": one("SELECT COUNT(*) FROM users WHERE premium_until BETWEEN ? AND ?",
+                                   now, now + 7 * 86400),
+                "active_7d": one("SELECT COUNT(DISTINCT user_id) FROM sessions WHERE last_seen > ?",
+                                 now - 7 * 86400),
+            }
+
+    def signups_since(self, since: float) -> list[float]:
+        with self.lock:
+            return [r[0] for r in self.conn.execute(
+                "SELECT created_at FROM users WHERE created_at > ?", (since,))]
+
+    def find_users(self, query: str = "", status: str = "", limit: int = 50,
+                   offset: int = 0) -> list[sqlite3.Row]:
+        """query: part of a phone number, or an account id like u12. status: premium, expired
+        (had Premium, not any more) or free (never had it)."""
+        now = time.time()
+        where, args = [], []
+        q = query.strip().lower().lstrip("#")
+        if q.startswith("u") and q[1:].isdigit():
+            where.append("u.id = ?")
+            args.append(int(q[1:]))
+        elif q:
+            digits = "".join(ch for ch in q if ch.isdigit())
+            where.append("u.phone LIKE ?")
+            args.append(f"%{digits or q}%")
+        if status == "premium":
+            where.append("u.premium_until > ?")
+            args.append(now)
+        elif status == "expired":
+            where.append("u.premium_until BETWEEN 1 AND ?")
+            args.append(now)
+        elif status == "free":
+            where.append("u.premium_until = 0")
+        sql = (
+            "SELECT u.*, (SELECT COUNT(*) FROM sessions s WHERE s.user_id = u.id) AS devices, "
+            "(SELECT MAX(last_seen) FROM sessions s WHERE s.user_id = u.id) AS last_seen, "
+            "(SELECT COUNT(*) FROM purchases p WHERE p.user_id = u.id AND p.provider NOT IN "
+            "('manual', 'test') AND p.refunded_at IS NULL) AS paid "
+            "FROM users u" + (" WHERE " + " AND ".join(where) if where else "")
+            + " ORDER BY u.id DESC LIMIT ? OFFSET ?"
+        )
+        with self.lock:
+            return self.conn.execute(sql, (*args, limit, offset)).fetchall()
+
+    def sessions(self, user_id: int) -> list[sqlite3.Row]:
+        with self.lock:
+            return self.conn.execute(
+                "SELECT created_at, last_seen FROM sessions WHERE user_id = ? ORDER BY last_seen DESC",
+                (user_id,),
+            ).fetchall()
+
+    def purchases(self, user_id: int | None = None, limit: int = 500) -> list[sqlite3.Row]:
+        """Newest first, with the buyer's phone number."""
+        sql = "SELECT p.*, u.phone FROM purchases p JOIN users u ON u.id = p.user_id"
+        args: tuple = ()
+        if user_id is not None:
+            sql += " WHERE p.user_id = ?"
+            args = (user_id,)
+        with self.lock:
+            return self.conn.execute(sql + " ORDER BY p.at DESC LIMIT ?", (*args, limit)).fetchall()
+
+    def usage_seconds(self, user_id: int, since_day: str = "") -> float:
+        with self.lock:
+            return self._one(
+                "SELECT COALESCE(SUM(seconds), 0) FROM usage WHERE user_id = ? AND day >= ?",
+                user_id, since_day,
+            )[0]
+
+    def admin_log(self, user_id: int) -> list[sqlite3.Row]:
+        with self.lock:
+            return self.conn.execute(
+                "SELECT * FROM admin_log WHERE user_id = ? ORDER BY id DESC", (user_id,)
+            ).fetchall()
+
+    def _log(self, user_id: int, action: str, note: str):
+        self.conn.execute(
+            "INSERT INTO admin_log (user_id, action, note, at) VALUES (?, ?, ?, ?)",
+            (user_id, action, note, time.time()),
+        )
+
+    def add_days(self, user_id: int, days: int, note: str = ""):
+        """Premium given by hand (a tester, a support case). Listed as a 'manual' purchase."""
+        self.grant(user_id, "manual", "manual-" + secrets.token_hex(8), days)
+        with self.lock:
+            self._log(user_id, f"Added {days} days of Premium", note)
+
+    def end_premium(self, user_id: int, note: str = ""):
+        with self.lock:
+            self.conn.execute(
+                "UPDATE users SET premium_until = MIN(premium_until, ?) WHERE id = ?", (time.time(), user_id)
+            )
+            self._log(user_id, "Ended Premium", note)
+
+    def refund(self, purchase_id: int, note: str = "") -> bool:
+        """Marks a purchase refunded and takes its days back off the plan. Only once per purchase."""
+        now = time.time()
+        with self.lock:
+            p = self._one("SELECT * FROM purchases WHERE id = ? AND refunded_at IS NULL", purchase_id)
+            if not p:
+                return False
+            self.conn.execute("UPDATE purchases SET refunded_at = ? WHERE id = ?", (now, purchase_id))
+            # Take the days off, but never move the end before now (it's then simply over).
+            self.conn.execute(
+                "UPDATE users SET premium_until = MAX(MIN(premium_until, ?), premium_until - ?) WHERE id = ?",
+                (now, p["days"] * 86400, p["user_id"]),
+            )
+            self._log(p["user_id"], f"Marked {p['provider']} payment {p['ref']} refunded "
+                                    f"({p['days']} days removed)", note)
+        return True
+
+    def sign_out_everywhere(self, user_id: int, note: str = ""):
+        with self.lock:
+            self.conn.execute("DELETE FROM sessions WHERE user_id = ?", (user_id,))
+            self._log(user_id, "Signed out on all devices", note)
+
+    def paid_campaigns(self) -> list[sqlite3.Row]:
+        """Ad bookings that brought in money (ads started on an invoice count too)."""
+        with self.lock:
+            return self.conn.execute(
+                "SELECT price_cents, COALESCE(paid_at, started_at) AS at FROM campaigns "
+                "WHERE status IN ('paid', 'active', 'paused', 'completed')"
             ).fetchall()

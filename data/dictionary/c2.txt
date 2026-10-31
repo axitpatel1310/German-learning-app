@@ -2234,3 +2234,198 @@ wusch | waschen | verb (past) | washed | Sie wusch die Wäsche mit der Hand. | S
 zeugin | die Zeugin | noun (f) | (female) witness | Die Zeugin hat den Unfall gesehen. | The witness saw the accident.
 zuspitzen | zuspitzen | verb | to sharpen, put pointedly; (sich zuspitzen) to come to a head | Man kann die These so zuspitzen: Weniger ist mehr. | You can put the thesis pointedly: less is more.
 zwinkert | zuzwinkern / zwinkern | verb | winks (zwinkert … zu = winks at) | Er zwinkert mir zu. | He winks at me.
+
+goethes | Goethe | proper noun (genitive) | Goethe's | Goethes Werke werden noch heute gelesen. | Goethe's works are still read today.
+maximen | die Maxime | noun (f, pl.) | maxims, principles | Er lebt nach strengen Maximen. | He lives by strict principles.
+reflexionen | die Reflexion | noun (f, pl.) | reflections | Das Buch enthält kurze Reflexionen über die Kunst. | The book contains short reflections on art.
+sentenzen | die Sentenz | noun (f, pl.) | maxims, aphorisms, pithy sayings | Seine Briefe sind voller kluger Sentenzen. | His letters are full of clever aphorisms.
+übertreibungen | die Übertreibung | noun (f, pl.) | exaggerations | Die Rede war voller Übertreibungen. | The speech was full of exaggerations.
+bildungsbürger | der Bildungsbürger | noun (m, also pl.) | member(s) of the educated middle class (often ironic) | Das Theater lebt von den Bildungsbürgern der Stadt. | The theatre relies on the city's educated middle class.
+beeindrucken | beeindrucken | verb | to impress | Mit seinem Wissen wollte er die Gäste beeindrucken. | He wanted to impress the guests with his knowledge.
+lernenden | der/die Lernende | noun (m/f, nominalised adjective) | learner(s) | Die Lernenden sollen selbst Fragen stellen. | The learners should ask questions themselves.
+messer | das Messer | noun (n, also pl.) | knife, knives | Das Messer liegt rechts neben dem Teller. | The knife lies to the right of the plate.
+willkürlich | willkürlich | adjective | arbitrary | Die Grenze wurde willkürlich gezogen. | The border was drawn arbitrarily.
+zerteilt | zerteilen | verb | divides up, cuts into pieces | Der Fluss zerteilt die Stadt in zwei Hälften. | The river divides the city into two halves.
+spracherwerb | der Spracherwerb | noun (m) | language acquisition | Der Spracherwerb verläuft bei Kindern anders als bei Erwachsenen. | Language acquisition works differently in children than in adults.
+schärft | schärfen | verb | sharpens | Reisen schärft den Blick für das Eigene. | Travelling sharpens one's eye for what is one's own.
+wortstellung | die Wortstellung | noun (f) | word order | Die Wortstellung im Nebensatz ist für Lernende schwierig. | Word order in subordinate clauses is difficult for learners.
+satzende | das Satzende | noun (n) | end of the sentence | Im Nebensatz steht das Verb am Satzende. | In a subordinate clause the verb comes at the end of the sentence.
+schwebende | schwebend | adjective (participle) | hovering, suspended, pending | Die schwebende Spannung hielt bis zum Schluss an. | The suspended tension lasted until the end.
+spannen | spannen | verb | to stretch, tighten (jemanden auf die Folter spannen = to keep sb. on tenterhooks) | Spann uns nicht so auf die Folter! | Don't keep us on tenterhooks!
+kontur | die Kontur | noun (f) | contour, outline, shape (Kontur gewinnen = to take shape) | Im Nebel verlor die Stadt ihre Kontur. | In the fog the city lost its outline.
+zumutet | zumuten | verb | expects (of), imposes (on) (jemandem etwas zumuten) | Man mutet den Kindern zu viel zu. | Too much is expected of the children.
+anfängers | der Anfänger | noun (m, genitive) | (of the) beginner | Er spielt mit dem Mut des Anfängers. | He plays with the courage of the beginner.
+hilflos | hilflos | adjective | helpless | Ohne Sprache fühlte sie sich hilflos. | Without the language she felt helpless.
+lernens | das Lernen | noun (n, genitive) | (of) learning | Die Freude des Lernens kommt oft erst später. | The joy of learning often only comes later.
+gewohnten | das Gewohnte | noun (n, nominalised adjective) | the familiar, what one is used to | Viele Menschen halten am Gewohnten fest. | Many people cling to the familiar.
+klarer | klar | adjective (comparative) | clearer | Nach dem Gespräch sehe ich die Sache klarer. | After the conversation I see the matter more clearly.
+schulalltag | der Schulalltag | noun (m) | everyday school life | Tablets gehören inzwischen zum Schulalltag. | Tablets are now part of everyday school life.
+negativ | negativ | adjective | negative | Das Ergebnis war leider negativ. | Unfortunately the result was negative.
+besetzt | besetzen / besetzt | adjective (participle) | occupied, taken; (of a word) negativ besetzt = with negative connotations | Der Platz ist besetzt. | The seat is taken.
+angestrichen | anstreichen | verb (participle) | marked (with a pen); also: painted | Die Lehrerin hat alle Fehler rot angestrichen. | The teacher marked all the mistakes in red.
+gezählt | zählen | verb (participle) | counted | Die Stimmen werden noch gezählt. | The votes are still being counted.
+grundschulkinder | das Grundschulkind | noun (n, pl.) | primary school children | Grundschulkinder brauchen viel Bewegung. | Primary school children need a lot of exercise.
+blamieren | blamieren | verb | to embarrass (sich blamieren = to make a fool of oneself) | Ich wollte mich vor allen nicht blamieren. | I didn't want to make a fool of myself in front of everyone.
+derjenige | derjenige | pronoun | the one, he (who) (derjenige, der … = the person who …) | Derjenige, der zuletzt geht, schließt ab. | The person who leaves last locks up.
+misslingt | misslingen | verb | fails, goes wrong (etwas misslingt jemandem) | Wenn der Versuch misslingt, fangen wir neu an. | If the attempt fails, we'll start again.
+misslungenem | misslungen | adjective (participle, nominalised) | (from) what has failed | Aus Misslungenem kann man viel lernen. | You can learn a lot from what went wrong.
+schlüsse | der Schluss | noun (m, pl.) | conclusions (Schlüsse ziehen = to draw conclusions) | Daraus kann man zwei Schlüsse ziehen. | Two conclusions can be drawn from this.
+gegeht | (gegangen) | verb (wrong form) | a child's mistake for "gegangen" (gone), formed by the regular rule | „Ich bin nach Hause gegeht“, sagt das Kind. | "I goed home," says the child.
+einzuschränken | einschränken | verb (zu-infinitive) | to restrict, limit | Es ist schwer, den Konsum einzuschränken. | It's hard to cut down on consumption.
+grundlage | die Grundlage | noun (f) | basis, foundation | Die Studie bildet die Grundlage für das neue Gesetz. | The study forms the basis for the new law.
+erkenntnistheorie | die Erkenntnistheorie | noun (f) | epistemology, theory of knowledge | Kant hat die Erkenntnistheorie grundlegend verändert. | Kant fundamentally changed epistemology.
+anhäufen | anhäufen | verb | to accumulate, pile up | Sie hat in ihrem Leben viele Bücher angehäuft. | She has accumulated lots of books in her life.
+vermutungen | die Vermutung | noun (f, pl.) | assumptions, conjectures | Bisher gibt es nur Vermutungen über die Ursache. | So far there are only conjectures about the cause.
+ausscheiden | ausscheiden | verb | to eliminate, rule out; to drop out, leave | Zwei Kandidaten scheiden in der ersten Runde aus. | Two candidates drop out in the first round.
+irrtum | der Irrtum | noun (m) | error, mistake, misconception | Das war ein Irrtum, entschuldigen Sie bitte. | That was a mistake, please excuse me.
+betriebsunfall | der Betriebsunfall | noun (m) | industrial accident; (figurative) mishap, slip-up | Die Panne war kein Betriebsunfall, sondern Absicht. | The breakdown wasn't a slip-up but deliberate.
+denkens | das Denken | noun (n, genitive) | (of) thinking, thought | Die Geschichte des Denkens beginnt mit Fragen. | The history of thought begins with questions.
+eigentlicher | eigentlich | adjective | actual, real, true | Das ist der eigentliche Grund für ihren Umzug. | That is the real reason for her move.
+motor | der Motor | noun (m) | engine, motor; (figurative) driving force | Neugier ist der Motor der Wissenschaft. | Curiosity is the driving force of science.
+vorausgesetzt | voraussetzen | verb (participle) | provided (that) (vorausgesetzt, dass …) | Wir fahren morgen, vorausgesetzt, das Wetter ist gut. | We'll go tomorrow, provided the weather is good.
+einzugestehen | eingestehen | verb (zu-infinitive) | to admit, acknowledge (sich etwas eingestehen = to admit sth. to oneself) | Es fällt ihm schwer, sich den Fehler einzugestehen. | He finds it hard to admit the mistake to himself.
+institutionalisieren | institutionalisieren | verb | to institutionalise, build into an institution | Man versucht, den Austausch zu institutionalisieren. | They are trying to make the exchange a permanent institution.
+luftfahrt | die Luftfahrt | noun (f) | aviation | In der Luftfahrt gelten strenge Sicherheitsregeln. | Strict safety rules apply in aviation.
+beinahe-unfälle | der Beinahe-Unfall | noun (m, pl.) | near misses, near accidents | Beinahe-Unfälle müssen sofort gemeldet werden. | Near misses must be reported immediately.
+verschwiegene | verschwiegen | adjective (participle) | concealed, kept quiet; also: discreet | Verschwiegene Probleme werden meist größer. | Problems that are kept quiet usually get bigger.
+nähme | nehmen | verb (Konjunktiv II) | would take (ernst nähme = would take seriously) | Wenn er die Kritik ernst nähme, würde er etwas ändern. | If he took the criticism seriously, he would change something.
+rotstift | der Rotstift | noun (m) | red pen (den Rotstift ansetzen = to make cuts) | Der Lehrer korrigiert mit dem Rotstift. | The teacher corrects with a red pen.
+abschaffen | abschaffen | verb | to abolish, get rid of | Viele möchten die Zeitumstellung abschaffen. | Many people want to abolish the clock change.
+abgang | der Abgang | noun (m) | outflow, debit (in bookkeeping); exit, departure | Jeder Abgang wird im Kassenbuch notiert. | Every outflow is recorded in the cash book.
+alltagsmoral | die Alltagsmoral | noun (f) | everyday morality | Die Alltagsmoral verändert sich langsamer als das Recht. | Everyday morality changes more slowly than the law.
+anhören | anhören | verb (separable) | (sich etwas anhören) to listen to, have to hear | Ich musste mir seine Klagen eine Stunde lang anhören. | I had to listen to his complaints for an hour.
+anschein | der Anschein | noun (m) | appearance, impression (den Anschein erwecken = to give the impression) | Es hat den Anschein, als sei alles in Ordnung. | It looks as if everything is fine.
+anzuzweifeln | anzweifeln | verb (separable, zu-infinitive) | to doubt, call into question | Niemand wagte, das Ergebnis anzuzweifeln. | Nobody dared to question the result.
+aufgingen | aufgehen | verb (past, pl.) | balanced, added up (of accounts); rose, opened | Er war froh, dass die Rechnungen am Ende aufgingen. | He was glad that the accounts added up in the end.
+auseinanderhielte | auseinanderhalten | verb (Konjunktiv II) | would keep apart, would distinguish | Es wäre klüger, wenn man die beiden Fragen auseinanderhielte. | It would be wiser to keep the two questions apart.
+bilanzskandale | der Bilanzskandal | noun (m, pl.) | accounting scandals | Mehrere Bilanzskandale haben das Vertrauen der Anleger erschüttert. | Several accounting scandals shook investors' confidence.
+brügge | Brügge | proper noun | Bruges (city in Belgium) | Im Mittelalter war Brügge ein bedeutendes Handelszentrum. | In the Middle Ages Bruges was an important trading centre.
+buchführung | die Buchführung | noun (f) | bookkeeping, accounting (doppelte Buchführung = double-entry bookkeeping) | Ohne ordentliche Buchführung verliert man den Überblick. | Without proper bookkeeping you lose track.
+buchhalter | der Buchhalter | noun (m) | bookkeeper, accountant | Der Buchhalter prüft jede Ausgabe. | The bookkeeper checks every expense.
+darlegte | darlegen | verb (past) | set out, explained (in detail) | Wie sie in ihrem Vortrag darlegte, ist das Problem viel älter. | As she explained in her lecture, the problem is much older.
+doppelbedeutung | die Doppelbedeutung | noun (f) | double meaning | Der Witz lebt von der Doppelbedeutung des Wortes. | The joke depends on the double meaning of the word.
+eigentümlichkeit | die Eigentümlichkeit | noun (f) | peculiarity, quirk | Jede Sprache hat ihre Eigentümlichkeiten. | Every language has its peculiarities.
+einzelheiten | die Einzelheit | noun (f, pl.) | details | Über die Einzelheiten sprechen wir morgen. | We'll talk about the details tomorrow.
+entsprachen | entsprechen | verb (past, pl.) | corresponded to, matched | Die Zahlen entsprachen nicht den Erwartungen. | The figures did not match expectations.
+erfindungen | die Erfindung | noun (f, pl.) | inventions | Der Buchdruck gehört zu den wichtigsten Erfindungen der Geschichte. | Printing is among the most important inventions in history.
+erstmals | erstmals | adverb | for the first time | Die Ergebnisse wurden erstmals 1905 veröffentlicht. | The results were published for the first time in 1905.
+feststellung | die Feststellung | noun (f) | observation, statement; finding | Die Feststellung ist richtig, aber sie erklärt wenig. | The observation is correct, but it explains little.
+florenz | Florenz | proper noun | Florence (city in Italy) | Florenz war im 15. Jahrhundert ein Zentrum der Banken. | In the 15th century Florence was a centre of banking.
+forderung | die Forderung | noun (f) | claim (to money owed), receivable; demand | Die Firma hat noch offene Forderungen gegenüber ihren Kunden. | The company still has outstanding claims against its customers.
+franziskanermönch | der Franziskanermönch | noun (m) | Franciscan friar | Der Franziskanermönch lebte in Armut. | The Franciscan friar lived in poverty.
+gegenübergestanden | gegenüberstehen | verb (past participle) | faced, stood opposite each other | Die beiden Mannschaften haben sich schon oft gegenübergestanden. | The two teams have often faced each other.
+genealogie | die Genealogie | noun (f) | genealogy („Zur Genealogie der Moral“ = Nietzsche's "On the Genealogy of Morality", 1887) | Die Genealogie einer Familie lässt sich oft weit zurückverfolgen. | A family's genealogy can often be traced far back.
+genügte | genügen | verb (past) | was enough, sufficed | Ein Blick genügte, und sie verstand alles. | One look was enough, and she understood everything.
+geprüft | prüfen | verb (past participle) | checked, examined, audited | Die Bücher werden jedes Jahr geprüft. | The books are audited every year.
+gerechtfertigt | gerechtfertigt | adjective | justified | Die Kritik war durchaus gerechtfertigt. | The criticism was entirely justified.
+gläubiger | der Gläubiger | noun (m, sg./pl.) | creditor(s) | Die Gläubiger verlangen ihr Geld zurück. | The creditors are demanding their money back.
+graeber | Graeber | proper noun | David Graeber (1961–2020), American anthropologist, author of "Debt: The First 5000 Years" (2011) | Graeber schrieb über die Geschichte der Schulden. | Graeber wrote about the history of debt.
+hauptbegriff | der Hauptbegriff | noun (m) | main concept, key term | Freiheit ist ein Hauptbegriff seiner Philosophie. | Freedom is a key concept in his philosophy.
+haushaltsdisziplin | die Haushaltsdisziplin | noun (f) | budgetary discipline | Die Regierung verspricht mehr Haushaltsdisziplin. | The government promises more budgetary discipline.
+herleitung | die Herleitung | noun (f) | derivation | Die Herleitung der Formel ist kompliziert. | The derivation of the formula is complicated.
+kaufmann | der Kaufmann | noun (m) | merchant, businessman | Sein Vater war ein angesehener Kaufmann in Hamburg. | His father was a respected merchant in Hamburg.
+kreditgeber | der Kreditgeber | noun (m) | lender, creditor | Der Kreditgeber verlangt Sicherheiten. | The lender requires collateral.
+kühne | kühn | adjective | bold, daring | Das ist eine kühne Behauptung. | That is a bold claim.
+lehrjahre | die Lehrjahre | noun (pl.) | years of apprenticeship („Wilhelm Meisters Lehrjahre“ = Goethe's novel, 1795–96) | Seine Lehrjahre verbrachte er in Leipzig. | He spent his years of apprenticeship in Leipzig.
+leichtsinnig | leichtsinnig | adjective | careless, reckless | Es war leichtsinnig, ohne Helm zu fahren. | It was reckless to ride without a helmet.
+lesern | der Leser | noun (m, dative pl.) | readers | Das Buch hat vielen Lesern gefallen. | Many readers liked the book.
+lobrede | die Lobrede | noun (f) | eulogy, speech in praise | Er hielt eine Lobrede auf seinen Lehrer. | He gave a speech in praise of his teacher.
+luca | Luca | proper noun | Luca (Italian first name; Luca Pacioli) | Luca Pacioli war ein Freund von Leonardo da Vinci. | Luca Pacioli was a friend of Leonardo da Vinci.
+materiellen | materiell | adjective | material, financial | Sie hatten keine materiellen Sorgen. | They had no financial worries.
+meisters | der Meister | noun (m, genitive) | master's („Wilhelm Meisters Lehrjahre“) | Die Werkstatt des Meisters lag am Markt. | The master's workshop was on the market square.
+moral | die Moral | noun (f) | morals, morality; moral (of a story) | Was ist die Moral von der Geschichte? | What is the moral of the story?
+moralische | moralisch | adjective | moral | Das ist vor allem eine moralische Frage. | That is above all a moral question.
+nachprüfbar | nachprüfbar | adjective | verifiable, checkable | Die Angaben müssen nachprüfbar sein. | The information has to be verifiable.
+nachprüfbare | nachprüfbar | adjective | verifiable | Wir brauchen nachprüfbare Zahlen. | We need verifiable figures.
+nietzsche | Nietzsche | proper noun | Friedrich Nietzsche (1844–1900), German philosopher | Nietzsche veröffentlichte die „Genealogie der Moral“ 1887. | Nietzsche published "On the Genealogy of Morality" in 1887.
+nietzsches | Nietzsche | proper noun (genitive) | Nietzsche's | Nietzsches Stil ist leidenschaftlich und zugespitzt. | Nietzsche's style is passionate and pointed.
+nützt | nützen | verb | is of use, benefits (wem nützt es? = who benefits?) | Wem nützt diese Regel eigentlich? | Who actually benefits from this rule?
+objektivität | die Objektivität | noun (f) | objectivity | Wissenschaft strebt nach Objektivität. | Science strives for objectivity.
+pacioli | Pacioli | proper noun | Luca Pacioli (c. 1445–1517), Italian mathematician who described double-entry bookkeeping in 1494 | Pacioli beschrieb die doppelte Buchführung in einem Mathematikbuch. | Pacioli described double-entry bookkeeping in a mathematics book.
+pointe | die Pointe | noun (f) | point, punchline | Er hat die Pointe des Witzes vergessen. | He forgot the punchline of the joke.
+predigt | die Predigt | noun (f) | sermon | Die Predigt am Sonntag war kurz. | The sermon on Sunday was short.
+rechtsordnungen | die Rechtsordnung | noun (f, pl.) | legal systems | Die Rechtsordnungen der EU-Staaten unterscheiden sich. | The legal systems of the EU states differ.
+religionen | die Religion | noun (f, pl.) | religions | In der Stadt leben Menschen vieler Religionen. | People of many religions live in the city.
+revolution | die Revolution | noun (f) | revolution | Die Französische Revolution begann 1789. | The French Revolution began in 1789.
+schulde | schulden | verb (Konjunktiv I) | owes (in reported speech) | Er behauptet, sie schulde ihm noch hundert Euro. | He claims she still owes him a hundred euros.
+schuldet | schulden | verb | owes | Er schuldet mir noch zwanzig Euro. | He still owes me twenty euros.
+schuldner | der Schuldner | noun (m, sg./pl.) | debtor(s) | Der Schuldner konnte die Raten nicht mehr zahlen. | The debtor could no longer pay the instalments.
+schwingt | mitschwingen | verb (separable) | swings; (mitschwingen) resonates, is implied (separable: schwingt … mit) | In ihrer Stimme schwingt Kritik mit. | There is a note of criticism in her voice.
+spalten | die Spalte | noun (f, pl.) | columns (of figures, text) | Die Tabelle hat drei Spalten. | The table has three columns.
+szene | die Szene | noun (f) | scene | Die letzte Szene des Films ist sehr traurig. | The last scene of the film is very sad.
+tadellos | tadellos | adjective / adverb | impeccable, faultless | Sein Deutsch ist tadellos. | His German is impeccable.
+tragbar | tragbar | adjective | sustainable, bearable (of debt, costs); wearable, portable | Die Schulden sind für die Stadt nicht mehr tragbar. | The debts are no longer sustainable for the town.
+triumph | der Triumph | noun (m) | triumph | Der Sieg war ein Triumph für die ganze Mannschaft. | The win was a triumph for the whole team.
+träumt | träumen | verb | dreams | Sie träumt von einer Reise nach Japan. | She dreams of a trip to Japan.
+trügen | trügen | verb | to deceive, be deceptive (der Schein trügt = appearances are deceptive) | Der erste Eindruck kann trügen. | First impressions can be deceptive.
+täuscht | täuschen | verb | deceives, fools | Wer mit Statistiken täuscht, verliert Vertrauen. | Anyone who deceives with statistics loses trust.
+unentschieden | unentschieden | adjective | undecided; drawn (in sport) | Das Spiel endete unentschieden. | The match ended in a draw.
+unsolide | unsolide | adjective | unsound, unreliable (in financial matters) | Die Bank galt als unsolide. | The bank was considered unsound.
+urteilen | urteilen | verb | to judge | Man sollte nicht vorschnell über andere urteilen. | You shouldn't judge others too hastily.
+verbucht | verbuchen | verb (past participle) | booked, entered (in the accounts); recorded | Die Zahlung wurde noch nicht verbucht. | The payment hasn't been entered yet.
+verinnerlichte | verinnerlicht | adjective | internalised | Verinnerlichte Regeln befolgt man, ohne nachzudenken. | You follow internalised rules without thinking.
+verknüpfung | die Verknüpfung | noun (f) | link, connection | Die Verknüpfung von Theorie und Praxis ist wichtig. | Linking theory and practice is important.
+vermengt | vermengen | verb | mixes up, mixes together | Er vermengt Fakten und Meinungen. | He mixes up facts and opinions.
+verschuldete | verschuldet | adjective | indebted, in debt | Viele verschuldete Familien suchen Hilfe bei der Beratung. | Many families in debt seek help from advice centres.
+verstandes | der Verstand | noun (m, genitive) | of the mind, of reason | Das ist eine Leistung des Verstandes. | That is an achievement of reason.
+vertrags | der Vertrag | noun (m, genitive) | of the contract | Die Bedingungen des Vertrags sind klar. | The terms of the contract are clear.
+zugang | der Zugang | noun (m) | inflow, addition (in bookkeeping); access | Jeder Zugang auf dem Konto wird notiert. | Every addition to the account is recorded.
+zuschulden | zuschulden | adverb | (sich etwas zuschulden kommen lassen = to do something wrong) | Er hat sich nichts zuschulden kommen lassen. | He hasn't done anything wrong.
+ökonomische | ökonomisch | adjective | economic | Das ist eine rein ökonomische Frage. | That is a purely economic question.
+überprüfbar | überprüfbar | adjective | verifiable, checkable | Die Behauptung ist nicht überprüfbar. | The claim can't be verified.
+abgewogen | abwägen | verb (past participle) | weighed up | Sie hat die Vor- und Nachteile sorgfältig abgewogen. | She carefully weighed up the pros and cons.
+abzuwechseln | abwechseln | verb (zu-infinitive) | to alternate, to take turns | Es ist gut, Arbeit und Pausen abzuwechseln. | It's good to alternate work and breaks.
+allerlei | allerlei | determiner (indeclinable) | all kinds of, various | Auf dem Markt gab es allerlei Gemüse. | There were all kinds of vegetables at the market.
+atlantiks | der Atlantik | proper noun (m), genitive | (of) the Atlantic | Sie segelten bis zur anderen Seite des Atlantiks. | They sailed to the other side of the Atlantic.
+aufschub | der Aufschub | noun (m) | postponement, delay | Die Bank gewährte ihm einen Aufschub von drei Monaten. | The bank granted him a three-month postponement.
+ausgiebig | ausgiebig | adjective / adverb | extensive(ly), at length | Nach der Wanderung haben wir ausgiebig gefrühstückt. | After the hike we had a long, leisurely breakfast.
+auszuliefern | ausliefern | verb (zu-infinitive) | (sich einer Sache ausliefern) to surrender oneself to; to deliver, extradite | Er weigerte sich, sich seiner Angst auszuliefern. | He refused to surrender himself to his fear.
+awful | The Awful German Language | proper noun (title) | awful (English, in Mark Twain's essay title "The Awful German Language") | Mark Twain schrieb „The Awful German Language“. | Mark Twain wrote "The Awful German Language".
+beherrscht | beherrschen | verb (3rd person sg.) | masters, has a command of | Sie beherrscht vier Sprachen fließend. | She has a fluent command of four languages.
+behördenschreiben | das Behördenschreiben | noun (n) | official letter (from an authority) | Behördenschreiben sind oft schwer zu verstehen. | Letters from the authorities are often hard to understand.
+besonnenem | besonnen | adjective (dative) | level-headed, prudent | Mit besonnenem Handeln ließ sich die Krise lösen. | The crisis could be solved with level-headed action.
+eigentümlicher | eigentümlich | adjective | peculiar, strange, distinctive | Im Keller lag ein eigentümlicher Geruch. | There was a peculiar smell in the cellar.
+endstellung | die Endstellung | noun (f) | final position (e.g. of the verb) | Die Endstellung des Verbs ist typisch für den Nebensatz. | The final position of the verb is typical of the subordinate clause.
+entlädt | entladen (sich) | verb (3rd person sg.) | discharges, is released (tension); unloads | Die Spannung entlädt sich in einem Gewitter. | The tension is released in a thunderstorm.
+entschlossenheit | die Entschlossenheit | noun (f) | determination, decisiveness | Mit großer Entschlossenheit ging sie an die Arbeit. | She set to work with great determination.
+führungsstärke | die Führungsstärke | noun (f) | strong leadership, leadership skills | Von einer Chefin erwartet man Führungsstärke. | People expect strong leadership from a boss.
+genehmigt | genehmigen | verb (past participle) | approved, granted | Der Antrag wurde genehmigt. | The application was approved.
+german | The Awful German Language | proper noun (title) | German (English, in Mark Twain's essay title "The Awful German Language") | Der Titel „The Awful German Language“ ist ironisch gemeint. | The title "The Awful German Language" is meant ironically.
+getrost | getrost | adverb | safely, without worrying | Du kannst mich getrost anrufen, wenn du Fragen hast. | Feel free to call me if you have questions.
+grundton | der Grundton | noun (m) | keynote, tonic (music); basic tone | Das Lied endet auf dem Grundton. | The song ends on the tonic.
+innehaltens | das Innehalten | noun (n), genitive | (of) pausing, stopping for a moment | Ein Moment des Innehaltens tut gut. | A moment of pausing does you good.
+innehält | innehalten | verb (separable, 3rd person sg.) | pauses, stops for a moment | Sie hält kurz inne und denkt nach. | She pauses briefly and thinks.
+kadenz | die Kadenz | noun (f) | cadence (music) | Das Stück schließt mit einer klassischen Kadenz. | The piece ends with a classical cadence.
+labyrinth | das Labyrinth | noun (n) | labyrinth, maze | Die Altstadt ist ein Labyrinth aus engen Gassen. | The old town is a maze of narrow lanes.
+language | The Awful German Language | proper noun (title) | language (English, in Mark Twain's essay title "The Awful German Language") | Twains Aufsatz „The Awful German Language“ ist bis heute bekannt. | Twain's essay "The Awful German Language" is still well known today.
+lähmendes | lähmend | adjective | paralysing, crippling | Er spürte ein lähmendes Gefühl der Angst. | He felt a paralysing sense of fear.
+mark | Mark Twain | proper noun | Mark (first name, as in Mark Twain, American writer, 1835–1910) | Mark Twain reiste 1878 durch Deutschland. | Mark Twain travelled through Germany in 1878.
+musikalischen | musikalisch | adjective | musical | Sie hat eine musikalische Ausbildung. | She has a musical training.
+nebensatz | der Nebensatz | noun (m) | subordinate clause | Nach „weil“ folgt ein Nebensatz. | "weil" is followed by a subordinate clause.
+nebensatzes | der Nebensatz | noun (m), genitive | (of the) subordinate clause | Das Verb steht am Ende des Nebensatzes. | The verb is at the end of the subordinate clause.
+nährt | nähren | verb (3rd person sg.) | nourishes, feeds (also: fuels a feeling) | Das Schweigen nährt das Misstrauen. | The silence fuels the mistrust.
+quälender | quälend | adjective (comparative) | more agonising, more tormenting | Das Warten war quälender als die Prüfung selbst. | The waiting was more agonising than the exam itself.
+scharfen | scharf | adjective | sharp, harsh (also: spicy) | Er bereute seine scharfen Worte. | He regretted his harsh words.
+spott | der Spott | noun (m) | mockery, ridicule | Er musste viel Spott ertragen. | He had to put up with a lot of mockery.
+spottete | spotten | verb (past) | mocked, scoffed | Sie spottete über seinen neuen Hut. | She mocked his new hat.
+stilisten | der Stilist | noun (m), plural | stylists (writers with a fine style) | Thomas Mann gilt als einer der großen Stilisten. | Thomas Mann is considered one of the great stylists.
+sätzen | der Satz | noun (m), dative plural | sentences | Schreib bitte in ganzen Sätzen. | Please write in complete sentences.
+tauche | tauchen | verb (Konjunktiv I) | (he/she) dives (indirect speech) | Er sagte, er tauche jeden Sommer im Mittelmeer. | He said he dives in the Mediterranean every summer.
+the | The Awful German Language | proper noun (title) | the (English article, in titles like "The Awful German Language") | „The Awful German Language“ erschien 1880. | "The Awful German Language" appeared in 1880.
+twain | Mark Twain | proper noun | Twain (Mark Twain, American writer, 1835–1910) | Twain fand die deutsche Grammatik sehr schwer. | Twain found German grammar very difficult.
+umschließt | umschließen | verb (3rd person sg., inseparable) | encloses, surrounds | Eine alte Mauer umschließt die Stadt. | An old wall encloses the town.
+umstände | der Umstand | noun (m), plural | circumstances | Unter diesen Umständen sagen wir die Reise ab. | Under these circumstances we'll cancel the trip.
+umwegen | der Umweg | noun (m), dative plural | detours | Nach einigen Umwegen kamen wir ans Ziel. | After a few detours we reached our destination.
+unberechtigt | unberechtigt | adjective | unjustified, unfounded | Die Kritik war völlig unberechtigt. | The criticism was completely unjustified.
+ungewissen | das Ungewisse | noun (n), dative | (in the) uncertain, (im Ungewissen lassen) to leave in the dark | Er ließ uns lange im Ungewissen. | He left us in the dark for a long time.
+unterschrift | die Unterschrift | noun (f) | signature | Ohne Ihre Unterschrift ist der Vertrag nicht gültig. | Without your signature the contract isn't valid.
+untätigkeit | die Untätigkeit | noun (f) | inaction, idleness | Man warf der Regierung Untätigkeit vor. | The government was accused of inaction.
+unähnlich | unähnlich | adjective | dissimilar; (nicht unähnlich) not unlike | Sie ist ihrer Mutter nicht unähnlich. | She is not unlike her mother.
+verbs | das Verb | noun (n), genitive | (of the) verb | Die Form des Verbs hängt vom Subjekt ab. | The form of the verb depends on the subject.
+verschachtelten | verschachtelt | adjective | nested, convoluted (sentences) | Er schreibt lange, verschachtelte Sätze. | He writes long, convoluted sentences.
+vertagt | vertagen | verb (3rd person sg.) | postpones, adjourns | Der Ausschuss vertagt die Entscheidung auf nächste Woche. | The committee postpones the decision until next week.
+zweifeln | zweifeln | verb | to doubt | Ich zweifle nicht an deiner Ehrlichkeit. | I don't doubt your honesty.
+zögernde | zögern | participle (adjective/noun) | hesitating; (der Zögernde) the one who hesitates | Der Zögernde verpasst oft die beste Gelegenheit. | The one who hesitates often misses the best opportunity.
+zögert | zögern | verb (3rd person sg.) | hesitates | Sie zögert, bevor sie antwortet. | She hesitates before she answers.
+ängstlichem | ängstlich | adjective (dative) | anxious, fearful | Mit ängstlichem Blick sah das Kind zur Tür. | The child looked at the door with an anxious expression.
+übereilten | übereilt | adjective | rash, hasty | Treffen Sie keine übereilten Entscheidungen. | Don't make any rash decisions.

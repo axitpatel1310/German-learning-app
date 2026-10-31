@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: flet-play-billing
+Version: 0.1.0
+Summary: Google Play Billing for the Premium plan (Flutter in_app_purchase).
+Requires-Python: >=3.10
+Requires-Dist: flet==1.0.4

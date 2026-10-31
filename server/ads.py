@@ -20,6 +20,7 @@ import urllib.parse
 
 PACKAGES = [1_000, 10_000, 100_000]  # views
 DEFAULT_PRICES = "1000=10,10000=80,100000=600"  # euros per package
+LEVELS = ["A1", "A2", "B1", "B2", "C1", "C2"]  # who the ad can be aimed at
 REQUESTS_PER_IP = 10  # bookings per address per hour
 EMAIL_RE = re.compile(r"^[^@\s]+@[^@\s]+\.[^@\s]+$")
 LIMITS = {"business": 60, "headline": 40, "body": 140, "link": 200, "email": 120}
@@ -75,13 +76,23 @@ def validate(form: dict) -> tuple[dict, str]:
         return {}, "The link must be a full https:// address."
     if views not in PACKAGES:
         return {}, "Please choose a package."
-    return {**f, "views_target": views}, ""
+    return {**f, "views_target": views, "levels": clean_levels(form.get("levels", ""))}, ""
+
+
+def clean_levels(chosen: str) -> str:
+    """The ticked levels as "B1,B2", or "" for every learner (nothing or everything ticked)."""
+    picked = [lv for lv in LEVELS if lv in chosen.upper().split(",")]
+    return "" if len(picked) == len(LEVELS) else ",".join(picked)
+
+
+def audience(c) -> str:
+    return f"Learners at {', '.join(c['levels'].split(','))}" if c["levels"] else "All learners"
 
 
 def public_ad(c) -> dict:
     """What the app shows: no email, no counts."""
     return {"id": c["id"], "business": c["business"], "headline": c["headline"],
-            "body": c["body"], "link": c["link"]}
+            "body": c["body"], "link": c["link"], "levels": c["levels"].split(",") if c["levels"] else []}
 
 
 # --- emails ---
@@ -91,8 +102,8 @@ def live_email(c, status_url: str) -> tuple[str, str]:
     return (
         "Your ad is live",
         f"Hello {c['business']},\n\nyour ad \"{c['headline']}\" is now shown in Deutsch mit "
-        f"Geschichten. It runs until it has reached {c['views_target']:,} views, then it stops "
-        f"by itself and we'll write to you again.\n\nFollow the views here: {status_url}\n",
+        f"Geschichten ({audience(c)}). It runs until it has reached {c['views_target']:,} views, "
+        f"then it stops by itself and we'll write to you again.\n\nFollow the views here: {status_url}\n",
     )
 
 
@@ -124,7 +135,7 @@ STYLE = (
     "border-radius:8px}button{font:inherit;padding:.5em 1.1em;border-radius:20px;border:0;"
     "background:#3f51b5;color:#fff;cursor:pointer;margin:.2em .2em .2em 0}button.alt{background:#777}"
     ".pk{display:flex;gap:.6em;flex-wrap:wrap}.pk label{flex:1;min-width:9em;border:1px solid #ccc;"
-    "border-radius:12px;padding:.7em;font-weight:400}.ad{border:1px solid #ccc;border-radius:14px;"
+    "border-radius:12px;padding:.7em;font-weight:400}.pk.lv label{flex:0 0 auto;min-width:4em}.ad{border:1px solid #ccc;border-radius:14px;"
     "padding:.8em 1em;margin:.6em 0}.tag{font-size:.75em;font-weight:700;color:#777}"
     ".bar{height:10px;background:#eee;border-radius:5px;overflow:hidden}.bar i{display:block;"
     "height:100%;background:#3f51b5}.err{color:#b3261e}.muted{color:#666;font-size:.9em}"
@@ -151,7 +162,8 @@ def e(value) -> str:
 def ad_preview(c) -> str:
     return (f"<div class=ad><div class=tag>ANZEIGE · {e(c['business'])}</div>"
             f"<b>{e(c['headline'])}</b><div>{e(c['body'])}</div>"
-            f"<div class=muted>{e(c['link'])}</div></div>")
+            f"<div class=muted>{e(c['link'])}</div></div>"
+            f"<p class=muted>Shown to: {e(audience(c))}</p>")
 
 
 def progress(c) -> str:
@@ -176,6 +188,12 @@ def request_page(price_list: dict[int, int], error: str = "", form: dict | None 
         f"{' checked' if str(n) == chosen else ''}> <b>{n:,} views</b><br>{euros(price_list[n])}</label>"
         for n in PACKAGES
     )
+    ticked = form.get("levels", "").split(",")
+    levels = "".join(
+        f"<label><input type=checkbox name=levels value={lv} style='width:auto'"
+        f"{' checked' if lv in ticked else ''}> {lv}</label>"
+        for lv in LEVELS
+    )
     return page("Advertise with us", (
         "<h1>Advertise in Deutsch mit Geschichten</h1>"
         "<p>Reach people who are learning German: language schools, translators, tutors, shops "
@@ -185,6 +203,10 @@ def request_page(price_list: dict[int, int], error: str = "", form: dict | None 
         + (f"<p class=err>{e(error)}</p>" if error else "")
         + "<form method=post action=/ads/request>"
         + f"<label>Package</label><div class=pk>{packages}</div>"
+        + f"<label>Who should see it?</label><div class='pk lv'>{levels}</div>"
+        + "<p class=muted>Tick the levels your offer fits, e.g. B1 and B2 for a B2 exam course. "
+          "Leave all unticked to reach every learner. A learner's level is the level of the "
+          "stories they're reading.</p>"
         + field("business", "Business name")
         + field("headline", f"Headline (up to {LIMITS['headline']} characters)")
         + field("body", f"Text (up to {LIMITS['body']} characters)", area=True)
@@ -197,7 +219,23 @@ def request_page(price_list: dict[int, int], error: str = "", form: dict | None 
     ))
 
 
-def campaign_page(c, payments: list[str], message: str = "") -> bytes:
+def invoice_part(c, inv_no: str, can_invoice: bool) -> str:
+    """The invoice link once issued, or the form that asks for the billing address."""
+    if inv_no:
+        return (f"<p>Invoice <b>{e(inv_no)}</b> · "
+                f"<a href=/ads/c/{e(c['token'])}/invoice.pdf>Download PDF</a></p>")
+    if not can_invoice:
+        return ""
+    return (f"<form method=post action=/ads/c/{e(c['token'])}/invoice>"
+            "<label for=address>Billing address for the invoice</label>"
+            "<textarea id=address name=address rows=3 maxlength=300 "
+            "placeholder='Street and number&#10;Postcode and town&#10;Country'></textarea>"
+            "<p class=muted>The invoice is made out to your business name and this address. It "
+            "can't be changed once it's created.</p><p><button>Create invoice (PDF)</button></p></form>")
+
+
+def campaign_page(c, payments: list[str], message: str = "", inv_no: str = "",
+                  can_invoice: bool = False) -> bytes:
     """The advertiser's page: the payment buttons while unpaid, then the progress."""
     body = "<h1>Your ad</h1>" + (f"<p><b>{e(message)}</b></p>" if message else "") + ad_preview(c)
     if c["status"] == "unpaid":
@@ -213,11 +251,15 @@ def campaign_page(c, payments: list[str], message: str = "") -> bytes:
                     "the ad starts once it's paid.</p>"))
     else:
         body += progress(c)
+    body += invoice_part(c, inv_no, can_invoice)
     return page("Your ad", body + "<p class=muted>Keep this page's address to follow your "
                 "campaign.</p>")
 
 
-def admin_page(campaigns, csrf: str, notes: dict, mail_on: bool, message: str = "") -> bytes:
+def admin_page(campaigns, csrf: str, notes: dict, mail_on: bool, message: str = "",
+               invoices: dict | None = None, seller_ok: bool = True) -> bytes:
+    invoices = invoices or {}
+
     def actions(c) -> str:
         buttons = {
             "unpaid": [("start", "Start (paid by invoice)"), ("decline", "Decline")],
@@ -239,9 +281,13 @@ def admin_page(campaigns, csrf: str, notes: dict, mail_on: bool, message: str = 
             for n in notes.get(c["id"], [])
         )
 
+    def invoice_link(c) -> str:
+        no = invoices.get(c["id"])
+        return f"<br><a href=/ads/c/{e(c['token'])}/invoice.pdf>{e(no)}</a>" if no else ""
+
     rows = "".join(
         f"<tr><td>#{c['id']}<br><span class=muted>{e(c['email'])}"
-        f"{'<br>' + e(c['payment_ref']) if c['payment_ref'] else ''}</span></td>"
+        f"{'<br>' + e(c['payment_ref']) if c['payment_ref'] else ''}{invoice_link(c)}</span></td>"
         f"<td>{ad_preview(c)}{progress(c)}{actions(c)}{mails(c)}</td></tr>"
         for c in campaigns
     )
@@ -250,6 +296,8 @@ def admin_page(campaigns, csrf: str, notes: dict, mail_on: bool, message: str = 
         + (f"<p><b>{e(message)}</b></p>" if message else "")
         + ("" if mail_on else "<p class=muted>No mail server set (DMG_SMTP_HOST), so emails to "
            "advertisers are kept below instead of being sent. Copy them by hand.</p>")
+        + ("" if seller_ok else "<p class=muted>Invoices are marked \"Muster\" (sample) until you "
+           "set DMG_INVOICE_NAME, DMG_INVOICE_ADDRESS and DMG_INVOICE_TAX_ID.</p>")
         + "<p class=muted>Declining a paid ad doesn't refund it automatically: refund it in "
           "the Stripe dashboard.</p>"
         + (f"<table>{rows}</table>" if rows else "<p>No campaigns yet.</p>")
